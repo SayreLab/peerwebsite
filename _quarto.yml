@@ -2,18 +2,67 @@ project:
   type: website
 
 website:
-  title: "peer"
+  page-navigation: true
+#  body-footer: "## this page brought to you by my fingers"
+  page-footer: "Built with [Quarto](https://quarto.org/) and hosted on [github](https://github.com/esayre)."
+  back-to-top-navigation: true
+  title: "PEER Institute"
+  site-url: "https://peerinstitute.org/"
+  favicon: "/images/peer.png"
+  open-graph: true
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    title: PEER Institute
+    background: primary
+    search: true
+    reader-mode: true
+    logo: "/images/peer.png"
 
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "PEER model"
+        href: model/index.qmd
+      - text: "Field Schools"
+        href: schools/index.qmd
+      - contact.qmd
+    tools:
+      - icon: journal-text
+        href: https://handbook.zaposa.com/
+ 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+       light: 
+         - yeti
+       dark: 
+         - superhero
+    smooth-scroll: true
     toc: true
+    citations-hover: true
+    footnotes-hover: true
+    fontsize: 12pt
+    template-partials: 
+      - title-block.html
+    appendix-style: none
+    enable-cssgrid: true
+    page-layout: full
+    sidebar: false
 
+# Rendering choices
+editor: source
+freeze: auto
+execute:
+  echo: false
+#date-modified: last-modified
+
+# Appearance choices
+callout-appearance: simple
+#callout-icon: false
+cap-location: margin
+fig-cap-location: margin
+reference-location: margin #for footnotes, could be margin or document
+citation-location: document #for citations
+footnotes-hover: true # to hover over footnotes
+title-block-banner: "/images/rainbow.jpg"
 
 
