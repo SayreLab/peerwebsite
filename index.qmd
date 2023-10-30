@@ -10,12 +10,7 @@ title-block-banner: "images/rainbow.jpg"
 page-layout: article
 toc: false
 suppress: true
-
-template: _templates/templates.qmd::navbar
-
-
 ---
-
 
 ::: {.quarto-listing .quarto-listing-container-grid}
 ::: {.list .grid .quarto-listing-cols-3}
@@ -79,6 +74,25 @@ MORE INFORMATION
 
 Ready for a field school? PEER is offering an introductory field school in Chicago on December 14-17, 2023. Hosted at DePaul University, and open to emerging education researchers from the greater Chicago-land as well as nationally.
 
+:::
+::::
+:::::
+
+<!-- Templates -->
+<!-- 2-column text block -->
+::::: {.quarto-listing .quarto-listing-container-grid}
+:::: {.list .grid .quarto-listing-cols-2}
+
+:::{.g-col-1 .text-center}
+```{r}
+lorem::ipsum()
+```
+:::
+
+:::{.g-col-1 .text-center}
+```{r}
+lorem::ipsum()
+```
 :::
 ::::
 :::::

@@ -10,6 +10,24 @@ website:
   site-url: "https://peerinstitute.org/"
   favicon: "/images/peer.png"
   open-graph: true
+  navbar:
+    title: PEER Institute
+    background: primary
+    search: true
+    reader-mode: true
+    logo: "/images/peer.png"
+
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "PEER model"
+        href: model/index.qmd
+      - text: "Field Schools"
+        href: schools/index.qmd
+      - contact.qmd
+    tools:
+      - icon: journal-text
+        href: https://handbook.zaposa.com/
  
 format:
   html:
@@ -31,7 +49,7 @@ format:
     sidebar: false
 
 templates:
-  - _templates/templates.qmd
+  - template.qmd
 
 # Rendering choices
 editor: source
