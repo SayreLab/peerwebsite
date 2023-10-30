@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://peerinstitute.org/contact.html</loc>
-    <lastmod>2023-10-12T17:37:27.057Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/index.html</loc>
-    <lastmod>2023-10-12T17:40:16.163Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/about.html</loc>
-    <lastmod>2023-10-12T17:37:27.759Z</lastmod>
+    <loc>https://peerinstitute.org/schools/index.html</loc>
+    <lastmod>2023-10-29T04:17:26.350Z</lastmod>
   </url>
   <url>
     <loc>https://peerinstitute.org/model/index.html</loc>
-    <lastmod>2023-10-12T17:37:40.029Z</lastmod>
+    <lastmod>2023-10-29T04:17:25.423Z</lastmod>
   </url>
   <url>
-    <loc>https://peerinstitute.org/schools/index.html</loc>
-    <lastmod>2023-10-12T17:37:38.474Z</lastmod>
+    <loc>https://peerinstitute.org/contact.html</loc>
+    <lastmod>2023-10-29T04:17:24.351Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/about.html</loc>
+    <lastmod>2023-10-29T04:17:23.908Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/index.html</loc>
+    <lastmod>2023-10-29T04:30:30.003Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/navbar.html</loc>
+    <lastmod>2023-10-29T04:24:21.392Z</lastmod>
   </url>
 </urlset>

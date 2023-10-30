@@ -48,6 +48,9 @@ format:
     page-layout: full
     sidebar: false
 
+templates:
+  - _templates/
+
 # Rendering choices
 editor: source
 freeze: auto
