@@ -11,7 +11,8 @@ page-layout: article
 toc: false
 suppress: true
 
-template: navbar
+template: _templates/templates.qmd::navbar
+
 
 ---
 
