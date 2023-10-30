@@ -11,6 +11,8 @@ page-layout: article
 toc: false
 suppress: true
 
+template: navbar
+
 ---
 
 

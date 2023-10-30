@@ -19,4 +19,3 @@ navbar:
     tools:
       - icon: journal-text
         href: https://handbook.zaposa.com/
-         
