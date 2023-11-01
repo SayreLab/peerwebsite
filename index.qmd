@@ -57,42 +57,171 @@ Whether you’re just getting started, looking to stretch into new projects or m
 
 See the Schools page for more details and join the announcements list to hear about upcoming field schools and workshops.
 
-::::: {.quarto-listing .quarto-listing-container-grid}
-:::: {.list .grid .quarto-listing-cols-2}
+:::::: {.quarto-listing .quarto-listing-container-grid}
+::::: {.list .grid .quarto-listing-cols-2}
 
-:::{.g-col-1 .card .card-body .text-center}
+::::{.g-col-1 .card .card-body .text-center}
 #### Virtual Gateway Workshop {.card-title}
 
 Just getting started in education research, or curious about what PEER is like? Join us for a 90-minute virtual gateway workshop on October 5, 4:30-6:00 eastern time.
 
-MORE INFORMATION
-
+:::{.badge .rounded-pill .bg-info .text-center}
+[More Information](contact.qmd)
 :::
 
-:::{.g-col-1 .card .card-body .text-center}
+::::
+
+::::{.g-col-1 .card .card-body .text-center}
 #### Winter Field School: Chicago, December 14-17, 2023 {.card-title}
 
 Ready for a field school? PEER is offering an introductory field school in Chicago on December 14-17, 2023. Hosted at DePaul University, and open to emerging education researchers from the greater Chicago-land as well as nationally.
 
-:::
 ::::
 :::::
+::::::
 
 <!-- Templates -->
+
 <!-- 2-column text block -->
-::::: {.quarto-listing .quarto-listing-container-grid}
-:::: {.list .grid .quarto-listing-cols-2}
+#### 2 Col Text Block
+:::::: {.quarto-listing .quarto-listing-container-grid}
+::::: {.list .grid .quarto-listing-cols-2}
 
-:::{.g-col-1 .text-center}
+::::{.g-col-1 .text-center}
 ```{r}
 lorem::ipsum()
 ```
+:::{.badge .rounded-pill .bg-info .text-center}
+[More Information](contact.qmd)
 :::
+::::
 
-:::{.g-col-1 .text-center}
+::::{.g-col-1 .text-center}
 ```{r}
 lorem::ipsum()
 ```
+:::{.badge .rounded-pill .bg-info .text-center}
+[More Information](contact.qmd)
 :::
 ::::
 :::::
+::::::
+
+<!-- 2 cards -->
+#### 2 cards
+:::::: {.quarto-listing .quarto-listing-container-grid}
+::::: {.list .grid .quarto-listing-cols-2}
+
+::::{.g-col-1 .card .card-body .text-center}
+#### Lorem Ipsum
+
+```{r}
+lorem::ipsum()
+```
+:::{.badge .rounded-pill .bg-info .text-center}
+[More Information](contact.qmd)
+:::
+
+::::
+
+::::{.g-col-1 .card .card-body .text-center}
+#### Lorem Ipsum
+
+```{r}
+lorem::ipsum()
+```
+:::{.badge .rounded-pill .bg-info .text-center}
+[More Information](contact.qmd)
+:::
+
+::::
+:::::
+::::::
+
+<!-- 3 cards -->
+#### 3 cards
+:::::: {.quarto-listing .quarto-listing-container-grid}
+::::: {.list .grid .quarto-listing-cols-3}
+
+::::{.g-col-1 .card .card-body .text-center}
+#### **Lorem Ipsum**
+
+```{r}
+lorem::ipsum()
+```
+:::{.badge .rounded-pill .bg-info .text-center}
+[More Information](contact.qmd)
+:::
+
+::::
+
+::::{.g-col-1 .card .card-body .text-center}
+#### **Lorem Ipsum**
+
+```{r}
+lorem::ipsum()
+```
+:::{.badge .rounded-pill .bg-info .text-center}
+[More Information](contact.qmd)
+:::
+
+::::
+
+::::{.g-col-1 .card .card-body .text-center}
+#### **Lorem Ipsum**
+
+```{r}
+lorem::ipsum()
+```
+:::{.badge .rounded-pill .bg-info .text-center}
+[More Information](contact.qmd)
+:::
+
+::::
+:::::
+::::::
+
+<!-- 3 column table -->
+#### Tables
+| Col1 | Col2 | Col3 |
+|------|------|------|
+| A    | B    | C    |
+| E    | F    | G    |
+| A    | G    | G    |
+
+: Table caption {#tbl-template}
+
+See @tbl-template.
+
+<!-- Blockquote Grid -->
+#### Blockquotes
+::::::: {.quarto-listing .quarto-listing-container-grid}
+:::::: {.list .grid .quarto-listing-cols-3}
+:::::{.blockquote .mb-0}
+```{r}
+lorem::ipsum()
+```
+:::{.blockquote-footer}
+Someone famous in *[Lorem Ipsum](contact.qmd)*
+:::
+:::::
+
+:::::{.blockquote .mb-0}
+```{r}
+lorem::ipsum()
+```
+:::{.blockquote-footer}
+Someone famous in *[Lorem Ipsum](contact.qmd)*
+:::
+:::::
+
+:::::{.blockquote .mb-0}
+```{r}
+lorem::ipsum()
+```
+:::{.blockquote-footer}
+Someone famous in *[Lorem Ipsum](contact.qmd)*
+:::
+:::::
+::::::
+:::::::
