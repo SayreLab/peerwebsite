@@ -54,9 +54,8 @@ format:
     enable-cssgrid: true
     page-layout: full
     sidebar: false
-
-templates:
-  - template.qmd
+    grid:
+      body-width: 1000px
 
 # Rendering choices
 editor: source
