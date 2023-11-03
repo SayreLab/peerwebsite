@@ -4,19 +4,17 @@ title: "PEER Institute"
 subtitle: "Professional development for Emerging Education Researchers"
 abstract: "PEER is designed for emerging education researchers interested in expanding their theoretical or methodological expertise. Through peer and near-peer exchange, PEER helps faculty, postdocs and graduate students through field schools, intensive workshops, research projects, mentoring, and community involvement. Many continue on after taking the program, doing research in working groups, submitting papers for peer reviewed publication or designing research projects with others. PEER focuses on Discipline-based Education Research, advancing both scholarship and teaching goals that are valued at all types of academic institutions."
 sidebar: false
-
 title-block-banner: "images/rainbow.jpg"
-
 page-layout: article
 toc: false
 suppress: true
 ---
 
+
 ::: {.quarto-listing .quarto-listing-container-grid}
 ::: {.list .grid .quarto-listing-cols-3}
 
 :::{.g-col-1 .card .card-body .text-center}
-
 [![](images/sayrelab.png)](https://handbook.zaposa.com)
 
 #### [Research Handbook](https://handbook.zaposa.com){.quarto-grid-link .card-title}
@@ -36,7 +34,6 @@ suppress: true
 
 
 :::{.g-col-1 .card .card-body .text-center}
-
 [![](images/pants.png)](schools/index.qmd)
 
 #### [Field Schools](schools/index.qmd){.quarto-grid-link .card-title}
@@ -51,6 +48,7 @@ suppress: true
 
 :::
 
+[about](about.qmd)
 # Opportunities to participate in PEER!
 
 Whether you’re just getting started, looking to stretch into new projects or methodologies, or seeking community and support around education research, we’re happy to have you. Upcoming field schools and workshops will be held in the US as well as internationally (as travel permits).
@@ -150,7 +148,7 @@ lorem::ipsum()
 lorem::ipsum()
 ```
 :::{.badge .rounded-pill .bg-info .text-center}
-[More Information](contact.qmd)
+[More Information](contact.qmd){.quarto-grid-link}
 :::
 
 ::::
@@ -161,8 +159,8 @@ lorem::ipsum()
 ```{r}
 lorem::ipsum()
 ```
-:::{.badge .rounded-pill .bg-info .text-center}
-[More Information](contact.qmd)
+:::{.btn .btn-primary .btn-sm .rounded-pill .text-center}
+More Information
 :::
 
 ::::
@@ -225,3 +223,49 @@ Someone famous in *[Lorem Ipsum](contact.qmd)*
 :::::
 ::::::
 :::::::
+
+<!-- Accordion Folds -->
+::::::{.accordion}
+:::::{.accordion-item}
+::::{.accordion-header}
+:::{.accordion-button}
+Accordion Item #1
+:::
+::::
+::::{.accordion-collapse .collapse .show}
+:::{.accordion-body}
+```{r}
+lorem::ipsum()
+```
+:::
+::::
+:::::
+:::::{.accordion-item}
+::::{.accordion-header}
+:::{.accordion-button}
+Accordion Item #2
+:::
+::::
+::::{.accordion-collapse .collapse .show}
+:::{.accordion-body}
+```{r}
+lorem::ipsum()
+```
+:::
+::::
+:::::
+:::::{.accordion-item}
+::::{.accordion-header}
+:::{.accordion-button}
+Accordion Item #3
+:::
+::::
+::::{.accordion-collapse .collapse .show}
+:::{.accordion-body}
+```{r}
+lorem::ipsum()
+```
+:::
+::::
+:::::
+::::::
