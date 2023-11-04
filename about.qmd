@@ -1,5 +1,7 @@
 ---
 title: "About"
+
+title-block-banner: "images/rainbow.jpg"
 ---
 
 About this site
