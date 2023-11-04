@@ -58,6 +58,7 @@ format:
       body-width: 1000px
       gutter-width: 25px
       margin-width: 90px
+    css: styles.css
 
 # Rendering choices
 editor: source

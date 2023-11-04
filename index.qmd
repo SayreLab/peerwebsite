@@ -48,7 +48,6 @@ suppress: true
 
 :::
 
-[about](about.qmd)
 # Opportunities to participate in PEER!
 
 Whether you’re just getting started, looking to stretch into new projects or methodologies, or seeking community and support around education research, we’re happy to have you. Upcoming field schools and workshops will be held in the US as well as internationally (as travel permits).
@@ -63,8 +62,12 @@ See the Schools page for more details and join the announcements list to hear ab
 
 Just getting started in education research, or curious about what PEER is like? Join us for a 90-minute virtual gateway workshop on October 5, 4:30-6:00 eastern time.
 
-:::{.badge .rounded-pill .bg-info .text-center}
-[More Information](contact.qmd)
+:::{more-info-button}
+```{=HTML}
+<a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="contact.qmd">
+    <p>More Information</p>
+</a>
+```
 :::
 
 ::::
@@ -73,6 +76,14 @@ Just getting started in education research, or curious about what PEER is like? 
 #### Winter Field School: Chicago, December 14-17, 2023 {.card-title}
 
 Ready for a field school? PEER is offering an introductory field school in Chicago on December 14-17, 2023. Hosted at DePaul University, and open to emerging education researchers from the greater Chicago-land as well as nationally.
+
+:::{more-info-button}
+```{=HTML}
+<a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="contact.qmd">
+    <p>More Information</p>
+</a>
+```
+:::
 
 ::::
 :::::
@@ -89,8 +100,12 @@ Ready for a field school? PEER is offering an introductory field school in Chica
 ```{r}
 lorem::ipsum()
 ```
-:::{.badge .rounded-pill .bg-info .text-center}
-[More Information](contact.qmd)
+:::{more-info-button}
+```{=HTML}
+<a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="contact.qmd">
+    <p>More Information</p>
+</a>
+```
 :::
 ::::
 
@@ -98,8 +113,12 @@ lorem::ipsum()
 ```{r}
 lorem::ipsum()
 ```
-:::{.badge .rounded-pill .bg-info .text-center}
-[More Information](contact.qmd)
+:::{more-info-button}
+```{=HTML}
+<a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="contact.qmd">
+    <p>More Information</p>
+</a>
+```
 :::
 ::::
 :::::
@@ -116,8 +135,12 @@ lorem::ipsum()
 ```{r}
 lorem::ipsum()
 ```
-:::{.badge .rounded-pill .bg-info .text-center}
-[More Information](contact.qmd)
+:::{more-info-button}
+```{=HTML}
+<a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="contact.qmd">
+    <p>More Information</p>
+</a>
+```
 :::
 
 ::::
@@ -128,8 +151,12 @@ lorem::ipsum()
 ```{r}
 lorem::ipsum()
 ```
-:::{.badge .rounded-pill .bg-info .text-center}
-[More Information](contact.qmd)
+:::{more-info-button}
+```{=HTML}
+<a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="contact.qmd">
+    <p>More Information</p>
+</a>
+```
 :::
 
 ::::
@@ -147,8 +174,12 @@ lorem::ipsum()
 ```{r}
 lorem::ipsum()
 ```
-:::{.badge .rounded-pill .bg-info .text-center}
-[More Information](contact.qmd){.quarto-grid-link}
+:::{more-info-button}
+```{=HTML}
+<a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="contact.qmd">
+    <p>More Information</p>
+</a>
+```
 :::
 
 ::::
@@ -159,8 +190,13 @@ lorem::ipsum()
 ```{r}
 lorem::ipsum()
 ```
-:::{.btn .btn-primary .btn-sm .rounded-pill .text-center}
-More Information
+
+:::{more-info-button}
+```{=HTML}
+<a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="contact.qmd">
+    <p>More Information</p>
+</a>
+```
 :::
 
 ::::
@@ -171,8 +207,12 @@ More Information
 ```{r}
 lorem::ipsum()
 ```
-:::{.badge .rounded-pill .bg-info .text-center}
-[More Information](contact.qmd)
+:::{more-info-button}
+```{=HTML}
+<a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="contact.qmd">
+    <p>More Information</p>
+</a>
+```
 :::
 
 ::::
