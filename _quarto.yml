@@ -4,7 +4,6 @@ project:
 website:
   page-navigation: true
 #  body-footer: "## this page brought to you by my fingers"
-  page-footer: "Built with [Quarto](https://quarto.org/) and hosted on [github](https://github.com/esayre)."
   back-to-top-navigation: true
   title: "PEER Institute"
   site-url: "https://peerinstitute.org/"
@@ -28,6 +27,14 @@ website:
     tools:
       - icon: journal-text
         href: https://handbook.zaposa.com/
+
+  page-footer:
+    center: "Built with [Quarto](https://quarto.org/) and hosted on [github](https://github.com/esayre)."
+    right:
+      - icon: github
+        href: https://github.com/esayre
+      
+
  
 format:
   html:
@@ -45,8 +52,13 @@ format:
       - title-block.html
     appendix-style: none
     enable-cssgrid: true
-    page-layout: full
+    page-layout: article
     sidebar: false
+    grid:
+      body-width: 1000px
+      gutter-width: 25px
+      margin-width: 90px
+    css: styles.css
 
 # Rendering choices
 editor: source
@@ -63,6 +75,4 @@ fig-cap-location: margin
 reference-location: margin #for footnotes, could be margin or document
 citation-location: document #for citations
 footnotes-hover: true # to hover over footnotes
-title-block-banner: "/images/rainbow.jpg"
-
 
