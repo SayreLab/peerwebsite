@@ -10,15 +10,8 @@ page-layout: article
 toc: false
 suppress: true    
 ---
-PEER is designed for emerging education researchers interested in expanding their theoretical or methodological expertise. Through peer and near-peer exchange, PEER helps faculty, postdocs and graduate students through field schools, intensive workshops, research projects, mentoring, and community involvement. Many continue on after taking the program, doing research in working groups, submitting papers for peer reviewed publication or designing research projects with others. PEER focuses on Discipline-based Education Research, advancing both scholarship and teaching goals that are valued at all types of academic institutions.
+# Upcoming Field schools
 
-# Who Benefits From the PEER Program?
+Upcoming regional schools will be held in the US as well as internationally (as travel permits). Entrance requirements for regional schools vary; contact [Eleanor Sayre](https://zaposa.com/contact-me) or join the [announcements list](contact.qmd) for details.
 
-PEER participants come from a wide range of science backgrounds and professions. Participants include:
-
-- discipline-based education researchers looking to expand their methodological repertoire
-- disciplinary faculty just getting started on the scholarship of teaching and learning
-- education faculty looking to join a research group and access video-based data
-- faculty development experts learning to mentor faculty through scholarship of teaching and learning (SoTL) projects 
-- grad students and postdocs who need mentoring and community support for their research projects
-- undergraduate students who attend field schools with their advisors
+Note: Since the syllabus for each field school is adapted to the needs of the participants, the syllabi for a given field school are only available to registered participants. However, a sample syllabus is available on the [Sample Field School](../workshops.qmd) page.

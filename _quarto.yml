@@ -23,6 +23,8 @@ website:
         href: model/index.qmd
       - text: "Field Schools"
         href: schools/index.qmd
+      - text: "Sample Field School"
+        href: workshops.qmd
       - contact.qmd
     tools:
       - icon: journal-text
