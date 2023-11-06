@@ -31,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="..//images/peer.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -62,6 +64,91 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-upcoming-field-school-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-upcoming-field-school-listing'] = new List('listing-upcoming-field-school-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-gateway-workshop-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-gateway-workshop-listing'] = new List('listing-gateway-workshop-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-past-field-school-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-past-field-school-listing'] = new List('listing-past-field-school-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 <style>
 
@@ -71,6 +158,8 @@ background-size: cover;
       }
 </style>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="../styles.css">
 <meta property="og:title" content="PEER Institute - Field Schools">
@@ -112,6 +201,10 @@ background-size: cover;
   <li class="nav-item">
     <a class="nav-link active" href="../schools/index.html" rel="" target="" aria-current="page">
  <span class="menu-text">Field Schools</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../workshops.html" rel="" target="">
+ <span class="menu-text">Sample Field School</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../contact.html" rel="" target="">
@@ -159,8 +252,152 @@ background-size: cover;
 
 <section id="upcoming-field-schools" class="level1">
 <h1>Upcoming Field schools</h1>
-<p>Upcoming regional schools will be held in the US as well as internationally (as travel permits). Entrance requirements for regional schools vary; contact <a href="https://zaposa.com/contact-me">Eleanor Sayre</a> or join the <a href="contact.qmd">announcements list</a> for details.</p>
+<p>Upcoming regional schools will be held in the US as well as internationally (as travel permits). Entrance requirements for regional schools vary; contact <a href="https://zaposa.com/contact-me">Eleanor Sayre</a> or join the <a href="../contact.html">announcements list</a> for details.</p>
 <p>Note: Since the syllabus for each field school is adapted to the needs of the participants, the syllabi for a given field school are only available to registered participants. However, a sample syllabus is available on the <a href="../workshops.html">Sample Field School</a> page.</p>
+<p>&nbsp;<br>
+&nbsp;</p>
+<div id="listing-upcoming-field-school-listing" class="quarto-listing quarto-listing-container-default">
+<div class="listing-actions-group">
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<div class="list quarto-listing-default">
+<div class="quarto-post image-left" data-index="0" data-listing-file-modified-sort="1699276655061" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="../materials/upcoming-field-schools/lorem-ipsum/index.html"> <img src="../images/peer.png" class="thumbnail-image" style="height: 200px;"> </a></p>
+</div>
+<div class="body">
+<a href="../materials/upcoming-field-schools/lorem-ipsum/index.html">
+<h3 class="no-anchor listing-title" data-anchor-id="upcoming-field-schools">
+Lorem Ipsum
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../materials/upcoming-field-schools/lorem-ipsum/index.html"> </a>
+</div>
+</div>
+<div class="quarto-post image-left" data-index="1" data-listing-file-modified-sort="1699288286401" data-listing-reading-time-sort="3">
+<div class="thumbnail">
+<p><a href="../materials/upcoming-field-schools/peer-chicago-2023/index.html"> <img src="../images/peer.png" class="thumbnail-image" style="height: 200px;"> </a></p>
+</div>
+<div class="body">
+<a href="../materials/upcoming-field-schools/peer-chicago-2023/index.html">
+<h3 class="no-anchor listing-title">
+PEER-Chicago (Winter 2023)
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+<p>Introductory Field School for Emerging Discipline-based Researchers (EDBERs) at DePaul University, December 14-17, 2023. Funded by the <span>NSF BCSER program</span> DRL #2025169 and sponsored by the <span>DePaul STEM Center</span>. (in-person only)</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../materials/upcoming-field-schools/peer-chicago-2023/index.html"> </a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<p>&nbsp;<br>
+&nbsp;</p>
+</section>
+<section id="gateway-workshops" class="level1">
+<h1>Gateway Workshops</h1>
+<p>Gateway workshops are for those who are just getting started in education research, want to hone your project design skills, or are curious about PEER, but don’t want to commit to a full field school.</p>
+<p>&nbsp;<br>
+&nbsp;</p>
+<div id="listing-gateway-workshop-listing" class="quarto-listing quarto-listing-container-default">
+<div class="listing-actions-group">
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<div class="list quarto-listing-default">
+<div class="quarto-post image-left" data-index="0" data-listing-file-modified-sort="1699276655061" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="../materials/gateway-workshops/lorem-ipsum/index.html"> <img src="../images/peer.png" class="thumbnail-image" style="height: 200px;"> </a></p>
+</div>
+<div class="body">
+<a href="../materials/gateway-workshops/lorem-ipsum/index.html">
+<h3 class="no-anchor listing-title" data-anchor-id="gateway-workshops">
+Lorem Ipsum
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../materials/gateway-workshops/lorem-ipsum/index.html"> </a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<p>&nbsp;<br>
+&nbsp;</p>
+</section>
+<section id="past-field-schools" class="level1">
+<h1>Past Field Schools</h1>
+<p>Below are field schools that have already concluded.</p>
+<p>&nbsp;<br>
+&nbsp;</p>
+<div id="listing-past-field-school-listing" class="quarto-listing quarto-listing-container-default">
+<div class="listing-actions-group">
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<div class="list quarto-listing-default">
+<div class="quarto-post image-left" data-index="0" data-listing-file-modified-sort="1699276655061" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="../materials/past-field-schools/lorem-ipsum/index.html"> <img src="../images/peer.png" class="thumbnail-image" style="height: 200px;"> </a></p>
+</div>
+<div class="body">
+<a href="../materials/past-field-schools/lorem-ipsum/index.html">
+<h3 class="no-anchor listing-title" data-anchor-id="past-field-schools">
+Lorem Ipsum
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../materials/past-field-schools/lorem-ipsum/index.html"> </a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<p>&nbsp;<br>
+&nbsp;</p>
+
 
 
 </section>

@@ -1,0 +1,18 @@
+title-block-banner: "../images/rainbow.jpg"
+page-layout: article
+toc: false
+
+html:
+  format:
+    sidebar:
+      title: "Contents"
+      style: "docked"
+      search: true
+      contents:
+        - section: Upcoming Field Schools
+          contents: upcoming-field-schools
+        - section: Gateway Workshops
+          contents: gateway-workshops
+        - section: Past Field Schools
+          contents: past-field-schools
+    

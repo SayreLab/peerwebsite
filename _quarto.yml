@@ -55,7 +55,6 @@ format:
     appendix-style: none
     enable-cssgrid: true
     page-layout: article
-    sidebar: false
     grid:
       body-width: 1000px
       gutter-width: 25px

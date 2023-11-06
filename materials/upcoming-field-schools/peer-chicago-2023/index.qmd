@@ -1,0 +1,210 @@
+---
+title: "PEER-Chicago (Winter 2023)"
+
+description: "Introductory Field School for Emerging Discipline-based Researchers (EDBERs) at DePaul University, December 14-17, 2023. Funded by the [NSF BCSER program](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025174&HistoricalAwards=false) DRL #2025169 and sponsored by the [DePaul STEM Center](https://csh.depaul.edu/about/centers-and-institutes/stem/Pages/default.aspx). (in-person only)"
+
+---
+
+:::::: {.quarto-listing .quarto-listing-container-grid}
+::::: {.list .grid .quarto-listing-cols-1}
+::::{.g-col-1 .text-center}
+
+Dates: December 14-17, 2023<br>
+Location: DePaul University, Chicago, IL<br>
+Byrne Hall (2219 N. Kenmore Ave.)<br>
+
+&nbsp; 
+
+:::{apply-now-button}
+```{=HTML}
+<a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="https://depaul.qualtrics.com/jfe/form/SV_bsjhcRCTjH6yvaK">
+    <p>APPLY NOW</p>
+</a>
+```
+:::
+&nbsp;  
+
+Applications due October 13, 2023; we hope to make notifications by October 27, 2023.
+::::
+:::::
+::::::
+
+This 4-day, intensive, in-person PEER workshop gives opportunities for faculty, postdocs, and graduate students in various disciplines to develop their own educational research practices. PEER supports emerging education researchers in developing their research interests into concrete questions, developing short- and long-term research plans, building community with other education researchers, and making progress on advancing projects to publication.
+
+::::: {.quarto-listing .quarto-listing-container-grid}
+:::: {.list .grid .quarto-listing-cols-2}
+
+:::{.g-col-1 .text-left}
+# Schedule Overview
+:::
+
+:::{.g-col-1 .text-left}
+&nbsp;  
+&nbsp;  
+
+* Virtual Kickoff: Thursday, Nov. 30 Time: 3:00-4:30pm (Central Time)
+* Thursday, Dec. 14, 3:00-6:00pm: Opening session with optional group dinner outing afterward
+* Friday, Dec. 15: 9:00am-4:00pm (breakfast at 8:00am)
+* Saturday, Dec. 16: 9:00am-4:00pm (breakfast at 8:00am)
+* Sunday, Dec. 18: 9:00am-1:00pm (breakfast at 8:00am, ends with closing lunch)
+:::
+::::
+:::::
+
+&nbsp;  
+
+::::: {.quarto-listing .quarto-listing-container-grid}
+:::: {.list .grid .quarto-listing-cols-2}
+
+:::{.g-col-1 .text-left}
+# Who Should Attend?
+:::
+
+:::{.g-col-1 .text-left}
+&nbsp;  
+&nbsp;  
+
+PEER targets a broad diversity of experience and interest in discipline-based education research (DBER). The workshop is appropriate for:
+
+* Faculty not currently engaged in DBER but interested in learning about theories and methodologies for possible future research
+* Current DBER researchers looking to build or broaden their network of collaborators and engage in generative discussions about existing and new projects
+* Graduate students or postdoctoral researchers who want to learn more about DBER project management and building a successful research program
+* Faculty at teaching-focused universities interested in using research methodology to improve or assess their teaching and/or publish in Scholarship of Teaching & Learning
+:::
+::::
+:::::
+
+&nbsp;  
+
+:::::: {.quarto-listing .quarto-listing-container-grid}
+::::: {.list .grid .quarto-listing-cols-2}
+
+::::{.g-col-1 .text-left}
+# What do we do?
+::::
+
+::::{.g-col-1 .text-left}
+&nbsp;  
+&nbsp;  
+
+Participants in the field school will…
+
+* …develop and practice fundamental underlying skills and competencies in doing research, including “yes, and”, generative writing, collaboration skills, and other topics as related to specific workshops
+* …develop and make significant progress in planning their own research projects
+* …increase their self-efficacy in doing education research
+* …build a community for supporting their education research
+
+:::{schedule-button}
+```{=HTML}
+<div style="text-align: center;">
+    <a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="syllabus.qmd">
+        <p>DETAILED SCHEDULE AND SYLLABUS</p>
+    </a>
+</div>
+```
+:::
+::::
+:::::
+::::::
+
+&nbsp;  
+
+:::::: {.quarto-listing .quarto-listing-container-grid}
+::::: {.list .grid .quarto-listing-cols-2}
+
+::::{.g-col-1 .text-left}
+# Application and Registration
+::::
+
+::::{.g-col-1 .text-left}
+&nbsp;  
+&nbsp;  
+
+Applications due October 13, 2023; we hope to make notifications by October 27, 2023.
+
+&nbsp;  
+
+:::{apply-now-button}
+```{=HTML}
+<div style="text-align: center;">
+    <a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="https://depaul.qualtrics.com/jfe/form/SV_bsjhcRCTjH6yvaK">
+        <p>APPLY NOW</p>
+    </a>
+</div>
+```
+:::
+&nbsp;  
+
+Thanks to a grant from the NSF, there is no cost for registration, but it is expected that you will participate for the full field school.
+
+* Registration includes lunch, optional breakfast, and a parking pass, if needed.
+* A small number of scholarships are available to help defray the cost of housing for non-local participants
+::::
+:::::
+::::::
+
+&nbsp;  
+
+# Facilitators
+:::::: {.quarto-listing .quarto-listing-container-grid}
+::::: {.list .grid .quarto-listing-cols-5}
+
+::::{.g-col-1 .text-left}
+<img src="../../../images/headshots/Sayre-headshot-2.jpg" alt="Eleanor Sayre" width="200"/>
+
+Eleanor Sayre
+::::
+
+::::{.g-col-1 .text-left}
+<img src="../../../images/headshots/Jones-headshot.jpeg" alt="Myrtle Jones" width="200"/>
+
+Myrtle Jones
+::::
+
+::::{.g-col-1 .text-left}
+<img src="../../../images/headshots/Gerton-headshot.jpeg" alt="Jordan Gerton" width="200"/>
+
+Jordan Gerton
+::::
+
+::::{.g-col-1 .text-left}
+<img src="../../../images/headshots/Cilli-Turner-headshot.jpeg" alt="Emily Cilli-Turner" width="200"/>
+
+Emily Cilli-Turner
+::::
+
+::::{.g-col-1 .text-left}
+<img src="../../../images/headshots/Kustusch-headshot.jpg" alt="Mary Bridget Kustusch" width="200"/>
+
+Mary Bridget Kustusch
+::::
+:::::
+::::::
+
+&nbsp;  
+
+# Sponsors
+::::::::: {.quarto-listing .quarto-listing-container-grid}
+:::::::: {.list .grid .quarto-listing-cols-2}
+
+::::::: {.g-col-1}
+:::::: {.quarto-listing .quarto-listing-container-grid}
+::::: {.list .grid .quarto-listing-cols-2}
+::::{.g-col-1 .middle}
+<img src="../../../images/foreign-logos/NSF-logo.png" alt="National Science Foundation" width="200"/>
+
+::::
+
+::::{.g-col-1}
+<img class="middle" src="../../../images/foreign-logos/DePaul-University-ColSciHealth-logo.png" alt="DePaul University College of Science and Health STEM Center" width="200"/>
+
+::::
+:::::
+::::::
+:::::::
+
+:::::::{.g-col-1 .text-left}
+This PEER field school is funded by the National Science Foundation [BCSER program](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025174&HistoricalAwards=false) (DRL-2025169) and sponsored by DePaul University’s [College of Science and Health STEM Center](https://csh.depaul.edu/about/centers-and-institutes/stem/Pages/default.aspx).
+:::::::
+::::::::
+:::::::::
