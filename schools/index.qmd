@@ -18,6 +18,8 @@ listing:
       image-align: left
       image-placeholder: ../images/peer.png
       image-height: 200px
+      fields: [image, date, title, description]
+      sort: "date asc"
     - id: gateway-workshop-listing
       contents: ../materials/gateway-workshops/*/index.qmd
       type: default
@@ -25,6 +27,7 @@ listing:
       image-align: left
       image-placeholder: ../images/peer.png
       image-height: 200px
+      fields: [image, date, title, description]
     - id: past-field-school-listing
       contents: ../materials/past-field-schools/*/index.qmd
       type: default
@@ -32,6 +35,8 @@ listing:
       image-align: left
       image-placeholder: ../images/peer.png
       image-height: 200px
+      fields: [image, date, title, description]
+      sort: "date desc"
 ---
 
 # Upcoming Field schools

@@ -3,6 +3,9 @@ title: "PEER-Chicago (Winter 2023)"
 
 description: "Introductory Field School for Emerging Discipline-based Researchers (EDBERs) at DePaul University, December 14-17, 2023. Funded by the [NSF BCSER program](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025174&HistoricalAwards=false) DRL #2025169 and sponsored by the [DePaul STEM Center](https://csh.depaul.edu/about/centers-and-institutes/stem/Pages/default.aspx). (in-person only)"
 
+date: "12/14/2023"
+date-format: "MMM D, YYYY"
+
 ---
 
 :::::: {.quarto-listing .quarto-listing-container-grid}
