@@ -8,10 +8,74 @@ title-block-banner: "../images/rainbow.jpg"
 
 page-layout: article
 toc: false
-suppress: true    
----
-# Upcoming Field schools
+suppress: true
 
-Upcoming regional schools will be held in the US as well as internationally (as travel permits). Entrance requirements for regional schools vary; contact [Eleanor Sayre](https://zaposa.com/contact-me) or join the [announcements list](contact.qmd) for details.
+listing:
+    - id: upcoming-field-school-listing
+      contents: ../materials/upcoming-field-schools/*/index.qmd
+      type: default
+      filter-ui: true
+      image-align: left
+      image-placeholder: ../images/peer.png
+      image-height: 200px
+      fields: [image, date, title, description]
+      sort: "date asc"
+    - id: gateway-workshop-listing
+      contents: ../materials/gateway-workshops/*/index.qmd
+      type: default
+      filter-ui: true
+      image-align: left
+      image-placeholder: ../images/peer.png
+      image-height: 200px
+      fields: [image, date, title, description]
+    - id: past-field-school-listing
+      contents: ../materials/past-field-schools/*/index.qmd
+      type: default
+      filter-ui: true
+      image-align: left
+      image-placeholder: ../images/peer.png
+      image-height: 200px
+      fields: [image, date, title, description]
+      sort: "date desc"
+---
+
+# Upcoming Field Schools
+
+Upcoming regional schools will be held in the US as well as internationally (as travel permits). Entrance requirements for regional schools vary; contact [Eleanor Sayre](https://zaposa.com/contact-me) or join the [announcements list](../contact.qmd) for details.
 
 Note: Since the syllabus for each field school is adapted to the needs of the participants, the syllabi for a given field school are only available to registered participants. However, a sample syllabus is available on the [Sample Field School](../workshops.qmd) page.
+
+&nbsp;  
+&nbsp;  
+
+:::{#upcoming-field-school-listing}
+:::
+
+&nbsp;  
+&nbsp;  
+
+# Gateway Workshops
+
+Gateway workshops are for those who are just getting started in education research, want to hone your project design skills, or are curious about PEER, but don’t want to commit to a full field school.
+
+&nbsp;  
+&nbsp;  
+
+:::{#gateway-workshop-listing}
+:::
+
+&nbsp;  
+&nbsp;  
+
+# Past Field Schools
+
+Below are field schools that have already concluded.
+
+&nbsp;  
+&nbsp;  
+
+:::{#past-field-school-listing}
+:::
+
+&nbsp;  
+&nbsp;  
