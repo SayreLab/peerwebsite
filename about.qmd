@@ -1,11 +1,92 @@
 ---
-title: "About"
+title: "About Us"
 
 title-block-banner: "images/rainbow.jpg"
+
 ---
 
-About this site
+PEER is designed for emerging education researchers interested in expanding their theoretical or methodological expertise. Through peer and near-peer exchange, PEER helps faculty, postdocs and graduate students through field schools, intensive workshops, research projects, mentoring, and community involvement. Many continue on after taking the program, doing research in working groups, submitting papers for peer reviewed publication or designing research projects with others. PEER focuses on Discipline-based Education Research, advancing both scholarship and teaching goals that are valued at all types of academic institutions.
 
-```{r}
-1 + 1
+# Who Benefits From the PEER program?
+
+PEER participants come from a wide range of science backgrounds and professions. Participants include:  
+
+&nbsp;  
+
+* Discipline-based education researchers looking to expand their methodological repertoire
+* Disciplinary faculty just getting started on the scholarship of teaching and learning
+* education faculty looking to join a research group and access video-based data
+* Faculty development experts learning to mentor faculty through scholarship of teaching and learning (SoTL) projects 
+* Graduate students and postdoctorates who need mentoring and community support for their research projects
+* undergraduate students who attend field schools with their advisors
+
+{{< video https://youtu.be/wYVePjWPDoc >}}
+
+Our collaborators and hosts at the University of Cologne made a promotional video for their [PEER field school](http://www.google.com/url?q=http%3A%2F%2Fzus.uni-koeln.de%2Fpeer.html&sa=D&sntz=1&usg=AFQjCNHnBsqbSNnmTPRlNQj3fVI_7jqRFQ).
+
+# PEER Publications and Presentations
+
+A compiled list of publications and presentations by individuals across the PEER host sites are available showing individual and collaborative research being done.  
+
+[List of PEER Publications Here](https://www.rit.edu/castle/sites/rit.edu.castle/files/images/10-09-20_Compiled%20PEER%20Pubs_Pres%20.pdf)
+
+# Who Runs PEER? {.centered-h1}
+
+:::::: {.quarto-listing .quarto-listing-container-grid}
+::::: {.list .grid .quarto-listing-cols-3}
+
+::::{.g-col-1 .text-left}
+
+```{=HTML}
+<div style="text-align: center;">
+    <img src="/images/headshots/Franklin-headshot.jpg" alt="Scott V Franklin" width="200"/>
+
+    <a href="mailto:svfsps@rit.edu" style>
+    <h3>Scott V Franklin</h3>
+    </a>
+</div>
 ```
+
+* Rochester Institute of Technology
+* Director, CASTLE
+* Professor, School of Physics and Astronomy
+
+::::
+
+::::{.g-col-1 .text-left}
+
+```{=HTML}
+<div style="text-align: center;">
+    <img src="/images/headshots/Kustusch-headshot-2.jpg" alt="Mary Bridget Kustusch" width="200"/>
+
+    <a href="mailto:mkustus1@depaul.edu" style>
+    <h3>Mary Bridget Kustusch</h3>
+    </a>
+</div>
+```
+
+* DePaul University
+* Associate Professor
+* Department of Physics and Astrophysics
+
+::::
+
+::::{.g-col-1 .text-left}
+
+```{=HTML}
+<div style="text-align: center;">
+    <img src="/images/headshots/Sayre-headshot-3.jpg" alt="Eleanor C Sayre" width="200"/>
+
+    <a href="https://zaposa.com/contact" style>
+    <h3>Eleanor C Sayre</h3>
+    </a>
+</div>
+```
+
+* Kansas State University
+* Professor, Department of Physics
+* Alder Science Education Association, Partner
+
+::::
+:::::
+::::::

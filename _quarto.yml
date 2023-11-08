@@ -19,12 +19,14 @@ website:
     right:
       - text: "Home"
         href: index.qmd
+      - text: "About Us"
+        href: about.qmd
       - text: "PEER model"
         href: model/index.qmd
-      - text: "Field Schools"
-        href: schools/index.qmd
       - text: "Sample Field School"
         href: workshops.qmd
+      - text: "Field Schools"
+        href: schools/index.qmd
       - contact.qmd
     tools:
       - icon: journal-text
@@ -40,13 +42,13 @@ website:
  
 format:
   html:
+    toc: false
     theme: 
        light: 
          - yeti
        dark: 
          - superhero
     smooth-scroll: true
-    toc: true
     citations-hover: true
     footnotes-hover: true
     fontsize: 12pt
