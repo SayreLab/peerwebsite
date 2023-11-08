@@ -177,7 +177,7 @@ Emily Cilli-Turner
 ::::
 
 ::::{.g-col-1 .text-left}
-<img src="../../../images/headshots/Kustusch-headshot.jpg" alt="Mary Bridget Kustusch" width="200"/>
+<img src="../../../images/headshots/Kustusch-headshot-1.jpg" alt="Mary Bridget Kustusch" width="200"/>
 
 Mary Bridget Kustusch
 ::::
