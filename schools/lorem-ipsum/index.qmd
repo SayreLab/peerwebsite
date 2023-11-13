@@ -6,4 +6,6 @@ description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei
 date: "12/15/2023"
 date-format: "MMM D, YYYY"
 
+timing: ["past", "upcoming", "workshop"]
+
 ---

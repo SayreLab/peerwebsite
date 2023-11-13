@@ -6,6 +6,8 @@ description: "Introductory Field School for Emerging Discipline-based Researcher
 date: "12/14/2023"
 date-format: "MMM D, YYYY"
 
+timing: "upcoming"
+
 ---
 
 :::::: {.quarto-listing .quarto-listing-container-grid}

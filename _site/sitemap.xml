@@ -2,46 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://peerinstitute.org/workshops.html</loc>
-    <lastmod>2023-11-08T16:23:25.685Z</lastmod>
+    <lastmod>2023-11-13T09:04:18.726Z</lastmod>
   </url>
   <url>
-    <loc>https://peerinstitute.org/model/index.html</loc>
-    <lastmod>2023-11-08T16:19:57.960Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/materials/upcoming-field-schools/peer-chicago-2023/index.html</loc>
-    <lastmod>2023-11-08T16:19:51.437Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/materials/past-field-schools/lorem-ipsum/index.html</loc>
-    <lastmod>2023-11-08T16:19:49.603Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/index.html</loc>
-    <lastmod>2023-11-08T16:19:48.072Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/about.html</loc>
-    <lastmod>2023-11-08T16:19:45.325Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/contact.html</loc>
-    <lastmod>2023-11-08T16:31:55.993Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/materials/gateway-workshops/lorem-ipsum/index.html</loc>
-    <lastmod>2023-11-08T16:19:48.890Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/materials/upcoming-field-schools/lorem-ipsum/index.html</loc>
-    <lastmod>2023-11-08T16:19:50.352Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/materials/upcoming-field-schools/peer-chicago-2023/syllabus.html</loc>
-    <lastmod>2023-11-08T16:30:48.250Z</lastmod>
+    <loc>https://peerinstitute.org/schools/peer-chicago-2023/index.html</loc>
+    <lastmod>2023-11-13T09:04:13.831Z</lastmod>
   </url>
   <url>
     <loc>https://peerinstitute.org/schools/index.html</loc>
-    <lastmod>2023-11-08T16:19:59.363Z</lastmod>
+    <lastmod>2023-11-13T09:04:12.435Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/index.html</loc>
+    <lastmod>2023-11-13T09:04:10.898Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/about.html</loc>
+    <lastmod>2023-11-13T09:04:09.216Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/contact.html</loc>
+    <lastmod>2023-11-13T09:04:09.804Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/model/index.html</loc>
+    <lastmod>2023-11-13T09:04:11.443Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/schools/lorem-ipsum/index.html</loc>
+    <lastmod>2023-11-13T09:04:13.007Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/schools/peer-chicago-2023/syllabus.html</loc>
+    <lastmod>2023-11-13T09:04:17.043Z</lastmod>
   </url>
 </urlset>

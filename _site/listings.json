@@ -2,10 +2,8 @@
   {
     "listing": "/schools/index.html",
     "items": [
-      "/materials/upcoming-field-schools/peer-chicago-2023/index.html",
-      "/materials/upcoming-field-schools/lorem-ipsum/index.html",
-      "/materials/gateway-workshops/lorem-ipsum/index.html",
-      "/materials/past-field-schools/lorem-ipsum/index.html"
+      "/schools/peer-chicago-2023/index.html",
+      "/schools/lorem-ipsum/index.html"
     ]
   }
 ]

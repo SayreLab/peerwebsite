@@ -12,7 +12,9 @@ suppress: true
 
 listing:
     - id: upcoming-field-school-listing
-      contents: ../materials/upcoming-field-schools/*/index.qmd
+      contents: /*/index.qmd
+      include:
+        timing: "upcoming"
       type: default
       filter-ui: true
       image-align: left
@@ -21,7 +23,9 @@ listing:
       fields: [image, date, title, description]
       sort: "date asc"
     - id: gateway-workshop-listing
-      contents: ../materials/gateway-workshops/*/index.qmd
+      contents: /*/index.qmd
+      include:
+        timing: "workshop"
       type: default
       filter-ui: true
       image-align: left
@@ -29,7 +33,9 @@ listing:
       image-height: 200px
       fields: [image, date, title, description]
     - id: past-field-school-listing
-      contents: ../materials/past-field-schools/*/index.qmd
+      contents: /*/index.qmd
+      include:
+        timing: "past"
       type: default
       filter-ui: true
       image-align: left

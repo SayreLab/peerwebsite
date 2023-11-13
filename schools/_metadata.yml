@@ -14,3 +14,5 @@ page-layout: article #allows for left bar; use "full" to remove it.
 #page-layout: full 
 #google-scholar: true
 
+language: 
+    title-block-published: "EVENT DATE"
