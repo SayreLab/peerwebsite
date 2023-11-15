@@ -64,7 +64,7 @@ Just getting started in education research, or curious about what PEER is like? 
 
 :::{more-info-button}
 ```{=HTML}
-<a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="contact.qmd">
+<a class="btn btn-primary rounded-pill text-center" data-padding-top="0" data-margin-bottom="0" href="http://localhost:7480/schools #gateway-workshops">
     <p>More Information</p>
 </a>
 ```
@@ -79,7 +79,7 @@ Ready for a field school? PEER is offering an introductory field school in Chica
 
 :::{more-info-button}
 ```{=HTML}
-<a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="contact.qmd">
+<a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="http://localhost:7480/schools/peer-chicago-2023/">
     <p>More Information</p>
 </a>
 ```
