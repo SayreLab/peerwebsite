@@ -20,16 +20,8 @@ Dates: December 14-17, 2023<br>
 Location: DePaul University, Chicago, IL<br>
 Byrne Hall (2219 N. Kenmore Ave.)<br>
 
-&nbsp; 
-
-:::{apply-now-button}
-```{=HTML}
-<a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="https://depaul.qualtrics.com/jfe/form/SV_bsjhcRCTjH6yvaK">
-    <p>APPLY NOW</p>
-</a>
-```
-:::
-&nbsp;  
+[APPLY NOW](https://depaul.qualtrics.com/jfe/form/SV_bsjhcRCTjH6yvaK){.btn role="button" .btn-primary .rounded-pill}
+ 
 
 Applications due October 13, 2023; we hope to make notifications by October 27, 2023.
 ::::
@@ -38,11 +30,9 @@ Applications due October 13, 2023; we hope to make notifications by October 27, 
 
 This 4-day, intensive, in-person PEER workshop gives opportunities for faculty, postdocs, and graduate students in various disciplines to develop their own educational research practices. PEER supports emerging education researchers in developing their research interests into concrete questions, developing short- and long-term research plans, building community with other education researchers, and making progress on advancing projects to publication.
 
-&nbsp;  
 
 # Schedule Overview
   
-&nbsp;  
 
 * Virtual Kickoff: Thursday, Nov. 30 Time: 3:00-4:30pm (Central Time)
 * Thursday, Dec. 14, 3:00-6:00pm: Opening session with optional group dinner outing afterward
@@ -51,12 +41,8 @@ This 4-day, intensive, in-person PEER workshop gives opportunities for faculty, 
 * Sunday, Dec. 18: 9:00am-1:00pm (breakfast at 8:00am, ends with closing lunch)
 
 
-&nbsp;  
-
-
 # Who Should Attend?
  
-&nbsp;  
 
 PEER targets a broad diversity of experience and interest in discipline-based education research (DBER). The workshop is appropriate for:
 
@@ -66,12 +52,8 @@ PEER targets a broad diversity of experience and interest in discipline-based ed
 * Faculty at teaching-focused universities interested in using research methodology to improve or assess their teaching and/or publish in Scholarship of Teaching & Learning
 
 
-&nbsp;  
-
 
 # What do we do?
-
-&nbsp;  
 
 Participants in the field school will…
 
@@ -80,39 +62,14 @@ Participants in the field school will…
 * …increase their self-efficacy in doing education research
 * …build a community for supporting their education research
 
-:::{schedule-button}
-```{=HTML}
-<div style="text-align: center;">
-    <a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="syllabus.qmd">
-        <p>DETAILED SCHEDULE AND SYLLABUS</p>
-    </a>
-</div>
-```
-:::
-
-
-&nbsp;  
+[DETAILED SCHEDULE AND SYLLABUS](syllabus.qmd){.btn role="button" .btn-primary .rounded-pill}
 
 
 # Application and Registration
 
-&nbsp;  
-
 Applications due October 13, 2023; we hope to make notifications by October 27, 2023.
 
-&nbsp;  
-
-:::{apply-now-button}
-```{=HTML}
-<div style="text-align: center;">
-    <a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="https://depaul.qualtrics.com/jfe/form/SV_bsjhcRCTjH6yvaK">
-        <p>APPLY NOW</p>
-    </a>
-</div>
-```
-:::
-
-&nbsp;  
+[APPLY NOW](https://depaul.qualtrics.com/jfe/form/SV_bsjhcRCTjH6yvaK){.btn role="button" .btn-primary .rounded-pill}
 
 Thanks to a grant from the NSF, there is no cost for registration, but it is expected that you will participate for the full field school.
 
@@ -120,7 +77,6 @@ Thanks to a grant from the NSF, there is no cost for registration, but it is exp
 * A small number of scholarships are available to help defray the cost of housing for non-local participants
 
 
-&nbsp;  
 
 
 # Facilitators
@@ -128,38 +84,29 @@ Thanks to a grant from the NSF, there is no cost for registration, but it is exp
 ::::: {.list .grid .quarto-listing-cols-5}
 
 ::::{.g-col-1 .text-left}
-<img src="../../images/headshots/Sayre-headshot-2.jpg" alt="Eleanor Sayre" width="200"/>
-
-Eleanor Sayre
+![Eleanor Sayre](../../images/headshots/Sayre-headshot-2.jpg){fig-alt="Eleanor Sayre" width="100%"}
 ::::
 
 ::::{.g-col-1 .text-left}
-<img src="../../images/headshots/Jones-headshot.jpeg" alt="Myrtle Jones" width="200"/>
-
-Myrtle Jones
+![Myrtle Jones](../../images/headshots/Jones-headshot.jpeg){fig-alt="Myrtle Jones" width="100%"}
 ::::
 
 ::::{.g-col-1 .text-left}
-<img src="../../images/headshots/Gerton-headshot.jpeg" alt="Jordan Gerton" width="200"/>
-
-Jordan Gerton
+![Jordan Gerton](../../images/headshots/Gerton-headshot.jpeg){fig-alt="Jordan Gerton" width="100%"}
 ::::
 
 ::::{.g-col-1 .text-left}
-<img src="../../images/headshots/Cilli-Turner-headshot.jpeg" alt="Emily Cilli-Turner" width="200"/>
+![Emily Cilli-Turner](../../images/headshots/Cilli-Turner-headshot.jpeg){fig-alt="Emily Cilli-Turner" width="100%"}
 
-Emily Cilli-Turner
+
 ::::
 
 ::::{.g-col-1 .text-left}
-<img src="../../images/headshots/Kustusch-headshot-1.jpg" alt="Mary Bridget Kustusch" width="200"/>
-
-Mary Bridget Kustusch
+![Mary Bridget Kustusch](../../images/headshots/Kustusch-headshot-1.jpg){fig-alt="Mary Bridget Kustusch" width="100%"}
 ::::
 :::::
 ::::::
 
-&nbsp;  
 
 # Sponsors
 ::::::::: {.quarto-listing .quarto-listing-container-grid}
@@ -169,12 +116,12 @@ Mary Bridget Kustusch
 :::::: {.quarto-listing .quarto-listing-container-grid}
 ::::: {.list .grid .quarto-listing-cols-2}
 ::::{.g-col-1 .middle}
-<img src="../../images/foreign-logos/NSF-logo.png" alt="National Science Foundation" width="200"/>
+![](../../images/foreign-logos/NSF-logo.png){fig-alt="National Science Foundation logo" width="100%" .center}
 
 ::::
 
 ::::{.g-col-1}
-<img class="middle" src="../../images/foreign-logos/DePaul-University-ColSciHealth-logo.png" alt="DePaul University College of Science and Health STEM Center" width="200"/>
+![](../../images/foreign-logos/DePaul-University-ColSciHealth-logo.png){fig-alt="DePaul University College of Science and Health STEM Center" width="100%" .center}
 
 ::::
 :::::

@@ -73,9 +73,9 @@ execute:
 # Appearance choices
 callout-appearance: simple
 #callout-icon: false
-cap-location: margin
-fig-cap-location: margin
-reference-location: margin #for footnotes, could be margin or document
+cap-location: top
+fig-cap-location: bottom
+reference-location: document #for footnotes, could be margin or document
 citation-location: document #for citations
 footnotes-hover: true # to hover over footnotes
 
