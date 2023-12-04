@@ -25,11 +25,7 @@ suppress: true
 :::
 
 :::{become-facilitator-button}
-```{=HTML}
-<a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="https://www.zaposa.com/contact-me">
-    <p>BECOME A FACILITATOR</p>
-</a>
-```
+[BECOME A FACILITATOR](https://www.zaposa.com/contact-me){.btn role="button" .btn-primary .rounded-pill .text-center}
 :::
 
 Contact [Eleanor Sayre](https://www.zaposa.com/contact-me) for more details
@@ -46,11 +42,7 @@ Contact [Eleanor Sayre](https://www.zaposa.com/contact-me) for more details
 :::
 
 :::{research-button}
-```{=HTML}
-<a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="https://www.zaposa.com/home2/researcher-training">
-    <p>DO RESEARCH WITH US</p>
-</a>
-```
+[DO RESEARCH WITH US](https://www.zaposa.com/home2/researcher-training){.btn role="button" .btn-primary .rounded-pill .text-center}
 :::
 ::::
 :::::

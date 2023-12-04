@@ -37,15 +37,12 @@ A compiled list of publications and presentations by individuals across the PEER
 
 ::::{.g-col-1 .text-left}
 
-```{=HTML}
-<div style="text-align: center;">
-    <img src="/images/headshots/Franklin-headshot.jpg" alt="Scott V Franklin" width="200"/>
+:::{.text-center}
 
-    <a href="mailto:svfsps@rit.edu" style>
-    <h3>Scott V Franklin</h3>
-    </a>
-</div>
-```
+[![](/images/headshots/Franklin-headshot.jpg)]{fig-alt="Scott V Franklin" width="100%"}
+
+### [Scott V Franklin](mailto:mkustus1@depaul.edu)
+:::
 
 * Rochester Institute of Technology
 * Director, CASTLE
@@ -55,15 +52,12 @@ A compiled list of publications and presentations by individuals across the PEER
 
 ::::{.g-col-1 .text-left}
 
-```{=HTML}
-<div style="text-align: center;">
-    <img src="/images/headshots/Kustusch-headshot-2.jpg" alt="Mary Bridget Kustusch" width="200"/>
+:::{.text-center}
 
-    <a href="mailto:mkustus1@depaul.edu" style>
-    <h3>Mary Bridget Kustusch</h3>
-    </a>
-</div>
-```
+[![](/images/headshots/Kustusch-headshot-2.jpg)]{fig-alt="Mary Bridget Kustusch" width="100%"}
+
+### [Mary Bridget Kustusch](mailto:mkustus1@depaul.edu)
+:::
 
 * DePaul University
 * Associate Professor
@@ -73,15 +67,12 @@ A compiled list of publications and presentations by individuals across the PEER
 
 ::::{.g-col-1 .text-left}
 
-```{=HTML}
-<div style="text-align: center;">
-    <img src="/images/headshots/Sayre-headshot-3.jpg" alt="Eleanor C Sayre" width="200"/>
+:::{.text-center}
 
-    <a href="https://zaposa.com/contact" style>
-    <h3>Eleanor C Sayre</h3>
-    </a>
-</div>
-```
+[![](/images/headshots/Sayre-headshot-3.jpg)]{fig-alt="Eleanor C Sayre" width="100%"}
+
+### [Eleanor C Sayre](https://zaposa.com/contact)
+:::
 
 * Kansas State University
 * Professor, Department of Physics

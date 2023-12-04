@@ -15,7 +15,7 @@ suppress: true
 ::: {.list .grid .quarto-listing-cols-3}
 
 :::{.g-col-1 .card .card-body .text-center}
-[![](images/sayrelab.png)](https://handbook.zaposa.com)
+[![](images/sayrelab.png)](https://handbook.zaposa.com){fig-alt="Eleanor Sayre" width="100%"}
 
 #### [Research Handbook](https://handbook.zaposa.com){.quarto-grid-link .card-title}
 
@@ -24,7 +24,7 @@ suppress: true
 :::
 
 :::{.g-col-1 .card .card-body .text-center}
-[![](images/peer.png)](model/index.qmd)
+[![](images/peer.png)](model/index.qmd){fig-alt="Eleanor Sayre" width="100%"}
 
 #### [PEER model](model/index.qmd){.quarto-grid-link .card-title}
 
@@ -34,7 +34,7 @@ suppress: true
 
 
 :::{.g-col-1 .card .card-body .text-center}
-[![](images/pants.png)](schools/index.qmd)
+[![](images/pants.png)](schools/index.qmd){fig-alt="Eleanor Sayre" width="100%"}
 
 #### [Field Schools](schools/index.qmd){.quarto-grid-link .card-title}
 

@@ -23,11 +23,7 @@ Location: Virtual<br>
 &nbsp; 
 
 :::{apply-now-button}
-```{=HTML}
-<a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="https://peerinstitute.org/contact/">
-    <p>REGISTRATION IS CLOSED. SIGN UP FOR THE MAILING LIST?</p>
-</a>
-```
+[REGISTRATION IS CLOSED. SIGN UP FOR THE MAILING LIST?](contact.qmd){.btn role="button" .btn-primary .rounded-pill .text-center}
 :::
 ::::
 :::::
@@ -90,28 +86,44 @@ This virtual workshop is free to attend, but space is limited and a recording wi
 
 
 # Facilitators
-::::: {.quarto-listing .quarto-listing-container-grid}
-:::: {.list .grid .quarto-listing-cols-3}
+:::::: {.quarto-listing .quarto-listing-container-grid}
+::::: {.list .grid .quarto-listing-cols-3}
 
-:::{.g-col-1 .text-left}
-<img src="../../images/headshots/Jones-headshot.jpeg" alt="Myrtle Jones" width="200"/>
+::::{.g-col-1 .text-left}
+
+:::{.text-center}
+
+![](../../images/headshots/Jones-headshot.jpeg){fig-alt="Myrtle Jones" width="100%"}
+
+### Myrtle Jones
+:::
 
 Myrtle Jones is an anthropologist with expertise in autoethnography.
-:::
+::::
 
-:::{.g-col-1 .text-left}
-<img src="../../images/headshots/Gerton-headshot.jpeg" alt="Jordan Gerton" width="200"/>
+::::{.g-col-1 .text-left}
+:::{.text-center}
+
+![](../../images/headshots/Gerton-headshot.jpeg){fig-alt="Jordan Gerton" width="100%"}
+
+### Jordan Gerton
+:::
 
 Jordan Gerton is a physics professor and former PEER participant.
-:::
+::::
 
-:::{.g-col-1 .text-left}
-<img src="../../images/headshots/Sayre-headshot-2.jpg" alt="Eleanor Sayre" width="200"/>
+::::{.g-col-1 .text-left}
+:::{.text-center}
+
+![](../../images/headshots/Sayre-headshot-2.jpg){fig-alt="Eleanor Sayre" width="100%"}
+
+### Eleanor Sayre
+:::
 
 Eleanor Sayre is a physics professor with expertise in education research.
-:::
 ::::
 :::::
+::::::
 
 
 &nbsp; 
@@ -134,9 +146,8 @@ Eleanor Sayre is a physics professor with expertise in education research.
 :::: {.list .grid .quarto-listing-cols-2}
 
 
-:::{.g-col-1 .middle}
-<img src="../../images/foreign-logos/NSF-logo.png" alt="National Science Foundation" width="200"/>
-
+:::{.g-col-1 .text-center}
+![](../../images/foreign-logos/NSF-logo.png){fig-alt="National Science Foundation" width="200px"}
 :::
 
 :::{.g-col-1 .text-left}
