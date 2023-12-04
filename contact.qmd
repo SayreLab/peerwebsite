@@ -10,10 +10,54 @@ suppress: true
 ---
 
 
-## I'm a education researcher, and I want to get involved!
+# I'm a education researcher, and I want to get involved!
 
-## I want to join the mailing list!
+&nbsp;  
 
-## Can I host a field school?
+:::::: {.quarto-listing .quarto-listing-container-grid}
+::::: {.list .grid .quarto-listing-cols-2}
+::::{.g-col-1 .text-center}
+:::{globe-icon}
+```{=HTML}
+<i class="bi bi-globe2"></i>
+```
 
-## Who runs PEER?
+:::
+
+:::{become-facilitator-button}
+```{=HTML}
+<a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="https://www.zaposa.com/contact-me">
+    <p>BECOME A FACILITATOR</p>
+</a>
+```
+:::
+
+Contact [Eleanor Sayre](https://www.zaposa.com/contact-me) for more details
+
+::::
+
+::::{.g-col-1 .text-center}
+
+:::{hand-icon}
+```{=HTML}
+<i class="bi bi-person-raised-hand"></i>
+```
+
+:::
+
+:::{research-button}
+```{=HTML}
+<a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="https://www.zaposa.com/home2/researcher-training">
+    <p>DO RESEARCH WITH US</p>
+</a>
+```
+:::
+::::
+:::::
+::::::
+
+# I want to join the mailing list!
+
+# Can I host a field school?
+
+# Who runs PEER?

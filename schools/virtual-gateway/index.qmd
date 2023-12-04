@@ -1,0 +1,146 @@
+---
+title: "Virtual Gateway Workshop"
+
+description: "Looking for a small taste of PEER? Join the virtual gateway workshop."
+
+date: "5/10/2023"
+date-format: "MMM D, YYYY"
+
+toc-location: left
+
+timing: "workshop"
+
+---
+
+:::::: {.quarto-listing .quarto-listing-container-grid}
+::::: {.list .grid .quarto-listing-cols-1}
+::::{.g-col-1 .text-center}
+
+Date: December 5, 2023<br>
+Time: 4:00 - 5:30pm EST<br>
+Location: Virtual<br>
+
+&nbsp; 
+
+:::{apply-now-button}
+```{=HTML}
+<a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="https://peerinstitute.org/contact/">
+    <p>REGISTRATION IS CLOSED. SIGN UP FOR THE MAILING LIST?</p>
+</a>
+```
+:::
+::::
+:::::
+::::::
+
+In this interactive, online workshop, we’ll introduce you to fundamental skills in education research. You’ll practice these skills with each other to develop your research ideas and conceptualize a research project.
+
+
+&nbsp;  
+
+
+# What do we cover?
+
+&nbsp;  
+
+* Refining your research interests into answerable research questions.
+* Generative writing: how research gets done and papers get written.
+* Playing “yes, and” to find collaborators and improve your projects.
+
+
+&nbsp;  
+
+
+# Who should attend?
+
+&nbsp;  
+
+PEER targets a broad diversity of experience and interest in discipline-based education research (DBER) and the scholarship of teaching and learning (SoTL). The workshop is appropriate for:
+
+* Faculty not currently engaged in DBER but interested in learning about theories and methodologies for possible future research.
+* Current DBER researchers looking to build or broaden their network of collaborators and engage in generative discussions about existing and new projects.
+* Graduate students or postdoctoral researchers who want to learn more about DBER project management and building a successful research program
+* Faculty at teaching-focused universities interested in using research methodology to improve or assess their teaching and/or publish in Scholarship of Teaching & Learning
+
+
+&nbsp; 
+
+
+# How much does it cost?
+
+&nbsp; 
+
+This virtual workshop is free to attend, but space is limited and a recording will not be made available.
+
+
+&nbsp; 
+
+
+# How should I prepare?
+
+&nbsp; 
+
+* Register in advance.
+* Read about [writing as a generative process](https://handbook.zaposa.com/articles/generative-writing/), and prepare to engage in your own writing during the workshop. During the workshop, you’ll do generative writing around your research interests and questions.
+* Make sure your zoom software is up-to-date and test your microphone and camera. During the workshop, you’ll work in a collaborative breakout group with other participants.
+* Look for a calendar invite with a zoom link.
+
+
+&nbsp; 
+
+
+# Facilitators
+::::: {.quarto-listing .quarto-listing-container-grid}
+:::: {.list .grid .quarto-listing-cols-3}
+
+:::{.g-col-1 .text-left}
+<img src="../../images/headshots/Jones-headshot.jpeg" alt="Myrtle Jones" width="200"/>
+
+Myrtle Jones is an anthropologist with expertise in autoethnography.
+:::
+
+:::{.g-col-1 .text-left}
+<img src="../../images/headshots/Gerton-headshot.jpeg" alt="Jordan Gerton" width="200"/>
+
+Jordan Gerton is a physics professor and former PEER participant.
+:::
+
+:::{.g-col-1 .text-left}
+<img src="../../images/headshots/Sayre-headshot-2.jpg" alt="Eleanor Sayre" width="200"/>
+
+Eleanor Sayre is a physics professor with expertise in education research.
+:::
+::::
+:::::
+
+
+&nbsp; 
+
+
+# Past Virtual Gateways
+
+&nbsp; 
+
+* March 23, 2023, 4:30 - 6:00pm EST.
+* March 22, 2022, 4:30 - 6:00pm EST.
+* September 8, 2022, 3:30 - 5:00pm EST.
+
+
+&nbsp;  
+
+
+# Sponsors
+::::: {.quarto-listing .quarto-listing-container-grid}
+:::: {.list .grid .quarto-listing-cols-2}
+
+
+:::{.g-col-1 .middle}
+<img src="../../images/foreign-logos/NSF-logo.png" alt="National Science Foundation" width="200"/>
+
+:::
+
+:::{.g-col-1 .text-left}
+This virtual gateway workshop is made possible by the National Science Foundation. Views expressed in the workshop do not reflect the opinions of the NSF.
+:::
+::::
+:::::
