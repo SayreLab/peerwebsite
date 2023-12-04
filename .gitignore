@@ -54,3 +54,9 @@ rsconnect/
 /.quarto/
 
 notes.txt
+
+/templates
+
+/_freeze
+
+/_site

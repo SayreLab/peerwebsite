@@ -47,51 +47,31 @@ All sessions will be held in Byrne Hall (2219 N Kenmore Ave)
 ## Links
 
 :::::{zoom-button}
-```{=HTML}
-<a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="https://ksu.zoom.us/j/93378295978?pwd=Q3cwY0lvaTQrRURlYnRZYmhsMDVWUT09">
-    <p>Zoom Link for Virtual Kickoff</p>
-</a>
-```
+[Zoom Link for Virtual Kickoff](https://ksu.zoom.us/j/93378295978?pwd=Q3cwY0lvaTQrRURlYnRZYmhsMDVWUT09){.btn role="button" .btn-primary .rounded-pill}
 :::::
 
 &nbsp;  
 
 :::::{slack-button}
-```{=HTML}
-<a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="https://join.slack.com/t/peer-pbe2329/shared_invite/zt-25p9wvity-kIugoURsaSxRvPnFUQsUwQ">
-    <p>Slack Link</p>
-</a>
-```
+[Slack Link](https://join.slack.com/t/peer-pbe2329/shared_invite/zt-25p9wvity-kIugoURsaSxRvPnFUQsUwQ){.btn role="button" .btn-primary .rounded-pill}
 :::::
 
 &nbsp;  
 
 :::::{peer-button}
-```{=HTML}
-<a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="https://www.peerinstitute.org/">
-    <p>PEER Main Site</p>
-</a>
-```
+[PEER Main Site](https://www.peerinstitute.org/){.btn role="button" .btn-primary .rounded-pill}
 :::::
 
 &nbsp;  
 
 :::::{contact-facilitator-button}
-```{=HTML}
-<a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="mailto:esayre@gmail.com">
-    <p>Contact Lead Facilitator</p>
-</a>
-```
+[Contact Lead Facilitator](mailto:esayre@gmail.com){.btn role="button" .btn-primary .rounded-pill}
 :::::
 
 &nbsp;  
 
 :::::{contact-host-button}
-```{=HTML}
-<a class="btn btn-primary rounded-pill text-center" data-margin-top="0" data-margin-bottom="0" href="mailto:mkustus1@depaul.edu">
-    <p>Contact Local Host</p>
-</a>
-```
+[Contact Local Host](mailto:mkustus1@depaul.edu){.btn role="button" .btn-primary .rounded-pill}
 ::::: 
 
 ::::::
