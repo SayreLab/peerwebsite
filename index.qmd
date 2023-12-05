@@ -54,29 +54,109 @@ Whether you’re just getting started, looking to stretch into new projects or m
 
 See the Schools page for more details and join the announcements list to hear about upcoming field schools and workshops.
 
-:::::: {.quarto-listing .quarto-listing-container-grid}
-::::: {.list .grid .quarto-listing-cols-2}
+&nbsp;  
 
-::::{.g-col-1 .card .card-body .text-center}
-#### Virtual Gateway Workshop {.card-title}
+::::::: {.quarto-listing .quarto-listing-container-grid}
+:::::: {.list .grid .quarto-listing-cols-2}
+
+::::: {.g-col-1 .card}
+:::: {.card-header .text-center .card-title}
+
+### Virtual Gateway Workshop
+
+::::
+
+::::{ .card-body .text-left}
+
+:::{.card-subtitle .mb-2 .text-muted}
+Online
+:::
 
 Just getting started in education research, or curious about what PEER is like? Join us for a 90-minute virtual gateway workshop on October 5, 4:30-6:00 eastern time.
 
-:::{more-info-button}
+&nbsp;  
+
+:::{.more-info-button .text-center}
+
 [More Information](schools/virtual-gateway/index.qmd){.btn role="button" .btn-primary .rounded-pill}
 :::
 
 ::::
+:::::
 
-::::{.g-col-1 .card .card-body .text-center}
-#### Winter Field School: Chicago, December 14-17, 2023 {.card-title}
+::::: {.g-col-1 .card}
+:::: {.card-header .text-center .card-title}
 
-Ready for a field school? PEER is offering an introductory field school in Chicago on December 14-17, 2023. Hosted at DePaul University, and open to emerging education researchers from the greater Chicago-land as well as nationally.
+### Winter Field School: Chicago
 
-:::{more-info-button}
+::::
+
+::::{ .card-body .text-left}
+
+:::{.card-subtitle .mb-2 .text-muted}
+December 14-17, 2023
+:::
+
+Ready for a field school? PEER is offering an introductory field school hosted at DePaul University, and open to emerging education researchers.
+
+&nbsp;  
+
+:::{.more-info-button .text-center}
+
 [More Information](schools/peer-chicago-2023/index.qmd){.btn role="button" .btn-primary .rounded-pill}
 :::
 
 ::::
 :::::
 ::::::
+:::::::
+
+::::::: {.quarto-listing .quarto-listing-container-grid}
+:::::: {.list .grid .quarto-listing-cols-2}
+
+::::: {.g-col-1}
+
+### Which workshops are available?
+
+&nbsp;  
+
+We have workshop modules for a variety of topics such as:
+
+&nbsp;  
+
+* Getting started with research design: building research interests into robust research projects
+* Research life: principles for being an active, productive researcher; balancing research, teaching, and life; and our personal professional pathways
+* Research ethics: how to collaborate ethically, mentor students, author papers together, and work with human subjects/participants in research projects.
+* Analysis methods: video-based qualitative research methods, emergent coding, basic quantitative methods
+* Research communication: doing lit reviews, structuring and publishing papers, making beautiful posters, and talking about your research with skeptical audiences
+* Teaching students: the challenge of listening to students, fostering inclusivity and equity in classrooms, mentoring undergraduates in research
+* Publishing peer-reviewed papers in English.
+
+See [Sample Field School](workshops.qmd) for an example of what a field school might look like.
+
+&nbsp;  
+
+Additionally, we can give colloquium-style talks to broader audiences at your institution. Want something else? Contact Eleanor Sayre for more ideas, or join the [announcements list](contact.qmd) to hear about new opportunities.
+
+:::::
+
+::::: {.g-col-1}
+
+### How can I host a field school?
+
+&nbsp;  
+
+We love to travel! A regional field school is usually one week (sometimes shorter or longer). Regional field schools tend to have themes that are appropriate to their participants: Rukara 2018 (Rwanda) focused on preparing research for publication, while Cologne 2021 (Germany) focused on equity research and video data. Vancouver 2019 (Canada) centered around designing and planning SoTL research projects. We’ll work with you to make sure our workshops are well-tuned to the things your participants need.
+
+&nbsp;  
+
+A reasonable number of participants is 15-30; more is possible (up to 60). You should plan that most of your participants will attend every workshop in the field school. Some workshops are ok for many more participants, depending on the size of our facilitation team. We can also give colloquia, invited talks, or public lectures for larger audiences to help make the most of our visit. If a week is more time than you’re looking for, it may be possible to run a single-day workshop and/or colloquium; conversely, we’re also happy to stay longer and help your participants develop their projects further.
+
+&nbsp;  
+
+Costs are minimal (thanks, NSF!), but scheduling is complicated. [Contact](contact.qmd) Eleanor Sayre or Scott Franklin for details.
+
+:::::
+
+::::::
+:::::::

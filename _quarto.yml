@@ -33,7 +33,7 @@ website:
         href: https://handbook.zaposa.com/
 
   page-footer:
-    center: "Built with [Quarto](https://quarto.org/) and hosted on [github](https://github.com/esayre)."
+    center: "Built with [Quarto](https://quarto.org/) and hosted on [GitHub](https://github.com/esayre)."
     right:
       - icon: github
         href: https://github.com/esayre

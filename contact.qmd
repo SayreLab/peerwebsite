@@ -17,10 +17,7 @@ suppress: true
 :::::: {.quarto-listing .quarto-listing-container-grid}
 ::::: {.list .grid .quarto-listing-cols-2}
 ::::{.g-col-1 .text-center}
-:::{globe-icon}
-```{=HTML}
-<i class="bi bi-globe2"></i>
-```
+:::{.bi .bi-globe style="font-size: 85px"}
 
 :::
 
@@ -34,10 +31,7 @@ Contact [Eleanor Sayre](https://www.zaposa.com/contact-me) for more details
 
 ::::{.g-col-1 .text-center}
 
-:::{hand-icon}
-```{=HTML}
-<i class="bi bi-person-raised-hand"></i>
-```
+:::{.bi .bi-people-fill style="font-size: 85px"}
 
 :::
 
