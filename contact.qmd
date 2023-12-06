@@ -97,11 +97,11 @@ Yes! Check: [How can I host a Field School?](index.qmd#how-can-i-host-a-field-sc
 :::::: {.quarto-listing .quarto-listing-container-grid}
 ::::: {.list .grid .quarto-listing-cols-3}
 
-::::{.g-col-1 .text-left}
+::::{.g-col-1 .text-left style="max-width:300px"}
 
 :::{.text-center}
 
-[![](/images/headshots/Franklin-headshot.jpg)]{fig-alt="Scott V Franklin" width="257.94px" height="257.94px"}
+[![](/images/headshots/Franklin-headshot.jpg)]{fig-alt="Scott V Franklin"}
 
 ### [Scott V Franklin](mailto:mkustus1@depaul.edu)
 :::
@@ -112,7 +112,7 @@ Yes! Check: [How can I host a Field School?](index.qmd#how-can-i-host-a-field-sc
 
 ::::
 
-::::{.g-col-1 .text-left}
+::::{.g-col-1 .text-left style="max-width:300px"}
 
 :::{.text-center}
 
@@ -127,7 +127,7 @@ Yes! Check: [How can I host a Field School?](index.qmd#how-can-i-host-a-field-sc
 
 ::::
 
-::::{.g-col-1 .text-left}
+::::{.g-col-1 .text-left style="max-width:300px"}
 
 :::{.text-center}
 

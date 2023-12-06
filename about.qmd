@@ -35,11 +35,11 @@ A compiled list of publications and presentations by individuals across the PEER
 :::::: {.quarto-listing .quarto-listing-container-grid}
 ::::: {.list .grid .quarto-listing-cols-3}
 
-::::{.g-col-1 .text-left}
+::::{.g-col-1 .text-left style="max-width:300px"}
 
 :::{.text-center}
 
-[![](/images/headshots/Franklin-headshot.jpg)]{fig-alt="Scott V Franklin" width="100%"}
+[![](/images/headshots/Franklin-headshot.jpg)]{fig-alt="Scott V Franklin"}
 
 ### [Scott V Franklin](mailto:mkustus1@depaul.edu)
 :::
@@ -50,7 +50,7 @@ A compiled list of publications and presentations by individuals across the PEER
 
 ::::
 
-::::{.g-col-1 .text-left}
+::::{.g-col-1 .text-left style="max-width:300px"}
 
 :::{.text-center}
 
@@ -65,7 +65,7 @@ A compiled list of publications and presentations by individuals across the PEER
 
 ::::
 
-::::{.g-col-1 .text-left}
+::::{.g-col-1 .text-left style="max-width:300px"}
 
 :::{.text-center}
 
