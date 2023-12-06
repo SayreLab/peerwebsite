@@ -75,6 +75,7 @@ background-size: cover;
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="PEER Institute - Contact">
 <meta property="og:description" content="Get involved with PEER">
+<meta property="og:image" content="https://peerinstitute.org/images/headshots/Franklin-headshot.jpg">
 <meta property="og:site-name" content="PEER Institute">
 </head>
 
@@ -163,8 +164,8 @@ background-size: cover;
 
 
 
-<section id="im-a-education-researcher-and-i-want-to-get-involved" class="level1">
-<h1>I’m a education researcher, and I want to get involved!</h1>
+<section id="im-a-education-researcher-and-i-want-to-get-involved" class="level2">
+<h2 class="anchored" data-anchor-id="im-a-education-researcher-and-i-want-to-get-involved">I’m a education researcher, and I want to get involved!</h2>
 <p>&nbsp;</p>
 <div class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-2">
@@ -175,6 +176,7 @@ background-size: cover;
 <div class="{become-facilitator-button}">
 <p><a href="https://www.zaposa.com/contact-me" class="btn btn-primary rounded-pill text-center" role="button">BECOME A FACILITATOR</a></p>
 </div>
+<p>&nbsp;</p>
 <p>Contact <a href="https://www.zaposa.com/contact-me">Eleanor Sayre</a> for more details</p>
 </div>
 <div class="g-col-1 text-center">
@@ -188,14 +190,97 @@ background-size: cover;
 </div>
 </div>
 </section>
-<section id="i-want-to-join-the-mailing-list" class="level1">
-<h1>I want to join the mailing list!</h1>
+<section id="i-want-to-join-the-mailing-list" class="level2">
+<h2 class="anchored" data-anchor-id="i-want-to-join-the-mailing-list">I want to join the mailing list!</h2>
+<div id="iframeContainer">
+  <iframe id="iframeContent" src="registration-form.html" frameborder="0"></iframe>
+</div>
+
+<script>
+  // JavaScript to adjust iframe height based on its content and viewport height
+  const iframe = document.getElementById('iframeContent');
+
+  // Set the iframe's height to its content's height or maximum viewport height, whichever is smaller
+  function adjustIframeHeight() {
+    const contentHeight = iframe.contentWindow.document.body.scrollHeight;
+    const viewportHeight = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
+    const maxHeight = Math.min(contentHeight, viewportHeight);
+    iframe.style.height = maxHeight + 'px';
+  }
+
+  // Call the function on iframe load and resize events
+  iframe.onload = adjustIframeHeight;
+  window.addEventListener('resize', adjustIframeHeight);
+</script>
+
+<style>
+  /* Ensure the iframe container takes the full width of its parent */
+  #iframeContainer {
+    width: 100%;
+    overflow: hidden; /* Hide any overflowing content */
+  }
+
+  /* Ensure the iframe takes the full width of its container */
+  #iframeContent {
+    width: 100%;
+    display: block;
+    border: none; /* Remove the iframe border */
+    box-sizing: border-box;
+    max-width: 100%; /* Ensure iframe doesn't exceed its container's width */
+  }
+</style>
+
+
 </section>
-<section id="can-i-host-a-field-school" class="level1">
-<h1>Can I host a field school?</h1>
+<section id="can-i-host-a-field-school" class="level2">
+<h2 class="anchored" data-anchor-id="can-i-host-a-field-school">Can I host a field school?</h2>
+<p>Yes! Check: <a href="./index.html#how-can-i-host-a-field-school">How can I host a Field School?</a></p>
 </section>
-<section id="who-runs-peer" class="level1">
-<h1>Who runs PEER?</h1>
+<section id="who-runs-peer" class="level2">
+<h2 class="anchored" data-anchor-id="who-runs-peer">Who runs PEER?</h2>
+<div class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1 text-left">
+<div class="text-center">
+<p><span data-fig-alt="Scott V Franklin" width="257.94px" height="257.94px"><img src=".\images/headshots/Franklin-headshot.jpg" class="img-fluid"></span></p>
+<section id="scott-v-franklin" class="level3">
+<h3 class="anchored" data-anchor-id="scott-v-franklin"><a href="mailto:mkustus1@depaul.edu">Scott V Franklin</a></h3>
+</section>
+</div>
+<ul>
+<li>Rochester Institute of Technology</li>
+<li>Director, CASTLE</li>
+<li>Professor, School of Physics and Astronomy</li>
+</ul>
+</div>
+<div class="g-col-1 text-left">
+<div class="text-center">
+<p><span data-fig-alt="Mary Bridget Kustusch" width="100%"><img src=".\images/headshots/Kustusch-headshot-2.jpg" class="img-fluid"></span></p>
+<section id="mary-bridget-kustusch" class="level3">
+<h3 class="anchored" data-anchor-id="mary-bridget-kustusch"><a href="mailto:mkustus1@depaul.edu">Mary Bridget Kustusch</a></h3>
+</section>
+</div>
+<ul>
+<li>DePaul University</li>
+<li>Associate Professor</li>
+<li>Department of Physics and Astrophysics</li>
+</ul>
+</div>
+<div class="g-col-1 text-left">
+<div class="text-center">
+<p><span data-fig-alt="Eleanor C Sayre" width="100%"><img src=".\images/headshots/Sayre-headshot-3.jpg" class="img-fluid"></span></p>
+<section id="eleanor-c-sayre" class="level3">
+<h3 class="anchored" data-anchor-id="eleanor-c-sayre"><a href="https://zaposa.com/contact">Eleanor C Sayre</a></h3>
+</section>
+</div>
+<ul>
+<li>Kansas State University</li>
+<li>Professor, Department of Physics</li>
+<li>Alder Science Education Association, Partner</li>
+</ul>
+</div>
+</div>
+</div>
 
 
 </section>

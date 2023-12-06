@@ -82,7 +82,7 @@ Thanks to a grant from the NSF, there is no cost for registration, but it is exp
 
 
 
-# Facilitators
+## Facilitators
 :::::: {.quarto-listing .quarto-listing-container-grid}
 ::::: {.list .grid .quarto-listing-cols-5}
 
@@ -111,7 +111,7 @@ Thanks to a grant from the NSF, there is no cost for registration, but it is exp
 ::::::
 
 
-# Sponsors
+## Sponsors
 ::::::::: {.quarto-listing .quarto-listing-container-grid}
 :::::::: {.list .grid .quarto-listing-cols-2}
 

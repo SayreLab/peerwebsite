@@ -7,7 +7,7 @@ title-block-banner: "images/rainbow.jpg"
 
 PEER is designed for emerging education researchers interested in expanding their theoretical or methodological expertise. Through peer and near-peer exchange, PEER helps faculty, postdocs and graduate students through field schools, intensive workshops, research projects, mentoring, and community involvement. Many continue on after taking the program, doing research in working groups, submitting papers for peer reviewed publication or designing research projects with others. PEER focuses on Discipline-based Education Research, advancing both scholarship and teaching goals that are valued at all types of academic institutions.
 
-# Who Benefits From the PEER program?
+## Who Benefits From the PEER program?
 
 PEER participants come from a wide range of science backgrounds and professions. Participants include:  
 
@@ -24,13 +24,13 @@ PEER participants come from a wide range of science backgrounds and professions.
 
 Our collaborators and hosts at the University of Cologne made a promotional video for their [PEER field school](http://www.google.com/url?q=http%3A%2F%2Fzus.uni-koeln.de%2Fpeer.html&sa=D&sntz=1&usg=AFQjCNHnBsqbSNnmTPRlNQj3fVI_7jqRFQ).
 
-# PEER Publications and Presentations
+## PEER Publications and Presentations
 
 A compiled list of publications and presentations by individuals across the PEER host sites are available showing individual and collaborative research being done.  
 
 [List of PEER Publications Here](https://www.rit.edu/castle/sites/rit.edu.castle/files/images/10-09-20_Compiled%20PEER%20Pubs_Pres%20.pdf)
 
-# Who Runs PEER? {.centered-h1}
+## Who Runs PEER? {.centered-h1}
 
 :::::: {.quarto-listing .quarto-listing-container-grid}
 ::::: {.list .grid .quarto-listing-cols-3}

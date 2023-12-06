@@ -10,9 +10,10 @@ page-layout: article
 toc: false
 suppress: true 
 ---
+
 PEER is designed for emerging education researchers interested in expanding their theoretical or methodological expertise. Through peer and near-peer exchange, PEER helps faculty, postdocs and graduate students through field schools, intensive workshops, research projects, mentoring, and community involvement. Many continue on after taking the program, doing research in working groups, submitting papers for peer reviewed publication or designing research projects with others. PEER focuses on Discipline-based Education Research, advancing both scholarship and teaching goals that are valued at all types of academic institutions.
 
-# Who Benefits From the PEER Program?
+## Who Benefits From the PEER Program?
 
 PEER participants come from a wide range of science backgrounds and professions. Participants include:
 

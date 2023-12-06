@@ -45,7 +45,7 @@ listing:
       sort: "date desc"
 ---
 
-# Upcoming Field Schools
+## Upcoming Field Schools
 
 Upcoming regional schools will be held in the US as well as internationally (as travel permits). Entrance requirements for regional schools vary; contact [Eleanor Sayre](https://zaposa.com/contact-me) or join the [announcements list](../contact.qmd) for details.
 
@@ -60,7 +60,7 @@ Note: Since the syllabus for each field school is adapted to the needs of the pa
 &nbsp;  
 &nbsp;  
 
-# Gateway Workshops
+## Gateway Workshops
 
 Gateway workshops are for those who are just getting started in education research, want to hone your project design skills, or are curious about PEER, but don’t want to commit to a full field school.
 
@@ -73,7 +73,7 @@ Gateway workshops are for those who are just getting started in education resear
 &nbsp;  
 &nbsp;  
 
-# Past Field Schools
+## Past Field Schools
 
 Below are field schools that have already concluded.
 

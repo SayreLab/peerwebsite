@@ -85,7 +85,7 @@ This virtual workshop is free to attend, but space is limited and a recording wi
 &nbsp; 
 
 
-# Facilitators
+## Facilitators
 :::::: {.quarto-listing .quarto-listing-container-grid}
 ::::: {.list .grid .quarto-listing-cols-3}
 
@@ -129,7 +129,7 @@ Eleanor Sayre is a physics professor with expertise in education research.
 &nbsp; 
 
 
-# Past Virtual Gateways
+## Past Virtual Gateways
 
 &nbsp; 
 
@@ -141,7 +141,7 @@ Eleanor Sayre is a physics professor with expertise in education research.
 &nbsp;  
 
 
-# Sponsors
+## Sponsors
 ::::: {.quarto-listing .quarto-listing-container-grid}
 :::: {.list .grid .quarto-listing-cols-2}
 

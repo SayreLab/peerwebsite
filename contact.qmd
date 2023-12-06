@@ -10,7 +10,7 @@ suppress: true
 ---
 
 
-# I'm a education researcher, and I want to get involved!
+## I'm a education researcher, and I want to get involved!
 
 &nbsp;  
 
@@ -24,6 +24,8 @@ suppress: true
 :::{become-facilitator-button}
 [BECOME A FACILITATOR](https://www.zaposa.com/contact-me){.btn role="button" .btn-primary .rounded-pill .text-center}
 :::
+
+&nbsp;  
 
 Contact [Eleanor Sayre](https://www.zaposa.com/contact-me) for more details
 
@@ -42,8 +44,102 @@ Contact [Eleanor Sayre](https://www.zaposa.com/contact-me) for more details
 :::::
 ::::::
 
-# I want to join the mailing list!
+## I want to join the mailing list!
 
-# Can I host a field school?
+```{=HTML}
+<div id="iframeContainer">
+  <iframe id="iframeContent" src="registration-form.html" frameborder="0"></iframe>
+</div>
 
-# Who runs PEER?
+<script>
+  // JavaScript to adjust iframe height based on its content and viewport height
+  const iframe = document.getElementById('iframeContent');
+
+  // Set the iframe's height to its content's height or maximum viewport height, whichever is smaller
+  function adjustIframeHeight() {
+    const contentHeight = iframe.contentWindow.document.body.scrollHeight;
+    const viewportHeight = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
+    const maxHeight = Math.min(contentHeight, viewportHeight);
+    iframe.style.height = maxHeight + 'px';
+  }
+
+  // Call the function on iframe load and resize events
+  iframe.onload = adjustIframeHeight;
+  window.addEventListener('resize', adjustIframeHeight);
+</script>
+
+<style>
+  /* Ensure the iframe container takes the full width of its parent */
+  #iframeContainer {
+    width: 100%;
+    overflow: hidden; /* Hide any overflowing content */
+  }
+
+  /* Ensure the iframe takes the full width of its container */
+  #iframeContent {
+    width: 100%;
+    display: block;
+    border: none; /* Remove the iframe border */
+    box-sizing: border-box;
+    max-width: 100%; /* Ensure iframe doesn't exceed its container's width */
+  }
+</style>
+
+
+```
+
+## Can I host a field school?
+
+Yes! Check: [How can I host a Field School?](index.qmd#how-can-i-host-a-field-school)
+
+## Who runs PEER?
+
+:::::: {.quarto-listing .quarto-listing-container-grid}
+::::: {.list .grid .quarto-listing-cols-3}
+
+::::{.g-col-1 .text-left}
+
+:::{.text-center}
+
+[![](/images/headshots/Franklin-headshot.jpg)]{fig-alt="Scott V Franklin" width="257.94px" height="257.94px"}
+
+### [Scott V Franklin](mailto:mkustus1@depaul.edu)
+:::
+
+* Rochester Institute of Technology
+* Director, CASTLE
+* Professor, School of Physics and Astronomy
+
+::::
+
+::::{.g-col-1 .text-left}
+
+:::{.text-center}
+
+[![](/images/headshots/Kustusch-headshot-2.jpg)]{fig-alt="Mary Bridget Kustusch" width="100%"}
+
+### [Mary Bridget Kustusch](mailto:mkustus1@depaul.edu)
+:::
+
+* DePaul University
+* Associate Professor
+* Department of Physics and Astrophysics
+
+::::
+
+::::{.g-col-1 .text-left}
+
+:::{.text-center}
+
+[![](/images/headshots/Sayre-headshot-3.jpg)]{fig-alt="Eleanor C Sayre" width="100%"}
+
+### [Eleanor C Sayre](https://zaposa.com/contact)
+:::
+
+* Kansas State University
+* Professor, Department of Physics
+* Alder Science Education Association, Partner
+
+::::
+:::::
+::::::
