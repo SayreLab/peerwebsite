@@ -13,13 +13,19 @@ suppress: true
 
 PEER is designed for emerging education researchers interested in expanding their theoretical or methodological expertise. Through peer and near-peer exchange, PEER helps faculty, postdocs and graduate students through field schools, intensive workshops, research projects, mentoring, and community involvement. Many continue on after taking the program, doing research in working groups, submitting papers for peer reviewed publication or designing research projects with others. PEER focuses on Discipline-based Education Research, advancing both scholarship and teaching goals that are valued at all types of academic institutions.
 
-## Who Benefits From the PEER Program?
+## Who Benefits From the PEER program?
 
-PEER participants come from a wide range of science backgrounds and professions. Participants include:
+PEER participants come from a wide range of science backgrounds and professions. Participants include:  
 
-- discipline-based education researchers looking to expand their methodological repertoire
-- disciplinary faculty just getting started on the scholarship of teaching and learning
-- education faculty looking to join a research group and access video-based data
-- faculty development experts learning to mentor faculty through scholarship of teaching and learning (SoTL) projects 
-- grad students and postdocs who need mentoring and community support for their research projects
-- undergraduate students who attend field schools with their advisors
+&nbsp;  
+
+* Discipline-based education researchers looking to expand their methodological repertoire
+* Disciplinary faculty just getting started on the scholarship of teaching and learning
+* education faculty looking to join a research group and access video-based data
+* Faculty development experts learning to mentor faculty through scholarship of teaching and learning (SoTL) projects 
+* Graduate students and postdoctorates who need mentoring and community support for their research projects
+* undergraduate students who attend field schools with their advisors
+
+{{< video https://youtu.be/wYVePjWPDoc >}}
+
+Our collaborators and hosts at the University of Cologne made a promotional video for their [PEER field school](http://www.google.com/url?q=http%3A%2F%2Fzus.uni-koeln.de%2Fpeer.html&sa=D&sntz=1&usg=AFQjCNHnBsqbSNnmTPRlNQj3fVI_7jqRFQ).

@@ -17,14 +17,10 @@ website:
     logo: "/images/peer.png"
 
     right:
-      - text: "Home"
-        href: index.qmd
-      - text: "About Us"
-        href: about.qmd
       - text: "PEER model"
         href: model/index.qmd
-      - text: "Sample Field School"
-        href: workshops.qmd
+      - text: "Get Involved with PEER"
+        href: index.qmd
       - text: "Field Schools"
         href: schools/index.qmd
       - contact.qmd
