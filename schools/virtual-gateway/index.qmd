@@ -23,7 +23,7 @@ Location: Virtual<br>
 &nbsp; 
 
 :::{apply-now-button}
-[REGISTRATION IS CLOSED. SIGN UP FOR THE MAILING LIST?](contact.qmd){.btn role="button" .btn-primary .rounded-pill .text-center}
+[REGISTRATION IS CLOSED. SIGN UP FOR THE MAILING LIST?](../../contact.qmd){.btn role="button" .btn-primary .rounded-pill .text-center}
 :::
 ::::
 :::::
