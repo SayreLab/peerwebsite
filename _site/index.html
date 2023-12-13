@@ -282,69 +282,6 @@ background-size: cover;
 <h2 class="anchored" data-anchor-id="peer-publications-and-presentations">PEER Publications and Presentations</h2>
 <p>A compiled list of publications and presentations by individuals across the PEER host sites are available showing individual and collaborative research being done.</p>
 <p><a href="https://www.rit.edu/castle/sites/rit.edu.castle/files/images/10-09-20_Compiled%20PEER%20Pubs_Pres%20.pdf">List of PEER Publications Here</a></p>
-<div>
-<p>a</p>
-
-
-
-  <title>Excel Data Table</title>
-  <style>
-    table {
-      border-collapse: collapse;
-      width: 100%;
-    }
-
-    th, td {
-      border: 1px solid black;
-      padding: 8px;
-      text-align: left;
-    }
-
-    th {
-      background-color: #f2f2f2;
-    }
-  </style>
-
-
-
-  <table id="excelDataTable" border="1">
-    <!-- Table content will be inserted here -->
-  </table>
-
-  <script>
-    // Fetch the JSON data from the URL
-    fetch('https://script.googleusercontent.com/macros/echo?user_content_key=5dpbR684UZPOKyvi4UJF3BxT-N2LnBY7vGygWOm7OZdOe-mfFDbVRxJ6vSuMYQbxenXMKPUTXL5Gxcyi7o_VKfILA-Krw445m5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnHmxyQEMn61eh9DgwQCy8Xs5DMNe6SebGnW598aGobVd-sa8eJtO9M2K2fp98bmhrO2Mcav9PrD3ShFuP17849Ie1Y4vfS-NZQ&lib=MifeXCAb62ug4snfyooQke6TE7gMPYvoH')
-      .then(response => response.json())
-      .then(data => {
-        // Get the table element by ID
-        const table = document.getElementById('excelDataTable');
-
-        console.log(data)
-        console.log(data[0]);
-
-        // Create header row
-        const headerRow = table.insertRow(0);
-        for (let key in data[0]) {
-          const headerCell = headerRow.insertCell();
-          headerCell.textContent = key;
-        }
-
-        // Create data rows
-        data.forEach((row, index) => {
-          const dataRow = table.insertRow(index + 1);
-          for (let key in row) {
-            const cell = dataRow.insertCell();
-            cell.textContent = row[key];
-          }
-        });
-      })
-      .catch(error => console.error('Error fetching data:', error));
-  </script>
-
-
-
-
-</div>
 
 
 </section>
