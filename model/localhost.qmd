@@ -1,0 +1,124 @@
+---
+title: "Bring PEER to you!"
+subtitle: "Hosting a field school"
+image: "../images/peer.png"
+image-width: "20rem"
+#date: last-modified
+    
+title-block-banner: "../images/rainbow.jpg"
+
+page-layout: article
+toc: false
+suppress: true 
+---
+
+## How can PEER help?
+
+Is your school struggling to promote research activity or scholarly teaching among your faculty? Do you have a nascent education research group that you want to strengthen or grow? Do your graduate students need targeted mentoring in developing their dissertation projects and becoming researchers?  
+
+Maybe you want help building community among regional schools or reaching across disciplinary boundaries to grow interdisciplinary research programs.  Maybe you think PEER is awesome and you want to share it with people from home.  
+
+
+::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-3 .bg-info}
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+![](/images/sayrelab.png){fig-alt="lab" width="20%"}
+
+Connect locally with existing and potential education researchers
+:::
+
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+![](/images/sayrelab.png){fig-alt="lab" width="20%"}
+
+Kick-start multidisciplinary education research groups
+:::
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+![](/images/sayrelab.png){fig-alt="lab" width="20%"}
+
+Elevate personal and institutional visibility
+:::
+:::
+
+
+At PEER Field Schools, your participants delve into research project development and best practices, engage with like-minded professionals, and gain invaluable insights into the world of educational research. Our expert facilitators will guide them through hands-on activities and collaborative discussions, helping them shape their projects and engage your passion. 
+
+PEER will boost your participants' education research skills, push their projects forward, and build your local capacity for high-quality, publishable education research!
+
+
+
+## Your PEER field school, tuned for your participants.
+
+A regional field school typically covers our foundational material, as tuned to the needs of the local participants.  
+
+Some common themes in regional field schools include:
+
+* Building local community and capacity for education research (San Diego, Chicago)
+* Preparing research for publication (Rukara RW)
+* Equity research and analysis of video data (Cologne DE, Rochester)
+* Designing and planning SoTL research projects (Vancouver CA)
+* Supporting graduate students in their dissertation development (US Virgin Islands, Kigali RW)
+* Translating classroom expertise into research projects (Kazakhstan, Monterrey MX)
+  
+What do your people need? We’ll work with you to make sure our workshops help your participants grow.
+
+## Become a local host. 
+
+Local hosts build and strengthen a local community for education research. Becoming a local host is an exciting way to work with PEER facilitators to put on a successful field school that will suit the context and needs of your community. 
+
+Local hosts ...
+
+* Lead the logistics of bringing PEER to their community (funding, scheduling, securing supplies, organizing food, etc.)
+* Identify the primary audience for their field school (grad students, postdocs, faculty, disciplines, local or regional partners)
+* Work closely with PEER facilitators to develop goals for the field school and set a curriculum that serves their participants' needs.
+* Build community between and after sessions through meals and social activities 
+* Do local recruitment and advertising for the field school, and coordinate with PEER facilitators on other advertising
+* Assist in the application and registration process
+
+We'll work with you every step of the way so that your field school is successful. 
+
+## Logistics: how many, when, how much
+
+A reasonable number of participants is 12-30; more is possible (up to 60). A regular introductory field school is about 20 contact hours, which we recommend to split over four calendar days plus an online kickoff.  
+
+You should plan that most of your participants will attend every workshop in the field school. PEER is an intensive, community-centered experience.  We need everyone to be present all the time in order to best support the community. 
+
+We can also give colloquia, invited talks, or public lectures for larger audiences to help make the most of our visit. Some workshops are ok for many more participants, depending on the size of our facilitation team; contact us if you'd like to have bonus workshops that appeal to larger audiences.
+
+If a long weekend is more time than you’re looking for, it may be possible to run a single-day workshop and/or colloquium, depending on your participants' needs and geographic location.  Conversely, we’re also happy to stay longer and help your participants develop their projects further. PEER field schools can run up to 40 contact hours over 7-8 calendar days.  
+
+Generally speaking, we strongly prefer in-person field schools because of the rich community building and interactive nature of our curriculum.  There are limited opportunities for wholly-virtual field schools available.
+
+We are committed to inclusive education research and community building.  We are especially interested in working with communities that have historically been exlcuded from the education research enterprise, or communities that are trying to grow their regional capacity.  Because of these commitments (and our personal love of travel!), costs for hosting PEER are minimal.  However, scheduling is complicated. You should plan for about a year of lead time. [Contact](/contact.qmd) Eleanor Sayre or Scott Franklin for details.
+
+
+
+## Which workshops are available?
+
+We have workshop modules for a variety of topics.
+
+Topic | Workshop modules
+---|---------
+Getting started with research design | building research interests into robust research projects, iterative design, project planning
+ Research life | principles for being an active, productive researcher; balancing research, teaching, and life; and our personal professional pathways
+ Research ethics | how to collaborate ethically, mentor students, author papers together, and work with human subjects/participants in research projects.
+ Analysis methods | video-based qualitative research methods, emergent coding, basic quantitative methods, doing interviews, design-based research, autoethnography, and social network analysis
+ Research communication | doing lit reviews, making beautiful posters, talking about your research with skeptical audiences, engaging advisory boards, giving elevator pitches to colleagues and funders, structuring proposals, and publishing peer-reviewed papers
+ Teaching students | the challenge of listening to students, fostering inclusivity and equity in classrooms, mentoring undergraduates in research
+ 
+: {.striped}
+
+See [Sample Field School](/workshops.qmd) for an example of what a field school might look like.
+
+Additionally, we can give colloquium-style talks to broader audiences at your institution. Want something else? [Contact](/contact.qmd) Eleanor Sayre for more ideas, or join the [announcements list](/contact.qmd#i-want-to-join-the-mailing-list) to hear about new opportunities.
+
+
+
+
+{{< include ../_events-and-host.qmd >}}
+
+

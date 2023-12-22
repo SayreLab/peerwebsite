@@ -11,13 +11,27 @@ toc: false
 suppress: true 
 ---
 
-PEER is designed for emerging education researchers interested in expanding their theoretical or methodological expertise. Through peer and near-peer exchange, PEER helps faculty, postdocs and graduate students through field schools, intensive workshops, research projects, mentoring, and community involvement. Many continue on after taking the program, doing research in working groups, submitting papers for peer reviewed publication or designing research projects with others. PEER focuses on Discipline-based Education Research, advancing both scholarship and teaching goals that are valued at all types of academic institutions.
+## Welcome to PEER!
+
+At PEER Field Schools, you'll delve into research project development and best practices, engage with like-minded professionals, and gain invaluable insights into the world of educational research. Our expert facilitators will guide you through hands-on activities and collaborative discussions, helping you shape your project and engage your passion. 
+
+PEER will boost your education research skills and push your project forward!
+
+
+## PEER Principles
+
+At PEER, we believe research is 
+
+* Responsive: Field schools respond to participant needs
+* Playful: Researchers play with ideas and data to generate new knowledge
+* Communicative: Writing and presenting are part of research
+* Collaborative: People do research together, in communities.
+
+At PEER, you will learn fundamental and applied research skills in a supportive and participatory research environment. 
 
 ## Who Benefits From the PEER program?
 
 PEER participants come from a wide range of science backgrounds and professions. Participants include:  
-
-&nbsp;  
 
 * Discipline-based education researchers looking to expand their methodological repertoire
 * Disciplinary faculty just getting started on the scholarship of teaching and learning
@@ -29,3 +43,15 @@ PEER participants come from a wide range of science backgrounds and professions.
 {{< video https://youtu.be/wYVePjWPDoc >}}
 
 Our collaborators and hosts at the University of Cologne made a promotional video for their [PEER field school](http://www.google.com/url?q=http%3A%2F%2Fzus.uni-koeln.de%2Fpeer.html&sa=D&sntz=1&usg=AFQjCNHnBsqbSNnmTPRlNQj3fVI_7jqRFQ).
+
+## What does PEER look like?
+
+In a PEER field school, you'll work in a supportive community to build your skills and your research project along several overlapping development arcs:
+
+* Fundamental skills: generative writing, growth mindset, "yes, and", mentoring students, parallel processes and iteration.
+* Research design: refining research questions, choosing theoretical frameworks, matching data streams to research questions and analysis methods, planning research projects, and building resilient and flexible projects.  
+* Communicating your research: encapsulating your project, developing an elevator pitch, reading research literature, publishing peer-reviewed papers, negotiating authorship, finding collaborators, and giving robust constructive feedback on each other's projects.
+
+Does this sound like a lot?  It is.  PEER field schools are intense, experiential, and supportive. You don't just learn these things abstractly; you actively practice them with your project. You are ready for PEER when you are enthusiastic about stretching your skills, refining your project, and getting energized about doing research. 
+
+{{< include ../_events-and-host.qmd >}}
