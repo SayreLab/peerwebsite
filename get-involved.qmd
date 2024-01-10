@@ -37,66 +37,41 @@ Wherever you're at, we'll help you take your research to the next level.
 [More Information](about.qmd){.btn role="button" .btn-primary .rounded-pill}
 :::
 
+::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-3}
 
-::: {.quarto-listing .quarto-listing-container-grid}
-::: {.list .grid .quarto-listing-cols-3}
+:::{.g-col-1 .card .bg-info .card-body .text-center}
 
-:::{.g-col-1 .card}
-:::{.btn .btn-primary width="100%" style="background-color:inherit; border:none; padding:0px; height:-webkit-fill-available"}
+[![](/images/sayrelab.png){fig-alt="lab" width="20%"}](/schools/index.qmd)
 
-[](https://handbook.zaposa.com)
+#### [Come to PEER](/schools/index.qmd){.quarto-grid-link .card-title}
 
-:::{.card-body .text-center style="color:var(--bs-body-color)"}
-
-![](images/sayrelab.png){fig-alt="Research Handbook" width="50%"}
-
-#### [Research Handbook](https://handbook.zaposa.com){.quarto-grid-link .card-title}
-
-[A friendly, PEER-centered book on how to do research, especially in academia and especially in STEM education.](https://handbook.zaposa.com){.quarto-grid-link}
+[Upcoming workshops and field schools](/schools/index.qmd){.quarto-grid-link}
 
 :::
-:::
-:::
 
-:::{.g-col-1 .card}
-:::{.btn .btn-primary width="100%" style="background-color:inherit; border:none; padding:0px; height:-webkit-fill-available"}
+:::{.g-col-1 .card .bg-info .card-body .text-center}
 
-[](model/index.qmd)
+[![](/images/sayrelab.png){fig-alt="lab" width="20%"}](/contact.qmd)
 
-:::{.card-body .text-center style="color:var(--bs-body-color)"}
+#### [Join our mailing list](/contact.qmd){.quarto-grid-link .card-title}
 
-![](images/peer.png){fig-alt="Eleanor Sayre" width="50%"}
-
-#### [PEER model](model/index.qmd){.quarto-grid-link .card-title}
-
-[PEER is collaborative, communicative, responsive, and playful.](model/index.qmd){.quarto-grid-link}
+[Get notified for new opportunities](/contact.qmd){.quarto-grid-link}
 
 :::
-:::
-:::
 
+:::{.g-col-1 .card .bg-info .card-body .text-center}
 
-:::{.g-col-1 .card}
-:::{.btn .btn-primary width="100%" style="background-color:inherit; border:none; padding:0px; height:-webkit-fill-available"}
+[![](/images/sayrelab.png){fig-alt="lab" width="20%"}](/model/localhost.qmd)
 
-[](schools/index.qmd)
+#### [Bring PEER to you](/model/localhost.qmd){.quarto-grid-link .card-title}
 
-:::{.card-body .text-center style="color:var(--bs-body-color)"}
-![](images/pants.png){fig-alt="Eleanor Sayre" width="50%"}
+[Host a PEER event](/model/localhost.qmd){.quarto-grid-link}
 
-#### [Field Schools](schools/index.qmd){.quarto-grid-link .card-title}
-
-[PEER events: upcoming, current, and past](schools/index.qmd){ .quarto-grid-link}
-
-:::
-:::
 :::
 
 
 :::
 
-
-:::
 
 ## Opportunities to participate in PEER!
 
@@ -168,21 +143,3 @@ Ready for a field school? PEER is offering an introductory field school hosted a
 A compiled list of publications and presentations by individuals across the PEER host sites are available showing individual and collaborative research being done.  
 
 [List of PEER Publications Here](https://www.rit.edu/castle/sites/rit.edu.castle/files/images/10-09-20_Compiled%20PEER%20Pubs_Pres%20.pdf)
-
-Method 1: HTML iframe
-```{=HTML}
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Display Table</title>
-</head>
-<body>
-
-  <h1>Displaying Table from Another HTML File</h1>
-
-  <iframe src="module-spreadsheet.html" width="100%" height="600px" frameborder="0"></iframe>
-
-</body>
-</html>
-
-```

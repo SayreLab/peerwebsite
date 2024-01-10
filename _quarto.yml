@@ -20,7 +20,7 @@ website:
       - text: "PEER model"
         href: model/index.qmd
       - text: "Get Involved with PEER"
-        href: index.qmd
+        href: get-involved.qmd
       - text: "Field Schools"
         href: schools/index.qmd
       - contact.qmd

@@ -1,0 +1,42 @@
+::::::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-2}
+
+::::: {.g-col-1 .card}
+:::: {.card-header .text-center .card-title .bg-primary}
+### Upcoming events
+::::
+
+::::{.card-body .text-left}
+:::{.card-subtitle .mb-2 .text-primary}
+Ready to grow your research skills?
+:::
+
+PEER offers in-person and virtual events for emerging education researchers.  Just getting started in education research, or curious about what PEER is like? Join us for a 90-minute virtual gateway workshop.  Ready for a longer experience?  Apply for an upcoming field school.
+
+:::{.more-info-button .text-center}
+
+[More Information](schools/){.btn role="button" .btn-primary .rounded-pill}
+:::
+
+::::
+:::::
+
+::::: {.g-col-1 .card}
+:::: {.card-header .text-center .card-title .bg-primary}
+### Bring PEER to you!
+::::
+
+::::{ .card-body .text-left}
+:::{.card-subtitle .mb-2 .text-primary}
+Would you like to host a PEER field school?
+:::
+
+Hosting is a great choice if you want to grow or strengthen your local community.  Regional field schools typically cover our foundational material over 4-6 days.  We’ll work with you to make sure our workshops meet your needs.  
+
+:::{.more-info-button .text-center}
+[More Information](schools/){.btn role="button" .btn-primary .rounded-pill}
+:::
+::::
+:::::
+
+
+::::::
