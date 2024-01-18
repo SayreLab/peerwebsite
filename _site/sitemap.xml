@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://peerinstitute.org/workshops.html</loc>
-    <lastmod>2024-01-10T12:33:24.367Z</lastmod>
+    <lastmod>2024-01-18T19:19:50.718Z</lastmod>
   </url>
   <url>
     <loc>https://peerinstitute.org/schools/virtual-gateway/index.html</loc>
@@ -14,15 +14,15 @@
   </url>
   <url>
     <loc>https://peerinstitute.org/schools/index.html</loc>
-    <lastmod>2024-01-10T12:33:24.363Z</lastmod>
+    <lastmod>2024-01-18T19:20:13.790Z</lastmod>
   </url>
   <url>
     <loc>https://peerinstitute.org/model/index.html</loc>
-    <lastmod>2024-01-10T12:33:24.361Z</lastmod>
+    <lastmod>2024-01-18T19:20:00.302Z</lastmod>
   </url>
   <url>
     <loc>https://peerinstitute.org/get-involved.html</loc>
-    <lastmod>2024-01-10T12:33:24.319Z</lastmod>
+    <lastmod>2024-01-18T19:20:04.954Z</lastmod>
   </url>
   <url>
     <loc>https://peerinstitute.org/about.html</loc>
@@ -30,15 +30,15 @@
   </url>
   <url>
     <loc>https://peerinstitute.org/contact.html</loc>
-    <lastmod>2024-01-10T12:33:24.318Z</lastmod>
+    <lastmod>2024-01-18T19:19:51.875Z</lastmod>
   </url>
   <url>
     <loc>https://peerinstitute.org/index.html</loc>
-    <lastmod>2024-01-18T18:31:10.893Z</lastmod>
+    <lastmod>2024-01-18T19:20:17.376Z</lastmod>
   </url>
   <url>
     <loc>https://peerinstitute.org/model/localhost.html</loc>
-    <lastmod>2024-01-10T12:33:24.361Z</lastmod>
+    <lastmod>2024-01-18T19:19:51.368Z</lastmod>
   </url>
   <url>
     <loc>https://peerinstitute.org/schools/lorem-ipsum/index.html</loc>
@@ -55,5 +55,9 @@
   <url>
     <loc>https://peerinstitute.org/results.html</loc>
     <lastmod>2024-01-18T18:37:56.689Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/hosting.html</loc>
+    <lastmod>2024-01-18T18:59:51.676Z</lastmod>
   </url>
 </urlset>

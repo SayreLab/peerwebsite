@@ -90,7 +90,7 @@ Contact [Eleanor Sayre](https://www.zaposa.com/contact-me) for more details
 
 ## Can I host a field school?
 
-Yes! Check: [How can I host a Field School?](index.qmd#how-can-i-host-a-field-school)
+Yes! Check out the [opportunities for hosting](model/localhost.qmd)!
 
 ## Who runs PEER?
 

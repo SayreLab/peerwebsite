@@ -134,7 +134,6 @@ A typical PEER field school takes participants through a development arc.  We st
 
 PEER field schools are responsive to the needs of participants. In addition to the typical coverage outlined above, we also have developed additional modules to enrich their learning and meet their professional development needs. Additional modules include:
 
-&nbsp;  
 
 * Research communication: talking to skeptical colleagues about your research; making beautiful posters; conducting literature reviews and situating your work in a scholarly conversation; how, when, and where to publish your work.
 * Research methods: autoethnography; conducting interviews; analyzing classroom data; fundamentals of descriptive statistics; getting started in developing a survey; design-based research projects
@@ -149,13 +148,13 @@ Some field schools are longer or shorter. Each field school is tuned to the need
 :::{.g-col-1 .text-center}
 # I want to host a Field School.
 
-Fabulous! [Contact the directors](contact.qmd) to learn about how.
+Fabulous! Check out [hosting opportunities](model/localhost.qmd) to learn about how.
 :::
 
 :::{.g-col-1 .text-center}
 # I want to join a field school.
 
-Exciting! Check out [upcoming field schools](schools/index.qmd).
+Exciting! Check out [upcoming field schools](schools/index.qmd) to see if there's one near you.
 :::
 ::::
 :::::
