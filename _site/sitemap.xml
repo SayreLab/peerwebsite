@@ -34,7 +34,7 @@
   </url>
   <url>
     <loc>https://peerinstitute.org/index.html</loc>
-    <lastmod>2024-01-10T12:33:24.360Z</lastmod>
+    <lastmod>2024-01-18T18:31:10.893Z</lastmod>
   </url>
   <url>
     <loc>https://peerinstitute.org/model/localhost.html</loc>
@@ -51,5 +51,9 @@
   <url>
     <loc>https://peerinstitute.org/template.html</loc>
     <lastmod>2024-01-10T12:33:24.366Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/results.html</loc>
+    <lastmod>2024-01-18T18:37:56.689Z</lastmod>
   </url>
 </urlset>

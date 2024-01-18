@@ -1,0 +1,61 @@
+---
+# Results of PEER field schools
+title: "PEER results"
+subtitle: "PEER supports participants on their education research journeys"
+
+sidebar: false
+title-block-banner: "images/rainbow.jpg"
+page-layout: article
+toc: false
+suppress: true
+---
+
+PEER participants walk away with the tools to push forward on their education research goals and a community to support them. Whether someone is participating in PEER for the first time or returning for the second (or nth) time, participants have a positive experience.
+
+:::: {.list .grid .quarto-listing-cols-3 .text-black}
+
+::: {.g-col-1 .card .card-body .text-center .border-primary .bg-white}
+![](/images/avatars/avatar03.png){width=40%}
+
+If you are interested in conducting research and don’t know where begin or feel overwhelmed, the PEER field school is perfect to give you the boost you need to help you continue heading in the right direction.
+:::
+
+::: {.g-col-1 .card .card-body .text-center .border-primary .bg-white}
+![](/images/avatars/avatar04.png){width=40%}
+
+I am excited about doing research again. I feel like this program has reminded my reasons for why I want to do research.
+:::
+
+::: {.g-col-1 .card .card-body .text-center .border-primary .bg-white}
+![](/images/avatars/avatar02.png){width=40%}
+
+It was affirming to hear that my work is interesting and also great feedback on where to refine and define pieces. It was great to have time to think deeply on my project and its process.
+:::
+:::
+
+
+
+
+## PEER Publications and Presentations
+
+A compiled list of publications and presentations by individuals across the PEER host sites are available showing individual and collaborative research being done.  
+
+[List of PEER Publications Here](https://www.rit.edu/castle/sites/rit.edu.castle/files/images/10-09-20_Compiled%20PEER%20Pubs_Pres%20.pdf)
+
+Method 1: HTML iframe
+```{=HTML}
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Display Table</title>
+</head>
+<body>
+
+  <h1>Displaying Table from Another HTML File</h1>
+
+  <iframe src="module-spreadsheet.html" width="100%" height="600px" frameborder="0"></iframe>
+
+</body>
+</html>
+
+```
