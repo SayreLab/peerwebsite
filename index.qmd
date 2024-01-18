@@ -10,6 +10,8 @@ toc: false
 suppress: true
 ---
 
+{{< include /_prefix.qmd >}}
+
 ## What is PEER?
 
 The Professional development for Emerging Education Researchers (PEER) Institute supports scholars as they become education researchers and expand their research expertise.  PEER focuses on Discipline-based Education Research, advancing both scholarship and teaching goals that are valued at all types of academic institutions.
@@ -34,7 +36,7 @@ In our intensive, experiential field schools, we cover fundamental skills like g
 Wherever you're at, we'll help you take your research to the next level.
 
 :::{.text-center}
-[More Information](about.qmd){.btn role="button" .btn-primary .rounded-pill}
+[More Information](model/){.btn role="button" .btn-primary .rounded-pill}
 :::
 
 
@@ -102,87 +104,5 @@ Wherever you're at, we'll help you take your research to the next level.
 
 Whether you’re just getting started, looking to stretch into new projects or methodologies, or seeking community and support around education research, we’re happy to have you. Upcoming field schools and workshops will be held in the US as well as internationally (as travel permits).
 
-See the [Schools page](/schools/index.qmd) for more details and join the [announcements list](contact.qmd#i-want-to-join-the-mailing-list) to hear about upcoming field schools and workshops.
+`r invitation.cards(c("announcements", "upcoming"))`
 
-{{< include /_events-and-host.qmd >}}
-
-::::::: {.quarto-listing .quarto-listing-container-grid}
-:::::: {.list .grid .quarto-listing-cols-2}
-
-::::: {.g-col-1 .card}
-:::: {.card-header .text-center .card-title}
-
-### Virtual Gateway Workshop
-
-::::
-
-::::{ .card-body .text-left}
-
-:::{.card-subtitle .mb-2 .text-muted}
-Online
-:::
-
-Just getting started in education research, or curious about what PEER is like? Join us for a 90-minute virtual gateway workshop on October 5, 4:30-6:00 eastern time.
-
-
-
-:::{.more-info-button .text-center}
-
-[More Information](schools/virtual-gateway/index.qmd){.btn role="button" .btn-primary .rounded-pill}
-:::
-
-::::
-:::::
-
-::::: {.g-col-1 .card}
-:::: {.card-header .text-center .card-title}
-
-### Winter Field School: Chicago
-
-::::
-
-::::{ .card-body .text-left}
-
-:::{.card-subtitle .mb-2 .text-muted}
-December 14-17, 2023
-:::
-
-Ready for a field school? PEER is offering an introductory field school hosted at DePaul University, and open to emerging education researchers.
-
-
-
-:::{.more-info-button .text-center}
-
-[More Information](schools/peer-chicago-2023/index.qmd){.btn role="button" .btn-primary .rounded-pill}
-:::
-
-::::
-:::::
-::::::
-:::::::
-
-
-
-## PEER Publications and Presentations
-
-A compiled list of publications and presentations by individuals across the PEER host sites are available showing individual and collaborative research being done.  
-
-[List of PEER Publications Here](https://www.rit.edu/castle/sites/rit.edu.castle/files/images/10-09-20_Compiled%20PEER%20Pubs_Pres%20.pdf)
-
-Method 1: HTML iframe
-```{=HTML}
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Display Table</title>
-</head>
-<body>
-
-  <h1>Displaying Table from Another HTML File</h1>
-
-  <iframe src="module-spreadsheet.html" width="100%" height="600px" frameborder="0"></iframe>
-
-</body>
-</html>
-
-```

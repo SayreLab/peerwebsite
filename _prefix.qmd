@@ -1,0 +1,91 @@
+```{r}
+#| label: load-packages
+#| include: false
+
+#library(tidyverse)
+#library(Rfast)
+#library(lorem)
+#library(knitr)
+#library(stringr)
+```
+
+```{r}
+#| label: card-contents
+#| include: false
+
+# The database of invitation cards. 
+# Each card has: name, title, subtitle, body, link. 
+
+card.db <- list(
+  hosting = c(
+    "Bring PEER to you!"  ,                                                                                                                                                                                                               
+    "Would you like to host a PEER field school?" ,                                                                                                                                                                                       
+    "Hosting is a great choice if you want to grow or strengthen your local community.  Regional field schools typically cover our foundational material over 4-6 days.  We’ll work with you to make sure our workshops meet your needs.",
+    "/model/localhost.qmd"     
+  ),
+  
+  announcements = c(
+    "Join the list!",                                                                                                                              
+    "Curious about other possibilities?" ,                                                                                                         
+    "Don't miss out on PEER events.\n\nJoin our announcements list to hear about upcoming field schools, virtual gateways, and other PEER events.",
+    "/contact.qmd"     
+  ),
+  
+  upcoming = c(
+    "Upcoming events",
+    "Ready to grow your research skills?",
+    "PEER offers in-person and virtual events for emerging education researchers.  Just getting started in education research, or curious about what PEER is like? Join us for a 90-minute virtual gateway workshop.  Ready for a longer experience?  Apply for an upcoming field school.",
+    "/schools/"
+  ),
+  
+  virtual = c(
+    "Virtual Gateway Workshop",
+    "Free and online",
+    "Just getting started in education research, or curious about what PEER is like? Join us for a 90-minute virtual gateway workshop.",
+    "/schools/virtual-gateway/index.qmd"
+  )
+  
+)
+
+```
+
+```{r}
+#| label: load-cards
+#| include: false
+
+# Handle invitation cards
+
+invitation.cards <- function(card.names=c("upcoming","announcements")) {
+	card.block <- paste0("::::::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-",
+			length(card.names),
+			"}\n\n")
+
+	for(a in 1:length(card.names)) {
+	  if(card.names[a] %in% names(card.db)) {
+      card.block <- paste0(card.block,
+                        "::::: {.g-col-1 .card}\n:::: {.card-header .text-center .card-title .bg-primary}\n### ",
+                        card.db[[card.names[a]]][1],
+                        "\n::::\n\n::::{.card-body .text-left}\n:::{.card-subtitle .mb-2 .text-primary}\n",
+                        card.db[[card.names[a]]][2],
+                        "\n:::\n\n",
+                        card.db[[card.names[a]]][3],
+                        "\n\n:::{.more-info-button .text-center}\n\n[More Information](",
+                        card.db[[card.names[a]]][4],
+                        "){.btn role=\"button\" .btn-primary .rounded-pill}\n:::\n\n::::\n:::::\n\n"
+      )
+	  } else {
+	    card.block <- paste0(card.block,
+	                         "::::: {.g-col-1 .card}\n",
+	                         card.names[a],
+	                         " not found. \n:::::\n\n"
+	    )
+	  } #end if
+	  
+	} #end for
+		card.block <- paste0(card.block,":::::::\n\n")
+		return(card.block)
+} # end function
+
+
+
+```

@@ -1,63 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://peerinstitute.org/workshops.html</loc>
-    <lastmod>2024-01-18T19:19:50.718Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/schools/virtual-gateway/index.html</loc>
-    <lastmod>2024-01-10T12:33:24.365Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/schools/peer-chicago-2023/index.html</loc>
-    <lastmod>2024-01-10T12:33:24.364Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/schools/index.html</loc>
-    <lastmod>2024-01-18T19:20:13.790Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/model/index.html</loc>
-    <lastmod>2024-01-18T19:20:00.302Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/get-involved.html</loc>
-    <lastmod>2024-01-18T19:20:04.954Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/about.html</loc>
-    <lastmod>2024-01-10T12:33:24.318Z</lastmod>
-  </url>
-  <url>
     <loc>https://peerinstitute.org/contact.html</loc>
-    <lastmod>2024-01-18T19:19:51.875Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/index.html</loc>
-    <lastmod>2024-01-18T19:20:17.376Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/model/localhost.html</loc>
-    <lastmod>2024-01-18T19:19:51.368Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/schools/lorem-ipsum/index.html</loc>
-    <lastmod>2024-01-10T12:33:24.363Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/schools/peer-chicago-2023/syllabus.html</loc>
-    <lastmod>2024-01-10T12:33:24.365Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/template.html</loc>
-    <lastmod>2024-01-10T12:33:24.366Z</lastmod>
+    <lastmod>2024-01-18T23:32:02.316Z</lastmod>
   </url>
   <url>
     <loc>https://peerinstitute.org/results.html</loc>
-    <lastmod>2024-01-18T18:37:56.689Z</lastmod>
+    <lastmod>2024-01-18T23:33:01.426Z</lastmod>
   </url>
   <url>
-    <loc>https://peerinstitute.org/hosting.html</loc>
-    <lastmod>2024-01-18T18:59:51.676Z</lastmod>
+    <loc>https://peerinstitute.org/index.html</loc>
+    <lastmod>2024-01-18T23:32:03.114Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/template.html</loc>
+    <lastmod>2024-01-18T23:32:03.472Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/model/index.html</loc>
+    <lastmod>2024-01-18T23:32:03.879Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/model/localhost.html</loc>
+    <lastmod>2024-01-18T23:32:04.473Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/schools/peer-chicago-2023/index.html</loc>
+    <lastmod>2024-01-18T23:32:04.892Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/schools/peer-chicago-2023/syllabus.html</loc>
+    <lastmod>2024-01-18T23:32:07.318Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/schools/workshops.html</loc>
+    <lastmod>2024-01-18T23:32:54.374Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/schools/template/index.html</loc>
+    <lastmod>2024-01-18T23:32:08.097Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/schools/template/syllabus.html</loc>
+    <lastmod>2024-01-18T23:32:10.567Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/schools/lorem-ipsum/index.html</loc>
+    <lastmod>2024-01-18T23:32:10.874Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/schools/virtual-gateway/index.html</loc>
+    <lastmod>2024-01-18T23:32:11.290Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/schools/index.html</loc>
+    <lastmod>2024-01-18T23:32:59.766Z</lastmod>
   </url>
 </urlset>

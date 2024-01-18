@@ -12,6 +12,8 @@ toc: false
 suppress: true 
 ---
 
+{{< include /_prefix.qmd >}}
+
 ## How can PEER help?
 
 Is your school struggling to promote research activity or scholarly teaching among your faculty? Do you have a nascent education research group that you want to strengthen or grow? Do your graduate students need targeted mentoring in developing their dissertation projects and becoming researchers?  
@@ -23,7 +25,9 @@ Maybe you want help building community among regional schools or reaching across
 
 :::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
 
-![](/images/sayrelab.png){fig-alt="lab" width="20%"}
+:::{.bi .bi-geo-alt-fill style="font-size: 70px"}
+
+:::
 
 Connect locally with existing and potential education researchers
 :::
@@ -31,14 +35,18 @@ Connect locally with existing and potential education researchers
 
 :::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
 
-![](/images/sayrelab.png){fig-alt="lab" width="20%"}
+:::{.bi .bi-building-fill-up style="font-size: 70px"}
+
+:::
 
 Kick-start multidisciplinary education research groups
 :::
 
 :::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
 
-![](/images/sayrelab.png){fig-alt="lab" width="20%"}
+:::{.bi .bi-person-plus-fill style="font-size: 70px"}
+
+:::
 
 Elevate personal and institutional visibility
 :::
@@ -120,7 +128,7 @@ Getting started with research design | building research interests into robust r
  
 : {.striped}
 
-See [Sample Field School](/workshops.qmd) for an example of what a field school might look like.
+See [Sample Field School](/schools/workshops.qmd) for an example of what a field school might look like.
 
 Additionally, we can give colloquium-style talks to broader audiences at your institution. Want something else? [Contact](/contact.qmd) Eleanor Sayre for more ideas, or join the [announcements list](/contact.qmd#i-want-to-join-the-mailing-list) to hear about new opportunities.
 
@@ -148,7 +156,5 @@ Pricing depends on the number of facilitators required for the field school and 
 We are happy to schedule time for institutional resources during a field school! You will work with PEER facilitators to decide how that fits into the goals of the field school.
 :::
 
-
-{{< include ../_events-and-host.qmd >}}
-
+`r invitation.cards(c("announcements", "upcoming"))`
 

@@ -45,53 +45,38 @@ listing:
       sort: "date desc"
 ---
 
+{{< include /_prefix.qmd >}}
+
 ## PEER Field Schools
 
-In a PEER Field school, we cover fundamental skills like generative writing and collaborative feedback as well as foundational topics like choosing theoretical frameworks and matching research questions with data streams.  
+In a PEER Field school, you will work intensively on your research project with your co-participants and our expert facilitators. The PEER curriculum covers fundamental skills like generative writing and collaborative feedback as well as foundational topics like choosing theoretical frameworks and matching research questions with data streams.  
 
-Field schools are offered in-person only.  Join a Field School community for real-time collaboration and mutual growth. Whether they're a regional group of researchers in your area, or a national community of education researchers, your PEER co-participants will support you as you learn together. Each Field School serves a slightly different population, we tune the curriculum to match your needs. 
-
-You will work intensively on your project with your co-participants and our expert facilitators. Because you're working on your project all along, you apply your growing skills immediately.  Your project will experience a ton of growth.  
+Field schools are offered in-person only. Whether they're a regional group of researchers in your area, or a national community of education researchers, your PEER co-participants will support you as you learn together. Each Field School serves a slightly different population, and we tune the curriculum to match your needs. 
 
 Wherever you're at, we'll help you take your research to the next level.
 
-## Upcoming Field Schools
-
-Upcoming regional schools will be held in the US as well as internationally (as travel permits). Entrance requirements for regional schools vary; contact [Eleanor Sayre](https://zaposa.com/contact-me) or join the [announcements list](../contact.qmd) for details.
-
-Note: Since the syllabus for each field school is adapted to the needs of the participants, the syllabi for a given field school are only available to registered participants. However, a sample syllabus is available on the [Sample Field School](../workshops.qmd) page.
-
-&nbsp;  
-&nbsp;  
+## Upcoming Field Schools 
 
 :::{#upcoming-field-school-listing}
 :::
 
-&nbsp;  
-&nbsp;  
+### Don't see one that fits your needs?
+
+`r invitation.cards(c("announcements", "hosting"))`
+
 
 ## Gateway Workshops
 
 Gateway workshops are for those who are just getting started in education research, want to hone your project design skills, or are curious about PEER, but don’t want to commit to a full field school.
 
-&nbsp;  
-&nbsp;  
-
 :::{#gateway-workshop-listing}
 :::
 
-&nbsp;  
-&nbsp;  
 
 ## Past Field Schools
 
 Below are field schools that have already concluded.
 
-&nbsp;  
-&nbsp;  
 
 :::{#past-field-school-listing}
 :::
-
-&nbsp;  
-&nbsp;  

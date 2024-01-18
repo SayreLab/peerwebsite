@@ -1,13 +1,15 @@
 ---
 title: "Sample Field School"
 
-title-block-banner: "images/rainbow.jpg"
+title-block-banner: "/images/rainbow.jpg"
 
 page-layout: article
 toc: false
 suppress: true
 tbl-cap-location: top
 ---
+{{< include /_prefix.qmd >}}
+
 
 # Field School Learning Outcomes
 
@@ -142,19 +144,5 @@ PEER field schools are responsive to the needs of participants. In addition to t
 
 Some field schools are longer or shorter. Each field school is tuned to the needs of the participants, who also receive materials related to each module such as slides, handouts, exercises, and readings.
 
-::::: {.quarto-listing .quarto-listing-container-grid}
-:::: {.list .grid .quarto-listing-cols-2}
+`r invitation.cards(c("hosting", "upcoming"))`
 
-:::{.g-col-1 .text-center}
-# I want to host a Field School.
-
-Fabulous! Check out [hosting opportunities](model/localhost.qmd) to learn about how.
-:::
-
-:::{.g-col-1 .text-center}
-# I want to join a field school.
-
-Exciting! Check out [upcoming field schools](schools/index.qmd) to see if there's one near you.
-:::
-::::
-:::::

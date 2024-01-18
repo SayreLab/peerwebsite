@@ -12,10 +12,20 @@ suppress: true
 
 ## I'm a education researcher, and I want to get involved!
 
-&nbsp;  
 
 :::::: {.quarto-listing .quarto-listing-container-grid}
-::::: {.list .grid .quarto-listing-cols-2}
+::::: {.list .grid .quarto-listing-cols-3}
+
+::::{.g-col-1 .text-center}
+:::{.bi .bi-people-fill style="font-size: 85px"}
+
+:::
+
+:::{hosting-button}
+[BRING PEER TO YOU](model/localhost.qmd){.btn role="button" .btn-primary .rounded-pill .text-center}
+:::
+::::
+
 ::::{.g-col-1 .text-center}
 :::{.bi .bi-globe style="font-size: 85px"}
 
@@ -25,15 +35,12 @@ suppress: true
 [BECOME A FACILITATOR](https://www.zaposa.com/contact-me){.btn role="button" .btn-primary .rounded-pill .text-center}
 :::
 
-&nbsp;  
-
 Contact [Eleanor Sayre](https://www.zaposa.com/contact-me) for more details
 
 ::::
 
 ::::{.g-col-1 .text-center}
-
-:::{.bi .bi-people-fill style="font-size: 85px"}
+:::{.bi .bi-graph-up style="font-size: 85px"}
 
 :::
 

@@ -11,6 +11,8 @@ toc: false
 suppress: true 
 ---
 
+{{< include /_prefix.qmd >}}
+
 ## Welcome to PEER!
 
 At PEER Field Schools, you'll delve into research project development and best practices, engage with like-minded professionals, and gain invaluable insights into the world of educational research. Our expert facilitators will guide you through hands-on activities and collaborative discussions, helping you shape your project and engage your passion. 
@@ -50,8 +52,8 @@ In a PEER field school, you'll work in a supportive community to build your skil
 
 * Fundamental skills: generative writing, growth mindset, "yes, and", mentoring students, parallel processes and iteration.
 * Research design: refining research questions, choosing theoretical frameworks, matching data streams to research questions and analysis methods, planning research projects, and building resilient and flexible projects.  
-* Communicating your research: encapsulating your project, developing an elevator pitch, reading research literature, publishing peer-reviewed papers, negotiating authorship, finding collaborators, and giving robust constructive feedback on each other's projects.
+* Research communication: encapsulating your project, developing an elevator pitch, reading research literature, publishing peer-reviewed papers, negotiating authorship, finding collaborators, and giving robust constructive feedback on each other's projects.
 
 Does this sound like a lot?  It is.  PEER field schools are intense, experiential, and supportive. You don't just learn these things abstractly; you actively practice them with your project. You are ready for PEER when you are enthusiastic about stretching your skills, refining your project, and getting energized about doing research. 
 
-{{< include ../_events-and-host.qmd >}}
+`r invitation.cards(c("announcements", "upcoming"))`
