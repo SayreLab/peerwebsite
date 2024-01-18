@@ -82,7 +82,7 @@ Wherever you're at, we'll help you take your research to the next level.
 [](schools/index.qmd)
 
 :::{.card-body .text-center style="color:var(--bs-body-color)"}
-![](images/pants.png){fig-alt="Eleanor Sayre" width="50%"}
+![](images/table.png){fig-alt="Eleanor Sayre" width="50%"}
 
 #### [Field Schools](schools/index.qmd){.quarto-grid-link .card-title}
 
@@ -102,7 +102,7 @@ Wherever you're at, we'll help you take your research to the next level.
 
 Whether you’re just getting started, looking to stretch into new projects or methodologies, or seeking community and support around education research, we’re happy to have you. Upcoming field schools and workshops will be held in the US as well as internationally (as travel permits).
 
-See the Schools page for more details and join the [announcements list](contact.qmd#i-want-to-join-the-mailing-list) to hear about upcoming field schools and workshops.
+See the [Schools page](/schools/index.qmd) for more details and join the [announcements list](contact.qmd#i-want-to-join-the-mailing-list) to hear about upcoming field schools and workshops.
 
 {{< include /_events-and-host.qmd >}}
 
