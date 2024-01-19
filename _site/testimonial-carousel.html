@@ -9,7 +9,8 @@
   <title>Bootstrap Carousel Example</title>
   <style>
     .carousel-control-next,
-    .carousel-control-prev /*, .carousel-indicators */ {
+    .carousel-control-prev /*, .carousel-Controls */,
+    .carousel-indicators {
       filter: invert(100%);
     }
 
@@ -34,7 +35,20 @@
 
   <div style="display: flex; flex-direction: row; justify-content: center;">
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" style="width: 50%;">
-      <div class="carousel-inner">
+      <ol class="carousel-indicators">
+        <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+        <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+        <li data-target="#carouselExampleControls" data-slide-to="3"></li>
+        <li data-target="#carouselExampleControls" data-slide-to="4"></li>
+        <li data-target="#carouselExampleControls" data-slide-to="5"></li>
+        <li data-target="#carouselExampleControls" data-slide-to="6"></li>
+        <li data-target="#carouselExampleControls" data-slide-to="7"></li>
+        <li data-target="#carouselExampleControls" data-slide-to="8"></li>
+        <li data-target="#carouselExampleControls" data-slide-to="9"></li>
+        <li data-target="#carouselExampleControls" data-slide-to="10"></li>
+      </ol>
+      <div class="carousel-inner" style="margin-bottom: 3rem;">
         <div class="carousel-item active">
           <div class="card border-primary mx-auto card-body text-left" style="width: 50%;">
             <img src="images/avatars/avatar01.png" class="img-fluid mx-auto" style="max-width: 30%; margin-left: 0px!important; margin-bottom: 1rem;" alt="...">
