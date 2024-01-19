@@ -10,7 +10,7 @@ This project was built using Quarto, R, RStudio, and RTools, and hosted on GitHu
 
 ## Why Quarto?
 
-1. Quarto uses R Markdown and other packages and combines them into one system. 
+1. Quarto uses R Markdown and other packages and combines them into one system.
 2. It allows for simple content creation without having to install many other libraries or packages.
 3. Easy to create custom formats, and add to existing formats with shortcodes and filters.
 4. Quarto uses Lua to enable logic in custom metadata.
@@ -43,12 +43,12 @@ If you prefer using a CLI terminal and have added Quarto to Path, you can render
 If you prefer using an IDE, see the list below for recommended choices which link to tutorials in the Quarto documentation:
 
 * [Visual Studio Code](https://quarto.org/docs/get-started/hello/vscode.html)
-    * In the project's parent directory, open the command palette (Ctrl+Shift+P) and execute the command `Quarto: Render Project`
-    * An output will be created in `/_site/index.html`. There are different options to open it.
-        1. Search for the file on the parent directory in VS Code, right-click it, and click on Copy Path. Then, open a browser and paste the path on the search bar.
-        2. Open a file explorer and search for the file, then double-click it. It should open the file on your default browser.
+  * In the project's parent directory, open the command palette (Ctrl+Shift+P) and execute the command `Quarto: Render Project`
+  * An output will be created in `/_site/index.html`. There are different options to open it.
+    1. Search for the file on the parent directory in VS Code, right-click it, and click on Copy Path. Then, open a browser and paste the path on the search bar.
+    2. Open a file explorer and search for the file, then double-click it. It should open the file on your default browser.
 * [RStudio](https://quarto.org/docs/get-started/hello/rstudio.html)
-    * In the project's parent directory, on the top navigation bar, click on `Build` and then on `Render Website` or use Ctrl+Shift+B
+  * In the project's parent directory, on the top navigation bar, click on `Build` and then on `Render Website` or use Ctrl+Shift+B
 
 Quarto documentation also has tutorials for [Jupyter](https://quarto.org/docs/get-started/hello/jupyter.html), [Neovim](https://quarto.org/docs/get-started/hello/neovim.html), and [Text Editor](https://quarto.org/docs/get-started/hello/text-editor.html)
 
@@ -57,6 +57,7 @@ Quarto documentation also has tutorials for [Jupyter](https://quarto.org/docs/ge
 If `/_site` is not added to your `.gitignore` file, make sure you execute `quarto render` or render the website using an IDE before you commit changes.
 
 After you've rendered the site, use the common Git workflow:
+
 1. `git add .`
 2. `git commit -m"<commit name>"`
 3. `git push`
@@ -68,10 +69,12 @@ The website is currently being hosted on Netlify. To learn more about the hostin
 We've run into issues with the Registration Forms and how Netlify managed them in the past. If these issues arise again, try the following:
 
 On your CLI or IDE:
+
 * Re-render the project.
 * Perform the Git workflow to push the new content to GitHub.
 
 On Netlify:
+
 * Open your project and on the left navbar go to "Deploys".
 * You will see a content section on the page which contains a log or list of deploys.
 * On that content section's top right corner, there will be a dropdown box with the text "Trigger Deploy"
@@ -80,6 +83,11 @@ On Netlify:
 
 ## Team members and collaborators
 
-* Eleanor Sayre: [GitHub Profile](https://github.com/esayre)
+* Eleanor Sayre: [GitHub Profile](https://github.com/esayre), [Personal Website](https://zaposa.com)
+* Scott Franklin: [Github Profile](https://github.com/svfranklin/)
 * Haimar Rubio: [GitHub Profile](https://github.com/HaimarR)
 * Christian Solorio
+
+## License
+
+Peer Institute © 2024 by Eleanor Sayre, Scott Franklin, Haimar Rubio, and Christian Solorio is licensed under Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/).
