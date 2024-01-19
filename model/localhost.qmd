@@ -12,6 +12,8 @@ toc: false
 suppress: true 
 ---
 
+{{< include /_prefix.qmd >}}
+
 ## How can PEER help?
 
 Is your school struggling to promote research activity or scholarly teaching among your faculty? Do you have a nascent education research group that you want to strengthen or grow? Do your graduate students need targeted mentoring in developing their dissertation projects and becoming researchers?  
@@ -23,7 +25,9 @@ Maybe you want help building community among regional schools or reaching across
 
 :::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
 
-![](/images/sayrelab.png){fig-alt="lab" width="20%"}
+:::{.bi .bi-geo-alt-fill style="font-size: 70px"}
+
+:::
 
 Connect locally with existing and potential education researchers
 :::
@@ -31,14 +35,18 @@ Connect locally with existing and potential education researchers
 
 :::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
 
-![](/images/sayrelab.png){fig-alt="lab" width="20%"}
+:::{.bi .bi-building-fill-up style="font-size: 70px"}
+
+:::
 
 Kick-start multidisciplinary education research groups
 :::
 
 :::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
 
-![](/images/sayrelab.png){fig-alt="lab" width="20%"}
+:::{.bi .bi-person-plus-fill style="font-size: 70px"}
+
+:::
 
 Elevate personal and institutional visibility
 :::
@@ -70,6 +78,8 @@ What do your people need? We’ll work with you to make sure our workshops help 
 
 Local hosts build and strengthen a local community for education research. Becoming a local host is an exciting way to work with PEER facilitators to put on a successful field school that will suit the context and needs of your community. 
 
+Local hosting offers a unique opportunity to connect people at your institution that are interested in or doing education research.  You can help people around you do more education research, and do it better.  From kick-starting your local DBER group to energizing a SoTL community, hosting a PEER field school is a great way to build capacity for education research while you elevate your personal and institutional visibility.
+
 Local hosts ...
 
 * Lead the logistics of bringing PEER to their community (funding, scheduling, securing supplies, organizing food, etc.)
@@ -80,6 +90,12 @@ Local hosts ...
 * Assist in the application and registration process
 
 We'll work with you every step of the way so that your field school is successful. 
+
+### Regional Field School Hosting
+
+Are you a part of a regional consortium of Centers for Teaching and Learning or Education Research? We can do regional field schools too! A regional field school brings together people near you to build capacity and community.  It's a great way to support (or jump-start!) regional collaborations.  If you're at a smaller school, consider inviting your friends and colleagues at nearby institutions so that everyone can grow together. 
+
+We’ll work with you to make sure our workshops are well-tuned to the things your participants need.
 
 ## Logistics: how many, when, how much
 
@@ -112,13 +128,33 @@ Getting started with research design | building research interests into robust r
  
 : {.striped}
 
-See [Sample Field School](/workshops.qmd) for an example of what a field school might look like.
+See [Sample Field School](/schools/workshops.qmd) for an example of what a field school might look like.
 
 Additionally, we can give colloquium-style talks to broader audiences at your institution. Want something else? [Contact](/contact.qmd) Eleanor Sayre for more ideas, or join the [announcements list](/contact.qmd#i-want-to-join-the-mailing-list) to hear about new opportunities.
 
+## FAQ
 
+:::{.callout-note collapse="true" title="Who is PEER for?"}
+PEER is for people looking to build their theoretical and methodological knowledge of education research and the scholarship of teaching and learning. 
+:::
 
+:::{.callout-note collapse="true" title="When can PEER come to us?"}
+PEER field schools are scheduled about a year in advance and take about six months to plan. 
+:::
 
-{{< include ../_events-and-host.qmd >}}
+:::{.callout-note collapse="true" title="How many participants can be in a field school?"} 
+Whatever fits your space! Field schools have been 12-60 participants. You should plan that most of your participants will attend every workshop in the field school. Some workshops are ok for many more participants, depending on the size of our facilitation team. 
 
+:::
+
+:::{.callout-note collapse="true" title="What does it cost? "}
+Pricing depends on the number of facilitators required for the field school and your location. Contact us for more information. 
+
+:::
+
+:::{.callout-note collapse="true" title="Can I involve my Center for Teaching and Learning or IRB Office? "}
+We are happy to schedule time for institutional resources during a field school! You will work with PEER facilitators to decide how that fits into the goals of the field school.
+:::
+
+`r invitation.cards(c("announcements", "upcoming"))`
 
