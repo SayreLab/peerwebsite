@@ -161,6 +161,47 @@ Ready for a field school? PEER is offering an introductory field school hosted a
 ::::::
 :::::::
 
+## Participants love PEER
+
+
+```{=HTML}
+
+<div>
+<img src="images\avatars\avatar01.png" hidden>
+<img src="images\avatars\avatar02.png" hidden>
+<img src="images\avatars\avatar03.png" hidden>
+<img src="images\avatars\avatar04.png" hidden>
+<img src="images\avatars\avatar05.png" hidden>
+<img src="images\avatars\avatar06.png" hidden>
+<img src="images\avatars\avatar07.png" hidden>
+<img src="images\avatars\avatar08.png" hidden>
+<img src="images\avatars\avatar09.png" hidden>
+<img src="images\avatars\avatar10.png" hidden>
+<img src="images\avatars\avatar11.png" hidden>
+<img src="images\avatars\avatar12.png" hidden>
+<img src="images\avatars\avatar13.png" hidden>
+<img src="images\avatars\avatar14.png" hidden>
+<img src="images\avatars\avatar15.png" hidden>
+
+<!-- Insert the content of the carousel HTML file using an iframe -->
+<iframe src="testimonial-carousel.html" width="100%" height="400px" frameborder="0"></iframe>
+
+<!-- Additional content for the main HTML file -->
+
+<!-- Bootstrap JS and Popper.js (required for Bootstrap) -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+crossorigin="anonymous"></script>
+
+</div>
+
+```
 
 
 ## PEER Publications and Presentations

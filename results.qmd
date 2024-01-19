@@ -15,7 +15,7 @@ PEER participants walk away with the tools to push forward on their education re
 :::: {.list .grid .quarto-listing-cols-3 .text-black}
 
 ::: {.g-col-1 .card .card-body .text-center .border-primary .bg-white}
-![](/images/avatars/avatar03.png){width=40%}
+![](/images/avatars/avatar04.png){width=40%}
 
 If you are interested in conducting research and don’t know where begin or feel overwhelmed, the PEER field school is perfect to give you the boost you need to help you continue heading in the right direction.
 :::
