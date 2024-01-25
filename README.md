@@ -86,7 +86,7 @@ On Netlify:
 * Eleanor Sayre: [GitHub Profile](https://github.com/esayre), [Personal Website](https://zaposa.com)
 * Scott Franklin: [Github Profile](https://github.com/svfranklin/)
 * Haimar Rubio: [GitHub Profile](https://github.com/HaimarR)
-* Christian Solorio
+* Christian Solorio [Github Profile](https://github.com/cdsolorio)
 
 ## License
 
