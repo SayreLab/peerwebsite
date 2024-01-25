@@ -56,3 +56,4 @@ rsconnect/
 notes.txt
 
 /_freeze
+/.luarc.json

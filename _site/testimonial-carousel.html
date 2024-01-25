@@ -4,8 +4,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link id="bootstrap-theme" rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/yeti/bootstrap.min.css"
+  integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
   <title>Bootstrap Carousel Example</title>
   <style>
     .carousel-control-next,
@@ -33,10 +34,31 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
+    body.custom-modal.show .modal-backdrop {
+      background-color: red!important;
+    }
   </style>
 </head>
 
 <body>
+
+  <!-- Modal container -->
+  <div class="modal fade custom-modal" id="cardModal" tabindex="-1" role="dialog" aria-labelledby="cardModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <!-- Replace the h5 with an img element for the icon -->
+          <img id="modalIcon" alt="Icon" style="max-width: 30px; max-height: 30px;">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <p id="modalText"></p>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <div style="display: flex; flex-direction: row; justify-content: center;">
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" style="width: 80%;">
@@ -45,6 +67,7 @@
         <li data-target="#carouselExampleControls" data-slide-to="1"></li>
         <li data-target="#carouselExampleControls" data-slide-to="2"></li>
         <li data-target="#carouselExampleControls" data-slide-to="3"></li>
+        <li data-target="#carouselExampleControls" data-slide-to="4"></li>
       </ol>
       <div class="carousel-inner" style="margin-bottom: 3rem;">
         <div class="carousel-item active">
@@ -55,7 +78,7 @@
             </div>
             <div class="card border-primary mx-auto card-body text-left" style="width: 50%;">
               <img src="./images/avatars/avatar02.png" class="img-fluid mx-auto" alt="..." style="max-width: 30%; margin-left: 0px!important; margin-bottom: 1rem;">
-              <p class="card-text">“This is my first PEER where I am developing a whole new project, which I am loving doing in this space. I'm getting tons of new ideas from others as it takes form.”</p>
+              <p class="card-text">“This is my first PEER where I am developing a whole new project, which I am loving doing in this space. I’m getting tons of new ideas from others as it takes form.”</p>
             </div>
             <div class="card border-primary mx-auto card-body text-left" style="width: 50%;">
               <img src="./images/avatars/avatar03.png" class="img-fluid mx-auto" alt="..." style="max-width: 30%; margin-left: 0px!important; margin-bottom: 1rem;">
@@ -67,7 +90,7 @@
           <div class="d-flex justify-content-around">
             <div class="card border-primary mx-auto card-body text-left" style="width: 50%;">
               <img src="images/avatars/avatar04.png" class="img-fluid mx-auto" alt="..." style="max-width: 30%; margin-left: 0px!important; margin-bottom: 1rem;">
-              <p class="card-text">“As a novice researcher, I made progress on my identity through PEER. I have a stronger sense of belonging and I'm able to contribute something of value too.</p>
+              <p class="card-text">“As a novice researcher, I made progress on my identity through PEER. I have a stronger sense of belonging and feel like I am able to contribute something of value too.”</p>
             </div>
             <div class="card border-primary mx-auto card-body text-left" style="width: 50%;">
               <img src="./images/avatars/avatar05.png" class="img-fluid mx-auto" alt="..." style="max-width: 30%; margin-left: 0px!important; margin-bottom: 1rem;">
@@ -83,15 +106,15 @@
           <div class="d-flex justify-content-around">
             <div class="card border-primary mx-auto card-body text-left" style="width: 50%;">
                 <img src="images/avatars/avatar07.png" class="img-fluid mx-auto" alt="..." style="max-width: 30%; margin-left: 0px!important; margin-bottom: 1rem;">
-                <p class="card-text">“It was cool to be able to help with other projects in a field outside my own. I was able to see how interdisciplinary and interconnected education research is.” </p>
+                <p class="card-text">“This was definitely one of the highlights of attending PEER: Improving self sense of belonging as a researcher in education and connecting with people in other disciplines as well.”</p>
             </div>
             <div class="card border-primary mx-auto card-body text-left" style="width: 50%;">
               <img src="./images/avatars/avatar08.png" class="img-fluid mx-auto" alt="..." style="max-width: 30%; margin-left: 0px!important; margin-bottom: 1rem;">
-              <p class="card-text">“I definitely saw growth in my skills and knowledge. It was great to build a sense of community and feel like others have similar 'blocks' as you do.”</p>
+              <p class="card-text">“It was cool to be able to help with other projects in a field outside my own. I was able to see how interdisciplinary and interconnected education research is.”</p>
             </div>
             <div class="card border-primary mx-auto card-body text-left" style="width: 50%;">
               <img src="./images/avatars/avatar09.png" class="img-fluid mx-auto" alt="..." style="max-width: 30%; margin-left: 0px!important; margin-bottom: 1rem;">
-              <p class="card-text">“If you are interested in conducting research and don't know where begin or feel overwhelmed, the PEER field school is perfect to give you the boost you need.”</p>
+              <p class="card-text">“I definitely saw growth in my skills and knowledge. It was great to build a sense of community and feel like others have similar ‘blocks’ as you do. This validated that I can/do think like a researcher and have similar experiences as other researchers.”</p>
             </div>
           </div>
         </div>
@@ -99,11 +122,31 @@
           <div class="d-flex justify-content-around">
             <div class="card border-primary mx-auto card-body text-left" style="width: 50%;">
               <img src="images/avatars/avatar10.png" class="img-fluid mx-auto" alt="..." style="max-width: 30%; margin-left: 0px!important; margin-bottom: 1rem;">
-              <p class="card-text">“This workshop was very helpful for me as I am thinking about expanding my research in education. I enjoyed the discussions, and I feel more confident about how to proceed with my research questions.”</p>
+              <p class="card-text">“This was a really good motivator as I was feeling stuck and unsupported. Thank you for this opportunity to build community of like-minded individuals”</p>
             </div>
             <div class="card border-primary mx-auto card-body text-left" style="width: 50%;">
                 <img src="./images/avatars/avatar11.png" class="img-fluid mx-auto" alt="..." style="max-width: 30%; margin-left: 0px!important; margin-bottom: 1rem;">
-                <p class="card-text">“This was definitely one of the highlights of attending PEER: Improving self sense of belonging as a researcher in education and connecting with people in other disciplines as well.”</p>
+                <p class="card-text">“If you are interested in conducting research and don’t know where begin or feel overwhelmed, the PEER field school is perfect to give you the boost you need to help you continue heading in the right direction. Generative writing is such a powerful tool. It was especially helpful for me because I have not been very good at putting things down on paper in the past.”</p>
+            </div>
+            <div class="card border-primary mx-auto card-body text-left" style="width: 50%;">
+              <img src="./images/avatars/avatar12.png" class="img-fluid mx-auto" alt="..." style="max-width: 30%; margin-left: 0px!important; margin-bottom: 1rem;">
+              <p class="card-text">“This workshop was very helpful for me as I am thinking about expanding my research in education. I enjoyed the discussions, and I feel more confident about how to proceed with my research questions.”</p>
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="d-flex justify-content-around">
+            <div class="card border-primary mx-auto card-body text-left" style="width: 50%;">
+              <img src="images/avatars/avatar10.png" class="img-fluid mx-auto" alt="..." style="max-width: 30%; margin-left: 0px!important; margin-bottom: 1rem;">
+              <p class="card-text">“In the PEER field school I learned what I will need to do to transform my math ed research question from an idea into an actual, realistic, legitimate project.”</p>
+            </div>
+            <div class="card border-primary mx-auto card-body text-left" style="width: 50%;">
+                <img src="./images/avatars/avatar11.png" class="img-fluid mx-auto" alt="..." style="max-width: 30%; margin-left: 0px!important; margin-bottom: 1rem;">
+                <p class="card-text">“Interviewing is actually easier than I thought it would be! I'm less scared to do it now.”</p>
+            </div>
+            <div class="card border-primary mx-auto card-body text-left" style="width: 50%;">
+              <img src="./images/avatars/avatar12.png" class="img-fluid mx-auto" alt="..." style="max-width: 30%; margin-left: 0px!important; margin-bottom: 1rem;">
+              <p class="card-text">“It feels great to find others who feel my research questions are important to someone other than me.”</p>
             </div>
           </div>
         </div>
@@ -122,18 +165,85 @@
       </a>
     </div>
   </div>
-  
-    <!-- Bootstrap JS and Popper.js (required for Bootstrap) -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-      integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-      crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-      integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
-      crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-      integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
-      crossorigin="anonymous"></script>
-  
+
+  <!-- jQuery -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+  integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+  crossorigin="anonymous"></script>
+
+  <!-- Popper.js -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+  integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+  crossorigin="anonymous"></script>
+
+  <!-- Bootstrap JS -->
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+  integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+  crossorigin="anonymous"></script>
+
+  <script>
+    window.onload = function () {
+      var modalCounter = 1; // New counter variable
+
+      document.querySelectorAll('.carousel-item').forEach(function (carouselItem) {
+        carouselItem.querySelectorAll('.card').forEach(function (card) {
+          const cardTextElement = card.querySelector('.card-text');
+          const cardText = cardTextElement.textContent.trim();
+          const cardIcon = card.querySelector('.card img');
+          const originalText = cardTextElement.textContent.trim();
+          const iconSrc = cardIcon ? cardIcon.getAttribute('src') : '';
+
+          const maxLength = 170;
+
+          if (cardText.length > maxLength) {
+            cardTextElement.textContent = originalText.substring(0, maxLength) + '... ';
+            const readMoreLink = document.createElement('a');
+            readMoreLink.href = '#';
+            readMoreLink.textContent = 'Read more';
+
+            // Modified onclick to pass modal ID
+            readMoreLink.onclick = function () {
+              openModal(originalText, iconSrc, modalCounter, readMoreLink);
+            };
+
+            cardTextElement.appendChild(readMoreLink);
+
+            modalCounter++; // Increment the modal counter
+          }
+        });
+      });
+
+      $('#cardModal').on('shown.bs.modal', function () {
+        $(this).addClass('custom-modal');
+      });
+
+      $('#cardModal').on('hidden.bs.modal', function () {
+        $(this).removeClass('custom-modal');
+      });
+    };
+
+    function openModal(text, iconSrc, modalID, readMoreLink) {
+      const modalIcon = document.getElementById('modalIcon');
+      const modalText = document.getElementById('modalText');
+
+      
+
+      if (modalIcon && iconSrc) {
+        modalIcon.src = iconSrc;
+      }
+
+      modalText.textContent = text;
+
+      // Update the modal ID dynamically
+      const dynamicModalID = `cardModal_${modalID}`;
+      const dynamicModal = new bootstrap.Modal(document.getElementById(dynamicModalID));
+      readMoreLink.setAttribute("data-target", "dynamicModal")
+      dynamicModal.show();
+    }
+  </script>
+
+      
+      
   </body>
   
   </html>

@@ -10,6 +10,8 @@ toc: false
 suppress: true
 ---
 
+{{< react FSCalendarComponent >}}
+
 {{< include /_prefix.qmd >}}
 
 ## What is PEER?
