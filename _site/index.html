@@ -212,12 +212,12 @@ tr:hover {
 
 
 
-<p></p><div id="react-FSCalendarComponent-bpDIgz4Y"></div><p></p>
+<p></p><div id="react-FSCalendarComponent-dkQbRbVF"></div><p></p>
 <section id="what-is-peer" class="level2">
 <h2 class="anchored" data-anchor-id="what-is-peer">What is PEER?</h2>
 <p>The Professional development for Emerging Education Researchers (PEER) Institute supports scholars as they become education researchers and expand their research expertise. PEER focuses on Discipline-based Education Research, advancing both scholarship and teaching goals that are valued at all types of academic institutions.</p>
 <p>At PEER, you will learn fundamental and applied research skills in a supportive and participatory research environment.</p>
-<p>You will delve into research project development and best practices, engage with like-minded professionals, and gain invaluable insights into the world of educational research. Our expert facilitators will guide you through hands-on activities and collaborative discussions, helping you shape your project and engage your passion.</p>
+<p>You will delve into research project development and best practices, engage with like-minded professionals, and gain invaluable insights into the world of educational research. Our expert facilitators will guide you through hands-on activities and collaborative discussions, helping you shape your project and engage your passion. Check out the <a href="https://peerinstitute-test.netlify.app/results">PEER Model</a> to learn more.</p>
 </section>
 <section id="getting-started-in-education-research-peer-is-for-you." class="level2">
 <h2 class="anchored" data-anchor-id="getting-started-in-education-research-peer-is-for-you.">Getting started in education research? PEER is for you.</h2>
@@ -685,7 +685,7 @@ const FSCalendarComponent = () => {
   const days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
   const timeSlots = ['Morning', 'Afternoon', 'Evening'];
 
-  const cardTitles = [
+  const moduleNames = [
     'Module 1', 'Module 2', 'Module 3',
     'Module 4', 'Module 5', 'Module 6',
     'Module 7', 'Module 8', 'Module 9',
@@ -695,38 +695,96 @@ const FSCalendarComponent = () => {
     'Module 19', 'Module 20', 'Module 21',
   ];
 
+  const moduleNamesAndDescriptions = {
+    'Module 1': 'Description 1', 'Module 2': 'Description 2', 'Module 3': 'Description 3',
+    'Module 4': 'Description 4', 'Module 5': 'Description 5', 'Module 6': 'Description 6',
+    'Module 7': 'Description 7', 'Module 8': 'Description 8', 'Module 9': 'Description 9',
+    'Module 10': 'Description 10', 'Module 11': 'Description 11', 'Module 12': 'Description 12',
+    'Module 13': 'Description 13', 'Module 14': 'Description 14', 'Module 15': 'Description 15',
+    'Module 16': 'Description 16', 'Module 17': 'Description 17', 'Module 18': 'Description 18',
+    'Module 19': 'Description 19', 'Module 20': 'Description 20', 'Module 21': 'Description 21',
+  }
+
+  const [selectedModule, setSelectedModule] = React.useState(null);
+  const [isModalOpen, setModalOpen] = React.useState(false);
+
+  const openModal = (moduleName) => {
+    console.log("modal open")
+    setSelectedModule(moduleName);
+    setModalOpen(true);
+  };
+
+  const closeModal = () => {
+    setSelectedModule(null);
+    setModalOpen(false);
+  };
+
   const renderCard = (day, timeSlot) => {
     const index = days.indexOf(day) * timeSlots.length + timeSlots.indexOf(timeSlot);
-    return <div key={index} className="card">{cardTitles[index]}</div>;
+    const moduleName = moduleNames[index];
+
+    return (
+      <div
+        key={index}
+        className="card"
+      >
+        <button
+          onClick={() => openModal(moduleName)}
+        >
+          {moduleName}
+        </button>
+      </div>
+    );
   };
 
   return (
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          {days.map(day => (
-            <th key={day}>{day}</th>
-          ))}
-        </tr>
-      </thead>
-      <tbody>
-        {timeSlots.map((slot, timeSlotIndex) => (
-          <tr key={slot}>
-            <td>{slot}</td>
+    <div>
+      {isModalOpen && (
+        <div className="modal">
+          <div className="modal-content">
+            <h2>{selectedModule}</h2>
+            <p>{moduleNamesAndDescriptions[selectedModule]}</p>
+            <button onClick={closeModal}>Close</button>
+          </div>
+        </div>
+      )}
+      <table>
+        <thead>
+          <tr>
+            <th></th>
             {days.map(day => (
-              <td key={`${slot}-${day}`}>
-                {renderCard(day, slot)}
-              </td>
+              <th key={day}>{day}</th>
             ))}
           </tr>
-        ))}
-      </tbody>
-    </table>
+        </thead>
+        <tbody>
+          {timeSlots.map((slot, timeSlotIndex) => (
+            <tr key={slot}>
+              <td>{slot}</td>
+              {days.map(day => (
+                <td key={`${slot}-${day}`}>
+                  {renderCard(day, slot)}
+                </td>
+              ))}
+            </tr>
+          ))}
+        </tbody>
+      </table>
+
+      {isModalOpen && (
+        <div className="modal">
+          <div className="modal-content">
+            <h2>{selectedModule}</h2>
+            <p>{moduleNamesAndDescriptions[selectedModule]}</p>
+            <button onClick={closeModal}>Close</button>
+          </div>
+        </div>
+      )}
+    </div>
   );
 };
 
-ReactDOM.render( <React.StrictMode>    <FSCalendarComponent/>  </React.StrictMode>,  document.getElementById("react-FSCalendarComponent-bpDIgz4Y") );</script>
+ReactDOM.render( <React.StrictMode>    <FSCalendarComponent/>  </React.StrictMode>,  document.getElementById("react-FSCalendarComponent-dkQbRbVF") );</script>
 
 
 
