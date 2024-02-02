@@ -31,6 +31,48 @@ At PEER, we believe research is
 
 At PEER, you will learn fundamental and applied research skills in a supportive and participatory research environment. 
 
+::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-4 .bg-info}
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+:::{.bi .bi-arrow-repeat style="font-size: 70px"}
+
+:::
+
+### Responsive
+Field schools respond to participant needs
+:::
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+:::{.bi .bi-balloon-fill  style="font-size: 70px"}
+
+:::
+
+### Playful
+Researchers play with ideas and data to generate new knowledge
+:::
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+:::{.bi .bi-envelope-paper-fill style="font-size: 70px"}
+
+:::
+### Communicative 
+Writing and presenting are an integral part of research
+:::
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+:::{.bi .bi-person-plus-fill style="font-size: 70px"}
+
+:::
+
+### Collaborative 
+People do research together, in communities
+:::
+:::
+
 ## Who Benefits From the PEER program?
 
 PEER participants come from a wide range of science backgrounds and professions. Participants include:  
