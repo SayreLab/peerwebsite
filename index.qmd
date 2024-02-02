@@ -1,6 +1,7 @@
 ---
 # top level index page for site.
-title: "PEER Institute"
+# test
+title: "PEER Institute Test"
 subtitle: "Professional development for Emerging Education Researchers"
 
 sidebar: false
