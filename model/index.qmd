@@ -22,14 +22,7 @@ PEER will boost your education research skills and push your project forward!
 
 ## PEER Principles
 
-At PEER, we believe research is 
-
-* Responsive: Field schools respond to participant needs
-* Playful: Researchers play with ideas and data to generate new knowledge
-* Communicative: Writing and presenting are part of research
-* Collaborative: People do research together, in communities.
-
-At PEER, you will learn fundamental and applied research skills in a supportive and participatory research environment. 
+At PEER, you will learn fundamental and applied research skills in a supportive and participatory research environment. We believe research is: 
 
 ::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-4 .bg-info}
 
@@ -58,6 +51,7 @@ Researchers play with ideas and data to generate new knowledge
 :::{.bi .bi-envelope-paper-fill style="font-size: 70px"}
 
 :::
+
 ### Communicative 
 Writing and presenting are an integral part of research
 :::
@@ -92,9 +86,38 @@ Our collaborators and hosts at the University of Cologne made a promotional vide
 
 In a PEER field school, you'll work in a supportive community to build your skills and your research project along several overlapping development arcs:
 
-* Fundamental skills: generative writing, growth mindset, "yes, and", mentoring students, parallel processes and iteration.
-* Research design: refining research questions, choosing theoretical frameworks, matching data streams to research questions and analysis methods, planning research projects, and building resilient and flexible projects.  
-* Research communication: encapsulating your project, developing an elevator pitch, reading research literature, publishing peer-reviewed papers, negotiating authorship, finding collaborators, and giving robust constructive feedback on each other's projects.
+::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-3 .bg-info}
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+:::{.bi .bi-balloon-fill  style="font-size: 70px"}
+
+:::
+
+### Fundamental Skills
+Generative writing, growth mindset, “yes, and”, mentoring students, parallel processes, and iteration
+:::
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+:::{.bi .bi-envelope-paper-fill style="font-size: 70px"}
+
+:::
+
+### Research Design
+Refining research questions, choosing theoretical frameworks, matching data streams to research questions and analysis methods, planning research projects, and building resilient and flexible projects.
+:::
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+:::{.bi .bi-person-plus-fill style="font-size: 70px"}
+
+:::
+
+### Research Communication 
+Encapsulating your project, developing an elevator pitch, reading research literature, publishing peer-reviewed papers, negotiating authorship, finding collaborators, and giving robust constructive feedback on each other’s projects.
+:::
+:::
 
 Does this sound like a lot?  It is.  PEER field schools are intense, experiential, and supportive. You don't just learn these things abstractly; you actively practice them with your project. You are ready for PEER when you are enthusiastic about stretching your skills, refining your project, and getting energized about doing research. 
 
