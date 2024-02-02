@@ -10,7 +10,7 @@ suppress: true
 ---
 
 
-## I'm a education researcher, and I want to get involved!
+## I'm an education researcher, and I want to get involved!
 
 
 :::::: {.quarto-listing .quarto-listing-container-grid}

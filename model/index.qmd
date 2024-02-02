@@ -2,13 +2,7 @@
 title: "PEER Model"
 image: "../images/peer.png"
 image-width: "20rem"
-#date: last-modified
-    
-title-block-banner: "../images/rainbow.jpg"
-
-page-layout: article
-toc: false
-suppress: true 
+title-block-banner: ../images/rainbow.jpg
 ---
 
 {{< include /_prefix.qmd >}}

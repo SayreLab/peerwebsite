@@ -3,7 +3,6 @@ project:
 
 website:
   page-navigation: true
-#  body-footer: "## this page brought to you by my fingers"
   back-to-top-navigation: true
   title: "PEER Institute"
   site-url: "https://peerinstitute.org/"
@@ -64,11 +63,9 @@ editor: source
 freeze: auto
 execute:
   echo: false
-#date-modified: last-modified
 
 # Appearance choices
 callout-appearance: simple
-#callout-icon: false
 cap-location: top
 fig-cap-location: bottom
 reference-location: document #for footnotes, could be margin or document
