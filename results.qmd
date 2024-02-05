@@ -16,27 +16,6 @@ Since 2016, PEER has provided professional development in STEM Education Researc
 
 At PEER, we believe research is responsive, playful, communicative, and collaborative. Our field schools foster a dynamic and adaptable learning environment. Researchers at PEER play with ideas and data, building robust education research skills as they push their projects forward.
 
-:::: {.list .grid .quarto-listing-cols-3 .text-black}
-
-::: {.g-col-1 .card .card-body .text-center .border-primary .bg-white}
-![](/images/avatars/avatar04.png){width=40%}
-
-If you are interested in conducting research and don’t know where begin or feel overwhelmed, the PEER field school is perfect to give you the boost you need to help you continue heading in the right direction.
-:::
-
-::: {.g-col-1 .card .card-body .text-center .border-primary .bg-white}
-![](/images/avatars/avatar04.png){width=40%}
-
-I am excited about doing research again. I feel like this program has reminded my reasons for why I want to do research.
-:::
-
-::: {.g-col-1 .card .card-body .text-center .border-primary .bg-white}
-![](/images/avatars/avatar02.png){width=40%}
-
-It was affirming to hear that my work is interesting and also great feedback on where to refine and define pieces. It was great to have time to think deeply on my project and its process.
-:::
-:::
-
 ```{=HTML}
 
 <img src="./images/avatars/avatar01.png" hidden>
@@ -91,21 +70,3 @@ The networking opportunities at PEER nucleate new collaborations, even years aft
  As a direct result of their participation in PEER, our participants have produced dozens of peer-reviewed papers and conference presentations in education research.  Notably, participants continue to publish in the years after their participation, often as a result of collaborations begun during a field school, indicating that PEER can have long-term impact on participants’ professional trajectories.   
 
 [List of PEER Publications Here](https://www.rit.edu/castle/sites/rit.edu.castle/files/images/10-09-20_Compiled%20PEER%20Pubs_Pres%20.pdf)
-
-Method 1: HTML iframe
-```{=HTML}
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Display Table</title>
-</head>
-<body>
-
-  <h1>Displaying Table from Another HTML File</h1>
-
-  <iframe src="module-spreadsheet.html" width="100%" height="600px" frameborder="0"></iframe>
-
-</body>
-</html>
-
-```
