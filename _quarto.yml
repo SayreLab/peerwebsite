@@ -16,10 +16,10 @@ website:
     logo: "/images/peer.png"
 
     right:
-      - text: "PEER model"
+      - text: "PEER Model"
         href: model/index.qmd
-      - text: "PEER impacts"
-        href: results.qmd
+      - text: "PEER Impacts"
+        href: impacts.qmd
       - text: "Field Schools"
         href: schools/index.qmd
       - contact.qmd

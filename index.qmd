@@ -18,7 +18,7 @@ The Professional development for Emerging Education Researchers (PEER) Institute
 
 At PEER, you will learn fundamental and applied research skills in a supportive and participatory research environment.
 
-You will delve into research project development and best practices, engage with like-minded professionals, and gain invaluable insights into the world of educational research. Our expert facilitators will guide you through hands-on activities and collaborative discussions, helping you shape your project and engage your passion. Check out the [PEER Model](https://peerinstitute-test.netlify.app/results) to learn more.
+You will delve into research project development and best practices, engage with like-minded professionals, and gain invaluable insights into the world of educational research. Our expert facilitators will guide you through hands-on activities and collaborative discussions, helping you shape your project and engage your passion. Check out the [PEER Model](model/) to learn more.
 
 ## Getting started in education research? PEER is for you.
 
@@ -34,16 +34,10 @@ In our intensive, experiential field schools, we cover fundamental skills like g
 
 Wherever you're at, we'll help you take your research to the next level.
 
-::: text-center
-[More Information](model/){.btn .btn-primary .rounded-pill role="button"}
-:::
 
 ::: {.quarto-listing .quarto-listing-container-grid}
 ::: {.list .grid .quarto-listing-cols-3}
 ::: {.g-col-1 .card}
-::: {.btn .btn-primary width="100%" style="background-color:inherit; border:none; padding:0px; height:-webkit-fill-available"}
-[ ](https://handbook.zaposa.com)
-
 ::: {.card-body .text-center style="color:var(--bs-body-color)"}
 ![](images/sayrelab.png){fig-alt="Research Handbook" width="50%"}
 
@@ -52,12 +46,8 @@ Wherever you're at, we'll help you take your research to the next level.
 [A friendly, PEER-centered book on how to do research, especially in academia and especially in STEM education.](https://handbook.zaposa.com){.quarto-grid-link}
 :::
 :::
-:::
 
 ::: {.g-col-1 .card}
-::: {.btn .btn-primary width="100%" style="background-color:inherit; border:none; padding:0px; height:-webkit-fill-available"}
-[ ](model/index.qmd)
-
 ::: {.card-body .text-center style="color:var(--bs-body-color)"}
 ![](images/peer.png){fig-alt="Eleanor Sayre" width="50%"}
 
@@ -66,19 +56,14 @@ Wherever you're at, we'll help you take your research to the next level.
 [PEER is collaborative, communicative, responsive, and playful.](model/index.qmd){.quarto-grid-link}
 :::
 :::
-:::
 
 ::: {.g-col-1 .card}
-::: {.btn .btn-primary width="100%" style="background-color:inherit; border:none; padding:0px; height:-webkit-fill-available"}
-[ ](schools/index.qmd)
-
 ::: {.card-body .text-center style="color:var(--bs-body-color)"}
 ![](images/table.png){fig-alt="Eleanor Sayre" width="50%"}
 
 #### [Field Schools](schools/index.qmd){.quarto-grid-link .card-title}
 
 [PEER events: upcoming, current, and past](schools/index.qmd){.quarto-grid-link}
-:::
 :::
 :::
 :::
