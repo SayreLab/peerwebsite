@@ -71,4 +71,8 @@ The networking opportunities at PEER nucleate new collaborations, even years aft
 
  As a direct result of their participation in PEER, our participants have produced dozens of peer-reviewed papers and conference presentations in education research.  Notably, participants continue to publish in the years after their participation, often as a result of collaborations begun during a field school, indicating that PEER can have long-term impact on participants’ professional trajectories.   
 
-[List of PEER Publications Here](https://www.rit.edu/castle/sites/rit.edu.castle/files/images/10-09-20_Compiled%20PEER%20Pubs_Pres%20.pdf)
+
+
+:::{.callout-note collapse="false"}
+Check out the [List of PEER Publications](https://www.rit.edu/castle/sites/rit.edu.castle/files/images/10-09-20_Compiled%20PEER%20Pubs_Pres%20.pdf)
+:::
