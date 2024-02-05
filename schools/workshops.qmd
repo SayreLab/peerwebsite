@@ -9,7 +9,7 @@ suppress: true
 tbl-cap-location: top
 ---
 
-{{< include /_prefix.qmd >}}
+{{< include ../_prefix.qmd >}}
 
 
 # Field School Learning Outcomes

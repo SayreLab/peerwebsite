@@ -69,9 +69,9 @@ invitation.cards <- function(card.names=c("upcoming","announcements")) {
                         card.db[[card.names[a]]][2],
                         "\n:::\n\n",
                         card.db[[card.names[a]]][3],
-                        "\n\n:::{.more-info-button .text-center}\n\n[More Information](",
+                        "\n\n::::\n\n::::{.card-footer .bg-transparent .border-top-0}\n\n:::{.more-info-button .text-center}\n\n[  ", card.db[[card.names[a]]][1], "  ](",
                         card.db[[card.names[a]]][4],
-                        "){.btn role=\"button\" .btn-primary .rounded-pill}\n:::\n\n::::\n:::::\n\n"
+                        "){.btn role=\"button\" .btn-primary .rounded-pill}\n:::\n::::\n:::::\n\n"
       )
 	  } else {
 	    card.block <- paste0(card.block,

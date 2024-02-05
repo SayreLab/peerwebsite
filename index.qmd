@@ -10,7 +10,7 @@ toc: false
 suppress: true
 ---
 
-{{< include /_prefix.qmd >}}
+{{< include ./_prefix.qmd >}}
 
 ## What is PEER?
 
@@ -33,7 +33,6 @@ PEER centers participants' research projects to grow their skills. If you've got
 In our intensive, experiential field schools, we cover fundamental skills like generative writing and collaborative feedback as well as foundational topics like choosing theoretical frameworks and matching research questions with data streams. Because you're working on your project all along, you apply your growing skills immediately and your project experiences a ton of growth. Our expert facilitators and evidence-based, time-tested curriculum will guide you -- and your project! -- through enormous growth.
 
 Wherever you're at, we'll help you take your research to the next level.
-
 
 ::: {.quarto-listing .quarto-listing-container-grid}
 ::: {.list .grid .quarto-listing-cols-3}

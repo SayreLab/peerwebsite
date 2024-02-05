@@ -6,7 +6,7 @@ image-width: "20rem"
 title-block-banner: ../images/rainbow.jpg
 ---
 
-{{< include /_prefix.qmd >}}
+{{< include ../_prefix.qmd >}}
 
 ## How can PEER help?
 
