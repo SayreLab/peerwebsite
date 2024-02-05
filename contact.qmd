@@ -32,10 +32,10 @@ suppress: true
 :::
 
 :::{become-facilitator-button}
-[BECOME A FACILITATOR](https://www.zaposa.com/contact-me){.btn role="button" .btn-primary .rounded-pill .text-center}
+[BECOME A FACILITATOR](https://www.zaposa.com/contact){.btn role="button" .btn-primary .rounded-pill .text-center}
 :::
 
-Contact [Eleanor Sayre](https://www.zaposa.com/contact-me) for more details
+Contact [Eleanor Sayre](https://www.zaposa.com/contact) for more details
 
 ::::
 
@@ -45,7 +45,7 @@ Contact [Eleanor Sayre](https://www.zaposa.com/contact-me) for more details
 :::
 
 :::{research-button}
-[DO RESEARCH WITH US](https://www.zaposa.com/home2/researcher-training){.btn role="button" .btn-primary .rounded-pill .text-center}
+[DO RESEARCH WITH US](https://www.zaposa.com/research/){.btn role="button" .btn-primary .rounded-pill .text-center}
 :::
 ::::
 :::::
