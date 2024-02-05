@@ -18,6 +18,8 @@ At PEER, we believe research is responsive, playful, communicative, and collabor
 
 ```{=HTML}
 
+<!-- Needed to render the images, else avatars break -->
+
 <img src="./images/avatars/avatar01.png" hidden>
 <img src="./images/avatars/avatar02.png" hidden>
 <img src="./images/avatars/avatar03.png" hidden>
