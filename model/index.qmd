@@ -2,16 +2,10 @@
 title: "PEER Model"
 image: "../images/peer.png"
 image-width: "20rem"
-#date: last-modified
-    
-title-block-banner: "../images/rainbow.jpg"
-
-page-layout: article
-toc: false
-suppress: true 
+title-block-banner: ../images/rainbow.jpg
 ---
 
-{{< include /_prefix.qmd >}}
+{{< include ../_prefix.qmd >}}
 
 ## Welcome to PEER!
 
@@ -80,7 +74,7 @@ PEER participants come from a wide range of science backgrounds and professions.
 
 {{< video https://youtu.be/wYVePjWPDoc >}}
 
-Our collaborators and hosts at the University of Cologne made a promotional video for their [PEER field school](http://www.google.com/url?q=http%3A%2F%2Fzus.uni-koeln.de%2Fpeer.html&sa=D&sntz=1&usg=AFQjCNHnBsqbSNnmTPRlNQj3fVI_7jqRFQ).
+Our collaborators and hosts at the University of Cologne made a promotional video for their [PEER Field School](http://www.google.com/url?q=http%3A%2F%2Fzus.uni-koeln.de%2Fpeer.html&sa=D&sntz=1&usg=AFQjCNHnBsqbSNnmTPRlNQj3fVI_7jqRFQ).
 
 ## What does PEER look like?
 
