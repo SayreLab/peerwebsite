@@ -45,7 +45,7 @@ listing:
       sort: "date desc"
 ---
 
-{{< include /_prefix.qmd >}}
+{{< include ../_prefix.qmd >}}
 
 ## PEER Field Schools
 
@@ -54,6 +54,11 @@ In a PEER Field school, you will work intensively on your research project with 
 Field schools are offered in-person only. Whether they're a regional group of researchers in your area, or a national community of education researchers, your PEER co-participants will support you as you learn together. Each Field School serves a slightly different population, and we tune the curriculum to match your needs. 
 
 Wherever you're at, we'll help you take your research to the next level.
+
+:::{.callout-note collapse="false"}
+Curious about what a Field School looks like? Check our [Field School Sample](sample-fs.qmd)!
+:::
+
 
 ## Upcoming Field Schools 
 
