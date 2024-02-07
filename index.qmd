@@ -20,7 +20,7 @@ At PEER, you will learn fundamental and applied research skills in a supportive 
 
 You will delve into research project development and best practices, engage with like-minded professionals, and gain invaluable insights into the world of educational research. Our expert facilitators will guide you through hands-on activities and collaborative discussions, helping you shape your project and engage your passion.
 
-:::{.callout-note collapse="false"}
+::: {.callout-note collapse="false"}
 Check out the [PEER Model](model/) to learn more.
 :::
 
