@@ -54,12 +54,14 @@ The virtual kickoff will be held over zoom.  Participants have received a calend
 
 :::{.g-col-1 .card .card-body .text-center .border-info .bg-info}
 
+
 :::::{contact-facilitator-button}
 [Contact Lead Facilitator](mailto:esayre@gmail.com){.btn role="button" .btn-primary .rounded-pill}
 :::::
 :::
 
 :::{.g-col-1 .card .card-body .text-center .border-info .bg-info}
+
 
 :::::{contact-host-button}
 [Contact Local Host](mailto:mkustus1@depaul.edu){.btn role="button" .btn-primary .rounded-pill}

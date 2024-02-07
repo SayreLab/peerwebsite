@@ -21,7 +21,7 @@ card.db <- list(
     "Bring PEER to you!"  ,                                                                                                                                                                                                               
     "Would you like to host a PEER field school?" ,                                                                                                                                                                                       
     "Hosting is a great choice if you want to grow or strengthen your local community.  Regional field schools typically cover our foundational material over 4-6 days.  We’ll work with you to make sure our workshops meet your needs.",
-    "/model/localhost.qmd"     
+    "/model/localhost"     
   ),
   
   announcements = c(
@@ -35,14 +35,14 @@ card.db <- list(
     "Upcoming events",
     "Ready to grow your research skills?",
     "PEER offers in-person and virtual events for emerging education researchers.  Just getting started in education research, or curious about what PEER is like? Join us for a 90-minute virtual gateway workshop.  Ready for a longer experience?  Apply for an upcoming field school.",
-    "/schools/"
+    "/schools/#upcoming-field-schools"
   ),
   
   virtual = c(
     "Virtual Gateway Workshop",
     "Free and online",
     "Just getting started in education research, or curious about what PEER is like? Join us for a 90-minute virtual gateway workshop.",
-    "/schools/virtual-gateway/index.qmd"
+    "/schools/virtual-gateway"
   )
   
 )
@@ -69,9 +69,9 @@ invitation.cards <- function(card.names=c("upcoming","announcements")) {
                         card.db[[card.names[a]]][2],
                         "\n:::\n\n",
                         card.db[[card.names[a]]][3],
-                        "\n\n:::{.more-info-button .text-center}\n\n[More Information](",
+                        "\n\n::::\n\n::::{.card-footer .bg-transparent .border-top-0}\n\n:::{.more-info-button .text-center}\n\n[", card.db[[card.names[a]]][1], "](",
                         card.db[[card.names[a]]][4],
-                        "){.btn role=\"button\" .btn-primary .rounded-pill}\n:::\n\n::::\n:::::\n\n"
+                        "){.btn role=\"button\" .btn-primary .rounded-pill}\n:::\n::::\n:::::\n\n"
       )
 	  } else {
 	    card.block <- paste0(card.block,

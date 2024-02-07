@@ -11,7 +11,6 @@ timing: "upcoming"
 toc-location: left
 date-format: "MMM D, YYYY"
 
----
 
 ## Join PEER for a 4-day, intensive, in-person PEER Field School!
 
@@ -99,7 +98,6 @@ PEER promotes peer feedback and community foundation, providing a sense of inclu
  Our support includes guiding participants in writing, a key element of academic research. PEER engagement leads to numerous publications, grant proposals, and successful tenure & promotion portfolios.  These publications span several years, suggesting PEER's lasting impact on participants’ professional trajectories.
     
 
-
 # Application and Registration
 
 Applications due October 13, 2023; we hope to make notifications by October 27, 2023.
@@ -107,6 +105,7 @@ Applications due October 13, 2023; we hope to make notifications by October 27, 
 [APPLY NOW](https://depaul.qualtrics.com/jfe/form/SV_bsjhcRCTjH6yvaK){.btn role="button" .btn-primary .rounded-pill}
 
 It is expected that you will participate for the full field school; partial participation is not allowed.  
+
 
 
 * Registration includes lunch, coffee & snacks, optional breakfast, and a parking pass (if needed).  
