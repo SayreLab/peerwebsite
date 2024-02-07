@@ -3,6 +3,8 @@ title: "PEER-location (season year)"
 
 description: "Introductory Field School for Emerging Discipline-based Researchers (EDBERs) at Location, dates."
 
+leadname: "Eleanor Sayre"
+
 date: "6/1/2024"
 date-format: "MMM D, YYYY"
 
@@ -12,42 +14,67 @@ timing: "upcoming"
 
 ---
 
-This 4-day, intensive, in-person PEER workshop gives opportunities for faculty, postdocs, and graduate students in various disciplines to develop their own educational research practices. PEER supports emerging education researchers in developing their research interests into concrete questions, developing short- and long-term research plans, building community with other education researchers, and making progress on advancing projects to publication.
+## Join PEER for a 4-day, intensive, in-person PEER Field School!
 
 
-:::::: {.quarto-listing .quarto-listing-container-grid}
-::::: {.list .grid .quarto-listing-cols-1}
-::::{.g-col-1 .text-center}
+::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-3 .bg-info}
 
-Dates: December 14-17, 2023<br>
-Location: DePaul University, Chicago, IL<br>
-Byrne Hall (2219 N. Kenmore Ave.)<br>
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+:::{.bi .bi-geo-alt-fill style="font-size: 70px"}
+
+:::
+DePaul University<br>
+Chicago, IL
+:::
+
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+:::{.bi .bi-calendar-check-fill style="font-size: 70px"}
+
+:::
+Field school dates<br>
+December 12-17, 2023
+:::
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+:::{.bi .bi-pencil-square style="font-size: 70px"}
+
+:::
+
+Applications due<br>
+October 13, 2023
+:::
+
+
+:::
+
+
+PEER enhances the professional growth of participants and changes career trajectories.  Our comprehensive professional development covers project design, management, mentoring, communication, and understanding community values. This 'full stack' of activities builds your research abilities.  No matter where you are in your education research journey, we'll take you to the next step. 
 
 [APPLY NOW](https://depaul.qualtrics.com/jfe/form/SV_bsjhcRCTjH6yvaK){.btn role="button" .btn-primary .rounded-pill}
- 
 
-Applications due October 13, 2023; we hope to make notifications by October 27, 2023.
-::::
-:::::
-::::::
-
-
-
-
+Can't make this one? There are [more](../index.qmd). 
 
 # Schedule Overview
   
+Date | Activity
+---|-------
+Thursday, Nov. 30 Time: 3:00-4:30pm (Central Time) | Virtual Kickoff 
+Thursday, Dec. 14, 3:00-6:00pm | Opening session with optional group dinner outing afterward
+Friday, Dec. 15: 9:00am-4:00pm | Research design, communication, and ethics: setting up for success
+Saturday, Dec. 16: 9:00am-4:00pm | Theories, data, methods: developing your projects
+Sunday, Dec. 18: 9:00am-1:00pm | Project planning for the future: let's make it happen!
 
-* Virtual Kickoff: Thursday, Nov. 30 Time: 3:00-4:30pm (Central Time)
-* Thursday, Dec. 14, 3:00-6:00pm: Opening session with optional group dinner outing afterward
-* Friday, Dec. 15: 9:00am-4:00pm (breakfast at 8:00am)
-* Saturday, Dec. 16: 9:00am-4:00pm (breakfast at 8:00am)
-* Sunday, Dec. 18: 9:00am-1:00pm (breakfast at 8:00am, ends with closing lunch)
 
+To build a supportive community, participants must actively engage during all sessions in the field school.  Partial attendance is not permitted.
+
+See more schedule details on the [syllabus](syllabus.qmd)
 
 # Who Should Attend?
  
-
 PEER targets a broad diversity of experience and interest in discipline-based education research (DBER). The workshop is appropriate for:
 
 * Faculty not currently engaged in DBER but interested in learning about theories and methodologies for possible future research
@@ -55,19 +82,14 @@ PEER targets a broad diversity of experience and interest in discipline-based ed
 * Graduate students or postdoctoral researchers who want to learn more about DBER project management and building a successful research program
 * Faculty at teaching-focused universities interested in using research methodology to improve or assess their teaching and/or publish in Scholarship of Teaching & Learning
 
-
-
 # What do we do?
 
-Participants in the field school will…
-
-* …develop and practice fundamental underlying skills and competencies in doing research, including “yes, and”, generative writing, collaboration skills, and other topics as related to specific workshops
-* …develop and make significant progress in planning their own research projects
-* …increase their self-efficacy in doing education research
-* …build a community for supporting their education research
-
-[DETAILED SCHEDULE AND SYLLABUS](syllabus.qmd){.btn role="button" .btn-primary .rounded-pill}
-
+* PEER builds core competencies in education research
+    * PEER enhances the professional growth of participants and changes career trajectories.  Our comprehensive professional development covers project design, management, mentoring, communication, and understanding community values. This 'full stack' of activities enhances research abilities.  We focus on the participants' interests and projects, fostering motivation and improving success chances. 
+* Community Building and Networking
+    * PEER promotes peer feedback and community foundation, providing a sense of inclusion in the DBER field and fostering research identity. The networking opportunities at PEER kickstart collaborations and expand professional networks. PEER supports participants from all STEM disciplines, and we focus on emerging education researchers, whatever their career level.  
+* PEER builds academic currency
+    * Our support includes guiding participants in writing, a key element of academic research. PEER engagement leads to numerous publications, grant proposals, and successful tenure & promotion portfolios.  These publications span several years, suggesting PEER's lasting impact on participants’ professional trajectories.
 
 # Application and Registration
 
@@ -75,10 +97,10 @@ Applications due October 13, 2023; we hope to make notifications by October 27, 
 
 [APPLY NOW](https://depaul.qualtrics.com/jfe/form/SV_bsjhcRCTjH6yvaK){.btn role="button" .btn-primary .rounded-pill}
 
-Thanks to a grant from the NSF, there is no cost for registration, but it is expected that you will participate for the full field school.
+Thanks to a grant from the NSF, there is no cost for registration.  It is expected that you will participate for the full field school; partial participation is not allowed.  
 
-* Registration includes lunch, optional breakfast, and a parking pass, if needed.
-* A small number of scholarships are available to help defray the cost of housing for non-local participants
+* Registration includes lunch, coffee & snacks, optional breakfast, and a parking pass (if needed).  
+* We have arranged for housing on the RIT campus for non-local participants. A small number of scholarships are available to help defray the cost of housing.  You will indicate on your application whether you need housing and if you would like to apply for a scholarship.
 
 
 
