@@ -35,104 +35,106 @@ A typical PEER field school takes participants through a development arc.  We st
 &nbsp;  
 
 ```{=HTML}
-<table class="table table-bordered text-center">
-  <thead>
-    <tr>
-      <th>Online Kickoff</th>
-      <th>Day 1</th>
-      <th>Day 2</th>
-      <th>Day 3</th>
-      <th>Day 4</th>
-      <th>Day 5</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <div class="card bg-info text-black p-3 rounded">
-          Field School Welcome
-        </div>
-      </td>
-      <td>
-        <div class="card bg-info text-black p-3 rounded">
-          Elevator Talks
-        </div>
-      </td>
-      <td>
-        <div class="card bg-info text-black p-3 rounded">
-          Research Process Models
-        </div>
-      </td>
-      <td>
-        <div class="card bg-info text-black p-3 rounded">
-          Noticing: Data in Observations
-        </div>
-      </td>
-      <td>
-        <div class="card bg-info text-black p-3 rounded">
-          Generative Presentations
-        </div>
-      </td>
-      <td>
-        <div class="card bg-info text-black p-3 rounded">
-          Generative Presentations
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div class="card bg-info text-black p-3 rounded">
-          Refining Research Interests
-        </div>
-      </td>
-      <td>
-        <div class="card bg-info text-black p-3 rounded">
-          Collaboration Ethics
-        </div>
-      </td>
-      <td>
-        <div class="card bg-info text-black p-3 rounded">
-          Theory
-        </div>
-      </td>
-      <td></td>
-      <td>
-        <div class="card bg-info text-black p-3 rounded">
-          Research Methods Suite
-        </div>
-      </td>
-      <td>
-        <div class="card bg-info text-black p-3 rounded">
-          Authorship
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>
-        <div class="card bg-info text-black p-3 rounded">
-          Data & Access
-        </div>
-      </td>
-      <td>
-        <div class="card bg-info text-black p-3 rounded">
-          Ethics of Human Research
-        </div>
-      </td>
-      <td></td>
-      <td>
-        <div class="card bg-info text-black p-3 rounded">
-          Generative Presentations
-        </div>
-      </td>
-      <td>
-        <div class="card bg-info text-black p-3 rounded">
-          What Comes Next?
-        </div>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div style="overflow-x:auto;">
+  <table class="table table-bordered text-center">
+    <thead>
+      <tr>
+        <th>Online Kickoff</th>
+        <th>Day 1</th>
+        <th>Day 2</th>
+        <th>Day 3</th>
+        <th>Day 4</th>
+        <th>Day 5</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <div class="card bg-info text-black p-3 rounded">
+            Field School Welcome
+          </div>
+        </td>
+        <td>
+          <div class="card bg-info text-black p-3 rounded">
+            Elevator Talks
+          </div>
+        </td>
+        <td>
+          <div class="card bg-info text-black p-3 rounded">
+            Research Process Models
+          </div>
+        </td>
+        <td>
+          <div class="card bg-info text-black p-3 rounded">
+            Noticing: Data in Observations
+          </div>
+        </td>
+        <td>
+          <div class="card bg-info text-black p-3 rounded">
+            Generative Presentations
+          </div>
+        </td>
+        <td>
+          <div class="card bg-info text-black p-3 rounded">
+            Generative Presentations
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div class="card bg-info text-black p-3 rounded">
+            Refining Research Interests
+          </div>
+        </td>
+        <td>
+          <div class="card bg-info text-black p-3 rounded">
+            Collaboration Ethics
+          </div>
+        </td>
+        <td>
+          <div class="card bg-info text-black p-3 rounded">
+            Theory
+          </div>
+        </td>
+        <td></td>
+        <td>
+          <div class="card bg-info text-black p-3 rounded">
+            Research Methods Suite
+          </div>
+        </td>
+        <td>
+          <div class="card bg-info text-black p-3 rounded">
+            Authorship
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>
+          <div class="card bg-info text-black p-3 rounded">
+            Data & Access
+          </div>
+        </td>
+        <td>
+          <div class="card bg-info text-black p-3 rounded">
+            Ethics of Human Research
+          </div>
+        </td>
+        <td></td>
+        <td>
+          <div class="card bg-info text-black p-3 rounded">
+            Generative Presentations
+          </div>
+        </td>
+        <td>
+          <div class="card bg-info text-black p-3 rounded">
+            What Comes Next?
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 ```
 &nbsp;  
 
