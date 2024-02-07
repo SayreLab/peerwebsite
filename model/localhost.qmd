@@ -122,7 +122,7 @@ Getting started with research design | building research interests into robust r
  
 : {.striped}
 
-See [Sample Field School](/schools/workshops.qmd) for an example of what a field school might look like.
+See [Sample Field School](/schools/sample-fs.qmd) for an example of what a field school might look like.
 
 Additionally, we can give colloquium-style talks to broader audiences at your institution. Want something else? [Contact](/contact.qmd) Eleanor Sayre for more ideas, or join the [announcements list](/contact.qmd#i-want-to-join-the-mailing-list) to hear about new opportunities.
 

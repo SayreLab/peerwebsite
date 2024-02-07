@@ -56,7 +56,7 @@ Field schools are offered in-person only. Whether they're a regional group of re
 Wherever you're at, we'll help you take your research to the next level.
 
 :::{.callout-note collapse="false"}
-Curious about what a Field School looks like? Check our [Field School Sample](workshops.qmd)!
+Curious about what a Field School looks like? Check our [Field School Sample](sample-fs.qmd)!
 :::
 
 
