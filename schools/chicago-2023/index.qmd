@@ -1,0 +1,175 @@
+---
+# Field school information
+title: "PEER-location (season year)"
+description: "Introductory Field School for Emerging Discipline-based Researchers (EDBERs) at Location, dates."
+leadname: "Eleanor Sayre"
+location: "template"
+date: "6/1/2024"
+timing: "upcoming"
+
+# Settings for template, do not change.
+toc-location: left
+date-format: "MMM D, YYYY"
+
+---
+
+## Join PEER for a 4-day, intensive, in-person PEER Field School!
+
+
+::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-3 .bg-info}
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+:::{.bi .bi-geo-alt-fill style="font-size: 70px"}
+
+:::
+DePaul University<br>
+Chicago, IL
+:::
+
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+:::{.bi .bi-calendar-check-fill style="font-size: 70px"}
+
+:::
+Field school dates<br>
+December 12-17, 2023
+:::
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+:::{.bi .bi-pencil-square style="font-size: 70px"}
+
+:::
+
+Applications due<br>
+October 13, 2023
+:::
+
+
+:::
+
+
+PEER enhances the professional growth of participants and changes career trajectories.  Our comprehensive professional development covers project design, management, mentoring, communication, and understanding community values. This 'full stack' of activities builds your research abilities.  No matter where you are in your education research journey, we'll take you to the next step. 
+
+[APPLY NOW](https://depaul.qualtrics.com/jfe/form/SV_bsjhcRCTjH6yvaK){.btn role="button" .btn-primary .rounded-pill}
+
+Can't make this one? There are [more](../index.qmd). 
+
+# Schedule Overview
+  
+Date | Activity
+---|-------
+Thursday, Nov. 30 Time: 3:00-4:30pm (Central Time) | Virtual Kickoff 
+Thursday, Dec. 14, 3:00-6:00pm | Opening session with optional group dinner outing afterward
+Friday, Dec. 15: 9:00am-4:00pm | Research design, communication, and ethics: setting up for success
+Saturday, Dec. 16: 9:00am-4:00pm | Theories, data, methods: developing your projects
+Sunday, Dec. 18: 9:00am-1:00pm | Project planning for the future: let's make it happen!
+
+
+To build a supportive community, participants must actively engage during all sessions in the field school.  Partial attendance is not permitted.
+
+See more schedule details on the [syllabus](syllabus.qmd)
+
+# Who Should Attend?
+ 
+PEER targets a broad diversity of experience and interest in discipline-based education research (DBER). The workshop is appropriate for:
+
+* Faculty not currently engaged in DBER but interested in learning about theories and methodologies for possible future research
+* Current DBER researchers looking to build or broaden their network of collaborators and engage in generative discussions about existing and new projects
+* Graduate students or postdoctoral researchers who want to learn more about DBER project management and building a successful research program
+* Faculty at teaching-focused universities interested in using research methodology to improve or assess their teaching and/or publish in Scholarship of Teaching & Learning
+
+This field school is centered on building regional capacity and community.  We welcome all applicants who work or reside within a two-hour radius of San Diego; applicants outside of this radius should make a strong case for their current or future ties to the DBER community in this geographic area. 
+
+
+# What do we do?
+
+### PEER builds core competencies in education research
+
+ PEER enhances the professional growth of participants and changes career trajectories.  Our comprehensive professional development covers project design, management, mentoring, communication, and understanding community values. This 'full stack' of activities enhances research abilities.  We focus on the participants' interests and projects, fostering motivation and improving success chances.  
+
+### Community Building and Networking
+
+PEER promotes peer feedback and community foundation, providing a sense of inclusion in the DBER field and fostering research identity. The networking opportunities at PEER kickstart collaborations and expand professional networks. PEER supports participants from all STEM disciplines, and we focus on emerging education researchers, whatever their career level.  
+
+### PEER builds academic currency
+
+ Our support includes guiding participants in writing, a key element of academic research. PEER engagement leads to numerous publications, grant proposals, and successful tenure & promotion portfolios.  These publications span several years, suggesting PEER's lasting impact on participants’ professional trajectories.
+    
+
+
+# Application and Registration
+
+Applications due October 13, 2023; we hope to make notifications by October 27, 2023.
+
+[APPLY NOW](https://depaul.qualtrics.com/jfe/form/SV_bsjhcRCTjH6yvaK){.btn role="button" .btn-primary .rounded-pill}
+
+It is expected that you will participate for the full field school; partial participation is not allowed.  
+
+
+* Registration includes lunch, coffee & snacks, optional breakfast, and a parking pass (if needed).  
+* We have arranged for housing on the RIT campus for non-local participants. A small number of scholarships are available to help defray the cost of housing.  You will indicate on your application whether you need housing and if you would like to apply for a scholarship.
+
+
+Thanks to a grant from the NSF, there is no cost for registration.  
+Thanks to a grant from the NSF, registration costs are substantially reduced. Housing costs at registration (for participants without scholarships who plan to stay on RIT campus) are $450.    
+Registration for all participants is $450, regardless of career status.  
+Registration is free for participants from the hosting institution.  Participants from other regional institutions will pay $100 at registration. 
+
+
+## Facilitators
+:::::: {.quarto-listing .quarto-listing-container-grid}
+::::: {.list .grid .quarto-listing-cols-5}
+
+::::{.g-col-1 .text-left}
+![Eleanor Sayre](../../images/headshots/Sayre-headshot-2.jpg){fig-alt="Eleanor Sayre" width="100%"}
+::::
+
+::::{.g-col-1 .text-left}
+![Myrtle Jones](../../images/headshots/Jones-headshot.jpeg){fig-alt="Myrtle Jones" width="100%"}
+::::
+
+::::{.g-col-1 .text-left}
+![Jordan Gerton](../../images/headshots/Gerton-headshot.jpeg){fig-alt="Jordan Gerton" width="100%"}
+::::
+
+::::{.g-col-1 .text-left}
+![Emily Cilli-Turner](../../images/headshots/Cilli-Turner-headshot.jpeg){fig-alt="Emily Cilli-Turner" width="100%"}
+
+
+::::
+
+::::{.g-col-1 .text-left}
+![Mary Bridget Kustusch](../../images/headshots/Kustusch-headshot-1.jpg){fig-alt="Mary Bridget Kustusch" width="100%"}
+::::
+:::::
+::::::
+
+
+## Sponsors
+::::::::: {.quarto-listing .quarto-listing-container-grid}
+:::::::: {.list .grid .quarto-listing-cols-2}
+
+::::::: {.g-col-1}
+:::::: {.quarto-listing .quarto-listing-container-grid}
+::::: {.list .grid .quarto-listing-cols-2}
+::::{.g-col-1 .middle}
+![](../../images/foreign-logos/NSF-logo.png){fig-alt="National Science Foundation logo" width="100%" .center}
+
+::::
+
+::::{.g-col-1}
+![](../../images/foreign-logos/DePaul-University-ColSciHealth-logo.png){fig-alt="DePaul University College of Science and Health STEM Center" width="100%" .center}
+
+::::
+:::::
+::::::
+:::::::
+
+:::::::{.g-col-1 .text-left}
+This PEER field school is funded by the National Science Foundation [BCSER program](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025174&HistoricalAwards=false) (DRL-2025169) and sponsored by DePaul University’s [College of Science and Health STEM Center](https://csh.depaul.edu/about/centers-and-institutes/stem/Pages/default.aspx).
+:::::::
+::::::::
+:::::::::
