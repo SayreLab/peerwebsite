@@ -13,8 +13,8 @@ suppress: true
 
 {{< include ./_prefix.qmd >}}
 
-## What is PEER?
 
+## Welcome to PEER!
 The Professional development for Emerging Education Researchers (PEER) Institute supports scholars as they become education researchers and expand their research expertise. PEER focuses on Discipline-based Education Research, advancing both scholarship and teaching goals that are valued at all types of academic institutions.
 
 At PEER, you will learn fundamental and applied research skills in a supportive and participatory research environment.
