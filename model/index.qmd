@@ -13,7 +13,7 @@ suppress: true
 
 {{< include /_prefix.qmd >}}
 
-## Welcome to PEER!
+## What is PEER?
 
 At PEER Field Schools, you'll delve into research project development and best practices, engage with like-minded professionals, and gain invaluable insights into the world of educational research. Our expert facilitators will guide you through hands-on activities and collaborative discussions, helping you shape your project and engage your passion. 
 
