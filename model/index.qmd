@@ -2,10 +2,16 @@
 title: "PEER Model"
 image: "../images/peer.png"
 image-width: "20rem"
-title-block-banner: ../images/rainbow.jpg
+#date: last-modified
+    
+title-block-banner: "../images/rainbow.jpg"
+
+page-layout: article
+toc: false
+suppress: true 
 ---
 
-{{< include ../_prefix.qmd >}}
+{{< include /_prefix.qmd >}}
 
 ## Welcome to PEER!
 
@@ -25,8 +31,9 @@ At PEER, you will learn fundamental and applied research skills in a supportive 
 :::{.bi .bi-arrow-repeat style="font-size: 70px"}
 
 :::
-
-### Responsive
+::: {style="font-size: 150%;"}
+**Responsive**
+:::
 Field schools respond to participant needs
 :::
 
@@ -36,7 +43,9 @@ Field schools respond to participant needs
 
 :::
 
-### Playful
+::: {style="font-size: 150%;"}
+**Playful**
+:::
 Researchers play with ideas and data to generate new knowledge
 :::
 
@@ -46,9 +55,11 @@ Researchers play with ideas and data to generate new knowledge
 
 :::
 
-### Communicative 
-Writing and presenting are an integral part of research
+::: {style="font-size: 150%;"}
+**Communicative**
 :::
+Writing and presenting are core parts of research
+::: 
 
 :::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
 
@@ -56,8 +67,11 @@ Writing and presenting are an integral part of research
 
 :::
 
-### Collaborative 
+::: {style="font-size: 150%;"}
+**Collaborative**
+:::
 People do research together, in communities
+
 :::
 :::
 
@@ -67,14 +81,14 @@ PEER participants come from a wide range of science backgrounds and professions.
 
 * Discipline-based education researchers looking to expand their methodological repertoire
 * Disciplinary faculty just getting started on the scholarship of teaching and learning
-* education faculty looking to join a research group and access video-based data
+* Education faculty looking to join a research group and access video-based data
 * Faculty development experts learning to mentor faculty through scholarship of teaching and learning (SoTL) projects 
 * Graduate students and postdoctorates who need mentoring and community support for their research projects
-* undergraduate students who attend field schools with their advisors
+* Undergraduate students who attend field schools with their advisors
 
 {{< video https://youtu.be/wYVePjWPDoc >}}
 
-Our collaborators and hosts at the University of Cologne made a promotional video for their [PEER Field School](http://www.google.com/url?q=http%3A%2F%2Fzus.uni-koeln.de%2Fpeer.html&sa=D&sntz=1&usg=AFQjCNHnBsqbSNnmTPRlNQj3fVI_7jqRFQ).
+Our collaborators and hosts at the University of Cologne made a promotional video for their [PEER field school](http://www.google.com/url?q=http%3A%2F%2Fzus.uni-koeln.de%2Fpeer.html&sa=D&sntz=1&usg=AFQjCNHnBsqbSNnmTPRlNQj3fVI_7jqRFQ).
 
 ## What does PEER look like?
 
@@ -84,31 +98,34 @@ In a PEER field school, you'll work in a supportive community to build your skil
 
 :::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
 
-:::{.bi .bi-balloon-fill  style="font-size: 70px"}
+:::{.bi .bi-ladder  style="font-size: 70px"}
 
 :::
-
-### Fundamental Skills
-Generative writing, growth mindset, “yes, and”, mentoring students, parallel processes, and iteration
+::: {style="font-size: 135%;"}
+**Fundamental Skills**
+:::
+Generative writing, having a growth mindset, playing “yes, and”, mentoring students, researching as a parallel process, and iterating
 :::
 
 :::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
 
-:::{.bi .bi-envelope-paper-fill style="font-size: 70px"}
+:::{.bi .bi-columns-gap style="font-size: 70px"}
 
 :::
-
-### Research Design
+::: {style="font-size: 135%;"}
+**Research Design**
+:::
 Refining research questions, choosing theoretical frameworks, matching data streams to research questions and analysis methods, planning research projects, and building resilient and flexible projects.
 :::
 
 :::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
 
-:::{.bi .bi-person-plus-fill style="font-size: 70px"}
+:::{.bi .bi-easel style="font-size: 70px"}
 
 :::
-
-### Research Communication 
+::: {style="font-size: 135%;"}
+**Research Communication**
+:::
 Encapsulating your project, developing an elevator pitch, reading research literature, publishing peer-reviewed papers, negotiating authorship, finding collaborators, and giving robust constructive feedback on each other’s projects.
 :::
 :::
