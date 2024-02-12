@@ -104,8 +104,8 @@ The virtual kickoff will be held over zoom.  Participants have received a calend
 :::
 
 <!-- START accordion: Logistics: body -->
-:::{.accordion-collapse .collapse id="collapseLogistics"}
-:::{.accordion-body}
+<!-- :::{.accordion-collapse .collapse id="collapseLogistics"} -->
+<!-- :::{.accordion-body} -->
 
 :::{.callout-tip collapse="true" title="Getting to campus"}
 We will provide a 7-day Ventra/CTA pass to get to/from DePaul for the field school using the CTA trains. You can use this pass on any CTA train or bus for 7 days after you first swipe it.
@@ -161,8 +161,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 :::
 
 <!-- END accordion: Logistics: body -->
-:::
+<!-- ::: -->
 
 <!-- END accordion: Logistics -->
 ::::
-:::::
+<!-- ::::: -->
