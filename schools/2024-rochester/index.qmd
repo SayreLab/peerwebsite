@@ -3,8 +3,8 @@
 title: "PEER-Rochester (Summer 2024)"
 description: "Field School for Emerging Discipline-based Researchers (EDBERs) at Rochester Institute of Technology, August 1-7, 2024."
 leadname: "Mary Bridget Kustusch"
-location: "template"
-date: "6/1/2024"
+location: "Rochester, NY"
+date: "8/1/2024"
 timing: "upcoming"
 
 # Settings for template, do not change.

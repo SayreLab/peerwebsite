@@ -3,8 +3,8 @@
 title: "PEER-PSU (Spring, 2024)"
 description: "Regional Field School for Emerging Discipline-based Researchers (EDBERs) at Penn State, May 20-24, 2024."
 leadname: "Scott Franklin"
-location: "PEER-PSU"
-date: "6/1/2024"
+location: "State College, PA"
+date: "5/20/2024"
 timing: "upcoming"
 
 # Settings for template, do not change.
@@ -120,7 +120,7 @@ Registration is free for participants from the hosting institution.  Participant
 ::::: {.list .grid .quarto-listing-cols-5}
 
 ::::{.g-col-1 .text-left}
-![Scott Franklin](../../images/headshots/Franklin-headshot-2.jpg){fig-alt="Scott Franklin" width="100%"}
+![Scott Franklin](../../images/headshots/Franklin-headshot.jpg){fig-alt="Scott Franklin" width="100%"}
 ::::
 
 ::::{.g-col-1 .text-left}
@@ -143,7 +143,7 @@ Registration is free for participants from the hosting institution.  Participant
 ::::
 
 ::::{.g-col-1}
-![](../../images/foreign-logos/PSU-logo.png){fig-alt="Penn State College of Science" width="100%" .center}
+![](../../images/foreign-logos/penn-state-shield.jpg){fig-alt="Penn State College of Science" width="100%" .center}
 
 ::::
 :::::
@@ -151,7 +151,7 @@ Registration is free for participants from the hosting institution.  Participant
 :::::::
 
 :::::::{.g-col-1 .text-left}
-This PEER field school is supported by the National Science Foundation [BCSER program](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025174&HistoricalAwards=false) (DRL-2025169) and sponsored by Penn State University's College of Science.
+This PEER field school is sponsored by Penn State University's College of Science.  PEER research and development is partially supported by the NSF [BCSER program](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025174&HistoricalAwards=false) (DRL-2025169)
 :::::::
 ::::::::
 :::::::::

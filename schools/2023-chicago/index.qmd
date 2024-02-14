@@ -1,9 +1,9 @@
 ---
 # Field school information
 title: "PEER-Chicago (2023)"
-description: "Introductory Field School for Emerging Discipline-based Researchers (EDBERs) at DePaul University, December 14-17."
+description: "Introductory Field School for Emerging Discipline-based Researchers (EDBERs) at DePaul University, December 14-17, 2023."
 leadname: "Eleanor Sayre"
-location: "template"
+location: "Chicago, IL"
 date: "12/14/2023"
 timing: "past"
 

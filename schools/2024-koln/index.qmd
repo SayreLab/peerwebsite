@@ -1,10 +1,10 @@
 ---
 # Field school information
-title: "PEER-Koln (Spring, 2024 year)"
+title: "PEER-Koln (Spring, 2024)"
 description: "Regional Field School for Emerging Discipline-based Researchers (EDBERs) at Koln, April 2-6, 2024."
 leadname: "Scott Franklin"
-location: "template"
-date: "6/1/2024"
+location: "Koln, Germany"
+date: "4/2/2024"
 timing: "upcoming"
 
 # Settings for template, do not change.
@@ -122,11 +122,11 @@ Registration is free for participants from the hosting institution.
 ::::: {.list .grid .quarto-listing-cols-5}
 
 ::::{.g-col-1 .text-left}
-![Eleanor Sayre](../../images/headshots/Sayre-headshot-2.jpg){fig-alt="Eleanor Sayre" width="100%"}
+![Eleanor Sayre](../../images/headshots/Sayre-headshot.jpg){fig-alt="Eleanor Sayre" width="100%"}
 ::::
 
 ::::{.g-col-1 .text-left}
-![Scott Franklin](../../images/headshots/Franklin-headshot.jpeg){fig-alt="Scott Franklin" width="100%"}
+![Scott Franklin](../../images/headshots/Franklin-headshot.jpg){fig-alt="Scott Franklin" width="100%"}
 ::::
 
 
@@ -135,17 +135,11 @@ Registration is free for participants from the hosting institution.
 
 
 ## Sponsors
-::::::::: {.quarto-listing .quarto-listing-container-grid}
-:::::::: {.list .grid .quarto-listing-cols-2}
-
-
-::::
-:::::
-::::::
-:::::::
 
 :::::::{.g-col-1 .text-left}
 The PEER Research Camp is sponsored by the Graduate School of the Faculty of Human Sciences, the Graduate School for Teacher Education and the Center for International Relations (Faculty of Human Sciences). The project funds were raised by Rainer Caruso and Jakob Sponholz.
+
+PEER research and development is partially supported by the NSF [BCSER program](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025174&HistoricalAwards=false) (DRL-2025169)
 :::::::
 ::::::::
 :::::::::
