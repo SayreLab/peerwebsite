@@ -18,18 +18,40 @@ Participants in the field school will...
 
 Workshop materials, including slides, workbooks, and virtual kickoff link are shared with participants directly.  If you are a registered participant and need access, contact the lead facilitator, {{< meta leadname >}}.
 
+* Virtual Kickoff: Thursday, Nov. 30, Time: 3:00pm-4:30pm (Central Time)
+Zoom link.
+* Thursday, Dec. 14, 3:00-6:00pm: Opening session
+  + Optional dinner groups:
+    - Use the slack to coordinate groups of 4-6
+    - We can make a reservation for you (or you can)
+    - For restaurant ideas, check out Dining options near DePaul University. There are also several restaurants near the hotel.
+* Friday, Dec. 15: 9:00am-4:00pm (breakfast at 8:00am)
+* Saturday, Dec. 16: 9:00am-4:00pm (breakfast at 8:00am)
+* Sunday, Dec. 17: 9:00am-1:00pm (breakfast at 8:00am, ends with closing lunch)
+
 {{< include ../_calendar.qmd >}}
 
 To build a supportive community, participants must actively engage during all sessions in the field school.  Partial attendance is not permitted.
 
 ## Homework
 
-Before the virtual kickoff, you must
+Before the virtual kickoff, you must:
 
-* Read 
-* Survey
+* Complete the [evaluation pre-survey](https://wmich.co1.qualtrics.com/jfe/form/SV_8x3hfUMyuk3UwTk)
+* Read [Writing as a generative process](https://handbook.zaposa.com/articles/generative-writing/) and spend some time preparing yourself for generative writing
+* Introduce yourself on Slack
+
+Before the in-person Field School, you must:
+
+*  Read [Data and access](https://handbook.zaposa.com/articles/data-and-access/) to prepare for our discussion of common data types
+* Read [Generative Presentations](https://peerinstitute.org/materials/generative-presentations/) to prepare for your own generative presentation, and complete the [survey](https://docs.google.com/forms/d/e/1FAIpQLSc9EEPsLfjOjOQhaFPcYd3JN0PCBVnO3eASjpeKtJ_yxzI57A/viewform) on that page to let us know if/how you want to participate. The password is "GenerativePresentations".
 
 Your participant packet, shared with each participant individually, contains detailed information about what homework is due and when. 
+
+After the Field School, you must: 
+
+* Complete the evaluation post-survey
+* Continue to engage with each other on Slack (including starting channels)
 
 :::{.callout-tip collapse="true" title="Virtual Kickoff: Thursday, Nov. 30 Time: 3:00-4:30pm (Central Time)"}
 The virtual kickoff will be held over zoom.  Participants have received a calendar link with zoom information; this information is also in your participant packet. 
@@ -54,12 +76,14 @@ The virtual kickoff will be held over zoom.  Participants have received a calend
 
 :::{.g-col-1 .card .card-body .text-center .border-info .bg-info}
 
+
 :::::{contact-facilitator-button}
 [Contact Lead Facilitator](mailto:esayre@gmail.com){.btn role="button" .btn-primary .rounded-pill}
 :::::
 :::
 
 :::{.g-col-1 .card .card-body .text-center .border-info .bg-info}
+
 
 :::::{contact-host-button}
 [Contact Local Host](mailto:mkustus1@depaul.edu){.btn role="button" .btn-primary .rounded-pill}
@@ -80,31 +104,56 @@ The virtual kickoff will be held over zoom.  Participants have received a calend
 :::
 
 <!-- START accordion: Logistics: body -->
-:::{.accordion-collapse .collapse id="collapseLogistics"}
-:::{.accordion-body}
+<!-- :::{.accordion-collapse .collapse id="collapseLogistics"} -->
+<!-- :::{.accordion-body} -->
 
 :::{.callout-tip collapse="true" title="Getting to campus"}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We will provide a 7-day Ventra/CTA pass to get to/from DePaul for the field school using the CTA trains. You can use this pass on any CTA train or bus for 7 days after you first swipe it.
+
+Directions from hotel to DePaul on CTA:
+
+* At the Belmont station, tap your pass for entry and go to the southbound platform (right) and get on any train that stops here.
+* Red line (to 95th): 1 stop to Fullerton
+  + Brown line or Purple line (to Loop): 3 stops to Fullerton
+  + Once you exist the train, Byrne hall is one block west and two blocks south of the station.
+
+Directions from DePaul to hotel on CTA
+
+* At the Fullerton station, tap your pass for entry and go to the northbound platform (left) and get on any train that stop here.
+  + Red line (towards Howard): 1 stop to Belmont
+  + Brown line (to Howard) or Purple line (to Linden): 3 stops to Belmont
 :::
 
-:::{.callout-tip collapse="true" title="On-campus housing"}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+:::{.callout-tip collapse="true" title="Housing"}
+Housing is provided at City Suites Hotel (933 West Belmont Ave). If there are issues with your reservation, please contact Maria Lipan at mlipan@charlestownehotels.com with the subject DePaul Group Confirmation.
+
+Check-in is at 3pm, but the hotel does have a storage room for any luggage, so you can drop off your bags when you arrive even if it is before 3pm.
 :::
 
 :::{.callout-tip collapse="true" title="Parking"}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+* If you are flying into Chicago, both O’Hare and Midway airports are accessible and ~45-70 min from DePaul on CTA and ~25-45 min by car. Chicago has rideshare options (Uber and Lyft) as well as several reputable taxi companies.
+* There are two parking lots close to Byrne Hall that can be used (we will provide vouchers that you will use when you exit the garage)
+  + 2331 N Sheffield Ave
+  + 2330 N Clifton Ave
+* If you are staying at the hotel, there is a parking garage right around the corner from the hotel that offers public parking for $30 per night. You can pick up a hotel parking pass when you arrive at the hotel.
 :::
 
 :::{.callout-tip collapse="true" title="Session locations & campus map"}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+All sessions will be held in Byrne Hall (2219 N Kenmore Ave)
 :::
 
 :::{.callout-tip collapse="true" title="Food"}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+* We will be providing breakfast, lunch, and snacks on-site during the workshops. If you have dietary constraints, please contact Mary Ann Quinn (mquinn22@depaul.edu).
+* On Thursday, we will have an optional dinner at Homeslice to help build community. You will be able to purchase your own food/drink and we will have a reserved seating area in their heated, outdoor patio.
+* On other nights, you will be responsible for dinners; there are many restaurants within easy walking distance of both DePaul (see Dining options near DePaul University, Lincoln Park) and the hotel. We will provide opportunities for you to coordinate with each other around meals.
 :::
 
 :::{.callout-tip collapse="true" title="Wifi access"}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+* If you have eduroam, this is the easiest option.
+* If you do not have eduroam, follow the instructions for Conference Guest WiFi Setup using the Conference ID: peer2023
 :::
 
 :::{.callout-tip collapse="true" title="Travel panic"}
@@ -112,9 +161,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 :::
 
 <!-- END accordion: Logistics: body -->
-:::
+<!-- ::: -->
 
 <!-- END accordion: Logistics -->
 ::::
-:::::
-
+<!-- ::::: -->
