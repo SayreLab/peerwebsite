@@ -15,11 +15,13 @@ listing:
       contents: /*/index.qmd
       include:
         timing: "upcoming"
+      exclude: 
+        location: "template"
       type: default
       filter-ui: true
       image-align: left
       image-placeholder: ../images/peer.png
-      image-height: 200px
+      image-height: 100px
       fields: [image, date, title, description]
       sort: "date asc"
     - id: gateway-workshop-listing
@@ -30,7 +32,7 @@ listing:
       filter-ui: true
       image-align: left
       image-placeholder: ../images/peer.png
-      image-height: 200px
+      image-height: 100px
       fields: [image, date, title, description]
     - id: past-field-school-listing
       contents: /*/index.qmd
@@ -40,7 +42,7 @@ listing:
       filter-ui: true
       image-align: left
       image-placeholder: ../images/peer.png
-      image-height: 200px
+      image-height: 100px
       fields: [image, date, title, description]
       sort: "date desc"
 ---

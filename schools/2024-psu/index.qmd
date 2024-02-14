@@ -1,0 +1,157 @@
+---
+# Field school information
+title: "PEER-PSU (Spring, 2024)"
+description: "Regional Field School for Emerging Discipline-based Researchers (EDBERs) at Penn State, May 20-24, 2024."
+leadname: "Scott Franklin"
+location: "PEER-PSU"
+date: "6/1/2024"
+timing: "upcoming"
+
+# Settings for template, do not change.
+toc-location: left
+date-format: "MMM D, YYYY"
+
+---
+
+## Join PEER for a 4-day, intensive, in-person PEER Field School!
+
+
+::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-3 .bg-info}
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+:::{.bi .bi-geo-alt-fill style="font-size: 70px"}
+
+:::
+Penn State University<br>
+State College, PA
+:::
+
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+:::{.bi .bi-calendar-check-fill style="font-size: 70px"}
+
+:::
+Field school dates<br>
+May 20-24, 2024
+:::
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+:::{.bi .bi-pencil-square style="font-size: 70px"}
+
+:::
+
+Applications due<br>
+March 15, 2024
+:::
+
+
+:::
+
+
+PEER enhances the professional growth of participants and changes career trajectories.  Our comprehensive professional development covers project design, management, mentoring, communication, and understanding community values. This 'full stack' of activities builds your research abilities.  No matter where you are in your education research journey, we'll take you to the next step. 
+
+[APPLY NOW](https://depaul.qualtrics.com/jfe/form/SV_bsjhcRCTjH6yvaK){.btn role="button" .btn-primary .rounded-pill}
+
+Can't make this one? There are [more](../index.qmd). 
+
+# Schedule Overview
+  
+Date | Activity
+---|-------
+TBD, early May | Virtual Kickoff 
+Monday, May 20, 1:00-6:00pm | Opening session, Research design, communication and ethics with optional group dinner outing afterward
+Tuesday, May 21: 9:00am-4:00pm | Data and Access, IRB, Ethics and Doing Interviews
+Wednesday, May 22: 9:00am-4:00pm | Theories, Iterative Design and Generative Presentations
+Thursday, May 23: 9:00am-12:00pm | Project planning for the future
+
+
+To build a supportive community, participants must actively engage during all sessions in the field school.  Partial attendance is not permitted. 
+
+See more schedule details on the [syllabus](syllabus.qmd)
+
+# Who Should Attend?
+ 
+PEER targets a broad diversity of experience and interest in discipline-based education research (DBER). The workshop is appropriate for:
+
+* Faculty not currently engaged in DBER but interested in learning about theories and methodologies for possible future research
+* Current DBER researchers looking to build or broaden their network of collaborators and engage in generative discussions about existing and new projects
+* Graduate students or postdoctoral researchers who want to learn more about DBER project management and building a successful research program
+* Faculty at teaching-focused universities interested in using research methodology to improve or assess their teaching and/or publish in Scholarship of Teaching & Learning
+
+This field school is centered on building regional capacity and community.  We welcome all applicants who work or reside within a three-hour radius of State College; applicants outside of this radius should make a strong case for their current or future ties to the DBER community in this geographic area. 
+
+
+# What do we do?
+
+### PEER builds core competencies in education research
+
+ PEER enhances the professional growth of participants and changes career trajectories.  Our comprehensive professional development covers project design, management, mentoring, communication, and understanding community values. This 'full stack' of activities enhances research abilities.  We focus on the participants' interests and projects, fostering motivation and improving success chances.  
+
+### Community Building and Networking
+
+PEER promotes peer feedback and community foundation, providing a sense of inclusion in the DBER field and fostering research identity. The networking opportunities at PEER kickstart collaborations and expand professional networks. PEER supports participants from all STEM disciplines, and we focus on emerging education researchers, whatever their career level.  
+
+### PEER builds academic currency
+
+ Our support includes guiding participants in writing, a key element of academic research. PEER engagement leads to numerous publications, grant proposals, and successful tenure & promotion portfolios.  These publications span several years, suggesting PEER's lasting impact on participants’ professional trajectories.
+    
+
+
+# Application and Registration
+
+Applications due March 15, 2024; we hope to make notifications by April 1, 2024.
+
+[APPLY NOW](https://depaul.qualtrics.com/jfe/form/SV_bsjhcRCTjH6yvaK){.btn role="button" .btn-primary .rounded-pill}
+
+It is expected that you will participate for the full field school; partial participation is not allowed.  
+
+
+* Registration includes lunch, coffee & snacks, optional breakfast, and a parking pass (if needed).  
+* Participants should arrange their own travel and housing. Please reach out if you need suggestions.
+
+Registration is free for participants from the hosting institution.  Participants from other regional institutions will pay $30 at registration. 
+
+
+## Facilitators
+:::::: {.quarto-listing .quarto-listing-container-grid}
+::::: {.list .grid .quarto-listing-cols-5}
+
+::::{.g-col-1 .text-left}
+![Scott Franklin](../../images/headshots/Franklin-headshot-2.jpg){fig-alt="Scott Franklin" width="100%"}
+::::
+
+::::{.g-col-1 .text-left}
+![Emily Cilli-Turner](../../images/headshots/Cilli-Turner-headshot.jpeg){fig-alt="Emily Cilli-Turner" width="100%"}
+::::
+:::::
+::::::
+
+
+## Sponsors
+::::::::: {.quarto-listing .quarto-listing-container-grid}
+:::::::: {.list .grid .quarto-listing-cols-2}
+
+::::::: {.g-col-1}
+:::::: {.quarto-listing .quarto-listing-container-grid}
+::::: {.list .grid .quarto-listing-cols-2}
+::::{.g-col-1 .middle}
+![](../../images/foreign-logos/NSF-logo.png){fig-alt="National Science Foundation logo" width="100%" .center}
+
+::::
+
+::::{.g-col-1}
+![](../../images/foreign-logos/PSU-logo.png){fig-alt="Penn State College of Science" width="100%" .center}
+
+::::
+:::::
+::::::
+:::::::
+
+:::::::{.g-col-1 .text-left}
+This PEER field school is supported by the National Science Foundation [BCSER program](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025174&HistoricalAwards=false) (DRL-2025169) and sponsored by Penn State University's College of Science.
+:::::::
+::::::::
+:::::::::
