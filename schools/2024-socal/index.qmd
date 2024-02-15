@@ -1,10 +1,13 @@
 ---
 # Field school information
 title: "PEER-SoCal (Summer, 2024)"
-description: "Regional Field School for Emerging Discipline-based Researchers (EDBERs) at the University of San Diego, July 22-25, 2024."
+description: "Regional Field School focusing on building community and capacity in the Southern California region."
 leadname: "Mary Bridget Kustusch"
 location: "San Diego, CA"
+host: "University of San Diego"
+image: "usd-logo.png"
 date: "7/22/2024"
+dates: "July 22-25, 2024"
 timing: "upcoming"
 
 # Settings for template, do not change.

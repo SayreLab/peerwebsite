@@ -1,10 +1,14 @@
 ---
 # Field school information
 title: "PEER-Koln (Spring, 2024)"
-description: "Regional Field School for Emerging Discipline-based Researchers (EDBERs) at Koln, April 2-6, 2024."
+description: "Regional Field School focusing on emerging researchers in and around Koln."
 leadname: "Scott Franklin"
 location: "Koln, Germany"
+host: "University of Koln" 
+image: "koln-zus.png"
 date: "4/2/2024"
+dates: "April 2-6, 2024" # textual date range of the field school, for display purposes.
+
 timing: "upcoming"
 
 # Settings for template, do not change.
@@ -136,10 +140,4 @@ Registration is free for participants from the hosting institution.
 
 ## Sponsors
 
-:::::::{.g-col-1 .text-left}
 The PEER Research Camp is sponsored by the Graduate School of the Faculty of Human Sciences, the Graduate School for Teacher Education and the Center for International Relations (Faculty of Human Sciences). The project funds were raised by Rainer Caruso and Jakob Sponholz.
-
-PEER research and development is partially supported by the NSF [BCSER program](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025174&HistoricalAwards=false) (DRL-2025169)
-:::::::
-::::::::
-:::::::::

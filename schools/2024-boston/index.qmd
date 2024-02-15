@@ -1,0 +1,152 @@
+---
+# Field school information
+title: "PEER-Boston (Summer, 2024)"
+
+# Description: uncomment and edit the one you want.
+#description: "International Field School for Emerging Education Researchers with extended content."
+#description: "Extended Field School for Emerging Education Researchers. Welcomes new and returning PEER participants from anywhere in the world."
+description: "Local Field School focusing on building community and capacity for researchers at MIT and Harvard."
+#description: "Short virtual workshop to get a small taste of PEER."
+
+# Staffing
+leadname: "Eleanor Sayre"
+
+# Location and hosting
+location: "Boston, MA" 
+host: "MIT Physics" 
+nsf: false #choose true for BCSER funding, and false for no NSF funding.
+image:  "hu-mit.png" # this should be roughly 8x3 aspect ratio, host logo is a good choice. 
+
+# Dates
+date: "7/15/2024"  # start date of field school, for sorting purposes
+dates: "July 15-18, 2024" # textual date range of the field school, for display purposes.
+applications: "March 15, 2024" # when are applications due?
+timing: "upcoming" # can also choose "past" or "gateway"
+
+# Settings for template, do not change.
+toc-location: left
+date-format: "MMM D, YYYY"
+
+---
+
+## Join PEER for a 4-day, intensive, in-person PEER Field School!
+
+
+::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-3 .bg-info}
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+:::{.bi .bi-geo-alt-fill style="font-size: 70px"}
+
+:::
+{{< meta host >}}
+{{< meta location >}}
+:::
+
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+:::{.bi .bi-calendar-check-fill style="font-size: 70px"}
+
+:::
+Field school dates
+{{< meta dates >}}
+:::
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+:::{.bi .bi-pencil-square style="font-size: 70px"}
+
+:::
+
+Only Harvard and MIT participants are permitted to apply. 
+:::
+
+
+:::
+
+
+PEER enhances the professional growth of participants and changes career trajectories.  Our comprehensive professional development covers project design, management, mentoring, communication, and understanding community values. This 'full stack' of activities builds your research abilities.  No matter where you are in your education research journey, we'll take you to the next step. 
+
+
+Can't make this one? There are [more](../index.qmd). 
+
+# Schedule Overview
+  
+Date | Activity
+---|-------
+TBD, early July Time: 3:00-4:30pm | Virtual Kickoff 
+Monday, Dec. 14, 12:00-4:00pm | Opening session with optional group dinner outing afterward
+Tuesday, Dec. 15: 9:00am-4:00pm | Research design, communication, and ethics: setting up for success
+Wednesday, Dec. 16: 9:00am-4:00pm | Theories, data, methods: developing your projects
+Thursday, Dec. 18: 9:00am-1:00pm | Project planning for the future: let's make it happen!
+
+
+To build a supportive community, participants must actively engage during all sessions in the field school.  Partial attendance is not permitted.
+
+See more schedule details on the [syllabus](syllabus.qmd)
+
+# Who Should Attend?
+ 
+PEER targets a broad diversity of experience and interest in discipline-based education research (DBER). The workshop is appropriate for:
+
+* Faculty not currently engaged in DBER but interested in learning about theories and methodologies for possible future research
+* Current DBER researchers looking to build or broaden their network of collaborators and engage in generative discussions about existing and new projects
+* Graduate students or postdoctoral researchers who want to learn more about DBER project management and building a successful research program
+* Faculty at teaching-focused universities interested in using research methodology to improve or assess their teaching and/or publish in Scholarship of Teaching & Learning
+
+This field school is centered on building regional capacity and community.  We welcome applicants who work at Harvard or MIT, or by special invitation from the local hosts. 
+
+
+# What do we do?
+
+### PEER builds core competencies in education research
+
+ PEER enhances the professional growth of participants and changes career trajectories.  Our comprehensive professional development covers project design, management, mentoring, communication, and understanding community values. This 'full stack' of activities enhances research abilities.  We focus on the participants' interests and projects, fostering motivation and improving success chances.  
+
+### Community Building and Networking
+
+PEER promotes peer feedback and community foundation, providing a sense of inclusion in the DBER field and fostering research identity. The networking opportunities at PEER kickstart collaborations and expand professional networks. PEER supports participants from all STEM disciplines, and we focus on emerging education researchers, whatever their career level.  
+
+### PEER builds academic currency
+
+ Our support includes guiding participants in writing, a key element of academic research. PEER engagement leads to numerous publications, grant proposals, and successful tenure & promotion portfolios.  These publications span several years, suggesting PEER's lasting impact on participants’ professional trajectories.
+    
+
+
+## Facilitators
+:::::: {.quarto-listing .quarto-listing-container-grid}
+::::: {.list .grid .quarto-listing-cols-5}
+
+::::{.g-col-1 .text-left}
+![Eleanor Sayre](../../images/headshots/Sayre-headshot.jpg){fig-alt="Eleanor Sayre" width="100%"}
+::::
+
+
+
+::::{.g-col-1 .text-left}
+![Mary Bridget Kustusch](../../images/headshots/Kustusch-headshot.jpg){fig-alt="Mary Bridget Kustusch" width="100%"}
+::::
+:::::
+::::::
+
+
+## Sponsors
+:::::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-3}
+
+::::{.g-col-1}
+[![](../../images/foreign-logos/MIT-PEG.png){fig-alt="MIT Physics" width="100%" .center}](https://physics.mit.edu/)
+
+::::
+
+::::{.g-col-1 .middle}
+[![](../../images/foreign-logos/HMS-logo.png){fig-alt="Harvard School of Medicine" width="100%" .center}](https://hms.harvard.edu/)
+
+::::
+
+::::{.g-col-1}
+[![](../../images/foreign-logos/HU-physics.gif){fig-alt="Harvard Physics" width="100%" .center}](https://www.physics.harvard.edu/)
+
+::::
+
+:::::::

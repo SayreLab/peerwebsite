@@ -1,10 +1,13 @@
 ---
 # Field school information
 title: "PEER-Rochester (Summer 2024)"
-description: "Field School for Emerging Discipline-based Researchers (EDBERs) at Rochester Institute of Technology, August 1-7, 2024."
+description: "Extended Field School for Emerging Education Researchers. Welcomes new and returning PEER participants from anywhere in the world."
 leadname: "Mary Bridget Kustusch"
 location: "Rochester, NY"
+host: "Rochester Institute of Technology" 
+image: "RIT.jpg"
 date: "8/1/2024"
+dates: "August 1-7, 2024" # textual date range of the field school, for display purposes.
 timing: "upcoming"
 
 # Settings for template, do not change.
@@ -148,27 +151,19 @@ Thanks to a grant from the NSF, there is no cost for registration. Housing costs
 
 
 ## Sponsors
-::::::::: {.quarto-listing .quarto-listing-container-grid}
-:::::::: {.list .grid .quarto-listing-cols-2}
+::::::::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-3}
 
-::::::: {.g-col-1}
-:::::: {.quarto-listing .quarto-listing-container-grid}
-::::: {.list .grid .quarto-listing-cols-2}
-::::{.g-col-1 .middle}
+::::{.g-col-1}
 ![](../../images/foreign-logos/NSF-logo.png){fig-alt="National Science Foundation logo" width="100%" .center}
 
 ::::
 
 ::::{.g-col-1}
-![](../../images/foreign-logos/DePaul-University-ColSciHealth-logo.png){fig-alt="DePaul University College of Science and Health STEM Center" width="100%" .center}
+[![](../../images/foreign-logos/RIT.jpg){fig-alt="RIT logo" width="100%" .center}](https://www.rit.edu/castle/)
 
 ::::
-:::::
-::::::
-:::::::
 
-:::::::{.g-col-1 .text-left}
-This PEER field school is funded by the National Science Foundation [BCSER program](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025174&HistoricalAwards=false) (DRL-2025169) and sponsored by DePaul University’s [College of Science and Health STEM Center](https://csh.depaul.edu/about/centers-and-institutes/stem/Pages/default.aspx).
+::::{.g-col-1}
+This PEER field school is funded by the National Science Foundation [BCSER program](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025174&HistoricalAwards=false) (DRL-2025169) and sponsored by Rochester Institute of Technology [CASTLE](https://www.rit.edu/castle/).
+::::
 :::::::
-::::::::
-:::::::::

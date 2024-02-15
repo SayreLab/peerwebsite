@@ -4,7 +4,10 @@ title: "PEER-Chicago (2023)"
 description: "Introductory Field School for Emerging Discipline-based Researchers (EDBERs) at DePaul University, December 14-17, 2023."
 leadname: "Eleanor Sayre"
 location: "Chicago, IL"
+host: "DePaul University" 
 date: "12/14/2023"
+image: "DePaul-logo.png"
+dates: "December 14-17, 2023" # textual date range of the field school, for display purposes.
 timing: "past"
 
 # Settings for template, do not change.
@@ -169,7 +172,7 @@ Registration is free for participants from the hosting institution.  Participant
 :::::::
 
 :::::::{.g-col-1 .text-left}
-This PEER field school is funded by the National Science Foundation [BCSER program](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025174&HistoricalAwards=false) (DRL-2025169) and sponsored by DePaul University’s [College of Science and Health STEM Center](https://csh.depaul.edu/about/centers-and-institutes/stem/Pages/default.aspx).
+This PEER field school is sponsored by DePaul University’s [College of Science and Health STEM Center](https://csh.depaul.edu/about/centers-and-institutes/stem/Pages/default.aspx).
 :::::::
 ::::::::
 :::::::::

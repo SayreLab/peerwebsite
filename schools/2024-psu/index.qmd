@@ -1,10 +1,13 @@
 ---
 # Field school information
 title: "PEER-PSU (Spring, 2024)"
-description: "Regional Field School for Emerging Discipline-based Researchers (EDBERs) at Penn State, May 20-24, 2024."
+description: "Regional Field School focusing on building community and capacity in the Central Pennsylvania region."
 leadname: "Scott Franklin"
 location: "State College, PA"
+host: "Pennsylvania State University College of Science"
+image: "psu-cos.png"
 date: "5/20/2024"
+dates: "May 20-25, 2024" # textual date range of the field school, for display purposes.
 timing: "upcoming"
 
 # Settings for template, do not change.
@@ -131,27 +134,15 @@ Registration is free for participants from the hosting institution.  Participant
 
 
 ## Sponsors
-::::::::: {.quarto-listing .quarto-listing-container-grid}
-:::::::: {.list .grid .quarto-listing-cols-2}
+:::::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-2}
 
-::::::: {.g-col-1}
-:::::: {.quarto-listing .quarto-listing-container-grid}
-::::: {.list .grid .quarto-listing-cols-2}
-::::{.g-col-1 .middle}
-![](../../images/foreign-logos/NSF-logo.png){fig-alt="National Science Foundation logo" width="100%" .center}
-
-::::
 
 ::::{.g-col-1}
-![](../../images/foreign-logos/penn-state-shield.jpg){fig-alt="Penn State College of Science" width="100%" .center}
+[![](../../images/foreign-logos/penn-state-shield.jpg){fig-alt="Penn State College of Science" width="20%" .center}](https://science.psu.edu/)
 
 ::::
-:::::
-::::::
-:::::::
+::::{.g-col-1}
+This PEER field school is sponsored by the Penn State College of Science.
+::::
 
-:::::::{.g-col-1 .text-left}
-This PEER field school is sponsored by Penn State University's College of Science.  PEER research and development is partially supported by the NSF [BCSER program](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025174&HistoricalAwards=false) (DRL-2025169)
-:::::::
-::::::::
-:::::::::
+:::::
