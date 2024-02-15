@@ -12,25 +12,22 @@ tbl-cap-location: top
 {{< include ../_prefix.qmd >}}
 
 
+PEER enhances the professional growth of participants and changes career trajectories.  Our comprehensive professional development covers project design, management, mentoring, communication, and understanding community values. This 'full stack' of activities builds your research abilities.  No matter where you are in your education research journey, we'll take you to the next step. 
+
 # Field School Learning Outcomes
 
-::::: {.quarto-listing .quarto-listing-container-grid}
-:::: {.list .grid .quarto-listing-cols-2}
+## Learning outcomes
 
-:::{.g-col-1 .text-left}
-Participants in this school will...
-:::
+Participants in the field school will... 
 
-:::{.g-col-1 .text-left}
-* …develop and practice fundamental underlying skills and competencies in doing research, including “yes, and”, generative writing, collaboration skills, and other topics as related to specific workshops.
-* …develop and make significant progress in planning their own research projects.
-* …increase their self-efficacy in doing education research (and communicating research in English, as appropriate).
-:::
-::::
-:::::
+* ... develop and practice fundamental underlying skills and competencies in doing research, including “yes, and”, generative writing, collaboration skills, and other topics as related to specific workshops
+* ... develop and make significant progress in planning their own research projects
+* ... increase their self-efficacy in doing education research
+* ... build a community for supporting their education research
 
 # Field School Structure and Coverage
-A typical PEER field school takes participants through a development arc.  We start with developing research questions and workshop norms and progress through modules on research process and research ethics.  By midweek, participants have done substantial writing and development on their own projects, and we delve into methodological issues of collecting, reducing, and analyzing data from the perspective of noticing ideas (e.g. in classroom video, student free responses, or interviews) and regularizing them (e.g. through generative coding).  Near the end of the field school, we give deep collaborative feedback to participants through generative presentations of their own projects, and help them plan explicitly for the next six months of research and development work.
+
+PEER's development arc will take you through developing your research question, choosing theory and methods, and refining your research design to be resilient to unexpected developments.  You will learn concrete skills in research communication and productivity.  You will receive deep feedback on your project throughout the field school, and interact extensively with your co-participants to improve their projects and network together. 
 
 &nbsp;  
 
@@ -147,6 +144,32 @@ PEER field schools are responsive to the needs of participants. In addition to t
 * Research life: personal stories around becoming a researcher, balancing research and other professional activities, and balancing professional activities with parenting and being a full human.
 
 Some field schools are longer or shorter. Each field school is tuned to the needs of the participants, who also receive materials related to each module such as slides, handouts, exercises, and readings.
+
+# Who Should Attend?
+ 
+PEER targets a broad diversity of experience and interest in discipline-based education research (DBER). PEER field schools are appropriate for:
+
+* Faculty not currently engaged in DBER but interested in learning about theories and methodologies for possible future research
+* Current DBER researchers looking to build or broaden their network of collaborators and engage in generative discussions about existing and new projects
+* Graduate students or postdoctoral researchers who want to learn more about DBER project management and building a successful research program
+* Faculty at teaching-focused universities interested in using research methodology to improve or assess their teaching and/or publish in Scholarship of Teaching & Learning
+
+However, each field school has its own admissions requirements and focus.  
+
+# What do we do?
+
+### PEER builds core competencies in education research
+
+ PEER enhances the professional growth of participants and changes career trajectories.  Our comprehensive professional development covers project design, management, mentoring, communication, and understanding community values. This 'full stack' of activities enhances research abilities.  We focus on the participants' interests and projects, fostering motivation and improving success chances.  
+
+### Community Building and Networking
+
+PEER promotes peer feedback and community foundation, providing a sense of inclusion in the DBER field and fostering research identity. The networking opportunities at PEER kickstart collaborations and expand professional networks. PEER supports participants from all STEM disciplines, and we focus on emerging education researchers, whatever their career level.  
+
+### PEER builds academic currency
+
+ Our support includes guiding participants in writing, a key element of academic research. PEER engagement leads to numerous publications, grant proposals, and successful tenure & promotion portfolios.  These publications span several years, suggesting PEER's lasting impact on participants’ professional trajectories.
+
 
 `r invitation.cards(c("hosting", "upcoming"))`
 

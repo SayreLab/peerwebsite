@@ -28,7 +28,8 @@ website:
         href: https://handbook.zaposa.com/
 
   page-footer:
-    center: "Built with [Quarto](https://quarto.org/) and hosted on [GitHub](https://github.com/esayre)."
+#    center: "Built with [Quarto](https://quarto.org/) and hosted on [GitHub](https://github.com/esayre)."
+    center: "PEER R&D is partially supported by the [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025174&HistoricalAwards=false)."
     right:
       - icon: github
         href: https://github.com/esayre

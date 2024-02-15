@@ -15,12 +15,14 @@ listing:
       contents: /*/index.qmd
       include:
         timing: "upcoming"
+      exclude: 
+        location: "template"
       type: default
       filter-ui: true
       image-align: left
-      image-placeholder: ../images/peer.png
-      image-height: 200px
-      fields: [image, date, title, description]
+      image-placeholder: ../images/peer-wide.png
+      image-height: 100px
+      fields: [image, location, dates, title, description]
       sort: "date asc"
     - id: gateway-workshop-listing
       contents: /*/index.qmd
@@ -29,8 +31,8 @@ listing:
       type: default
       filter-ui: true
       image-align: left
-      image-placeholder: ../images/peer.png
-      image-height: 200px
+      image-placeholder: ../images/peer-wide.png
+      image-height: 100px
       fields: [image, date, title, description]
     - id: past-field-school-listing
       contents: /*/index.qmd
@@ -39,8 +41,8 @@ listing:
       type: default
       filter-ui: true
       image-align: left
-      image-placeholder: ../images/peer.png
-      image-height: 200px
+      image-placeholder: ../images/peer-wide.png
+      image-height: 100px
       fields: [image, date, title, description]
       sort: "date desc"
 ---
@@ -58,7 +60,6 @@ Wherever you're at, we'll help you take your research to the next level.
 :::{.callout-note collapse="false"}
 Curious about what a Field School looks like? Check our [Field School Sample](sample-fs.qmd)!
 :::
-
 
 ## Upcoming Field Schools 
 

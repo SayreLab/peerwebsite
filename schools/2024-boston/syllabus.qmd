@@ -1,0 +1,102 @@
+---
+title: "PEER-Boston (Summer 2024) Syllabus"
+description: "Welcome to PEER!"
+leadname: "Eleanor Sayre"
+
+---
+
+## Learning outcomes
+
+Participants in the field school will... 
+
+* ... develop and practice fundamental underlying skills and competencies in doing research, including “yes, and”, generative writing, collaboration skills, and other topics as related to specific workshops
+* ... develop and make significant progress in planning their own research projects
+* ... increase their self-efficacy in doing education research
+* ... build a community for supporting their education research
+
+## Schedule
+
+Workshop materials, including slides, workbooks, and virtual kickoff link are shared with participants directly.  If you are a registered participant and need access, contact the lead facilitator, {{< meta leadname >}}.
+
+{{< include ../_calendar.qmd >}}
+
+To build a supportive community, participants must actively engage during all sessions in the field school.  Partial attendance is not permitted.
+
+## Homework
+
+Before the virtual kickoff, you must
+
+* Read 
+* Survey
+
+Your participant packet, shared with each participant individually, contains detailed information about what homework is due and when. 
+
+:::{.callout-tip collapse="true" title="Virtual Kickoff: Thursday, Nov. 30 Time: 3:00-4:30pm (Central Time)"}
+The virtual kickoff will be held over zoom.  Participants have received a calendar link with zoom information; this information is also in your participant packet. 
+:::
+
+## Links
+
+::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-4 .bg-info}
+
+:::{.g-col-1 .card .card-body .text-center .border-info .bg-info}
+
+:::::{zoom-button}
+[Field school materials](https://drive.google.com/drive/folders/1SJBNWn_897_ze){.btn role="button" .btn-primary .rounded-pill}
+:::::
+:::
+
+:::{.g-col-1 .card .card-body .text-center .border-info .bg-info}
+:::::{slack-button}
+[Slack Link](https://join.slack.com/t/peer-pbe2329/shared_invite/zt-25p9wvity-kIugoURsaSxRvPnFUQsUwQ){.btn role="button" .btn-primary .rounded-pill}
+:::::
+:::
+
+:::{.g-col-1 .card .card-body .text-center .border-info .bg-info}
+
+
+:::::{contact-facilitator-button}
+[Contact Lead Facilitator](mailto:esayre@gmail.com){.btn role="button" .btn-primary .rounded-pill}
+:::::
+:::
+
+:::{.g-col-1 .card .card-body .text-center .border-info .bg-info}
+
+
+:::::{contact-host-button}
+[Contact Local Host](mailto:mkustus1@depaul.edu){.btn role="button" .btn-primary .rounded-pill}
+::::: 
+:::
+:::
+
+
+## Logistics: Getting here, staying here, eating here.
+
+
+:::{.callout-tip collapse="true" title="Getting to campus"}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+:::
+
+:::{.callout-tip collapse="true" title="On-campus housing"}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+:::
+
+:::{.callout-tip collapse="true" title="Parking"}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+:::
+
+:::{.callout-tip collapse="true" title="Session locations & campus map"}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+:::
+
+:::{.callout-tip collapse="true" title="Food"}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+:::
+
+:::{.callout-tip collapse="true" title="Wifi access"}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+:::
+
+:::{.callout-tip collapse="true" title="Travel panic"}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+:::

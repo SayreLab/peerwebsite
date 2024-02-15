@@ -1,16 +1,32 @@
 ---
 # Field school information
 title: "PEER-location (season year)"
-description: "Introductory Field School for Emerging Discipline-based Researchers (EDBERs) at Location, dates."
+
+# Description: uncomment and edit the one you want.
+#description: "International Field School for Emerging Education Researchers with extended content."
+#description: "Extended Field School for Emerging Education Researchers. Welcomes new and returning PEER participants from anywhere in the world."
+description: "Regional Field School focusing on building community and capacity in the Southern California region."
+#description: "Short virtual workshop to get a small taste of PEER."
+
+# Staffing
 leadname: "Eleanor Sayre"
-location: "template"
-date: "6/1/2024"
-timing: "upcoming"
+
+# Location and hosting
+location: "template" 
+host: "Rochester Institute of Technology" 
+image:  "../../images/peer-wide.png" # this should be roughly 8x3 aspect ratio, host logo is a good choice, possibly with padding. 
+
+# Dates
+date: "6/1/2024"  # start date of field school, for sorting purposes
+dates: "June 1-4, 2024" # textual date range of the field school, for display purposes.
+applications: "March 15, 2024" # when are applications due?
+timing: "upcoming" # can also choose "past" or "gateway"
 
 # Settings for template, do not change.
 toc-location: left
 date-format: "MMM D, YYYY"
 
+---
 
 ## Join PEER for a 4-day, intensive, in-person PEER Field School!
 
@@ -22,8 +38,8 @@ date-format: "MMM D, YYYY"
 :::{.bi .bi-geo-alt-fill style="font-size: 70px"}
 
 :::
-DePaul University<br>
-Chicago, IL
+{{< meta host >}}
+{{< meta location >}}
 :::
 
 
@@ -32,8 +48,8 @@ Chicago, IL
 :::{.bi .bi-calendar-check-fill style="font-size: 70px"}
 
 :::
-Field school dates<br>
-December 12-17, 2023
+Field school dates
+{{< meta dates >}}
 :::
 
 :::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
@@ -42,8 +58,8 @@ December 12-17, 2023
 
 :::
 
-Applications due<br>
-October 13, 2023
+Applications due
+{{< meta applications >}}
 :::
 
 
@@ -100,7 +116,7 @@ PEER promotes peer feedback and community foundation, providing a sense of inclu
 
 # Application and Registration
 
-Applications due October 13, 2023; we hope to make notifications by October 27, 2023.
+Apply by {{< meta applications >}} for priority consideration; initial admissions decisions will come out about two weeks after the priority application deadline.
 
 [APPLY NOW](https://depaul.qualtrics.com/jfe/form/SV_bsjhcRCTjH6yvaK){.btn role="button" .btn-primary .rounded-pill}
 
@@ -123,7 +139,7 @@ Registration is free for participants from the hosting institution.  Participant
 ::::: {.list .grid .quarto-listing-cols-5}
 
 ::::{.g-col-1 .text-left}
-![Eleanor Sayre](../../images/headshots/Sayre-headshot-2.jpg){fig-alt="Eleanor Sayre" width="100%"}
+![Eleanor Sayre](../../images/headshots/Sayre-headshot.jpg){fig-alt="Eleanor Sayre" width="100%"}
 ::::
 
 ::::{.g-col-1 .text-left}
@@ -135,25 +151,26 @@ Registration is free for participants from the hosting institution.  Participant
 ::::
 
 ::::{.g-col-1 .text-left}
+![Scott Franklin](../../images/headshots/Franklin-headshot.jpeg){fig-alt="Scott Franklin" width="100%"}
+
+
+::::
+
+::::{.g-col-1 .text-left}
 ![Emily Cilli-Turner](../../images/headshots/Cilli-Turner-headshot.jpeg){fig-alt="Emily Cilli-Turner" width="100%"}
 
 
 ::::
 
 ::::{.g-col-1 .text-left}
-![Mary Bridget Kustusch](../../images/headshots/Kustusch-headshot-1.jpg){fig-alt="Mary Bridget Kustusch" width="100%"}
+![Mary Bridget Kustusch](../../images/headshots/Kustusch-headshot.jpg){fig-alt="Mary Bridget Kustusch" width="100%"}
 ::::
 :::::
 ::::::
 
 
 ## Sponsors
-::::::::: {.quarto-listing .quarto-listing-container-grid}
-:::::::: {.list .grid .quarto-listing-cols-2}
-
-::::::: {.g-col-1}
-:::::: {.quarto-listing .quarto-listing-container-grid}
-::::: {.list .grid .quarto-listing-cols-2}
+:::::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-2}
 ::::{.g-col-1 .middle}
 ![](../../images/foreign-logos/NSF-logo.png){fig-alt="National Science Foundation logo" width="100%" .center}
 
@@ -164,11 +181,3 @@ Registration is free for participants from the hosting institution.  Participant
 
 ::::
 :::::
-::::::
-:::::::
-
-:::::::{.g-col-1 .text-left}
-This PEER field school is funded by the National Science Foundation [BCSER program](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025174&HistoricalAwards=false) (DRL-2025169) and sponsored by DePaul University’s [College of Science and Health STEM Center](https://csh.depaul.edu/about/centers-and-institutes/stem/Pages/default.aspx).
-:::::::
-::::::::
-:::::::::

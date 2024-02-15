@@ -1,0 +1,143 @@
+---
+# Field school information
+title: "PEER-Koln (Spring, 2024)"
+description: "Regional Field School focusing on emerging researchers in and around Koln."
+leadname: "Scott Franklin"
+location: "Koln, Germany"
+host: "University of Koln" 
+image: "koln-zus.png"
+date: "4/2/2024"
+dates: "April 2-6, 2024" # textual date range of the field school, for display purposes.
+
+timing: "upcoming"
+
+# Settings for template, do not change.
+toc-location: left
+date-format: "MMM D, YYYY"
+
+---
+
+## Join PEER for a 5-day, intensive, in-person PEER Field School!
+
+
+::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-3 .bg-info}
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+:::{.bi .bi-geo-alt-fill style="font-size: 70px"}
+
+:::
+Universitat zu Koln<br>
+Koln, Germany
+:::
+
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+:::{.bi .bi-calendar-check-fill style="font-size: 70px"}
+
+:::
+Field school dates<br>
+April 2-6, 2024
+:::
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+:::{.bi .bi-pencil-square style="font-size: 70px"}
+
+:::
+
+Applications due<br>
+No deadline (internal)
+:::
+
+
+:::
+
+
+PEER enhances the professional growth of participants and changes career trajectories.  Our comprehensive professional development covers project design, management, mentoring, communication, and understanding community values. This 'full stack' of activities builds your research abilities.  No matter where you are in your education research journey, we'll take you to the next step. 
+
+[APPLY NOW](https://depaul.qualtrics.com/jfe/form/SV_bsjhcRCTjH6yvaK){.btn role="button" .btn-primary .rounded-pill}
+
+Can't make this one? There are [more](../index.qmd). 
+
+# Schedule Overview
+  
+Date | Activity
+---|-------
+Wednesday, March 20 Time: 3:00-5:00pm (Cologne Time, GMT+1) | Virtual Kickoff 
+Tuesday, April 2 9:00-4:00pm | Opening session, Data and Access and Research Practice Models
+Wednesday, April 3: 9:00am-4:00pm | Research design, inteviews, noticing, and ethics
+Thursday, April 4: 9:00am-12:00pm | Theory
+Friday, April 5: 9:00am-4:00pm | Noticing in Video, generative presentations
+Saturday, April 6: 9:00am-1:00pm | Project planning for the future
+
+
+To build a supportive community, participants must actively engage during all sessions in the field school.  Partial attendance is not permitted.
+
+See more schedule details on the [syllabus](syllabus.qmd)
+
+# Who Should Attend?
+ 
+PEER targets a broad diversity of experience and interest in discipline-based education research (DBER). The workshop is appropriate for:
+
+* Faculty not currently engaged in DBER but interested in learning about theories and methodologies for possible future research
+* Current DBER researchers looking to build or broaden their network of collaborators and engage in generative discussions about existing and new projects
+* Graduate students or postdoctoral researchers who want to learn more about DBER project management and building a successful research program
+* Faculty at teaching-focused universities interested in using research methodology to improve or assess their teaching and/or publish in Scholarship of Teaching & Learning
+
+This field school is centered on building regional capacity and community.  We welcome all applicants who work or reside within a three-hour radius of Cologne; applicants outside of this radius should make a strong case for their current or future ties to the DBER community in this geographic area. 
+
+
+# What do we do?
+
+### PEER builds core competencies in education research
+
+ PEER enhances the professional growth of participants and changes career trajectories.  Our comprehensive professional development covers project design, management, mentoring, communication, and understanding community values. This 'full stack' of activities enhances research abilities.  We focus on the participants' interests and projects, fostering motivation and improving success chances.  
+
+### Community Building and Networking
+
+PEER promotes peer feedback and community foundation, providing a sense of inclusion in the DBER field and fostering research identity. The networking opportunities at PEER kickstart collaborations and expand professional networks. PEER supports participants from all STEM disciplines, and we focus on emerging education researchers, whatever their career level.  
+
+### PEER builds academic currency
+
+ Our support includes guiding participants in writing, a key element of academic research. PEER engagement leads to numerous publications, grant proposals, and successful tenure & promotion portfolios.  These publications span several years, suggesting PEER's lasting impact on participants’ professional trajectories.
+    
+
+
+# Application and Registration
+
+Applications will be processed internally through the Universitat zu Koln.
+
+[APPLY NOW](https://depaul.qualtrics.com/jfe/form/SV_bsjhcRCTjH6yvaK){.btn role="button" .btn-primary .rounded-pill}
+
+It is expected that you will participate for the full field school; partial participation is not allowed.  
+
+
+* Registration includes lunch, coffee & snacks, optional breakfast, and a parking pass (if needed).  
+* We have arranged for housing on the RIT campus for non-local participants. A small number of scholarships are available to help defray the cost of housing.  You will indicate on your application whether you need housing and if you would like to apply for a scholarship.
+
+
+Registration is free for participants from the hosting institution. 
+
+
+## Facilitators
+:::::: {.quarto-listing .quarto-listing-container-grid}
+::::: {.list .grid .quarto-listing-cols-5}
+
+::::{.g-col-1 .text-left}
+![Eleanor Sayre](../../images/headshots/Sayre-headshot.jpg){fig-alt="Eleanor Sayre" width="100%"}
+::::
+
+::::{.g-col-1 .text-left}
+![Scott Franklin](../../images/headshots/Franklin-headshot.jpg){fig-alt="Scott Franklin" width="100%"}
+::::
+
+
+:::::
+::::::
+
+
+## Sponsors
+
+The PEER Research Camp is sponsored by the Graduate School of the Faculty of Human Sciences, the Graduate School for Teacher Education and the Center for International Relations (Faculty of Human Sciences). The project funds were raised by Rainer Caruso and Jakob Sponholz.
