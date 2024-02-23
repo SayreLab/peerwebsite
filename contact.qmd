@@ -110,7 +110,7 @@ Yes! Check out the [opportunities for hosting](model/localhost.qmd)!
 
 [![](/images/headshots/Franklin-headshot.jpg)]{fig-alt="Scott V Franklin"}
 
-### [Scott V Franklin](mailto:mkustus1@depaul.edu)
+### [Scott V Franklin](mailto:svfsps@rit.edu)
 :::
 
 * Rochester Institute of Technology
@@ -123,7 +123,7 @@ Yes! Check out the [opportunities for hosting](model/localhost.qmd)!
 
 :::{.text-center}
 
-[![](/images/headshots/Kustusch-headshot-2.jpg)]{fig-alt="Mary Bridget Kustusch" width="100%"}
+[![](/images/headshots/Kustusch-headshot.jpg)]{fig-alt="Mary Bridget Kustusch" width="100%"}
 
 ### [Mary Bridget Kustusch](mailto:mkustus1@depaul.edu)
 :::
@@ -138,14 +138,13 @@ Yes! Check out the [opportunities for hosting](model/localhost.qmd)!
 
 :::{.text-center}
 
-[![](/images/headshots/Sayre-headshot-3.jpg)]{fig-alt="Eleanor C Sayre" width="100%"}
+[![](/images/headshots/Sayre-headshot.jpg)]{fig-alt="Eleanor C Sayre" width="100%"}
 
 ### [Eleanor C Sayre](https://zaposa.com/contact)
 :::
 
 * Kansas State University
 * Professor, Department of Physics
-* Alder Science Education Association, Partner
 
 ::::
 :::::

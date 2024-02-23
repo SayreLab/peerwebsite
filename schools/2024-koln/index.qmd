@@ -1,10 +1,10 @@
 ---
 # Field school information
-title: "PEER-Koln (Spring, 2024)"
-description: "Regional Field School focusing on emerging researchers in and around Koln."
+title: "PEER-K&ouml;ln (Spring, 2024)"
+description: "Regional Field School focusing on emerging researchers in and around K&ouml;ln."
 leadname: "Scott Franklin"
-location: "Koln, Germany"
-host: "University of Koln" 
+location: "K&ouml;ln, Germany"
+host: "University of K&ouml;ln" 
 image: "koln-zus.png"
 date: "4/2/2024"
 dates: "April 2-6, 2024" # textual date range of the field school, for display purposes.
@@ -27,8 +27,8 @@ date-format: "MMM D, YYYY"
 :::{.bi .bi-geo-alt-fill style="font-size: 70px"}
 
 :::
-Universitat zu Koln<br>
-Koln, Germany
+Universitat zu K&ouml;ln<br>
+K&ouml;ln, Germany
 :::
 
 
@@ -57,8 +57,6 @@ No deadline (internal)
 
 PEER enhances the professional growth of participants and changes career trajectories.  Our comprehensive professional development covers project design, management, mentoring, communication, and understanding community values. This 'full stack' of activities builds your research abilities.  No matter where you are in your education research journey, we'll take you to the next step. 
 
-[APPLY NOW](https://depaul.qualtrics.com/jfe/form/SV_bsjhcRCTjH6yvaK){.btn role="button" .btn-primary .rounded-pill}
-
 Can't make this one? There are [more](../index.qmd). 
 
 # Schedule Overview
@@ -81,9 +79,8 @@ See more schedule details on the [syllabus](syllabus.qmd)
  
 PEER targets a broad diversity of experience and interest in discipline-based education research (DBER). The workshop is appropriate for:
 
-* Faculty not currently engaged in DBER but interested in learning about theories and methodologies for possible future research
 * Current DBER researchers looking to build or broaden their network of collaborators and engage in generative discussions about existing and new projects
-* Graduate students or postdoctoral researchers who want to learn more about DBER project management and building a successful research program
+* Students or postdoctoral researchers who want to learn more about DBER project management and building a successful research program
 * Faculty at teaching-focused universities interested in using research methodology to improve or assess their teaching and/or publish in Scholarship of Teaching & Learning
 
 This field school is centered on building regional capacity and community.  We welcome all applicants who work or reside within a three-hour radius of Cologne; applicants outside of this radius should make a strong case for their current or future ties to the DBER community in this geographic area. 
@@ -108,8 +105,6 @@ PEER promotes peer feedback and community foundation, providing a sense of inclu
 # Application and Registration
 
 Applications will be processed internally through the Universitat zu Koln.
-
-[APPLY NOW](https://depaul.qualtrics.com/jfe/form/SV_bsjhcRCTjH6yvaK){.btn role="button" .btn-primary .rounded-pill}
 
 It is expected that you will participate for the full field school; partial participation is not allowed.  
 

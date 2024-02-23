@@ -69,19 +69,8 @@ The virtual kickoff will be held over zoom.  Participants have received a calend
 
 
 
-<!-- START accordion: Logistics: header -->
-:::{.accordion-header id="headerLogistics"}
-
-:::{.accordion-button .collapsed type="button" data-bs-toggle="collapse" data-bs-target="#collapseLogistics"}
-
 ## Logistics: Getting here, staying here, eating here.
 
-<!-- END accordion: Logistics: header -->
-:::
-
-<!-- START accordion: Logistics: body -->
-:::{.accordion-collapse .collapse id="collapseLogistics"}
-:::{.accordion-body}
 
 :::{.callout-tip collapse="true" title="Getting to campus"}
 The Rochester airport (code: ROC) is about 20 minutes from RIT.  There is uber/lyft available as well as taxis.  If you are bringing or renting a car, you should coordinate with Matt Sayre before you arrive to arrange for a parking pass to the RIT campus.  You can tell your phone to direct you to "405 Global Way"; don't just drive/uber/lyft to "RIT" because that will take you to the wrong part of campus.
@@ -112,11 +101,4 @@ RIT has both eduroam (if your institution participates) and a guest network. Sel
 :::{.callout-tip collapse="true" title="Travel panic"}
 If you are experiencing travel panic on the day of travel, you can text Matt Sayre (785-313-5038) or Eleanor Sayre (785-313-5039).
 :::
-
-<!-- END accordion: Logistics: body -->
-:::
-
-<!-- END accordion: Logistics -->
-::::
-:::::
 

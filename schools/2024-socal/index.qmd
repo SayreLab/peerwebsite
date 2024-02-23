@@ -2,7 +2,7 @@
 # Field school information
 title: "PEER-SoCal (Summer, 2024)"
 description: "Regional Field School focusing on building community and capacity in the Southern California region."
-leadname: "Mary Bridget Kustusch"
+leadname: "Scott Franklin"
 location: "San Diego, CA"
 host: "University of San Diego"
 image: "usd-logo.png"
@@ -56,7 +56,7 @@ March 15, 2024
 
 PEER enhances the professional growth of participants and changes career trajectories.  Our comprehensive professional development covers project design, management, mentoring, communication, and understanding community values. This 'full stack' of activities builds your research abilities.  No matter where you are in your education research journey, we'll take you to the next step. 
 
-[APPLY NOW](https://depaul.qualtrics.com/jfe/form/SV_bsjhcRCTjH6yvaK){.btn role="button" .btn-primary .rounded-pill}
+[APPLY NOW](https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58){.btn role="button" .btn-primary .rounded-pill}
 
 Can't make this one? There are [more](../index.qmd). 
 
@@ -128,12 +128,9 @@ It is expected that you will participate for the full field school; partial part
 ![Emily Cilli-Turner](../../images/headshots/Cilli-Turner-headshot.jpeg){fig-alt="Emily Cilli-Turner" width="100%"}
 ::::
 
-::::{.g-col-1 .text-left}
-![Mary Bridget Kustusch](../../images/headshots/Kustusch-headshot.jpg){fig-alt="Mary Bridget Kustusch" width="100%"}
-::::
 
 ::::{.g-col-1 .text-left}
-![Stanley Lo](../../images/headshots/Lo-headshot.jpg){fig-alt="Stanley Lo" width="100%"}
+![Chris Rasmussen](../../images/headshots/Rasmussen-headshot.jpg){fig-alt="Chris Rasmussen" width="100%"}
 ::::
 
 
