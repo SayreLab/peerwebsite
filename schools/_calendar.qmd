@@ -1,16 +1,2 @@
 
-
-::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-2 .bg-warning}
-
-:::{.g-col-1 .card .card-body .text-center .bg-warning .border-warning}
-
-![](/images/fig.jpg)
-
-:::
-
-:::{.g-col-1 .card .card-body .text-center .bg-warning .border-warning}
-
-![](/images/fig.jpg)
-:::
-
-:::
+Schedule TBD
