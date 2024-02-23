@@ -7,7 +7,7 @@ location: "State College, PA"
 host: "Pennsylvania State University College of Science"
 image: "psu-cos.png"
 date: "5/20/2024"
-dates: "May 20-25, 2024" # textual date range of the field school, for display purposes.
+dates: "May 20-23, 2024" # textual date range of the field school, for display purposes.
 timing: "upcoming"
 
 # Settings for template, do not change.
@@ -37,7 +37,7 @@ State College, PA
 
 :::
 Field school dates<br>
-May 20-24, 2024
+May 20-23, 2024
 :::
 
 :::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
@@ -107,7 +107,7 @@ PEER promotes peer feedback and community foundation, providing a sense of inclu
 
 Applications due March 15, 2024; we hope to make notifications by April 1, 2024.
 
-[APPLY NOW](https://depaul.qualtrics.com/jfe/form/SV_bsjhcRCTjH6yvaK){.btn role="button" .btn-primary .rounded-pill}
+[APPLY NOW](https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58){.btn role="button" .btn-primary .rounded-pill}
 
 It is expected that you will participate for the full field school; partial participation is not allowed.  
 
