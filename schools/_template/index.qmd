@@ -15,11 +15,12 @@ leadname: "Eleanor Sayre"
 location: "template" 
 host: "Rochester Institute of Technology" 
 image:  "../../images/peer-wide.png" # this should be roughly 8x3 aspect ratio, host logo is a good choice, possibly with padding. 
+applylink: "https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58"
 
 # Dates
 date: "6/1/2024"  # start date of field school, for sorting purposes
 dates: "June 1-4, 2024" # textual date range of the field school, for display purposes.
-applications: "March 15, 2024" # when are applications due?
+applydate: "March 15, 2024" # when are applications due?
 timing: "upcoming" # can also choose "past" or "gateway"
 
 # Settings for template, do not change.
@@ -59,7 +60,7 @@ Field school dates
 :::
 
 Applications due
-{{< meta applications >}}
+{{< meta applydate >}}
 :::
 
 
@@ -68,7 +69,7 @@ Applications due
 
 PEER enhances the professional growth of participants and changes career trajectories.  Our comprehensive professional development covers project design, management, mentoring, communication, and understanding community values. This 'full stack' of activities builds your research abilities.  No matter where you are in your education research journey, we'll take you to the next step. 
 
-[APPLY NOW](https://depaul.qualtrics.com/jfe/form/SV_bsjhcRCTjH6yvaK){.btn role="button" .btn-primary .rounded-pill}
+[APPLY NOW]({{< meta applylink >}}){.btn role="button" .btn-primary .rounded-pill}
 
 Can't make this one? There are [more](../index.qmd). 
 
@@ -116,9 +117,9 @@ PEER promotes peer feedback and community foundation, providing a sense of inclu
 
 # Application and Registration
 
-Apply by {{< meta applications >}} for priority consideration; initial admissions decisions will come out about two weeks after the priority application deadline.
+Apply by {{< meta applydate >}} for priority consideration; initial admissions decisions will come out about two weeks after the priority application deadline.
 
-[APPLY NOW](https://depaul.qualtrics.com/jfe/form/SV_bsjhcRCTjH6yvaK){.btn role="button" .btn-primary .rounded-pill}
+[APPLY NOW]({{< meta applylink >}}){.btn role="button" .btn-primary .rounded-pill}
 
 It is expected that you will participate for the full field school; partial participation is not allowed.  
 
@@ -151,7 +152,7 @@ Registration is free for participants from the hosting institution.  Participant
 ::::
 
 ::::{.g-col-1 .text-left}
-![Scott Franklin](../../images/headshots/Franklin-headshot.jpeg){fig-alt="Scott Franklin" width="100%"}
+![Scott Franklin](../../images/headshots/Franklin-headshot.jpg){fig-alt="Scott Franklin" width="100%"}
 
 
 ::::
