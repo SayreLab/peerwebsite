@@ -109,7 +109,7 @@ PEER promotes peer feedback and community foundation, providing a sense of inclu
 
 Applications due March 15, 2024; we hope to make notifications by April 1, 2024.
 
-[APPLY NOW](https://depaul.qualtrics.com/jfe/form/SV_bsjhcRCTjH6yvaK){.btn role="button" .btn-primary .rounded-pill}
+[APPLY NOW](https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58){.btn role="button" .btn-primary .rounded-pill}
 
 It is expected that you will participate for the full field school; partial participation is not allowed.  
 
@@ -126,7 +126,17 @@ Thanks to a grant from the NSF, there is no cost for registration. Housing costs
 ::::: {.list .grid .quarto-listing-cols-5}
 
 ::::{.g-col-1 .text-left}
-![Eleanor Sayre](../../images/headshots/Sayre-headshot-2.jpg){fig-alt="Eleanor Sayre" width="100%"}
+![Mary Bridget Kustusch](../../images/headshots/Kustusch-headshot.jpg){fig-alt="Mary Bridget Kustusch" width="100%"}
+::::
+
+::::{.g-col-1 .text-left}
+![Scott Franklin](../../images/headshots/Franklin-headshot.jpg){fig-alt="Scott Franklin" width="100%"}
+
+
+::::
+
+::::{.g-col-1 .text-left}
+![Eleanor Sayre](../../images/headshots/Sayre-headshot.jpg){fig-alt="Eleanor Sayre" width="100%"}
 ::::
 
 ::::{.g-col-1 .text-left}

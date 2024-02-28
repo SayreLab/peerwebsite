@@ -1,0 +1,33 @@
+---
+title: "Virtual Gateway Workshop Registration"
+
+description: "Looking for a small taste of PEER? Join the virtual gateway workshop."
+
+date: "3/11/2024"
+date-format: "MMM D, YYYY"
+
+toc-location: left
+
+timing: "workshop"
+
+---
+
+<!--# Uncomment the one you want to see -->
+{{< include _form.qmd >}}
+<!--# {{< include _closed.qmd >}} -->
+
+
+## Sponsors
+::::: {.quarto-listing .quarto-listing-container-grid}
+:::: {.list .grid .quarto-listing-cols-2}
+
+
+:::{.g-col-1 .text-center}
+![](../../images/foreign-logos/NSF-logo.png){fig-alt="National Science Foundation" width="200px"}
+:::
+
+:::{.g-col-1 .text-left}
+This virtual gateway workshop is made possible by the National Science Foundation. Views expressed in the workshop do not reflect the opinions of the NSF.
+:::
+::::
+:::::

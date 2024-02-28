@@ -1,55 +1,88 @@
 ---
 title: "Virtual Gateway Workshop"
-
 description: "Looking for a small taste of PEER? Join the virtual gateway workshop."
-
-date: "5/10/2023"
-date-format: "MMM D, YYYY"
-
-toc-location: left
-
+leadname: "Eleanor Sayre"
+location: "Virtual on zoom"
+host: "PEER Institute"
+image: "/images/peer.png"
 timing: "workshop"
 
+# Change this each time
+date: "3/11/2024"
+dates: "March 11, 2024" # textual date range of the field school, for display purposes.
+hours: "1:00 - 2:30pm EST" #textual timing for the workshop
+
+# Prior virtual gateways
+priordates: 
+  - "December 5, 2023"
+  - "March 23, 2023"
+  - "March 22, 2022"
+  - "September 8, 2022"
+
+# For template, don't touch
+date-format: "MMM D, YYYY"
+toc-location: left
 ---
 
-:::::: {.quarto-listing .quarto-listing-container-grid}
-::::: {.list .grid .quarto-listing-cols-1}
-::::{.g-col-1 .text-center}
+{{< include /_prefix.qmd >}}
 
-Date: December 5, 2023<br>
-Time: 4:00 - 5:30pm EST<br>
-Location: Virtual<br>
+# Join us for a small taste of PEER!
 
-&nbsp; 
 
-:::{apply-now-button}
-[REGISTRATION IS CLOSED. SIGN UP FOR THE MAILING LIST?](../../contact.qmd){.btn role="button" .btn-primary .rounded-pill .text-center}
+::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-3 .bg-info}
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+:::{.bi .bi-geo-alt-fill style="font-size: 70px"}
+
 :::
-::::
-:::::
-::::::
-
-In this interactive, online workshop, we’ll introduce you to fundamental skills in education research. You’ll practice these skills with each other to develop your research ideas and conceptualize a research project.
+{{< meta host >}}
+{{< meta location >}}
+:::
 
 
-&nbsp;  
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+:::{.bi .bi-calendar-check-fill style="font-size: 70px"}
+
+:::
+{{< meta dates >}}
+{{< meta hours >}}
+:::
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+:::{.bi .bi-pencil-square style="font-size: 70px"}
+
+:::
+Cost:
+Free, but space is limited
+:::
 
 
-# What do we cover?
+:::
 
-&nbsp;  
+
+PEER enhances the professional growth of participants and changes career trajectories.  In this interactive, online workshop, we’ll introduce you to fundamental skills in education research. You’ll practice these skills with each other to develop your research ideas and conceptualize a research project.
+
+No matter where you are in your education research journey, we'll take you to the next step. 
+
+
+[REGISTER NOW](registration.qmd){.btn role="button" .btn-primary .rounded-pill}
+
+Can't make this one? There are [more](../index.qmd). 
+
+
+
+## What do we cover?
+
 
 * Refining your research interests into answerable research questions.
 * Generative writing: how research gets done and papers get written.
 * Playing “yes, and” to find collaborators and improve your projects.
 
 
-&nbsp;  
-
-
-# Who should attend?
-
-&nbsp;  
+## Who should attend?
 
 PEER targets a broad diversity of experience and interest in discipline-based education research (DBER) and the scholarship of teaching and learning (SoTL). The workshop is appropriate for:
 
@@ -59,31 +92,17 @@ PEER targets a broad diversity of experience and interest in discipline-based ed
 * Faculty at teaching-focused universities interested in using research methodology to improve or assess their teaching and/or publish in Scholarship of Teaching & Learning
 
 
-&nbsp; 
-
-
-# How much does it cost?
-
-&nbsp; 
+## How much does it cost?
 
 This virtual workshop is free to attend, but space is limited and a recording will not be made available.
 
 
-&nbsp; 
+## How should I prepare?
 
-
-# How should I prepare?
-
-&nbsp; 
-
-* Register in advance.
+* [Register](registration.qmd) in advance.
 * Read about [writing as a generative process](https://handbook.zaposa.com/articles/generative-writing/), and prepare to engage in your own writing during the workshop. During the workshop, you’ll do generative writing around your research interests and questions.
 * Make sure your zoom software is up-to-date and test your microphone and camera. During the workshop, you’ll work in a collaborative breakout group with other participants.
 * Look for a calendar invite with a zoom link.
-
-
-&nbsp; 
-
 
 ## Facilitators
 :::::: {.quarto-listing .quarto-listing-container-grid}
@@ -115,7 +134,7 @@ Jordan Gerton is a physics professor and former PEER participant.
 ::::{.g-col-1 .text-left}
 :::{.text-center}
 
-![](../../images/headshots/Sayre-headshot-2.jpg){fig-alt="Eleanor Sayre" width="100%"}
+![](../../images/headshots/Sayre-headshot.jpg){fig-alt="Eleanor Sayre" width="100%"}
 
 ### Eleanor Sayre
 :::
@@ -126,20 +145,18 @@ Eleanor Sayre is a physics professor with expertise in education research.
 ::::::
 
 
-&nbsp; 
-
-
 ## Past Virtual Gateways
 
-&nbsp; 
-
+* December 5, 2023, 4:00 - 5:30pm EST.
 * March 23, 2023, 4:30 - 6:00pm EST.
 * March 22, 2022, 4:30 - 6:00pm EST.
 * September 8, 2022, 3:30 - 5:00pm EST.
 
+## More opportunities to participate in PEER!
 
-&nbsp;  
+Whether you're just getting started, looking to stretch into new projects or methodologies, or seeking community and support around education research, we're happy to have you. Upcoming field schools and workshops will be held in the US as well as internationally (as travel permits).
 
+`r invitation.cards(c("announcements", "upcoming"))`
 
 ## Sponsors
 ::::: {.quarto-listing .quarto-listing-container-grid}
