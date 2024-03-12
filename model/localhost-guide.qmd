@@ -1,0 +1,130 @@
+---
+title: "Local Hosting Guide"
+subtitle: "Build and strengthen your local community for education research"
+image: "../images/peer.png"
+image-width: "20rem"
+title-block-banner: ../images/rainbow.jpg
+---
+
+{{< include ../_prefix.qmd >}}
+
+## What is Local hosting?
+
+Local hosting is a rewarding, exciting role to take on to bring PEER to your community! There are many reasons that people want to become a local host. Some people have participated in PEER and have a desire to share how awesome it is. Some want to break down the silos at their institution to build an interdisciplinary community centered around education research. Some want to gain experience organizing small conferences. Some want the opportunity to showcase all the cool and valuable work people are doing to their Dean. Identifying your motivations for becoming a local host will help you shape what the PEER field school looks like. 
+
+Local hosts are the point-person for organizing the logistics of hosting a PEER field school. Facilitators focus on delivering the content of the PEER modules. Together, facilitators and local hosts work together to put on a successful field school. 
+
+## Local Host Responsibilities
+
+Local hosting requires a lot of ahead-of-time planning, but there is a significant amount of on-the-fly problem-solving that local hosts handle as well. Previous local hosts have tackled issues from dorms running out of toilet paper on a weekend to catering cancellations to wifi access troubles. Knowing institutional resources and preparing backup plans are important to being a successful local host! 
+
+Organizing a field school takes approximately six months. There is lots of planning that goes into making a field school happen! Advertising, applications, registration, and more all happen within this time period. Give yourself ample time to cover all the logistics to ensure the field school runs smoothly. Local host responsibilities include: 
+
+<!-- START accordion: Responsibilities: body -->
+<!-- :::{.accordion-collapse .collapse id="collapseLogistics"} -->
+<!-- :::{.accordion-body} -->
+
+:::{.callout-note collapse="true" title="Scheduling"}
+* Working with the facilitation team, local hosts will pick dates for the field school. Field schools typically run over 4 days/3 nights or 6 days/5 nights. 
+* Field school days are broken into blocks. In the morning, there is a 1-hour optional breakfast for participants. This is followed by a 3-hour morning block that includes a 10-minute break, a 1-hour lunch break, and a 3-hour afternoon block with a 30-minute break. In total, days generally run from 8am to 4pm. 
+:::
+
+:::{.callout-note collapse="true" title="Content"}
+* Facilitators help local hosts envision what PEER can be for their community. Because PEER is responsive to the needs of participants, it is important that local hosts know the audience attending the field school. Then, PEER facilitators work with the local host to tailor the field school to meet the needs of the participants. 
+* It is important for the local host to know about the population of participants. Do they want to use qualitative methods or quantitative? Are they interested in interviewing, but not classroom observation? Are they worried about the IRB process? What experiences with education research are the participants coming in with? Are mainly in teaching-focused positions? Communicating a sense of where the participants are at and what they need will to facilitators will help us tailor the field school to your context. 
+* Local hosts might consider bringing in Local Institutional Review Board members and/or Center for Teaching and Learning staff to talk about local resources available to participants. 
+
+:::
+
+:::{.callout-note collapse="true" title="Recruitment"}
+* A reasonable number of participants is 12-30; more is possible (up to 60). You will work with facilitators to determine what the right number is for your context.
+* Local hosts do the majority of recruiting for field schools. The PEER institute has some pre-made advertising material that local hosts can use. 
+* Some effective forms of recruiting participants include coordinating with local Centers for Teaching and Learning, reaching out to colleagues at your institution, and reaching out to other local institutions. 
+
+:::
+
+:::{.callout-note collapse="true" title="Participant Applications and Registration"}
+* Depending on the circumstances, there have been times when the application and acceptance process has been completely handled by local hosts, times when it has been completely handled by PEER, and times when local hosts and PEER worked together on that process. 
+* PEER has ready-to-use application forms for prospective participants to apply to attend a PEER field school that local hosts can use. You may also create your own application to choose the acceptance criteria. In either case, it is important that the local host and facilitation team have access to applications, acceptances, and registration information. 
+* After application acceptances have been sent out, accepted participants who plan to attend the field school must register. The registration form includes questions regarding participants’ need for housing, dietary restrictions, registration fees (if applicable), etc.
+
+:::
+
+:::{.callout-note collapse="true" title="Event space"}
+* Finding rooms that facilitate collaboration strongly benefits participants in sharing their ideas with other participants. Studio rooms or rooms with large, round tables tend to work well with how PEER runs. Field schools can and have run in traditional large lecture halls to accommodate larger groups of participants, but it does impact participants’ abilities to move and collaborate. 
+* Field schools typically require multiple rooms with one main room for hosting and auxiliary rooms for food, generative presentations, etc. In past PEER field schools, some participants have formed topical groups that meet over lunch. Having some extra rooms can facilitate community building and helps to make generative presentations manageable. 
+* The main room and generative presentation rooms should have supporting technology. The most important equipment to have is a projector and screen. Facilitators can use their own computer to connect to that projector if necessary. Because the main room is typically large, a reliable microphone setup is beneficial to have. If a mic setup does not exist in the room, PEER facilitators can bring one. 
+
+:::
+
+:::{.callout-note collapse="true" title="Food"}
+
+* During field school days, an optional breakfast, lunch, and afternoon snack are provided to participants. Local hosts organize the food throughout the field school. Often, catering services are used. Sometimes, universities have particular catering services that they must use. Sometimes, those catering services do not run on weekends. Additionally, catering must be flexible to meet the dietary needs of individual participants (i.e., there may need to be gluten-free options, dairy free options, vegetarian options, vegan options, nut-free options, etc.). 
+:::
+
+:::{.callout-note collapse="true" title="Lodging"}
+If participants are coming from out of town, you may need to organize lodging. Hotel room blocks and dorm rooms are commonly used for housing.
+:::
+
+:::{.callout-note collapse="true" title="Travel"}
+* Organizing transportation for participants to get from where they are staying to where PEER is taking place. If you are in an urban setting, this may include public transportation passes. If you are in a rural setting, you may need to organize a shuttle. If participants are staying near the building PEER is being hosted in, they may not need transportation. 
+* For local participants who drove to the field school, you may need to provide parking passes. 
+:::
+
+:::{.callout-note collapse="true" title="Community building"}
+* You should plan that most of your participants will attend every workshop in the field school. PEER is an intensive, community-centered experience. We need everyone to be present all the time in order to best support the community. 
+* Facilitating community-building activities outside of field school hours can be really impactful in building community between PEER participants. For example, organizing dinner groups and encouraging game nights are some ways local hosts have facilitated community building. 
+* Some local hosts have organized regular meetings after PEER to continue the work participants were doing during PEER. 
+* Can be hardest at local scale – getting people away from distractions, dedicate space and time to think about their research, get out of the sense of “I’m at home” 
+:::
+
+:::{.callout-note collapse="true" title="Support"}
+* Having local administrative support is valuable because of the operational knowledge they have. They can help you book rooms, organize supplies, coordinate catering, and more. 
+* PEER Facilitators work closely with local hosts to help you envision what PEER can be for your community and to put on a successful field school. While you as a local host are the point-person for organizing logistics, you are not alone! 
+
+:::
+
+<!-- END accordion: Logistics: body -->
+<!-- ::: -->
+
+<!-- END accordion: Logistics -->
+
+<!-- ::::: -->
+
+
+
+### Regional Field School Hosting
+
+Local field schools typically have participants from one institution. Regional field schools are open to people from other institutions in a slightly larger geographic region, typically within driving distance. Regional field schools are a great way to support (or jump-start) regional collaborations! Regional field schools tend to have more complicated logistics, but the facilitators are happy to help you evaluate if a regional field school is a good fit. 
+
+## Which workshops are available?
+
+We have workshop modules for a variety of topics.
+
+Topic | Workshop modules
+---|---------
+Getting started with research design | building research interests into robust research projects, iterative design, project planning
+ Research life | principles for being an active, productive researcher; balancing research, teaching, and life; and our personal professional pathways
+ Research ethics | how to collaborate ethically, mentor students, author papers together, and work with human subjects/participants in research projects.
+ Analysis methods | video-based qualitative research methods, emergent coding, basic quantitative methods, doing interviews, design-based research, autoethnography, and social network analysis
+ Research communication | doing lit reviews, making beautiful posters, talking about your research with skeptical audiences, engaging advisory boards, giving elevator pitches to colleagues and funders, structuring proposals, and publishing peer-reviewed papers
+ Teaching students | the challenge of listening to students, fostering inclusivity and equity in classrooms, mentoring undergraduates in research
+ 
+: {.striped}
+
+See [Sample Field School](/schools/sample-fs.qmd) for an example of what a field school might look like.
+
+## Costs
+
+Costs are commensurate with the number of participants that are expected to attend. Costs per participant vary depending on if the participant is local or if they are coming from a distance. We do our best to minimize the costs of bringing a field school to you, but hosting a field school generally requires a source of funding. Directors can help you frame to your Dean or Provost the benefits of bringing PEER to you. 
+
+## Timeline
+
+Scheduling is one of the largest constraints on when a field school can be hosted. Field schools typically require around one year of lead time to be scheduled and about 6 months of planning. An example timeline is given below.
+\\
+Before the field school: 
+
+* 6+ months: Secure funding, choose field school dates, determine desired number of participants capacity 
+* 3-4 months: Create field school applications with PEER facilitators, decide on field school goals
+* 2 months: Open application for participation, advertise event
+* 1 month: Send acceptances and begin the registration process
