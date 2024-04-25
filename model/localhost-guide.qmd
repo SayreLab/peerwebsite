@@ -121,10 +121,11 @@ Costs are commensurate with the number of participants that are expected to atte
 ## Timeline
 
 Scheduling is one of the largest constraints on when a field school can be hosted. Field schools typically require around one year of lead time to be scheduled and about 6 months of planning. An example timeline is given below.
-\\
-Before the field school: 
 
-* 6+ months: Secure funding, choose field school dates, determine desired number of participants capacity 
-* 3-4 months: Create field school applications with PEER facilitators, decide on field school goals
-* 2 months: Open application for participation, advertise event
-* 1 month: Send acceptances and begin the registration process
+### Before the field school: 
+
+* **6+ months:** Secure funding, choose field school dates, determine participant capacity 
+* **3-4 months:** Create field school applications with PEER facilitators, decide on field school goals
+* **2 months:** Open application for participation, advertise event
+* **1 month:** Send acceptances and begin the registration process
+* **2 Weeks:** Field school virtual kick-off
