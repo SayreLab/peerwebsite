@@ -103,12 +103,12 @@ We have workshop modules for a variety of topics.
 
 Topic | Workshop modules
 ---|---------
-Getting started with research design | building research interests into robust research projects, iterative design, project planning
- Research life | principles for being an active, productive researcher; balancing research, teaching, and life; and our personal professional pathways
- Research ethics | how to collaborate ethically, mentor students, author papers together, and work with human subjects/participants in research projects.
- Analysis methods | video-based qualitative research methods, emergent coding, basic quantitative methods, doing interviews, design-based research, autoethnography, and social network analysis
- Research communication | doing lit reviews, making beautiful posters, talking about your research with skeptical audiences, engaging advisory boards, giving elevator pitches to colleagues and funders, structuring proposals, and publishing peer-reviewed papers
- Teaching students | the challenge of listening to students, fostering inclusivity and equity in classrooms, mentoring undergraduates in research
+Getting started with research design | Building research interests into robust research projects, iterative design, project planning
+ Research life | Principles for being an active, productive researcher; balancing research, teaching, and life; and our personal professional pathways
+ Research ethics | How to collaborate ethically, mentor students, author papers together, and work with human subjects/participants in research projects.
+ Analysis methods | Video-based qualitative research methods, emergent coding, basic quantitative methods, doing interviews, design-based research, autoethnography, and social network analysis
+ Research communication | Doing lit reviews, making beautiful posters, talking about your research with skeptical audiences, engaging advisory boards, giving elevator pitches to colleagues and funders, structuring proposals, and publishing peer-reviewed papers
+ Teaching students | The challenge of listening to students, fostering inclusivity and equity in classrooms, mentoring undergraduates in research
  
 : {.striped}
 
