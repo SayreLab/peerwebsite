@@ -223,9 +223,11 @@ background-size: cover;
 <section id="schedule-overview" class="level1">
 <h1>Schedule Overview</h1>
 
-  <iframe id="fs-schedule" src="" width="100%" height="100%" frameborder="0"></iframe>
+  <iframe id="fs-schedule" src="" width="100%" height="600px" frameborder="0"></iframe>
+  <!-- Dynamically set the school name variable -->
   <script>
     // Define the school name variable
+    // THIS MUST BE THE SAME AS THE GOOGLE SHEETS PAGE NAME
     var schoolName = "PSU 2024"; // Change this to the desired school name
 
     // Encode the school name to make it URL-safe
@@ -233,7 +235,6 @@ background-size: cover;
 
     // Set the src of the iframe with the dynamically generated school name
     document.querySelector("#fs-schedule").src = "../../updated-schedule-pull.html?school=" + encodedSchoolName;
-
   </script>
 
 <p>To build a supportive community, participants must actively engage during all sessions in the field school. Partial attendance is not permitted.</p>

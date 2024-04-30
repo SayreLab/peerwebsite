@@ -733,7 +733,6 @@
       }
 
       .event-list {
-        list-style-type: disk;
         margin: 0;
         padding-left: 5%;
       }
@@ -764,61 +763,77 @@
     </table>
 
     <script>
+      //    Attempts to fetch data given a deploy link from the Google AppScript Project
+      //    Fetches the data for a FS given the FS title
+      //    Returns the data as an HTML formatted table
       async function fetchAndFilterData(schoolTitle) {
         try {
+          //   Loader for the calendar, it's the spinning circle before the calendar loads
           const loader = document.getElementById("loader");
+          //   Sets the loader's display to block while the calendar is loading
           loader.style.display = "block"; // Show loader
 
           const scheduleTable = document.getElementById("schedule");
 
+          //    Fetches the data from the Google App Script link
+          //    (You can find the link by creating a new deploy or going to Manage Deploys on the App Script Project)
           const response = await fetch(
             "https://script.google.com/macros/s/AKfycbzcLb2voRalhSqqS_CwQUV6j0x-ROI5Y2B2uHPhxep7lF_UZ4V0ZaEdTe-o8kBqSbrL/exec"
           );
           const data = await response.json();
 
-          loader.style.display = "none"; // Hide loader
-          console.log(schoolTitle);
+          //    Hides the loader once the calendar is loaded
+          loader.style.display = "none";
 
+          //    If the school title is not null we filter the data to only get the passed school's data
           if (schoolTitle) {
             const filteredData = data.filter(
               (school) => school.title === schoolTitle
             );
             displayData(filteredData);
           } else {
-            console.log("No school title");
+            console.error("No school title");
           }
         } catch (error) {
           console.error("Error fetching data:", error);
         }
       }
 
+      //    Formats the data from the FS into an HTML table
+      //    Takes in the FS data as JSON
       function displayData(data) {
         const scheduleTable = document.getElementById("schedule");
         scheduleTable.innerHTML = "";
 
+        //  Iterate through the school's days
+        //  This builds each row of the table
         data.forEach((school) => {
           school.days.forEach((day) => {
             const date = new Date(day.date);
             const formattedDate = `${getDayName(
               date
             )}: ${date.toLocaleDateString()}`;
-            const morningEvents = eventsToText(day.morning, "Morning");
-            const afternoonEvents = eventsToText(day.afternoon, "Afternoon");
+            const morningEvents = eventsToHTML(day.morning, "Morning");
+            const afternoonEvents = eventsToHTML(day.afternoon, "Afternoon");
+            //  tr is the HTML tag for Table Row
             const tr = document.createElement("tr");
+            //  writes the data into the row
+            //  td is the HTML tag for each data cell
             tr.innerHTML = `<td>${formattedDate}</td><td>${morningEvents}</td><td>${afternoonEvents}</td>`;
+            //  adds the row into the schedule table
             scheduleTable.appendChild(tr);
           });
         });
       }
 
-      function eventsToText(events, period) {
+      //    Puts events into HTML format
+      function eventsToHTML(events, period) {
         if (!events || events.length === 0) return "";
 
+        //  Filter out empty/null event titles, iterate through them and format them
         const formattedEvents = events
           .filter((event) => event && event.title) // Add a check for null or undefined
           .map((event) => `<li>${event.title}: ${event.duration}</li>`);
-
-        console.log(formattedEvents);
 
         if (formattedEvents.length === 0) return "";
 
@@ -828,6 +843,7 @@
         return list;
       }
 
+      //Given a date, returns what day of the week it is
       function getDayName(date) {
         const days = [
           "Sunday",
@@ -841,25 +857,15 @@
         return days[date.getDay()];
       }
 
-      function dayActivitiesToRows(day) {
-        const rows = [];
-        const periods = ["Morning", "Lunch", "Afternoon", "Evening"];
-
-        periods.forEach((period) => {
-          const events = day[period.toLowerCase()] || [];
-          events.forEach((event) => {
-            if (event && event.title) {
-              // Check if event title is not null or empty
-              rows.push(`${event.title}: ${event.duration}`);
-            }
-          });
-        });
-
-        return rows;
-      }
-
+      //    Gets the params of a url search, params are whatever comes after a "?" in a url
+      //    Ex: https://www.amazon.com/s?k=bic+pens --> An amazon link in which the search params are k=bic+pens
+      //    --> I'm searching for Bic Pens on Amazon
       const urlParams = new URLSearchParams(window.location.search);
+      //    Gets value of the param with school=<value>
+      //    <value> should be the name of the school EXACTLY AS DICTATED IN THE GOOGLE SPREADSHEET SHEET NAMES
+      //    If the school name doesn't exactly match one of the school's sheet name in the spreadsheet, it'll throw an error
       const schoolTitle = urlParams.get("school");
+      //    Calls the main filterer passing the school name
       fetchAndFilterData(schoolTitle);
     </script>
   </body>
