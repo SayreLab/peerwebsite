@@ -707,38 +707,84 @@
   </head>
   <body>
     <style>
-      /* Styles for the loader */
-      #loader {
-        display: none;
-        position: fixed;
-        z-index: 9999;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        border: 6px solid #3498db; /* Blue color */
-        border-radius: 50%;
-        border-top: 6px solid #ffffff; /* White color */
-        width: 60px;
-        height: 60px;
-        animation: spin 2s linear infinite;
+      /* HTML: <div class="loader"></div> */
+      #loader-wrapper {
+        text-align: center; /* Center the content horizontally */
+        display: flex; /* Use flexbox for layout */
+        justify-content: center; /* Center the flex items horizontally */
+        align-items: center; /* Center the flex items vertically */
+        position: fixed; /* Position the loader relative to the viewport */
+        z-index: 9999; /* Set a high z-index to ensure the loader is above other content */
+        top: 30%; /* Position the loader 50% from the top of the viewport */
+        left: 50%; /* Position the loader 50% from the left of the viewport */
+        transform: translate(
+          -50%,
+          -50%
+        ); /* Move the loader back by half of its width and height */
       }
 
-      @keyframes spin {
-        0% {
-          transform: rotate(0deg);
+      #loader {
+        width: 50px;
+        height: 28px;
+        --_g: no-repeat radial-gradient(farthest-side, lightblue 94%, #ffffff00);
+        background: var(--_g) 50% 0, var(--_g) 100% 0;
+        background-size: 12px 12px;
+        animation: l23-0 1.5s linear infinite;
+      }
+      #loader:before {
+        content: "";
+        position: absolute;
+        height: 12px;
+        aspect-ratio: 1;
+        border-radius: 50%;
+        background: lightblue;
+        left: 0;
+        top: 0;
+        animation: l23-1 1.5s linear infinite,
+          l23-2 0.5s cubic-bezier(0, 200, 0.8, 200) infinite;
+      }
+      @keyframes l23-0 {
+        0%,
+        31% {
+          background-position: 50% 0, 100% 0;
+        }
+        33% {
+          background-position: 50% 100%, 100% 0;
+        }
+        43%,
+        64% {
+          background-position: 50% 0, 100% 0;
+        }
+        66% {
+          background-position: 50% 0, 100% 100%;
+        }
+        79% {
+          background-position: 50% 0, 100% 0;
         }
         100% {
-          transform: rotate(360deg);
+          transform: translateX(calc(-100% / 3));
         }
       }
-
+      @keyframes l23-1 {
+        100% {
+          left: calc(100% + 7px);
+        }
+      }
+      @keyframes l23-2 {
+        100% {
+          top: -0.1px;
+        }
+      }
       .event-list {
         margin: 0;
         padding-left: 5%;
       }
     </style>
 
-    <div id="loader"></div>
+    <div id="loader-wrapper">
+      <div id="loader"></div>
+      <a>Loading...</a>
+    </div>
 
     <table class="table">
       <colgroup>
@@ -769,7 +815,7 @@
       async function fetchAndFilterData(schoolTitle) {
         try {
           //   Loader for the calendar, it's the spinning circle before the calendar loads
-          const loader = document.getElementById("loader");
+          const loader = document.getElementById("loader-wrapper");
           //   Sets the loader's display to block while the calendar is loading
           loader.style.display = "block"; // Show loader
 
