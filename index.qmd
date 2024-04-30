@@ -26,16 +26,18 @@ Check out the [PEER Model](model/) to learn more.
 
 ## Getting started in education research? PEER is for you.
 
+:::{.alert .alert-info }
+###  Summer field schools are accepting applications! {.alert-heading}
+
+Field schools in [San Diego](2024-socal){.alert-link} and [Rochester](2024-rochester){.alert-link} are accepting applications on a rolling basis! [Apply here](https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58){.alert-link}
+
+:::
+
 PEER helps faculty, postdocs, graduate students, and independent scholars get started in eduation research. For many participants, PEER is their first research project in education. Other participants are stretching into a new theory or methodology, or re-engaging with research after a hiatus. Everyone has expertise to contribute, and everyone has skills to learn and refine.
 
 PEER participants love the collaborative community in PEER field schools. Many continue on after taking the program, doing research together, submitting papers for peer reviewed publication, or supporting each other through accountability groups.
 
-:::{.alert .alert-info }
-###  Summer field schools are accepting applications! {.alert-heading}
 
-Field schools in [State College](2024-psu), [San Diego](2024-socal), and [Rochester](2024-rochester) are accepting applications on a rolling basis! [Apply here](https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58){.alert-link}
-
-:::
 
 ## Boost your education research skills and push your project forward.
 
