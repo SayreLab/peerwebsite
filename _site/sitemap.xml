@@ -1,95 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://peerinstitute.org/contact.html</loc>
-    <lastmod>2024-04-17T12:27:53.262Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/index.html</loc>
-    <lastmod>2024-04-17T12:27:54.038Z</lastmod>
-  </url>
-  <url>
     <loc>https://peerinstitute.org/template.html</loc>
-    <lastmod>2024-04-17T12:27:54.282Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/model/index.html</loc>
-    <lastmod>2024-04-17T12:27:54.593Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/model/localhost.html</loc>
-    <lastmod>2024-04-17T12:27:55.040Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/schools/2023-chicago/index.html</loc>
-    <lastmod>2024-04-17T12:27:55.391Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/schools/2023-chicago/syllabus.html</loc>
-    <lastmod>2024-04-17T12:27:55.776Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/schools/2024-koln/index.html</loc>
-    <lastmod>2024-04-17T12:27:56.100Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/schools/2024-koln/syllabus.html</loc>
-    <lastmod>2024-04-17T12:27:56.366Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/schools/2024-socal/index.html</loc>
-    <lastmod>2024-04-17T12:27:56.700Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/schools/2024-socal/syllabus.html</loc>
-    <lastmod>2024-04-17T12:27:56.949Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/schools/virtual-gateway/index.html</loc>
-    <lastmod>2024-04-17T12:27:57.284Z</lastmod>
+    <lastmod>2024-05-16T18:15:50.216Z</lastmod>
   </url>
   <url>
     <loc>https://peerinstitute.org/schools/virtual-gateway/registration-confirmation.html</loc>
-    <lastmod>2024-04-17T12:27:57.566Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/schools/virtual-gateway/registration.html</loc>
-    <lastmod>2024-04-17T12:27:57.816Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/schools/index.html</loc>
-    <lastmod>2024-04-17T12:27:58.668Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/schools/2024-boston/index.html</loc>
-    <lastmod>2024-04-17T12:27:58.968Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/schools/2024-boston/syllabus.html</loc>
-    <lastmod>2024-04-17T12:27:59.214Z</lastmod>
+    <lastmod>2024-05-16T18:15:48.267Z</lastmod>
   </url>
   <url>
     <loc>https://peerinstitute.org/schools/sample-fs.html</loc>
-    <lastmod>2024-04-17T12:27:59.539Z</lastmod>
+    <lastmod>2024-05-16T18:15:45.896Z</lastmod>
   </url>
   <url>
-    <loc>https://peerinstitute.org/schools/2024-rochester/index.html</loc>
-    <lastmod>2024-04-17T12:27:59.886Z</lastmod>
+    <loc>https://peerinstitute.org/schools/2024-socal/syllabus.html</loc>
+    <lastmod>2024-05-16T18:15:42.664Z</lastmod>
   </url>
   <url>
     <loc>https://peerinstitute.org/schools/2024-rochester/syllabus.html</loc>
-    <lastmod>2024-04-17T12:28:00.199Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peerinstitute.org/schools/2024-psu/index.html</loc>
-    <lastmod>2024-04-17T12:28:00.523Z</lastmod>
+    <lastmod>2024-05-16T18:15:40.264Z</lastmod>
   </url>
   <url>
     <loc>https://peerinstitute.org/schools/2024-psu/syllabus.html</loc>
-    <lastmod>2024-04-17T12:28:00.794Z</lastmod>
+    <lastmod>2024-05-16T18:15:37.839Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/schools/2024-koln/syllabus.html</loc>
+    <lastmod>2024-05-16T18:15:35.958Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/schools/2024-boston/syllabus.html</loc>
+    <lastmod>2024-05-16T18:15:33.495Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/schools/2023-chicago/syllabus.html</loc>
+    <lastmod>2024-05-16T18:15:30.930Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/model/localhost.html</loc>
+    <lastmod>2024-05-16T18:15:27.734Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/index.html</loc>
+    <lastmod>2024-05-16T18:15:24.278Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/contact.html</loc>
+    <lastmod>2024-05-16T18:15:21.523Z</lastmod>
   </url>
   <url>
     <loc>https://peerinstitute.org/impacts.html</loc>
-    <lastmod>2024-04-17T12:28:01.079Z</lastmod>
+    <lastmod>2024-05-16T18:15:22.869Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/model/index.html</loc>
+    <lastmod>2024-05-16T18:15:25.709Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/schools/2023-chicago/index.html</loc>
+    <lastmod>2024-05-16T18:15:29.170Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/schools/2024-boston/index.html</loc>
+    <lastmod>2024-05-16T18:15:32.463Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/schools/2024-koln/index.html</loc>
+    <lastmod>2024-05-16T18:15:34.872Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/schools/2024-psu/index.html</loc>
+    <lastmod>2024-05-16T18:15:36.968Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/schools/2024-rochester/index.html</loc>
+    <lastmod>2024-05-16T18:15:39.071Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/schools/2024-socal/index.html</loc>
+    <lastmod>2024-05-16T18:15:41.721Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/schools/index.html</loc>
+    <lastmod>2024-05-16T18:15:44.697Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/schools/virtual-gateway/index.html</loc>
+    <lastmod>2024-05-16T18:15:47.193Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peerinstitute.org/schools/virtual-gateway/registration.html</loc>
+    <lastmod>2024-05-16T18:15:49.228Z</lastmod>
   </url>
 </urlset>

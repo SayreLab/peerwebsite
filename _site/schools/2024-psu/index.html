@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.361">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -121,7 +121,7 @@ background-size: cover;
   </li>  
 </ul>
             <div class="quarto-navbar-tools">
-    <a href="https://handbook.zaposa.com/" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-journal-text"></i></a>
+    <a href="https://handbook.zaposa.com/" rel="" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-journal-text"></i></a>
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
           </div> <!-- /navcollapse -->
@@ -222,40 +222,21 @@ background-size: cover;
 </section>
 <section id="schedule-overview" class="level1">
 <h1>Schedule Overview</h1>
-<table class="table">
-<colgroup>
-<col style="width: 30%">
-<col style="width: 70%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Date</th>
-<th>Activity</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>TBD, early May</td>
-<td>Virtual Kickoff</td>
-</tr>
-<tr class="even">
-<td>Monday, May 20, 1:00-6:00pm</td>
-<td>Opening session, Research design, communication and ethics with optional group dinner outing afterward</td>
-</tr>
-<tr class="odd">
-<td>Tuesday, May 21: 9:00am-4:00pm</td>
-<td>Data and Access, IRB, Ethics and Doing Interviews</td>
-</tr>
-<tr class="even">
-<td>Wednesday, May 22: 9:00am-4:00pm</td>
-<td>Theories, Iterative Design and Generative Presentations</td>
-</tr>
-<tr class="odd">
-<td>Thursday, May 23: 9:00am-12:00pm</td>
-<td>Project planning for the future</td>
-</tr>
-</tbody>
-</table>
+
+  <iframe id="fs-schedule" src="" width="100%" height="600px" frameborder="0"></iframe>
+  <!-- Dynamically set the school name variable -->
+  <script>
+    // Define the school name variable
+    // THIS MUST BE THE SAME AS THE GOOGLE SHEETS PAGE NAME
+    var schoolName = "PSU 2024"; // Change this to the desired school name
+
+    // Encode the school name to make it URL-safe
+    var encodedSchoolName = encodeURIComponent(schoolName);
+
+    // Set the src of the iframe with the dynamically generated school name
+    document.querySelector("#fs-schedule").src = "../../updated-schedule-pull.html?school=" + encodedSchoolName;
+  </script>
+
 <p>To build a supportive community, participants must actively engage during all sessions in the field school. Partial attendance is not permitted.</p>
 <p>See more schedule details on the <a href="../../schools/2024-psu/syllabus.html">syllabus</a></p>
 </section>

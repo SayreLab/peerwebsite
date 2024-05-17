@@ -1,0 +1,925 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      table,
+      .table {
+        caption-side: top;
+        margin-bottom: 1.5rem;
+      }
+      .table {
+        --bs-table-bg: transparent;
+        --bs-table-accent-bg: transparent;
+        --bs-table-striped-color: #222;
+        --bs-table-striped-bg: rgba(0, 0, 0, 0.05);
+        --bs-table-active-color: #222;
+        --bs-table-active-bg: rgba(0, 0, 0, 0.1);
+        --bs-table-hover-color: #222;
+        --bs-table-hover-bg: rgba(0, 0, 0, 0.075);
+        width: 100%;
+        margin-bottom: 1rem;
+        color: #222;
+        vertical-align: top;
+        border-color: #dee2e6;
+      }
+
+      table {
+        font-size: 0.875rem;
+      }
+      table {
+        caption-side: bottom;
+        border-collapse: collapse;
+      }
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+      user agent stylesheet table {
+        display: table;
+        border-collapse: separate;
+        box-sizing: border-box;
+        text-indent: initial;
+        border-spacing: 2px;
+        border-color: gray;
+      }
+      body {
+        margin: 0;
+        font-family: var(--bs-body-font-family);
+        font-size: var(--bs-body-font-size);
+        font-weight: var(--bs-body-font-weight);
+        line-height: var(--bs-body-line-height);
+        color: var(--bs-body-color);
+        text-align: var(--bs-body-text-align);
+        background-color: var(--bs-body-bg);
+        -webkit-text-size-adjust: 100%;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+      }
+      :root {
+        --mermaid-bg-color: #fff;
+        --mermaid-edge-color: #eee;
+        --mermaid-node-fg-color: #222;
+        --mermaid-fg-color: #222;
+        --mermaid-fg-color--lighter: #3c3c3c;
+        --mermaid-fg-color--lightest: #555555;
+        --mermaid-font-family: Open Sans, -apple-system, BlinkMacSystemFont,
+          Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji,
+          Segoe UI Emoji, Segoe UI Symbol;
+        --mermaid-label-bg-color: #fff;
+        --mermaid-label-fg-color: #008cba;
+        --mermaid-node-bg-color: rgba(0, 140, 186, 0.1);
+        --mermaid-node-fg-color: #222;
+      }
+      :root {
+        --quarto-body-bg: #fff;
+        --quarto-body-color: #222;
+        --quarto-text-muted: #6c757d;
+        --quarto-border-color: #dee2e6;
+        --quarto-border-width: 1px;
+        --quarto-border-radius: 0.25rem;
+      }
+      :root {
+        font-size: var(--bs-root-font-size);
+      }
+      :root {
+        --bs-blue: #008cba;
+        --bs-indigo: #6610f2;
+        --bs-purple: #6f42c1;
+        --bs-pink: #e83e8c;
+        --bs-red: #f04124;
+        --bs-orange: #fd7e14;
+        --bs-yellow: #e99002;
+        --bs-green: #43ac6a;
+        --bs-teal: #20c997;
+        --bs-cyan: #5bc0de;
+        --bs-white: #fff;
+        --bs-gray: #6c757d;
+        --bs-gray-dark: #333;
+        --bs-gray-100: #f8f9fa;
+        --bs-gray-200: #eee;
+        --bs-gray-300: #dee2e6;
+        --bs-gray-400: #ccc;
+        --bs-gray-500: #adb5bd;
+        --bs-gray-600: #6c757d;
+        --bs-gray-700: #495057;
+        --bs-gray-800: #333;
+        --bs-gray-900: #222;
+        --bs-default: #eee;
+        --bs-primary: #008cba;
+        --bs-secondary: #eee;
+        --bs-success: #43ac6a;
+        --bs-info: #5bc0de;
+        --bs-warning: #e99002;
+        --bs-danger: #f04124;
+        --bs-light: #eee;
+        --bs-dark: #222;
+        --bs-default-rgb: 238, 238, 238;
+        --bs-primary-rgb: 0, 140, 186;
+        --bs-secondary-rgb: 238, 238, 238;
+        --bs-success-rgb: 67, 172, 106;
+        --bs-info-rgb: 91, 192, 222;
+        --bs-warning-rgb: 233, 144, 2;
+        --bs-danger-rgb: 240, 65, 36;
+        --bs-light-rgb: 238, 238, 238;
+        --bs-dark-rgb: 34, 34, 34;
+        --bs-white-rgb: 255, 255, 255;
+        --bs-black-rgb: 0, 0, 0;
+        --bs-body-color-rgb: 34, 34, 34;
+        --bs-body-bg-rgb: 255, 255, 255;
+        --bs-font-sans-serif: "Open Sans", -apple-system, BlinkMacSystemFont,
+          "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif,
+          "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
+          "Liberation Mono", "Courier New", monospace;
+        --bs-gradient: linear-gradient(
+          180deg,
+          rgba(255, 255, 255, 0.15),
+          rgba(255, 255, 255, 0)
+        );
+        --bs-root-font-size: 12pt;
+        --bs-body-font-family: var(--bs-font-sans-serif);
+        --bs-body-font-size: 1rem;
+        --bs-body-font-weight: 400;
+        --bs-body-line-height: 1.5;
+        --bs-body-color: #222;
+        --bs-body-bg: #fff;
+      }
+      :root {
+        --quarto-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
+          "Liberation Mono", "Courier New", monospace;
+      }
+      :root {
+        --quarto-hl-ot-color: #003b4f;
+        --quarto-hl-at-color: #657422;
+        --quarto-hl-ss-color: #20794d;
+        --quarto-hl-an-color: #5e5e5e;
+        --quarto-hl-fu-color: #4758ab;
+        --quarto-hl-st-color: #20794d;
+        --quarto-hl-cf-color: #003b4f;
+        --quarto-hl-op-color: #5e5e5e;
+        --quarto-hl-er-color: #ad0000;
+        --quarto-hl-bn-color: #ad0000;
+        --quarto-hl-al-color: #ad0000;
+        --quarto-hl-va-color: #111111;
+        --quarto-hl-bu-color: inherit;
+        --quarto-hl-ex-color: inherit;
+        --quarto-hl-pp-color: #ad0000;
+        --quarto-hl-in-color: #5e5e5e;
+        --quarto-hl-vs-color: #20794d;
+        --quarto-hl-wa-color: #5e5e5e;
+        --quarto-hl-do-color: #5e5e5e;
+        --quarto-hl-im-color: #00769e;
+        --quarto-hl-ch-color: #20794d;
+        --quarto-hl-dt-color: #ad0000;
+        --quarto-hl-fl-color: #ad0000;
+        --quarto-hl-co-color: #5e5e5e;
+        --quarto-hl-cv-color: #5e5e5e;
+        --quarto-hl-cn-color: #8f5902;
+        --quarto-hl-sc-color: #5e5e5e;
+        --quarto-hl-dv-color: #ad0000;
+        --quarto-hl-kw-color: #003b4f;
+      }
+      injected stylesheet :host,
+      :root {
+        --rem: 16;
+      }
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+      user agent stylesheet colgroup {
+        display: table-column-group;
+      }
+      table,
+      .table {
+        caption-side: top;
+        margin-bottom: 1.5rem;
+      }
+      .table {
+        --bs-table-bg: transparent;
+        --bs-table-accent-bg: transparent;
+        --bs-table-striped-color: #222;
+        --bs-table-striped-bg: rgba(0, 0, 0, 0.05);
+        --bs-table-active-color: #222;
+        --bs-table-active-bg: rgba(0, 0, 0, 0.1);
+        --bs-table-hover-color: #222;
+        --bs-table-hover-bg: rgba(0, 0, 0, 0.075);
+        width: 100%;
+        margin-bottom: 1rem;
+        color: #222;
+        vertical-align: top;
+        border-color: #dee2e6;
+      }
+      table {
+        font-size: 0.875rem;
+      }
+      table {
+        caption-side: bottom;
+        border-collapse: collapse;
+      }
+      user agent stylesheet table {
+        border-collapse: separate;
+        text-indent: initial;
+        border-spacing: 2px;
+      }
+      body {
+        margin: 0;
+        font-family: var(--bs-body-font-family);
+        font-size: var(--bs-body-font-size);
+        font-weight: var(--bs-body-font-weight);
+        line-height: var(--bs-body-line-height);
+        color: var(--bs-body-color);
+        text-align: var(--bs-body-text-align);
+        background-color: var(--bs-body-bg);
+        -webkit-text-size-adjust: 100%;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+      }
+      :root {
+        --mermaid-bg-color: #fff;
+        --mermaid-edge-color: #eee;
+        --mermaid-node-fg-color: #222;
+        --mermaid-fg-color: #222;
+        --mermaid-fg-color--lighter: #3c3c3c;
+        --mermaid-fg-color--lightest: #555555;
+        --mermaid-font-family: Open Sans, -apple-system, BlinkMacSystemFont,
+          Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji,
+          Segoe UI Emoji, Segoe UI Symbol;
+        --mermaid-label-bg-color: #fff;
+        --mermaid-label-fg-color: #008cba;
+        --mermaid-node-bg-color: rgba(0, 140, 186, 0.1);
+        --mermaid-node-fg-color: #222;
+      }
+      :root {
+        --quarto-body-bg: #fff;
+        --quarto-body-color: #222;
+        --quarto-text-muted: #6c757d;
+        --quarto-border-color: #dee2e6;
+        --quarto-border-width: 1px;
+        --quarto-border-radius: 0.25rem;
+      }
+      :root {
+        font-size: var(--bs-root-font-size);
+      }
+      :root {
+        --quarto-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
+          "Liberation Mono", "Courier New", monospace;
+      }
+      :root {
+        --quarto-hl-ot-color: #003b4f;
+        --quarto-hl-at-color: #657422;
+        --quarto-hl-ss-color: #20794d;
+        --quarto-hl-an-color: #5e5e5e;
+        --quarto-hl-fu-color: #4758ab;
+        --quarto-hl-st-color: #20794d;
+        --quarto-hl-cf-color: #003b4f;
+        --quarto-hl-op-color: #5e5e5e;
+        --quarto-hl-er-color: #ad0000;
+        --quarto-hl-bn-color: #ad0000;
+        --quarto-hl-al-color: #ad0000;
+        --quarto-hl-va-color: #111111;
+        --quarto-hl-bu-color: inherit;
+        --quarto-hl-ex-color: inherit;
+        --quarto-hl-pp-color: #ad0000;
+        --quarto-hl-in-color: #5e5e5e;
+        --quarto-hl-vs-color: #20794d;
+        --quarto-hl-wa-color: #5e5e5e;
+        --quarto-hl-do-color: #5e5e5e;
+        --quarto-hl-im-color: #00769e;
+        --quarto-hl-ch-color: #20794d;
+        --quarto-hl-dt-color: #ad0000;
+        --quarto-hl-fl-color: #ad0000;
+        --quarto-hl-co-color: #5e5e5e;
+        --quarto-hl-cv-color: #5e5e5e;
+        --quarto-hl-cn-color: #8f5902;
+        --quarto-hl-sc-color: #5e5e5e;
+        --quarto-hl-dv-color: #ad0000;
+        --quarto-hl-kw-color: #003b4f;
+      }
+      injected stylesheet :host,
+      :root {
+        --rem: 16;
+      }
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+      user agent stylesheet colgroup {
+        display: table-column-group;
+      }
+      table,
+      .table {
+        caption-side: top;
+        margin-bottom: 1.5rem;
+      }
+      .table {
+        --bs-table-bg: transparent;
+        --bs-table-accent-bg: transparent;
+        --bs-table-striped-color: #222;
+        --bs-table-striped-bg: rgba(0, 0, 0, 0.05);
+        --bs-table-active-color: #222;
+        --bs-table-active-bg: rgba(0, 0, 0, 0.1);
+        --bs-table-hover-color: #222;
+        --bs-table-hover-bg: rgba(0, 0, 0, 0.075);
+        width: 100%;
+        margin-bottom: 1rem;
+        color: #222;
+        vertical-align: top;
+        border-color: #dee2e6;
+      }
+      table {
+        font-size: 0.875rem;
+      }
+      table {
+        caption-side: bottom;
+        border-collapse: collapse;
+      }
+      user agent stylesheet table {
+        border-collapse: separate;
+        text-indent: initial;
+        border-spacing: 2px;
+      }
+      body {
+        margin: 0;
+        font-family: var(--bs-body-font-family);
+        font-size: var(--bs-body-font-size);
+        font-weight: var(--bs-body-font-weight);
+        line-height: var(--bs-body-line-height);
+        color: var(--bs-body-color);
+        text-align: var(--bs-body-text-align);
+        background-color: var(--bs-body-bg);
+        -webkit-text-size-adjust: 100%;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+      }
+      :root {
+        --mermaid-bg-color: #fff;
+        --mermaid-edge-color: #eee;
+        --mermaid-node-fg-color: #222;
+        --mermaid-fg-color: #222;
+        --mermaid-fg-color--lighter: #3c3c3c;
+        --mermaid-fg-color--lightest: #555555;
+        --mermaid-font-family: Open Sans, -apple-system, BlinkMacSystemFont,
+          Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji,
+          Segoe UI Emoji, Segoe UI Symbol;
+        --mermaid-label-bg-color: #fff;
+        --mermaid-label-fg-color: #008cba;
+        --mermaid-node-bg-color: rgba(0, 140, 186, 0.1);
+        --mermaid-node-fg-color: #222;
+      }
+      :root {
+        --quarto-body-bg: #fff;
+        --quarto-body-color: #222;
+        --quarto-text-muted: #6c757d;
+        --quarto-border-color: #dee2e6;
+        --quarto-border-width: 1px;
+        --quarto-border-radius: 0.25rem;
+      }
+      :root {
+        font-size: var(--bs-root-font-size);
+      }
+      :root {
+        --bs-blue: #008cba;
+        --bs-indigo: #6610f2;
+        --bs-purple: #6f42c1;
+        --bs-pink: #e83e8c;
+        --bs-red: #f04124;
+        --bs-orange: #fd7e14;
+        --bs-yellow: #e99002;
+        --bs-green: #43ac6a;
+        --bs-teal: #20c997;
+        --bs-cyan: #5bc0de;
+        --bs-white: #fff;
+        --bs-gray: #6c757d;
+        --bs-gray-dark: #333;
+        --bs-gray-100: #f8f9fa;
+        --bs-gray-200: #eee;
+        --bs-gray-300: #dee2e6;
+        --bs-gray-400: #ccc;
+        --bs-gray-500: #adb5bd;
+        --bs-gray-600: #6c757d;
+        --bs-gray-700: #495057;
+        --bs-gray-800: #333;
+        --bs-gray-900: #222;
+        --bs-default: #eee;
+        --bs-primary: #008cba;
+        --bs-secondary: #eee;
+        --bs-success: #43ac6a;
+        --bs-info: #5bc0de;
+        --bs-warning: #e99002;
+        --bs-danger: #f04124;
+        --bs-light: #eee;
+        --bs-dark: #222;
+        --bs-default-rgb: 238, 238, 238;
+        --bs-primary-rgb: 0, 140, 186;
+        --bs-secondary-rgb: 238, 238, 238;
+        --bs-success-rgb: 67, 172, 106;
+        --bs-info-rgb: 91, 192, 222;
+        --bs-warning-rgb: 233, 144, 2;
+        --bs-danger-rgb: 240, 65, 36;
+        --bs-light-rgb: 238, 238, 238;
+        --bs-dark-rgb: 34, 34, 34;
+        --bs-white-rgb: 255, 255, 255;
+        --bs-black-rgb: 0, 0, 0;
+        --bs-body-color-rgb: 34, 34, 34;
+        --bs-body-bg-rgb: 255, 255, 255;
+        --bs-font-sans-serif: "Open Sans", -apple-system, BlinkMacSystemFont,
+          "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif,
+          "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
+          "Liberation Mono", "Courier New", monospace;
+        --bs-gradient: linear-gradient(
+          180deg,
+          rgba(255, 255, 255, 0.15),
+          rgba(255, 255, 255, 0)
+        );
+        --bs-root-font-size: 12pt;
+        --bs-body-font-family: var(--bs-font-sans-serif);
+        --bs-body-font-size: 1rem;
+        --bs-body-font-weight: 400;
+        --bs-body-line-height: 1.5;
+        --bs-body-color: #222;
+        --bs-body-bg: #fff;
+      }
+      :root {
+        --quarto-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
+          "Liberation Mono", "Courier New", monospace;
+      }
+      :root {
+        --quarto-hl-ot-color: #003b4f;
+        --quarto-hl-at-color: #657422;
+        --quarto-hl-ss-color: #20794d;
+        --quarto-hl-an-color: #5e5e5e;
+        --quarto-hl-fu-color: #4758ab;
+        --quarto-hl-st-color: #20794d;
+        --quarto-hl-cf-color: #003b4f;
+        --quarto-hl-op-color: #5e5e5e;
+        --quarto-hl-er-color: #ad0000;
+        --quarto-hl-bn-color: #ad0000;
+        --quarto-hl-al-color: #ad0000;
+        --quarto-hl-va-color: #111111;
+        --quarto-hl-bu-color: inherit;
+        --quarto-hl-ex-color: inherit;
+        --quarto-hl-pp-color: #ad0000;
+        --quarto-hl-in-color: #5e5e5e;
+        --quarto-hl-vs-color: #20794d;
+        --quarto-hl-wa-color: #5e5e5e;
+        --quarto-hl-do-color: #5e5e5e;
+        --quarto-hl-im-color: #00769e;
+        --quarto-hl-ch-color: #20794d;
+        --quarto-hl-dt-color: #ad0000;
+        --quarto-hl-fl-color: #ad0000;
+        --quarto-hl-co-color: #5e5e5e;
+        --quarto-hl-cv-color: #5e5e5e;
+        --quarto-hl-cn-color: #8f5902;
+        --quarto-hl-sc-color: #5e5e5e;
+        --quarto-hl-dv-color: #ad0000;
+        --quarto-hl-kw-color: #003b4f;
+      }
+      injected stylesheet :host,
+      :root {
+        --rem: 16;
+      }
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+      user agent stylesheet col {
+        display: table-column;
+      }
+
+      .table > :not(:first-child) {
+        border-top: 1px solid #a2a2a2;
+        border-bottom: 1px solid inherit;
+      }
+      .table > :not(:first-child) {
+        border-top: 2px solid #a2a2a2;
+      }
+      .table > thead {
+        border-top-width: 0;
+      }
+      .table > thead {
+        border-top-width: 1px;
+        border-top-color: #dee2e6;
+        border-bottom: 1px solid #a2a2a2;
+      }
+      .table > thead {
+        vertical-align: bottom;
+      }
+
+      thead,
+      tbody,
+      tfoot,
+      tr,
+      td,
+      th {
+        border-color: inherit;
+        border-style: solid;
+        border-width: 0;
+      }
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+
+      thead {
+        display: table-header-group;
+        vertical-align: middle;
+        border-color: inherit;
+      }
+
+      .header {
+        grid-column: screen-start / screen-end;
+        grid-row: page-top / contents-top;
+      }
+      thead,
+      tbody,
+      tfoot,
+      tr,
+      td,
+      th {
+        border-color: inherit;
+        border-style: solid;
+        border-width: 0;
+      }
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+
+      user agent stylesheet tr {
+        display: table-row;
+        vertical-align: inherit;
+        border-color: inherit;
+      }
+
+      .table > :not(caption) > * > * {
+        padding: 0.5rem 0.5rem;
+        background-color: var(--bs-table-bg);
+        border-bottom-width: 1px;
+        box-shadow: inset 0 0 0 9999px var(--bs-table-accent-bg);
+      }
+      thead,
+      tbody,
+      tfoot,
+      tr,
+      td,
+      th {
+        border-color: inherit;
+        border-style: solid;
+        border-width: 0;
+      }
+
+      th {
+        text-align: inherit;
+        text-align: -webkit-match-parent;
+      }
+
+      thead.sticky-header,
+      tr.sticky-header,
+      th.sticky-header {
+        position: sticky;
+        top: 0;
+        z-index: 100;
+        background-color: #fff;
+      }
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+
+      th {
+        display: table-cell;
+        vertical-align: inherit;
+        font-weight: bold;
+        text-align: -internal-center;
+      }
+
+      .table > :not(:first-child) {
+        border-top: 1px solid #a2a2a2;
+        border-bottom: 1px solid inherit;
+      }
+      .table > :not(:first-child) {
+        border-top: 2px solid #a2a2a2;
+      }
+
+      .table tbody {
+        border-bottom-color: #a2a2a2;
+      }
+      .table > tbody {
+        vertical-align: inherit;
+      }
+      thead,
+      tbody,
+      tfoot,
+      tr,
+      td,
+      th {
+        border-color: inherit;
+        border-style: solid;
+        border-width: 0;
+      }
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+
+      tbody {
+        display: table-row-group;
+        vertical-align: middle;
+        border-color: inherit;
+      }
+
+      thead,
+      tbody,
+      tfoot,
+      tr,
+      td,
+      th {
+        border-color: inherit;
+        border-style: solid;
+        border-width: 0;
+      }
+
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+      user agent stylesheet tr {
+        display: table-row;
+        vertical-align: inherit;
+        border-color: inherit;
+      }
+    </style>
+    <script>
+      window.onload = function () {
+        var table = document.querySelector("table");
+        var stickyHeaders = table.querySelectorAll("th.sticky-header");
+
+        stickyHeaders.forEach(function (header) {
+          header.style.width = header.offsetWidth + "px";
+        });
+
+        table.style.paddingTop = stickyHeaders[0].offsetHeight + "px";
+      };
+    </script>
+  </head>
+  <body>
+    <style>
+      /* HTML: <div class="loader"></div> */
+      #loader-wrapper {
+        text-align: center; /* Center the content horizontally */
+        display: flex; /* Use flexbox for layout */
+        justify-content: center; /* Center the flex items horizontally */
+        align-items: center; /* Center the flex items vertically */
+        position: fixed; /* Position the loader relative to the viewport */
+        z-index: 9999; /* Set a high z-index to ensure the loader is above other content */
+        top: 30%; /* Position the loader 50% from the top of the viewport */
+        left: 50%; /* Position the loader 50% from the left of the viewport */
+        transform: translate(
+          -50%,
+          -50%
+        ); /* Move the loader back by half of its width and height */
+      }
+
+      #loader {
+        width: 50px;
+        height: 28px;
+        --_g: no-repeat radial-gradient(farthest-side, lightblue 94%, #ffffff00);
+        background: var(--_g) 50% 0, var(--_g) 100% 0;
+        background-size: 12px 12px;
+        animation: l23-0 1.5s linear infinite;
+      }
+      #loader:before {
+        content: "";
+        position: absolute;
+        height: 12px;
+        aspect-ratio: 1;
+        border-radius: 50%;
+        background: lightblue;
+        left: 0;
+        top: 0;
+        animation: l23-1 1.5s linear infinite,
+          l23-2 0.5s cubic-bezier(0, 200, 0.8, 200) infinite;
+      }
+      @keyframes l23-0 {
+        0%,
+        31% {
+          background-position: 50% 0, 100% 0;
+        }
+        33% {
+          background-position: 50% 100%, 100% 0;
+        }
+        43%,
+        64% {
+          background-position: 50% 0, 100% 0;
+        }
+        66% {
+          background-position: 50% 0, 100% 100%;
+        }
+        79% {
+          background-position: 50% 0, 100% 0;
+        }
+        100% {
+          transform: translateX(calc(-100% / 3));
+        }
+      }
+      @keyframes l23-1 {
+        100% {
+          left: calc(100% + 7px);
+        }
+      }
+      @keyframes l23-2 {
+        100% {
+          top: -0.1px;
+        }
+      }
+      .event-list {
+        margin: 0;
+        padding-left: 5%;
+      }
+    </style>
+
+    <div id="loader-wrapper">
+      <div id="loader"></div>
+      <a>Loading...</a>
+    </div>
+
+    <table class="table">
+      <colgroup>
+        <col style="width: 20%" />
+        <col style="width: 40%" />
+        <col style="width: 40%" />
+      </colgroup>
+      <thead class="sticky-header">
+        <tr class="header sticky-header">
+          <th class="sticky-header" style="background-color: lightgray">
+            Date
+          </th>
+          <th class="sticky-header" style="background-color: lightblue">
+            Morning
+          </th>
+          <th class="sticky-header" style="background-color: lightblue">
+            Afternoon
+          </th>
+        </tr>
+      </thead>
+      <tbody id="schedule"></tbody>
+    </table>
+
+    <script>
+      //    Attempts to fetch data given a deploy link from the Google AppScript Project
+      //    Fetches the data for a FS given the FS title
+      //    Returns the data as an HTML formatted table
+      async function fetchAndFilterData(schoolTitle) {
+        try {
+          //   Loader for the calendar, it's the spinning circle before the calendar loads
+          const loader = document.getElementById("loader-wrapper");
+          //   Sets the loader's display to block while the calendar is loading
+          loader.style.display = "block"; // Show loader
+
+          const scheduleTable = document.getElementById("schedule");
+
+          //    Fetches the data from the Google App Script link
+          //    (You can find the link by creating a new deploy or going to Manage Deploys on the App Script Project)
+          const response = await fetch(
+            "https://script.google.com/macros/s/AKfycbwfSFOd_ILMXGTRbMJEWOhchEq9QtTWkF3VHu4brUqqmKXHRcD5vz30jeqmtdbx9CKs/exec"
+          );
+          const data = await response.json();
+
+          //    Hides the loader once the calendar is loaded
+          loader.style.display = "none";
+
+          //    If the school title is not null we filter the data to only get the passed school's data
+          if (schoolTitle) {
+            const filteredData = data.filter(
+              (school) => school.title === schoolTitle
+            );
+            displayData(filteredData);
+          } else {
+            console.error("No school title");
+          }
+        } catch (error) {
+          console.error("Error fetching data:", error);
+        }
+      }
+
+      //    Formats the data from the FS into an HTML table
+      //    Takes in the FS data as JSON
+      function displayData(data) {
+        const scheduleTable = document.getElementById("schedule");
+        scheduleTable.innerHTML = "";
+
+        // Iterate through the school's days
+        // This builds each row of the table
+        data.forEach((school) => {
+          school.days.forEach((day) => {
+            let formattedDate;
+            if (day.date === "TBD") {
+              formattedDate = "TBD";
+            } else {
+              const date = new Date(day.date);
+              formattedDate = `${getDayName(
+                date
+              )}: ${date.toLocaleDateString()}`;
+            }
+
+            console.log(formattedDate);
+            const morningEvents = eventsToHTML(day.morning, "Morning");
+            const afternoonEvents = eventsToHTML(day.afternoon, "Afternoon");
+            // tr is the HTML tag for Table Row
+            const tr = document.createElement("tr");
+            // writes the data into the row
+            // td is the HTML tag for each data cell
+            tr.innerHTML = `<td>${formattedDate}</td><td>${morningEvents}</td><td>${afternoonEvents}</td>`;
+            // adds the row into the schedule table
+            scheduleTable.appendChild(tr);
+          });
+        });
+      }
+
+      //    Puts events into HTML format
+      function eventsToHTML(events, period) {
+        if (!events || events.length === 0) return "";
+
+        //  Filter out empty/null event titles, iterate through them and format them
+        const formattedEvents = events
+          .filter((event) => event && event.title) // Add a check for null or undefined
+          .map((event) => `<li>${event.title}: ${event.duration}</li>`);
+
+        if (formattedEvents.length === 0) return "";
+
+        // Generate HTML formatted bullet list with a class for styling
+        const list = `<ul class="event-list">${formattedEvents.join("")}</ul>`;
+
+        return list;
+      }
+
+      //Given a date, returns what day of the week it is
+      function getDayName(date) {
+        const days = [
+          "Sunday",
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+        ];
+        return days[date.getDay()];
+      }
+
+      //    Gets the params of a url search, params are whatever comes after a "?" in a url
+      //    Ex: https://www.amazon.com/s?k=bic+pens --> An amazon link in which the search params are k=bic+pens
+      //    --> I'm searching for Bic Pens on Amazon
+      const urlParams = new URLSearchParams(window.location.search);
+      //    Gets value of the param with school=<value>
+      //    <value> should be the name of the school EXACTLY AS DICTATED IN THE GOOGLE SPREADSHEET SHEET NAMES
+      //    If the school name doesn't exactly match one of the school's sheet name in the spreadsheet, it'll throw an error
+      const schoolTitle = urlParams.get("school");
+      //    Calls the main filterer passing the school name
+      fetchAndFilterData(schoolTitle);
+    </script>
+  </body>
+</html>

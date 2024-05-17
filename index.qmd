@@ -86,3 +86,11 @@ Wherever you're at, we'll help you take your research to the next level.
 Whether you're just getting started, looking to stretch into new projects or methodologies, or seeking community and support around education research, we're happy to have you. Upcoming field schools and workshops will be held in the US as well as internationally (as travel permits).
 
 `r invitation.cards(c("announcements", "upcoming"))`
+
+
+<!-- Loaders -->
+```{=HTML}
+<body>
+  <iframe name="fs-calendar-loader" src="updated-schedule-pull.html" hidden></iframe>
+</body>
+```

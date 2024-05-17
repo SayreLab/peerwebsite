@@ -61,17 +61,23 @@ Can't make this one? There are [more](../index.qmd).
 
 # Schedule Overview
   
-Date | Activity
----|-------
-Friday, July 19 Time: 2:30-4:00pm (Eastern Time) | Virtual Kickoff 
-Wednesday, July 31, 6:30pm | Optional group dinner
-Thursday, Aug. 1, 9:00am-5:00pm | Opening session on research design and ethics: setting up for success
-Friday, Aug. 2: 9:00am-5:00pm | Communication and Noticing in data: honing your interests
-Saturday, Aug. 3: 9:00am-5:00pm | Theories, data, design: creating your projects
-Sunday, Aug. 4:  | Day off
-Monday, Aug. 5: 9:00am-5:00pm  | Analysis methods and generative presentations: moving your projects forward
-Tuesday, Aug. 6: 9:00am-5:00pm | Analysis methods and generative presentations: moving your projects forward
-Wednesday, Aug. 7: 9:00am-1:00pm | Project planning for the future: let's make it happen!
+```{=HTML}
+<body>
+  <iframe id="fs-schedule" src="" width="100%" height="600px" frameborder="0"></iframe>
+  <!-- Dynamically set the school name variable -->
+  <script>
+    // Define the school name variable
+    // THIS MUST BE THE SAME AS THE GOOGLE SHEETS PAGE NAME
+    var schoolName = "Rochester 2024"; // Change this to the desired school name
+
+    // Encode the school name to make it URL-safe
+    var encodedSchoolName = encodeURIComponent(schoolName);
+
+    // Set the src of the iframe with the dynamically generated school name
+    document.querySelector("#fs-schedule").src = "../../updated-schedule-pull.html?school=" + encodedSchoolName;
+  </script>
+</body>
+```
 
 
 To build a supportive community, participants must actively engage during all sessions in the field school.  Partial attendance is not permitted.
