@@ -1,5 +1,0 @@
----
-title: "FS Calendar QReacto Component"
----
-
-{{< react FSCalendarComponent >}}

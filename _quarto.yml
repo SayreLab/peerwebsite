@@ -40,10 +40,8 @@ format:
   html:
     toc: false
     theme: 
-       light: 
-         - yeti
-       dark: 
-         - superhero
+       light: [yeti,customstyles.scss]
+       dark: [superhero,customstyles.scss]
     smooth-scroll: true
     citations-hover: true
     footnotes-hover: true

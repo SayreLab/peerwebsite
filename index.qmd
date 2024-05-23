@@ -12,6 +12,107 @@ suppress: true
 
 {{< include ./_prefix.qmd >}}
 
+## TEST
+
+https://github.com/quarto-dev/quarto-cli/discussions/3563
+
+## Default Callouts
+
+::: {.callout-note icon="false"}
+## Note
+
+This is a custom styled note callout.
+:::
+
+::: {.callout-warning}
+## Warning
+
+This is a custom styled warning callout.
+:::
+
+::: {.callout-important}
+## Important
+
+This is a custom styled important callout.
+:::
+
+::: {.callout-tip}
+## Tip
+
+This is a custom styled tip callout.
+:::
+
+::: {.callout-caution}
+## Caution
+
+This is a custom styled caution callout.
+:::
+
+## Simple Appearance
+
+::: {.callout-simple .callout-note}
+## Simple Note
+
+This is a simple styled note callout.
+:::
+
+::: {.callout-simple .callout-warning}
+## Simple Warning
+
+This is a simple styled warning callout.
+:::
+
+## Minimal Appearance
+
+::: {.callout-minimal .callout-note}
+## Minimal Note
+
+This is a minimal styled note callout.
+:::
+
+::: {.callout-warning appearance="simple"}
+## Minimal Warning
+
+This is a minimal styled warning callout.
+:::
+
+## Rounded Corners and Shadows
+
+::: {.callout-rounded .callout-note}
+## Rounded Note
+
+This is a note callout with rounded corners and shadow.
+:::
+
+::: {.callout-rounded .callout-warning}
+## Rounded Warning
+
+This is a warning callout with rounded corners and shadow.
+:::
+
+## Gradient Backgrounds
+
+::: {.callout-gradient .callout-note}
+## Gradient Note
+
+This is a note callout with a gradient background.
+:::
+
+::: {.callout-gradient .callout-warning}
+## Gradient Warning
+
+This is a warning callout with a gradient background.
+:::
+
+## Custom Icons
+
+::: {.callout-note}
+## Note with Icon
+
+This is a note callout with a custom icon.
+:::
+
+
 
 ## Welcome to PEER!
 The Professional development for Emerging Education Researchers (PEER) Institute supports scholars as they become education researchers and expand their research expertise. PEER focuses on Discipline-based Education Research, advancing both scholarship and teaching goals that are valued at all types of academic institutions.
