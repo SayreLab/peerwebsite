@@ -39,9 +39,7 @@ website:
 format:
   html:
     toc: false
-    theme: 
-       light: [yeti,customstyles.scss]
-       dark: [superhero,customstyles.scss]
+    theme: [yeti, customstyles.scss]
     smooth-scroll: true
     citations-hover: true
     footnotes-hover: true
@@ -50,11 +48,11 @@ format:
       - title-block.html
     appendix-style: none
     enable-cssgrid: true
-    page-layout: article
+    page-layout: full
     grid:
-      body-width: 1000px
+      body-width: 5000px
       gutter-width: 25px
-      margin-width: 90px
+      margin-width: 0px
     css: styles.css
 
 # Rendering choices

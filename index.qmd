@@ -1,7 +1,6 @@
 ---
 # top level index page for site.
-title: "PEER Institute"
-subtitle: "Professional development for Emerging Education Researchers"
+title: ""
 
 sidebar: false
 title-block-banner: "images/rainbow.jpg"
@@ -11,110 +10,30 @@ suppress: true
 ---
 
 {{< include ./_prefix.qmd >}}
+:::{style="width=100%"}
 
-## TEST
+::: {.quarto-listing .quarto-listing-container-grid }
+::: {.list .grid .quarto-listing-cols-2 style="background-image:url(images/stock.jpg);background-repeat:no-repeat;background-size: cover;padding:10px 10px 10px 10px; border-radius: 10px;"}
+::: {.g-col-1 style="display:flex;"}
+:::{style="display:inline-block; align-self:flex-end; background-color:rgb(240,248,255,0.6); border-radius:10px; padding:10px 10px 0px 20px;"}
 
-https://github.com/quarto-dev/quarto-cli/discussions/3563
 
-## Default Callouts
+**UPDATE**: Field schools in [San Diego](2024-socal) and [Rochester](2024-rochester) are accepting applications on a rolling basis!
 
-::: {.callout-note icon="false"}
-## Note
+:::{.text-center}
 
-This is a custom styled note callout.
+[Apply Now!](https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58){.btn role="button" .btn-primary .rounded-lg .text-center}
+
 :::
 
-::: {.callout-warning}
-## Warning
-
-This is a custom styled warning callout.
 :::
 
-::: {.callout-important}
-## Important
-
-This is a custom styled important callout.
 :::
 
-::: {.callout-tip}
-## Tip
-
-This is a custom styled tip callout.
-:::
-
-::: {.callout-caution}
-## Caution
-
-This is a custom styled caution callout.
-:::
-
-## Simple Appearance
-
-::: {.callout-simple .callout-note}
-## Simple Note
-
-This is a simple styled note callout.
-:::
-
-::: {.callout-simple .callout-warning}
-## Simple Warning
-
-This is a simple styled warning callout.
-:::
-
-## Minimal Appearance
-
-::: {.callout-minimal .callout-note}
-## Minimal Note
-
-This is a minimal styled note callout.
-:::
-
-::: {.callout-warning appearance="simple"}
-## Minimal Warning
-
-This is a minimal styled warning callout.
-:::
-
-## Rounded Corners and Shadows
-
-::: {.callout-rounded .callout-note}
-## Rounded Note
-
-This is a note callout with rounded corners and shadow.
-:::
-
-::: {.callout-rounded .callout-warning}
-## Rounded Warning
-
-This is a warning callout with rounded corners and shadow.
-:::
-
-## Gradient Backgrounds
-
-::: {.callout-gradient .callout-note}
-## Gradient Note
-
-This is a note callout with a gradient background.
-:::
-
-::: {.callout-gradient .callout-warning}
-## Gradient Warning
-
-This is a warning callout with a gradient background.
-:::
-
-## Custom Icons
-
-::: {.callout-note}
-## Note with Icon
-
-This is a note callout with a custom icon.
-:::
-
-
+::: {.g-col-1 .bg-white style="--bs-bg-opacity: .5;padding:10px 10px 10px 10px; border-radius: 10px;"}
 
 ## Welcome to PEER!
+
 The Professional development for Emerging Education Researchers (PEER) Institute supports scholars as they become education researchers and expand their research expertise. PEER focuses on Discipline-based Education Research, advancing both scholarship and teaching goals that are valued at all types of academic institutions.
 
 At PEER, you will learn fundamental and applied research skills in a supportive and participatory research environment.
@@ -125,28 +44,63 @@ You will delve into research project development and best practices, engage with
 Check out the [PEER Model](model/) to learn more.
 :::
 
-## Getting started in education research? PEER is for you.
-
-:::{.alert .alert-info }
-###  Summer field schools are accepting applications! {.alert-heading}
-
-Field schools in [San Diego](2024-socal){.alert-link} and [Rochester](2024-rochester){.alert-link} are accepting applications on a rolling basis! [Apply here](https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58){.alert-link}
+:::
 
 :::
+
+:::
+::: {.quarto-listing .quarto-listing-container-grid}
+::: {.list .grid .quarto-listing-cols-2 style="background-color:rgb(95,158,160,0.2); padding: 10px 10px 0px 20px; border-radius: 10px;"}
+::: {.g-col-1}
+
+![](images/peer-wide.png){style="width:15rem"}
+
+## Getting started in education research? PEER is for you.
 
 PEER helps faculty, postdocs, graduate students, and independent scholars get started in eduation research. For many participants, PEER is their first research project in education. Other participants are stretching into a new theory or methodology, or re-engaging with research after a hiatus. Everyone has expertise to contribute, and everyone has skills to learn and refine.
 
 PEER participants love the collaborative community in PEER field schools. Many continue on after taking the program, doing research together, submitting papers for peer reviewed publication, or supporting each other through accountability groups.
 
+:::
+
+::: {.g-col-1 .text-center}
+
+![](images/table.png){style="width:50%;"}
+
+:::
+
+:::
+
+:::
 
 
-## Boost your education research skills and push your project forward.
+::: {.quarto-listing .quarto-listing-container-grid}
+::: {.list .grid .quarto-listing-cols-2 style="padding: 10px 10px 0px 20px; border-radius: 10px;"}
+::: {.g-col-1 .text-center}
+
+![](images/table.png){style="width:50%;"}
+
+:::
+
+::: {.g-col-1}
+
+## Our Goal: Boost your education research skills and push your project forward.
 
 PEER centers participants' research projects to grow their skills. If you've got a project in mind, we will help you develop it. From ideation to peer-reviewed publication, PEER helps move your project forward from any point.
 
 In our intensive, experiential field schools, we cover fundamental skills like generative writing and collaborative feedback as well as foundational topics like choosing theoretical frameworks and matching research questions with data streams. Because you're working on your project all along, you apply your growing skills immediately and your project experiences a ton of growth. Our expert facilitators and evidence-based, time-tested curriculum will guide you -- and your project! -- through enormous growth.
 
 Wherever you're at, we'll help you take your research to the next level.
+
+:::
+
+:::
+
+:::
+
+
+
+
 
 ::: {.quarto-listing .quarto-listing-container-grid}
 ::: {.list .grid .quarto-listing-cols-3}
@@ -182,6 +136,206 @@ Wherever you're at, we'll help you take your research to the next level.
 :::
 :::
 
+## Facts Section (Placeholder Title)
+
+:::{}
+
+::: {.quarto-listing .quarto-listing-container-grid}
+::: {.list .grid .quarto-listing-cols-3 style="padding: 10px 10px 0px 20px;"}
+::: {.g-col-1 .bg-info .border .border-2 .border-info .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 0px 10px 30px; --bs-bg-opacity: .5;"}
+
+[{{< iconify mdi:graph-line >}} Fact 1]{style="font-size: 24pt; font-weight: bold;"}
+
+Talk about the fact here
+
+:::
+
+::: {.g-col-1 .bg-info .border .border-2 .border-info .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 0px 10px 30px; --bs-bg-opacity: .5;"}
+
+[{{< iconify mdi:graph-line >}} Fact 2]{style="font-size: 24pt; font-weight: bold;"}
+
+Talk about the fact here
+
+:::
+
+::: {.g-col-1 .bg-info .border .border-2 .border-info .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 0px 10px 30px; --bs-bg-opacity: .5;"}
+
+[{{< iconify mdi:graph-line >}} Fact 3]{style="font-size: 24pt; font-weight: bold;"}
+
+Talk about the fact here
+
+:::
+
+:::
+
+:::
+
+::: {.quarto-listing .quarto-listing-container-grid}
+::: {.list .grid .quarto-listing-cols-4 style="padding: 10px 10px 0px 20px;"}
+::: {.g-col-1 .bg-success .border .border-2 .border-success .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 0px 10px 30px; --bs-bg-opacity: .5;"}
+
+[{{< iconify mdi:graph-line >}} Fact 1]{style="font-size: 24pt; font-weight: bold;"}
+
+Talk about the fact here
+
+:::
+
+::: {.g-col-1 .bg-success .border .border-2 .border-success .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 0px 10px 30px; --bs-bg-opacity: .5;"}
+
+[{{< iconify mdi:graph-line >}} Fact 2]{style="font-size: 24pt; font-weight: bold;"}
+
+Talk about the fact here
+
+:::
+
+::: {.g-col-1 .bg-success .border .border-2 .border-success .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 0px 10px 30px; --bs-bg-opacity: .5;"}
+
+[{{< iconify mdi:graph-line >}} Fact 3]{style="font-size: 24pt; font-weight: bold;"}
+
+Talk about the fact here
+
+:::
+
+::: {.g-col-1 .bg-success .border .border-2 .border-success .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 0px 10px 30px; --bs-bg-opacity: .5;"}
+
+[{{< iconify mdi:graph-line >}} Fact 4]{style="font-size: 24pt; font-weight: bold;"}
+
+Talk about the fact here
+
+:::
+
+:::
+
+:::
+
+::: {.quarto-listing .quarto-listing-container-grid}
+::: {.list .grid .quarto-listing-cols-3 style="padding: 10px 10px 0px 20px;"}
+::: {.g-col-1 .bg-purple .bg-opacity-10 .border .border-2 .border-dark style="border-radius: 40px 5px 5px 5px; padding:10px 0px 10px 30px;"}
+
+[{{< iconify ri:team-fill >}} Conclusion]{style="font-size: 24pt; font-weight: bold;"}
+
+How do the facts affect the participant? What are the benefits/outcomes?
+
+:::
+
+::: {.g-col-2 .bg-purple .bg-opacity-10 .border .border-2 .border-dark style="border-radius: 40px 5px 5px 5px; padding:10px 0px 10px 30px;"}
+
+[{{< iconify mdi:graph-line >}} Graph]{style="font-size: 24pt; font-weight: bold;"}
+
+
+:::
+
+:::
+
+:::
+
+:::
+
+
+:::
+
+
+::: {.quarto-listing .quarto-listing-container-grid}
+::: {.list .grid .quarto-listing-cols-2 style="background-color:rgb(95,158,160,0.2); padding: 10px 10px 0px 20px; border-radius: 10px;"}
+::: {.g-col-1}
+
+## Is PEER right for me?
+
+Who is the ideal candidate for PEER?
+
+* Experience
+* Knowledge
+* Passion
+* etc.
+
+Who is PEER looking for?
+
+If this is who you are...
+
+[Apply Now!](https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58){.btn role="button" .btn-primary .rounded-lg .text-center}
+
+:::
+
+::: {.g-col-1 .text-center}
+
+![](images/table.png){style="width:50%;"}
+
+:::
+
+:::
+
+:::
+
+
+::: {.quarto-listing .quarto-listing-container-grid}
+::: {.list .grid .quarto-listing-cols-2 style="padding: 10px 10px 0px 20px; border-radius: 10px;"}
+::: {.g-col-1 .text-center}
+
+![](images/table.png){style="width:50%;"}
+
+:::
+
+::: {.g-col-1}
+
+## The PEER Model
+
+PEER will boost your education research skills and push your project forward! We focus on making research...
+
+
+&ensp; &ensp; [{{< iconify pepicons-pencil:arrows-spin-circle >}}]{style="font-size:18pt;"} ...Responsive
+
+&ensp; &ensp; [{{< iconify bi:balloon-fill >}}]{style="font-size:18pt;"} ...Playful
+
+&ensp; &ensp; [{{< iconify pepicons-pencil:letter-open >}}]{style="font-size:18pt;"} ...Communicative
+
+&ensp; &ensp; [{{< iconify material-symbols:person-add >}}]{style="font-size:18pt;"} ...Collaborative
+
+:::{.text-center}
+[Click here to view the full PEER Model](model/index.qmd){.btn role="button" .btn-primary .rounded-lg .text-center}
+:::
+
+
+:::
+
+:::
+
+:::
+
+
+::: {.quarto-listing .quarto-listing-container-grid}
+::: {.list .grid .quarto-listing-cols-2 style="background-color:rgb(75,181,67,0.2); padding: 10px 10px 0px 20px; border-radius: 10px;"}
+::: {.g-col-1}
+
+## See what our participants say about PEER
+
+“This is my first PEER where I am developing a whole new project, which I am loving doing in this space. I’m getting tons of new ideas from others as it takes form.”
+
+“As a novice researcher, I made progress on my identity through PEER. I have a stronger sense of belonging and feel like I am able to contribute something of value too.”
+
+“I gained self-confidence. I have a sense of community and belonging. I feel included.”
+
+“I am excited about doing research again. I feel like this program has reminded my reasons for why I want to do research.”
+
+:::{.text-center}
+[View more testimonials](impacts.qmd#peer-is-effective.){.btn role="button" .btn-primary .rounded-lg .text-center}
+:::
+
+:::
+
+::: {.g-col-1 .text-center}
+
+![](images/table.png){style="width:50%;"}
+
+Put visual quantitative data about how much participants enjoy PEER here. 
+
+:::
+
+:::
+
+:::
+
+&nbsp;
+
 ## Opportunities to participate in PEER!
 
 Whether you're just getting started, looking to stretch into new projects or methodologies, or seeking community and support around education research, we're happy to have you. Upcoming field schools and workshops will be held in the US as well as internationally (as travel permits).
@@ -195,3 +349,4 @@ Whether you're just getting started, looking to stretch into new projects or met
   <iframe name="fs-calendar-loader" src="updated-schedule-pull.html" hidden></iframe>
 </body>
 ```
+

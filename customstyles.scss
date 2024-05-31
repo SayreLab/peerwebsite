@@ -20,6 +20,11 @@ $padding: 1em;
 $margin: 1em 0;
 
 /*-- scss:rules --*/
+
+.div {
+  padding: 10px 10px 0px 10px;
+}
+
 /* General callout styles */
 .callout {
   border-radius: $border-radius;
@@ -73,13 +78,7 @@ $margin: 1em 0;
   border-left: 5px solid #1e90ff;
 }
 
-/* Custom icons */
-.callout-note::before {
-    content: url("images/peer.png");
-    margin-right: 0.5em;
-    width: 100px; // Set the desired width
-    height: 100px; // Set the desired height
-  }
+
   
 
 /*-- scss:mixins --*/
