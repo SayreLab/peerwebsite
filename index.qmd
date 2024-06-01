@@ -9,9 +9,13 @@ toc: false
 suppress: true
 ---
 
+<!-- Keep this, it's needed so that the background image for the section below loads -->
+![](images/stock.jpg){.d-none}
+
 {{< include ./_prefix.qmd >}}
 :::{style="width=100%"}
 
+<!-- Welcome to PEER! -->
 ::: {.quarto-listing .quarto-listing-container-grid }
 ::: {.list .grid .quarto-listing-cols-2 style="background-image:url(images/stock.jpg);background-repeat:no-repeat;background-size: cover;padding:10px 10px 10px 10px; border-radius: 10px;"}
 ::: {.g-col-1 style="display:flex;"}
@@ -49,6 +53,8 @@ Check out the [PEER Model](model/) to learn more.
 :::
 
 :::
+
+<!-- Getting Started -->
 ::: {.quarto-listing .quarto-listing-container-grid}
 ::: {.list .grid .quarto-listing-cols-2 style="background-color:rgb(95,158,160,0.2); padding: 10px 10px 0px 20px; border-radius: 10px;"}
 ::: {.g-col-1}
@@ -63,7 +69,7 @@ PEER participants love the collaborative community in PEER field schools. Many c
 
 :::
 
-::: {.g-col-1 .text-center}
+::: {.g-col-1 .text-center .d-flex .align-items-center .justify-content-center}
 
 ![](images/table.png){style="width:50%;"}
 
@@ -73,12 +79,73 @@ PEER participants love the collaborative community in PEER field schools. Many c
 
 :::
 
+<!-- Facts 1 -->
+::: {.quarto-listing .quarto-listing-container-grid}
+::: {.list .grid .quarto-listing-cols-12 style="padding: 10px 10px 0px 20px; border-radius: 10px;"}
+::: {.g-col-12 .g-col-md-12 .g-col-xl-12 .g-col-xxl-4}
 
+&nbsp;
+
+## PEER Partners with...
+
+:::
+
+:::{.g-col-12 .g-col-md-6  .g-col-xl-3 .g-col-xxl-2 .d-flex .justify-content-center}
+::: { .text-center .text-black .bg-info .border .border-2 .border-info .rounded-circle .d-flex .align-items-center .justify-content-center .text-wrap style="height:200px; width:150px; min-height:150px; min-width:200px; --bs-bg-opacity: .5;"}
+
+[400+]{.fw-bold .fs-3}\
+Universities\
+across the globe\
+
+:::
+
+:::
+
+:::{.g-col-12 .g-col-md-6 .g-col-xl-3 .g-col-xxl-2 .d-flex .justify-content-center}
+::: { .text-center .text-black .bg-info .border .border-2 .border-info .rounded-circle .d-flex .align-items-center .justify-content-center .text-wrap style="height:200px; width:200px; min-height:150px; min-width:200px; --bs-bg-opacity: .5;"}
+
+[400+]{.fw-bold .fs-3}\
+Universities\
+across the globe\
+
+:::
+
+:::
+
+:::{.g-col-12 .g-col-md-6 .g-col-xl-3 .g-col-xxl-2 .d-flex .justify-content-center}
+::: { .text-center .text-black .bg-info .border .border-2 .border-info .rounded-circle .d-flex .align-items-center .justify-content-center .text-wrap style="height:200px; width:200px; min-height:150px; min-width:200px; --bs-bg-opacity: .5;"}
+
+[400+]{.fw-bold .fs-3}\
+Universities\
+across the globe\
+
+:::
+
+:::
+
+:::{.g-col-12 .g-col-md-6 .g-col-xl-3 .g-col-xxl-2 .d-flex .justify-content-center}
+::: { .text-center .text-black .bg-info .border .border-2 .border-info .rounded-circle .d-flex .align-items-center .justify-content-center .text-wrap style="height:200px; width:200px; min-height:150px; min-width:200px; --bs-bg-opacity: .5;"}
+
+[400+]{.fw-bold .fs-3}\
+Universities\
+across the globe\
+
+:::
+
+:::
+
+:::
+
+:::
+
+&nbsp;
+
+<!-- Our Goal -->
 ::: {.quarto-listing .quarto-listing-container-grid}
 ::: {.list .grid .quarto-listing-cols-2 style="padding: 10px 10px 0px 20px; border-radius: 10px;"}
-::: {.g-col-1 .text-center}
+::: {.g-col-1 .text-center .d-flex .align-items-center .justify-content-center}
 
-![](images/table.png){style="width:50%;"}
+{{< video https://youtu.be/56JDGp_xRbk >}}
 
 :::
 
@@ -99,8 +166,9 @@ Wherever you're at, we'll help you take your research to the next level.
 :::
 
 
+<!-- Resources -->
 
-
+## Resources
 
 ::: {.quarto-listing .quarto-listing-container-grid}
 ::: {.list .grid .quarto-listing-cols-3}
@@ -136,105 +204,7 @@ Wherever you're at, we'll help you take your research to the next level.
 :::
 :::
 
-## Facts Section (Placeholder Title)
-
-:::{}
-
-::: {.quarto-listing .quarto-listing-container-grid}
-::: {.list .grid .quarto-listing-cols-3 style="padding: 10px 10px 0px 20px;"}
-::: {.g-col-1 .bg-info .border .border-2 .border-info .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 0px 10px 30px; --bs-bg-opacity: .5;"}
-
-[{{< iconify mdi:graph-line >}} Fact 1]{style="font-size: 24pt; font-weight: bold;"}
-
-Talk about the fact here
-
-:::
-
-::: {.g-col-1 .bg-info .border .border-2 .border-info .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 0px 10px 30px; --bs-bg-opacity: .5;"}
-
-[{{< iconify mdi:graph-line >}} Fact 2]{style="font-size: 24pt; font-weight: bold;"}
-
-Talk about the fact here
-
-:::
-
-::: {.g-col-1 .bg-info .border .border-2 .border-info .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 0px 10px 30px; --bs-bg-opacity: .5;"}
-
-[{{< iconify mdi:graph-line >}} Fact 3]{style="font-size: 24pt; font-weight: bold;"}
-
-Talk about the fact here
-
-:::
-
-:::
-
-:::
-
-::: {.quarto-listing .quarto-listing-container-grid}
-::: {.list .grid .quarto-listing-cols-4 style="padding: 10px 10px 0px 20px;"}
-::: {.g-col-1 .bg-success .border .border-2 .border-success .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 0px 10px 30px; --bs-bg-opacity: .5;"}
-
-[{{< iconify mdi:graph-line >}} Fact 1]{style="font-size: 24pt; font-weight: bold;"}
-
-Talk about the fact here
-
-:::
-
-::: {.g-col-1 .bg-success .border .border-2 .border-success .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 0px 10px 30px; --bs-bg-opacity: .5;"}
-
-[{{< iconify mdi:graph-line >}} Fact 2]{style="font-size: 24pt; font-weight: bold;"}
-
-Talk about the fact here
-
-:::
-
-::: {.g-col-1 .bg-success .border .border-2 .border-success .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 0px 10px 30px; --bs-bg-opacity: .5;"}
-
-[{{< iconify mdi:graph-line >}} Fact 3]{style="font-size: 24pt; font-weight: bold;"}
-
-Talk about the fact here
-
-:::
-
-::: {.g-col-1 .bg-success .border .border-2 .border-success .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 0px 10px 30px; --bs-bg-opacity: .5;"}
-
-[{{< iconify mdi:graph-line >}} Fact 4]{style="font-size: 24pt; font-weight: bold;"}
-
-Talk about the fact here
-
-:::
-
-:::
-
-:::
-
-::: {.quarto-listing .quarto-listing-container-grid}
-::: {.list .grid .quarto-listing-cols-3 style="padding: 10px 10px 0px 20px;"}
-::: {.g-col-1 .bg-purple .bg-opacity-10 .border .border-2 .border-dark style="border-radius: 40px 5px 5px 5px; padding:10px 0px 10px 30px;"}
-
-[{{< iconify ri:team-fill >}} Conclusion]{style="font-size: 24pt; font-weight: bold;"}
-
-How do the facts affect the participant? What are the benefits/outcomes?
-
-:::
-
-::: {.g-col-2 .bg-purple .bg-opacity-10 .border .border-2 .border-dark style="border-radius: 40px 5px 5px 5px; padding:10px 0px 10px 30px;"}
-
-[{{< iconify mdi:graph-line >}} Graph]{style="font-size: 24pt; font-weight: bold;"}
-
-
-:::
-
-:::
-
-:::
-
-:::
-
-
-:::
-
-
+<!-- Is PEER right for me? -->
 ::: {.quarto-listing .quarto-listing-container-grid}
 ::: {.list .grid .quarto-listing-cols-2 style="background-color:rgb(95,158,160,0.2); padding: 10px 10px 0px 20px; border-radius: 10px;"}
 ::: {.g-col-1}
@@ -267,6 +237,110 @@ If this is who you are...
 :::
 
 
+<!-- Facts 2 -->
+## PEER has Results
+
+:::{}
+
+::: {.quarto-listing .quarto-listing-container-grid}
+::: {.list .grid .quarto-listing-cols-3 style="padding: 10px 10px 0px 20px;"}
+::: {.g-col-1 .bg-info .border .border-2 .border-info .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 0px 10px 30px; --bs-bg-opacity: .5;"}
+
+[{{< iconify mdi:graph-line >}} 130+ Papers Published]{style="font-size: 24pt; font-weight: bold;"}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non ipsum mauris. Sed ut rutrum leo, et venenatis leo. Ut eget elit sed est volutpat venenatis non eget turpis. Mauris sapien nulla, facilisis vel elit nec, vehicula fermentum augue. Nam at ligula elementum, tempus ex eu, tempus enim.
+
+:::
+
+::: {.g-col-1 .bg-info .border .border-2 .border-info .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 0px 10px 30px; --bs-bg-opacity: .5;"}
+
+[{{< iconify mdi:graph-line >}} 25+ Grants Awarded]{style="font-size: 24pt; font-weight: bold;"}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non ipsum mauris. Sed ut rutrum leo, et venenatis leo. Ut eget elit sed est volutpat venenatis non eget turpis. Mauris sapien nulla, facilisis vel elit nec, vehicula fermentum augue. Nam at ligula elementum, tempus ex eu, tempus enim.
+
+:::
+
+::: {.g-col-1 .bg-info .border .border-2 .border-info .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 0px 10px 30px; --bs-bg-opacity: .5;"}
+
+[{{< iconify mdi:graph-line >}} Fact 3]{style="font-size: 24pt; font-weight: bold;"}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non ipsum mauris. Sed ut rutrum leo, et venenatis leo. Ut eget elit sed est volutpat venenatis non eget turpis. Mauris sapien nulla, facilisis vel elit nec, vehicula fermentum augue. Nam at ligula elementum, tempus ex eu, tempus enim.
+
+:::
+
+:::
+
+:::
+
+::: {.quarto-listing .quarto-listing-container-grid}
+::: {.list .grid .quarto-listing-cols-4 style="padding: 10px 10px 0px 20px;"}
+::: {.g-col-1 .bg-success .border .border-2 .border-success .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 0px 10px 30px; --bs-bg-opacity: .5;"}
+
+[{{< iconify mdi:graph-line >}} Fact 1]{style="font-size: 24pt; font-weight: bold;"}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non ipsum mauris. Sed ut rutrum leo, et venenatis leo. Ut eget elit sed est volutpat venenatis non eget turpis. Mauris sapien nulla, facilisis vel elit nec, vehicula fermentum augue. Nam at ligula elementum, tempus ex eu, tempus enim.
+
+:::
+
+::: {.g-col-1 .bg-success .border .border-2 .border-success .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 0px 10px 30px; --bs-bg-opacity: .5;"}
+
+[{{< iconify mdi:graph-line >}} Fact 2]{style="font-size: 24pt; font-weight: bold;"}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non ipsum mauris. Sed ut rutrum leo, et venenatis leo. Ut eget elit sed est volutpat venenatis non eget turpis. Mauris sapien nulla, facilisis vel elit nec, vehicula fermentum augue. Nam at ligula elementum, tempus ex eu, tempus enim.
+
+:::
+
+::: {.g-col-1 .bg-success .border .border-2 .border-success .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 0px 10px 30px; --bs-bg-opacity: .5;"}
+
+[{{< iconify mdi:graph-line >}} Fact 3]{style="font-size: 24pt; font-weight: bold;"}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non ipsum mauris. Sed ut rutrum leo, et venenatis leo. Ut eget elit sed est volutpat venenatis non eget turpis. Mauris sapien nulla, facilisis vel elit nec, vehicula fermentum augue. Nam at ligula elementum, tempus ex eu, tempus enim.
+
+:::
+
+::: {.g-col-1 .bg-success .border .border-2 .border-success .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 0px 10px 30px; --bs-bg-opacity: .5;"}
+
+[{{< iconify mdi:graph-line >}} Fact 4]{style="font-size: 24pt; font-weight: bold;"}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non ipsum mauris. Sed ut rutrum leo, et venenatis leo. Ut eget elit sed est volutpat venenatis non eget turpis. Mauris sapien nulla, facilisis vel elit nec, vehicula fermentum augue. Nam at ligula elementum, tempus ex eu, tempus enim.
+
+:::
+
+:::
+
+:::
+
+::: {.quarto-listing .quarto-listing-container-grid}
+::: {.list .grid .quarto-listing-cols-3 style="padding: 10px 10px 0px 20px;"}
+::: {.g-col-1 .bg-info .border .border-2 .border-info .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 0px 10px 30px; --bs-bg-opacity: .5;"}
+
+[{{< iconify ri:team-fill >}} Conclusion]{style="font-size: 24pt; font-weight: bold;"}
+
+How do the facts affect the participant? What are the benefits/outcomes?
+
+:::
+
+::: {.g-col-2 .bg-info .border .border-2 .border-info .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 0px 10px 30px; --bs-bg-opacity: .5;"}
+
+[{{< iconify mdi:graph-line >}} Graph]{style="font-size: 24pt; font-weight: bold;"}
+
+:::{.text-center}
+
+![Placeholder graph](images/test-graph.jpeg){style="opacity: 90%;"}
+
+:::
+:::
+
+:::
+
+:::
+
+:::
+
+
+:::
+
+<!-- The PEER Model -->
 ::: {.quarto-listing .quarto-listing-container-grid}
 ::: {.list .grid .quarto-listing-cols-2 style="padding: 10px 10px 0px 20px; border-radius: 10px;"}
 ::: {.g-col-1 .text-center}
@@ -301,7 +375,7 @@ PEER will boost your education research skills and push your project forward! We
 
 :::
 
-
+<!-- Some Testimonials -->
 ::: {.quarto-listing .quarto-listing-container-grid}
 ::: {.list .grid .quarto-listing-cols-2 style="background-color:rgb(75,181,67,0.2); padding: 10px 10px 0px 20px; border-radius: 10px;"}
 ::: {.g-col-1}
@@ -336,12 +410,68 @@ Put visual quantitative data about how much participants enjoy PEER here.
 
 &nbsp;
 
+<!-- Other opportunities -->
 ## Opportunities to participate in PEER!
 
 Whether you're just getting started, looking to stretch into new projects or methodologies, or seeking community and support around education research, we're happy to have you. Upcoming field schools and workshops will be held in the US as well as internationally (as travel permits).
 
 `r invitation.cards(c("announcements", "upcoming"))`
 
+<!-- FAQ -->
+
+:::{style="background-color:rgb(95,158,160,0.2);padding: 10px 10px 10px 10px; border-radius: 10px;"}
+
+## [FAQ]{.mt-0}
+
+:::{.callout-note collapse="true" icon="false"}
+## {{< iconify ri:question-line >}} Question
+
+Answer
+:::
+
+:::{.callout-note collapse="true" icon="false"}
+## {{< iconify ri:question-line >}} Question
+
+Answer
+:::
+
+:::{.callout-note collapse="true" icon="false"}
+## {{< iconify ri:question-line >}} Question
+
+Answer
+:::
+
+:::{.callout-note collapse="true" icon="false"}
+## {{< iconify ri:question-line >}} Question
+
+Answer
+:::
+
+:::{.callout-note collapse="true" icon="false"}
+## {{< iconify ri:question-line >}} Question
+
+Answer
+:::
+
+:::{.callout-note collapse="true" icon="false"}
+## {{< iconify ri:question-line >}} Question
+
+Answer
+:::
+
+:::{.callout-note collapse="true" icon="false"}
+## {{< iconify ri:question-line >}} Question
+
+Answer
+:::
+
+:::{.callout-note collapse="true" icon="false"}
+## {{< iconify ri:question-line >}} Question
+
+Answer
+:::
+
+:::
 
 <!-- Loaders -->
 ```{=HTML}
