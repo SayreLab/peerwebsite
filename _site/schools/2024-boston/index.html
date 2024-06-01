@@ -78,7 +78,6 @@ background-size: cover;
 </style>
 
 
-<link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="PEER Institute - PEER-Boston (Summer, 2024)">
 <meta property="og:description" content="Local Field School focusing on building community and capacity for researchers at MIT and Harvard.">
 <meta property="og:image" content="https://peerinstitute.org/schools/2024-boston/hu-mit.png">
@@ -224,40 +223,21 @@ background-size: cover;
 </section>
 <section id="schedule-overview" class="level1">
 <h1>Schedule Overview</h1>
-<table class="table">
-<colgroup>
-<col style="width: 30%">
-<col style="width: 70%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Date</th>
-<th>Activity</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>TBD, early July Time: 3:00-4:30pm</td>
-<td>Virtual Kickoff</td>
-</tr>
-<tr class="even">
-<td>Monday, Dec.&nbsp;14, 12:00-4:00pm</td>
-<td>Opening session with optional group dinner outing afterward</td>
-</tr>
-<tr class="odd">
-<td>Tuesday, Dec.&nbsp;15: 9:00am-4:00pm</td>
-<td>Research design, communication, and ethics: setting up for success</td>
-</tr>
-<tr class="even">
-<td>Wednesday, Dec.&nbsp;16: 9:00am-4:00pm</td>
-<td>Theories, data, methods: developing your projects</td>
-</tr>
-<tr class="odd">
-<td>Thursday, Dec.&nbsp;18: 9:00am-1:00pm</td>
-<td>Project planning for the future: let’s make it happen!</td>
-</tr>
-</tbody>
-</table>
+
+  <iframe id="fs-schedule" src="" width="100%" height="600px" frameborder="0"></iframe>
+  <!-- Dynamically set the school name variable -->
+  <script>
+    // Define the school name variable
+    // THIS MUST BE THE SAME AS THE GOOGLE SHEETS PAGE NAME
+    var schoolName = "Boston 2024"; // Change this to the desired school name
+
+    // Encode the school name to make it URL-safe
+    var encodedSchoolName = encodeURIComponent(schoolName);
+
+    // Set the src of the iframe with the dynamically generated school name
+    document.querySelector("#fs-schedule").src = "../../updated-schedule-pull.html?school=" + encodedSchoolName;
+  </script>
+
 <p>To build a supportive community, participants must actively engage during all sessions in the field school. Partial attendance is not permitted.</p>
 <p>See more schedule details on the <a href="../../schools/2024-boston/syllabus.html">syllabus</a></p>
 </section>
