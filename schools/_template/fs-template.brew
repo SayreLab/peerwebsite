@@ -1,0 +1,14 @@
+This is the FS template. 
+
+---
+title: "<%=title%>"
+
+---
+
+```{r}
+#| include: false
+params$leadname
+```
+
+## Join PEER for a 4-day, intensive, in-person PEER Field School!
+

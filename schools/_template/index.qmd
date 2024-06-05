@@ -2,17 +2,47 @@
 # Field school information
 title: "PEER-location (season year)"
 
-# Description: uncomment and edit the one you want.
-#description: "International Field School for Emerging Education Researchers with extended content."
-#description: "Extended Field School for Emerging Education Researchers. Welcomes new and returning PEER participants from anywhere in the world."
-description: "Regional Field School focusing on building community and capacity in the Southern California region."
-#description: "Short virtual workshop to get a small taste of PEER."
+# Parameters used in document. 
+params:
+  # Facilitation team.  First name is the lead; comment out anyone who isn't in this FS.
+  facilitators:
+    - Eleanor Sayre
+    - Scott Franklin
+    - Mary Bridget Kustusch
+    - Emily Cilli-Turner
+    - Myrtle Jones
+    - Jordan Gerton
+    - Chris Rasmussen
+    
+  description:
+    - "International Field School for Emerging Education Researchers with extended content."
+    - "Extended Field School for Emerging Education Researchers. Welcomes new and returning PEER participants from anywhere in the world."
+    - "Regional Field School focusing on building community and capacity in a three-hour radius."
+    - "Short virtual workshop to get a small taste of PEER."
 
-# Staffing
-leadname: "Eleanor Sayre"
+     
+  location: "not here"
+  host: "PEER Institute" 
+  image:  "../../images/peer-wide.png" # this should be roughly 8x3 aspect ratio, host logo is a good choice, possibly with padding. 
+  applylink: "https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58"
+
+  date: "6/1/2024"  # start date of field school, for sorting purposes
+  dates: "June 1-4, 2024" # textual date range of the field school, for display purposes.
+  applydate: "March 15, 2024" # when are applications due?
+  timing: "test" # can also choose "past" or "workshop"
+
+# Settings for template, do not change.
+toc-location: left
+date-format: "MMM D, YYYY"
+
+
+#These are deprecated:
+
+# Description: deprecated, use params.description
+description: "Join us for a field school!"
 
 # Location and hosting
-location: "template" 
+location: "not here" 
 host: "Rochester Institute of Technology" 
 image:  "../../images/peer-wide.png" # this should be roughly 8x3 aspect ratio, host logo is a good choice, possibly with padding. 
 applylink: "https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58"
@@ -21,16 +51,18 @@ applylink: "https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58"
 date: "6/1/2024"  # start date of field school, for sorting purposes
 dates: "June 1-4, 2024" # textual date range of the field school, for display purposes.
 applydate: "March 15, 2024" # when are applications due?
-timing: "upcoming" # can also choose "past" or "gateway"
+timing: "test" # can also choose "past" or "workshop"
 
-# Settings for template, do not change.
-toc-location: left
-date-format: "MMM D, YYYY"
+
 
 ---
 
-## Join PEER for a 4-day, intensive, in-person PEER Field School!
+```{r}
+#| include: false
+params$leadname
+```
 
+## Join PEER for a 4-day, intensive, in-person PEER Field School!
 
 ::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-3 .bg-info}
 
@@ -74,19 +106,28 @@ PEER enhances the professional growth of participants and changes career traject
 Can't make this one? There are [more](../index.qmd). 
 
 # Schedule Overview
-  
-Date | Activity
----|-------
-Thursday, Nov. 30 Time: 3:00-4:30pm (Central Time) | Virtual Kickoff 
-Thursday, Dec. 14, 3:00-6:00pm | Opening session with optional group dinner outing afterward
-Friday, Dec. 15: 9:00am-4:00pm | Research design, communication, and ethics: setting up for success
-Saturday, Dec. 16: 9:00am-4:00pm | Theories, data, methods: developing your projects
-Sunday, Dec. 18: 9:00am-1:00pm | Project planning for the future: let's make it happen!
 
+This schedule might shift in response to the needs of participants.
+  
+```{=HTML}
+<body>
+  <iframe id="fs-schedule" src="" width="100%" height="600px" frameborder="0"></iframe>
+  <!-- Dynamically set the school name variable -->
+  <script>
+    // Define the school name variable
+    // THIS MUST BE THE SAME AS THE GOOGLE SHEETS PAGE NAME
+    var schoolName = "Boston 2024"; // Change this to the desired school name
+
+    // Encode the school name to make it URL-safe
+    var encodedSchoolName = encodeURIComponent(schoolName);
+
+    // Set the src of the iframe with the dynamically generated school name
+    document.querySelector("#fs-schedule").src = "../../updated-schedule-pull.html?school=" + encodedSchoolName;
+  </script>
+</body>
+```
 
 To build a supportive community, participants must actively engage during all sessions in the field school.  Partial attendance is not permitted.
-
-See more schedule details on the [syllabus](syllabus.qmd)
 
 # Who Should Attend?
  
@@ -99,6 +140,80 @@ PEER targets a broad diversity of experience and interest in discipline-based ed
 
 This field school is centered on building regional capacity and community.  We welcome all applicants who work or reside within a two-hour radius of San Diego; applicants outside of this radius should make a strong case for their current or future ties to the DBER community in this geographic area. 
 
+
+# Already registered?
+
+Workshop materials, including slides, workbooks, and virtual kickoff link are shared with participants directly.  If you are a registered participant and need access, contact the lead facilitator, {{< meta leadname >}}.
+
+Your participant packet, shared with each participant individually, contains detailed information about what homework is due and when. 
+
+:::{.callout-tip collapse="true" title="Virtual Kickoff: Thursday, Nov. 30 Time: 3:00-4:30pm (Central Time)"}
+The virtual kickoff will be held over zoom.  Participants have received a calendar link with zoom information; this information is also in your participant packet. 
+:::
+
+
+::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-4 .bg-info}
+
+:::{.g-col-1 .card .card-body .text-center .border-info .bg-info}
+
+:::::{zoom-button}
+[Field school materials](https://drive.google.com/drive/folders/1SJBNWn_897_ze){.btn role="button" .btn-primary .rounded-pill}
+:::::
+:::
+
+:::{.g-col-1 .card .card-body .text-center .border-info .bg-info}
+:::::{slack-button}
+[Slack Link](https://join.slack.com/t/peer-pbe2329/shared_invite/zt-25p9wvity-kIugoURsaSxRvPnFUQsUwQ){.btn role="button" .btn-primary .rounded-pill}
+:::::
+:::
+
+:::{.g-col-1 .card .card-body .text-center .border-info .bg-info}
+
+
+:::::{contact-facilitator-button}
+[Contact Lead Facilitator](mailto:esayre@gmail.com){.btn role="button" .btn-primary .rounded-pill}
+:::::
+:::
+
+:::{.g-col-1 .card .card-body .text-center .border-info .bg-info}
+
+
+:::::{contact-host-button}
+[Contact Local Host](mailto:mkustus1@depaul.edu){.btn role="button" .btn-primary .rounded-pill}
+::::: 
+:::
+:::
+
+
+## Logistics: Getting here, staying here, eating here.
+
+:::{.callout-tip collapse="true" title="Getting to campus"}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+:::
+
+:::{.callout-tip collapse="true" title="On-campus housing"}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+:::
+
+:::{.callout-tip collapse="true" title="Parking"}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+:::
+
+:::{.callout-tip collapse="true" title="Session locations & campus map"}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+:::
+
+:::{.callout-tip collapse="true" title="Food"}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+:::
+
+:::{.callout-tip collapse="true" title="Wifi access"}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+:::
+
+:::{.callout-tip collapse="true" title="Travel panic"}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+:::
 
 # What do we do?
 
@@ -120,9 +235,7 @@ PEER promotes peer feedback and community foundation, providing a sense of inclu
 Apply by {{< meta applydate >}} for priority consideration; initial admissions decisions will come out about two weeks after the priority application deadline.
 
 [APPLY NOW]({{< meta applylink >}}){.btn role="button" .btn-primary .rounded-pill}
-
 It is expected that you will participate for the full field school; partial participation is not allowed.  
-
 
 
 * Registration includes lunch, coffee & snacks, optional breakfast, and a parking pass (if needed).  
