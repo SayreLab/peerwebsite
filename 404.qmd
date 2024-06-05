@@ -1,39 +1,102 @@
 ---
-title: ""
-    
+title: "404: Page Not Found"
+
+page-layout: article
 ---
 
+:::{.quarto-listing .quarto-listing-container-grid}
 
-::: {.grid .quarto-listing-cols-2 .row style="grid-gap: 0; gap: 0; margin: 0; padding: 0;"}
+:::{.list .grid .quarto-listing-cols-6}
 
 
-::: {.g-col-1  style="padding:10px 10px 10px 10px; border-radius: 10px 0px 0px 10px; margin-right:0pxgrid-gap: 0; gap: 0; margin: 0;background: linear-gradient(to right, #5bc0de, white);" .border .border-2 .border-info .border-end-0}
+:::{.g-col-2}
 
-# Page Not Found
+:::{.text-black .bg-info .border .border-2 .border-info style="--bs-bg-opacity: .5; padding: 0px 10px 0px 10px; border-radius: 10px;" }
 
-We can’t find the page you’re looking for. Go back to the Home Page or contact a facilitator for more information.
+## Got lost?
 
-&nbsp; &nbsp;
+:::{.quarto-listing .quarto-listing-container-grid}
 
-::: {.grid .quarto-listing-cols-2 .text-center}
+:::{.list .grid .quarto-listing-cols-2}
 
-:::{.g-col-1}
+:::{.g-col-1 .card .card-body .quarto-grid-link}
 
-[Go Home](index.qmd){.btn role="button" .btn-primary .rounded-lg .text-center}
+## Go Back to Previous Page
 
-:::
-
-:::{.g-col-1}
-
-[Contact a Facilitator](contact.qmd){.btn role="button" .btn-primary .rounded-lg .text-center}
+[Broken link? Don't know how you got here? Go back to the previous page.](javascript:history.back()){.stretched-link style="color: inherit; text-decoration: inherit;"}
 
 :::
 
+:::{.g-col-1 .card .card-body .quarto-grid-link}
+
+## Go Back to Home Page
+
+[The safe option. Go back to the home page and learn more about PEER!](javascript:history.back()){.stretched-link style="color: inherit; text-decoration: inherit;"}
+
+:::
+
+:::{.g-col-2 .card .card-body .quarto-grid-link}
+
+## Contact a Facilitator
+
+[Did you notice anything wrong? Do you have any questions or concerns? Please contact a facilitator and let them know. Please be specific about the issue.](contact.qmd){.stretched-link style="color: inherit; text-decoration: inherit;"}
+
+:::
+
 :::
 
 :::
 
-::: {.g-col-1 .bg-white style="--bs-bg-opacity: .5; border-radius: 0px 10px 10px 0px; margin-left: 0px; margin: 0; padding: 0; background: linear-gradient(to right, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0) 4%), url('images/404-icon.png'); background-size: cover; background-position: center; background-repeat: no-repeat; width: 100%; height: 550px;" .border .border-2 .border-info .border-start-0}
+:::
+
+:::
+
+:::{.g-col-4}
+
+## Are you looking for one of these pages?
+
+:::{.quarto-listing .quarto-listing-container-grid}
+
+:::{.list .grid .quarto-listing-cols-3}
+
+:::{.g-col-1 .card .card-body .quarto-grid-link}
+
+## Future Field Schools
+
+[Check the schedule for upcoming field schools! In a PEER Field school, you will work intensively on your research project with your co-participants and our expert facilitators.](schools/#upcoming-field-schools){.stretched-link style="color: inherit; text-decoration: inherit;"}
+
+:::
+
+:::{.g-col-1 .card .card-body .quarto-grid-link}
+
+## Research Handbook
+
+[A friendly, PEER-centered book on how to do research, especially in academia and especially in STEM education.](https://handbook.zaposa.com/){.stretched-link style="color: inherit; text-decoration: inherit;"}
+
+:::
+
+:::{.g-col-1 .card .card-body .quarto-grid-link}
+
+## Host a Field School
+
+[Do none of our upcoming field schools match your schedule? No worries! Consider hosting a field school and bring PEER to you.](model/localhost.qmd){.stretched-link style="color: inherit; text-decoration: inherit;"}
+
+:::
+
+:::{.g-col-1 .card .card-body .quarto-grid-link}
+
+## Join the Mailing List
+
+[Are you curious about other opportunities PEER offers? Join our announcements list and don't miss out!](contact.qmd#i-want-to-join-the-mailing-list){.stretched-link style="color: inherit; text-decoration: inherit;"}
+
+:::
+
+:::
+
+
+:::
+
+:::
 
 :::
 
