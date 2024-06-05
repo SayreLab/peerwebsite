@@ -17,6 +17,7 @@ listing:
         timing: "upcoming"
       exclude: 
         location: "template"
+        timing: "past"
       type: default
       filter-ui: true
       image-align: left
@@ -48,6 +49,9 @@ listing:
 ---
 
 {{< include ../_prefix.qmd >}}
+
+:::{#test-listing}
+:::
 
 ## PEER Field Schools
 

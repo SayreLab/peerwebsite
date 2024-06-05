@@ -1,14 +1,36 @@
 ---
 # Field school information
-title: "PEER-PSU (Spring, 2024)"
-description: "Regional Field School focusing on building community and capacity in the Central Pennsylvania region."
-leadname: "Scott Franklin"
-location: "State College, PA"
-host: "Pennsylvania State University College of Science"
-image: "psu-cos.png"
-date: "5/20/2024"
-dates: "May 20-23, 2024" # textual date range of the field school, for display purposes.
-timing: "past"
+title: "PEER-location (season year)"
+
+# Description: uncomment and edit the one you want.
+#description: "International Field School for Emerging Education Researchers with extended content."
+#description: "Extended Field School for Emerging Education Researchers. Welcomes new and returning PEER participants from anywhere in the world."
+description: "Regional Field School focusing on building community and capacity in the Southern California region."
+#description: "Short virtual workshop to get a small taste of PEER."
+
+# Parameters used in document. 
+params:
+  # Facilitation team.  First name is the lead; comment out anyone who isn't in this FS.
+  facilitators:
+    - Eleanor Sayre
+    - Scott Franklin
+    - Mary Bridget Kustusch
+    - Emily Cilli-Turner
+    - Myrtle Jones
+    - Jordan Gerton
+    - Chris Rasmussen
+
+# Location and hosting
+location: "template" 
+host: "Rochester Institute of Technology" 
+image:  "../../images/peer-wide.png" # this should be roughly 8x3 aspect ratio, host logo is a good choice, possibly with padding. 
+applylink: "https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58"
+
+# Dates
+date: "6/1/2024"  # start date of field school, for sorting purposes
+dates: "June 1-4, 2024" # textual date range of the field school, for display purposes.
+applydate: "March 15, 2024" # when are applications due?
+timing: "upcoming" # can also choose "past" or "gateway"
 
 # Settings for template, do not change.
 toc-location: left
@@ -16,8 +38,12 @@ date-format: "MMM D, YYYY"
 
 ---
 
-## Join PEER for a 4-day, intensive, in-person PEER Field School!
+```{r}
+#| include: false
+params$leadname
+```
 
+## Join PEER for a 4-day, intensive, in-person PEER Field School!
 
 ::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-3 .bg-info}
 
@@ -26,8 +52,8 @@ date-format: "MMM D, YYYY"
 :::{.bi .bi-geo-alt-fill style="font-size: 70px"}
 
 :::
-Penn State University<br>
-State College, PA
+{{< meta host >}}
+{{< meta location >}}
 :::
 
 
@@ -36,8 +62,8 @@ State College, PA
 :::{.bi .bi-calendar-check-fill style="font-size: 70px"}
 
 :::
-Field school dates<br>
-May 20-23, 2024
+Field school dates
+{{< meta dates >}}
 :::
 
 :::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
@@ -46,7 +72,8 @@ May 20-23, 2024
 
 :::
 
-Rolling applications accepted!
+Applications due
+{{< meta applydate >}}
 :::
 
 
@@ -55,11 +82,13 @@ Rolling applications accepted!
 
 PEER enhances the professional growth of participants and changes career trajectories.  Our comprehensive professional development covers project design, management, mentoring, communication, and understanding community values. This 'full stack' of activities builds your research abilities.  No matter where you are in your education research journey, we'll take you to the next step. 
 
-[APPLY NOW](https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58){.btn role="button" .btn-primary .rounded-pill}
+[APPLY NOW]({{< meta applylink >}}){.btn role="button" .btn-primary .rounded-pill}
 
 Can't make this one? There are [more](../index.qmd). 
 
 # Schedule Overview
+
+This schedule might shift in response to the needs of participants.
   
 ```{=HTML}
 <body>
@@ -68,7 +97,7 @@ Can't make this one? There are [more](../index.qmd).
   <script>
     // Define the school name variable
     // THIS MUST BE THE SAME AS THE GOOGLE SHEETS PAGE NAME
-    var schoolName = "PSU 2024"; // Change this to the desired school name
+    var schoolName = "Boston 2024"; // Change this to the desired school name
 
     // Encode the school name to make it URL-safe
     var encodedSchoolName = encodeURIComponent(schoolName);
@@ -79,10 +108,7 @@ Can't make this one? There are [more](../index.qmd).
 </body>
 ```
 
-
-To build a supportive community, participants must actively engage during all sessions in the field school.  Partial attendance is not permitted. 
-
-See more schedule details on the [syllabus](syllabus.qmd)
+To build a supportive community, participants must actively engage during all sessions in the field school.  Partial attendance is not permitted.
 
 # Who Should Attend?
  
@@ -93,7 +119,7 @@ PEER targets a broad diversity of experience and interest in discipline-based ed
 * Graduate students or postdoctoral researchers who want to learn more about DBER project management and building a successful research program
 * Faculty at teaching-focused universities interested in using research methodology to improve or assess their teaching and/or publish in Scholarship of Teaching & Learning
 
-This field school is centered on building regional capacity and community.  We welcome all applicants who work or reside within a three-hour radius of State College; applicants outside of this radius should make a strong case for their current or future ties to the DBER community in this geographic area. 
+This field school is centered on building regional capacity and community.  We welcome all applicants who work or reside within a two-hour radius of San Diego; applicants outside of this radius should make a strong case for their current or future ties to the DBER community in this geographic area. 
 
 
 # What do we do?
@@ -111,20 +137,22 @@ PEER promotes peer feedback and community foundation, providing a sense of inclu
  Our support includes guiding participants in writing, a key element of academic research. PEER engagement leads to numerous publications, grant proposals, and successful tenure & promotion portfolios.  These publications span several years, suggesting PEER's lasting impact on participants’ professional trajectories.
     
 
-
 # Application and Registration
 
-Applications due March 15, 2024; we hope to make notifications by April 1, 2024.
+Apply by {{< meta applydate >}} for priority consideration; initial admissions decisions will come out about two weeks after the priority application deadline.
 
-[APPLY NOW](https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58){.btn role="button" .btn-primary .rounded-pill}
-
+[APPLY NOW]({{< meta applylink >}}){.btn role="button" .btn-primary .rounded-pill}
 It is expected that you will participate for the full field school; partial participation is not allowed.  
 
 
 * Registration includes lunch, coffee & snacks, optional breakfast, and a parking pass (if needed).  
-* Participants should arrange their own travel and housing. Please reach out if you need suggestions.
+* We have arranged for housing on the RIT campus for non-local participants. A small number of scholarships are available to help defray the cost of housing.  You will indicate on your application whether you need housing and if you would like to apply for a scholarship.
 
-Registration is free for participants from the hosting institution.  Participants from other regional institutions will pay $30 at registration. 
+
+Thanks to a grant from the NSF, there is no cost for registration.  
+Thanks to a grant from the NSF, registration costs are substantially reduced. Housing costs at registration (for participants without scholarships who plan to stay on RIT campus) are $450.    
+Registration for all participants is $450, regardless of career status.  
+Registration is free for participants from the hosting institution.  Participants from other regional institutions will pay $100 at registration. 
 
 
 ## Facilitators
@@ -132,11 +160,31 @@ Registration is free for participants from the hosting institution.  Participant
 ::::: {.list .grid .quarto-listing-cols-5}
 
 ::::{.g-col-1 .text-left}
+![Eleanor Sayre](../../images/headshots/Sayre-headshot.jpg){fig-alt="Eleanor Sayre" width="100%"}
+::::
+
+::::{.g-col-1 .text-left}
+![Myrtle Jones](../../images/headshots/Jones-headshot.jpeg){fig-alt="Myrtle Jones" width="100%"}
+::::
+
+::::{.g-col-1 .text-left}
+![Jordan Gerton](../../images/headshots/Gerton-headshot.jpeg){fig-alt="Jordan Gerton" width="100%"}
+::::
+
+::::{.g-col-1 .text-left}
 ![Scott Franklin](../../images/headshots/Franklin-headshot.jpg){fig-alt="Scott Franklin" width="100%"}
+
+
 ::::
 
 ::::{.g-col-1 .text-left}
 ![Emily Cilli-Turner](../../images/headshots/Cilli-Turner-headshot.jpeg){fig-alt="Emily Cilli-Turner" width="100%"}
+
+
+::::
+
+::::{.g-col-1 .text-left}
+![Mary Bridget Kustusch](../../images/headshots/Kustusch-headshot.jpg){fig-alt="Mary Bridget Kustusch" width="100%"}
 ::::
 :::::
 ::::::
@@ -144,14 +192,13 @@ Registration is free for participants from the hosting institution.  Participant
 
 ## Sponsors
 :::::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-2}
-
-
-::::{.g-col-1}
-[![](../../images/foreign-logos/penn-state-shield.jpg){fig-alt="Penn State College of Science" width="20%" .center}](https://science.psu.edu/)
+::::{.g-col-1 .middle}
+![](../../images/foreign-logos/NSF-logo.png){fig-alt="National Science Foundation logo" width="100%" .center}
 
 ::::
-::::{.g-col-1}
-This PEER field school is sponsored by the Penn State College of Science.
-::::
 
+::::{.g-col-1}
+![](../../images/foreign-logos/DePaul-University-ColSciHealth-logo.png){fig-alt="DePaul University College of Science and Health STEM Center" width="100%" .center}
+
+::::
 :::::

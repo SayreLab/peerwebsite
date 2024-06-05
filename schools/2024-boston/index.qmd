@@ -91,10 +91,7 @@ Can't make this one? There are [more](../index.qmd).
 </body>
 ```
 
-
 To build a supportive community, participants must actively engage during all sessions in the field school.  Partial attendance is not permitted.
-
-See more schedule details on the [syllabus](syllabus.qmd)
 
 # Who Should Attend?
  
@@ -135,7 +132,7 @@ PEER promotes peer feedback and community foundation, providing a sense of inclu
 
 
 ::::{.g-col-1 .text-left}
-![Mary Bridget Kustusch](../../images/headshots/Kustusch-headshot.jpg){fig-alt="Mary Bridget Kustusch" width="100%"}
+![Jordan Gerton](../../images/headshots/Gerton-headshot.jpeg){fig-alt="Jordan Gerton" width="100%"}
 ::::
 :::::
 ::::::
