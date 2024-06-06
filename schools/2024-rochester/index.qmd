@@ -46,6 +46,7 @@ PEER enhances the professional growth of participants and changes career traject
 
 Can't make this one? There are [more](../index.qmd).
 
+
 # Schedule Overview
 
 ```{=HTML}
@@ -90,6 +91,7 @@ PEER promotes peer feedback and community foundation, providing a sense of inclu
 
 ### PEER builds academic currency
 
+
 Our support includes guiding participants in writing, a key element of academic research. PEER engagement leads to numerous publications, grant proposals, and successful tenure & promotion portfolios. These publications span several years, suggesting PEER's lasting impact on participants’ professional trajectories.
 
 # Application and Registration
@@ -131,9 +133,16 @@ Thanks to a grant from the NSF, there is no cost for registration. Housing costs
 
 ::: {.g-col-1 .text-left}
 ![Emily Cilli-Turner](../../images/headshots/Cilli-Turner-headshot.jpeg){fig-alt="Emily Cilli-Turner" width="100%"}
-:::
-:::
-:::
+
+
+
+::::
+
+
+:::::
+::::::
+
+
 
 ## Sponsors
 
