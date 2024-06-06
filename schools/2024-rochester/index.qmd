@@ -13,7 +13,6 @@ timing: "upcoming"
 # Settings for template, do not change.
 toc-location: left
 date-format: "MMM D, YYYY"
-
 ---
 
 ## Join PEER for a 7-day, intensive, in-person PEER Field School!
@@ -58,6 +57,7 @@ PEER enhances the professional growth of participants and changes career traject
 [APPLY NOW](https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58){.btn role="button" .btn-primary .rounded-pill}
 
 Can't make this one? There are [more](../index.qmd). 
+
 
 # Schedule Overview
   
@@ -106,7 +106,7 @@ PEER promotes peer feedback and community foundation, providing a sense of inclu
 
 ### PEER builds academic currency
 
- Our support includes guiding participants in writing, a key element of academic research. PEER engagement leads to numerous publications, grant proposals, and successful tenure & promotion portfolios.  These publications span several years, suggesting PEER's lasting impact on participants’ professional trajectories.
+ Our support includes guiding participants in writing, a key element of academic research. PEER engagement leads to numerous publications, grant proposals, and successful tenure & promotion portfolios.  These publications span many years, suggesting PEER's lasting impact on participants’ professional trajectories.
     
 
 
@@ -158,9 +158,7 @@ Thanks to a grant from the NSF, there is no cost for registration. Housing costs
 
 ::::
 
-::::{.g-col-1 .text-left}
-![Mary Bridget Kustusch](../../images/headshots/Kustusch-headshot-1.jpg){fig-alt="Mary Bridget Kustusch" width="100%"}
-::::
+
 :::::
 ::::::
 
