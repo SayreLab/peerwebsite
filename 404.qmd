@@ -19,7 +19,7 @@ page-layout: article
 
 :::{.list .grid .quarto-listing-cols-2}
 
-:::{.g-col-1 .card .card-body .quarto-grid-link}
+:::{.g-col-1 .card .card-highlight .card-body .quarto-grid-link}
 
 ## Go Back to Previous Page
 
@@ -27,7 +27,7 @@ page-layout: article
 
 :::
 
-:::{.g-col-1 .card .card-body .quarto-grid-link}
+:::{.g-col-1 .card .card-highlight .card-body .quarto-grid-link}
 
 ## Go Back to Home Page
 
@@ -35,7 +35,7 @@ page-layout: article
 
 :::
 
-:::{.g-col-2 .card .card-body .quarto-grid-link}
+:::{.g-col-2 .card .card-highlight .card-body .quarto-grid-link}
 
 ## Contact a Facilitator
 
@@ -59,7 +59,7 @@ page-layout: article
 
 :::{.list .grid .quarto-listing-cols-3}
 
-:::{.g-col-1 .card .card-body .quarto-grid-link}
+:::{.g-col-1 .card .card-highlight .card-body .quarto-grid-link}
 
 ## Future Field Schools
 
@@ -67,7 +67,7 @@ page-layout: article
 
 :::
 
-:::{.g-col-1 .card .card-body .quarto-grid-link}
+:::{.g-col-1 .card .card-highlight .card-body .quarto-grid-link}
 
 ## Research Handbook
 
@@ -75,7 +75,7 @@ page-layout: article
 
 :::
 
-:::{.g-col-1 .card .card-body .quarto-grid-link}
+:::{.g-col-1 .card .card-highlight .card-body .quarto-grid-link}
 
 ## Host a Field School
 
@@ -83,7 +83,7 @@ page-layout: article
 
 :::
 
-:::{.g-col-1 .card .card-body .quarto-grid-link}
+:::{.g-col-1 .card .card-highlight .card-body .quarto-grid-link}
 
 ## Join the Mailing List
 

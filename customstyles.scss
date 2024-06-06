@@ -78,7 +78,16 @@ $margin: 1em 0;
   border-left: 5px solid #1e90ff;
 }
 
+.card-highlight {
+  pointer-events: auto;
+  transform: scale(1);
+  transition: all 0.4s;
+}
 
+.card-highlight:hover {
+  opacity: 1;
+  transform: scale(1.02);
+}
   
 
 /*-- scss:mixins --*/

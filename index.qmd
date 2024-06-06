@@ -172,7 +172,7 @@ Wherever you're at, we'll help you take your research to the next level.
 
 ::: {.quarto-listing .quarto-listing-container-grid}
 ::: {.list .grid .quarto-listing-cols-3}
-::: {.g-col-1 .card}
+::: {.g-col-1 .card .card-highlight}
 ::: {.card-body .text-center style="color:var(--bs-body-color)"}
 ![](images/sayrelab.png){fig-alt="Research Handbook" width="50%"}
 
@@ -182,7 +182,7 @@ Wherever you're at, we'll help you take your research to the next level.
 :::
 :::
 
-::: {.g-col-1 .card}
+::: {.g-col-1 .card .card-highlight}
 ::: {.card-body .text-center style="color:var(--bs-body-color)"}
 ![](images/peer.png){fig-alt="Eleanor Sayre" width="50%"}
 
@@ -192,7 +192,7 @@ Wherever you're at, we'll help you take your research to the next level.
 :::
 :::
 
-::: {.g-col-1 .card}
+::: {.g-col-1 .card .card-highlight}
 ::: {.card-body .text-center style="color:var(--bs-body-color)"}
 ![](images/table.png){fig-alt="Eleanor Sayre" width="50%"}
 
