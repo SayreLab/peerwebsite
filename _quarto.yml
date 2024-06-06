@@ -13,7 +13,7 @@ website:
     background: primary
     search: true
     reader-mode: true
-    logo: "/images/peer.png"
+    logo: "/images/peer-oval.png"
 
     right:
       - text: "PEER Model"

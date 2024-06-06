@@ -9,7 +9,7 @@ image: "koln-zus.png"
 date: "4/2/2024"
 dates: "April 2-6, 2024" # textual date range of the field school, for display purposes.
 
-timing: "upcoming"
+timing: "past"
 
 # Settings for template, do not change.
 toc-location: left
