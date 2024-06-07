@@ -39,11 +39,7 @@ website:
 format:
   html:
     toc: false
-    theme: 
-       light: 
-         - yeti
-       dark: 
-         - superhero
+    theme: [yeti, customstyles.scss]
     smooth-scroll: true
     citations-hover: true
     footnotes-hover: true
@@ -52,12 +48,11 @@ format:
       - title-block.html
     appendix-style: none
     enable-cssgrid: true
-    page-layout: article
+    page-layout: full
     grid:
-      body-width: 1000px
+      body-width: 5000px
       gutter-width: 25px
-      margin-width: 90px
-    css: styles.css
+      margin-width: 0px
 
 # Rendering choices
 editor: source
@@ -72,4 +67,3 @@ fig-cap-location: bottom
 reference-location: document #for footnotes, could be margin or document
 citation-location: document #for citations
 footnotes-hover: true # to hover over footnotes
-
