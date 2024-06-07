@@ -13,54 +13,42 @@ timing: "upcoming"
 # Settings for template, do not change.
 toc-location: left
 date-format: "MMM D, YYYY"
-
 ---
 
 ## Join PEER for a 7-day, intensive, in-person PEER Field School!
 
-
 ::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-3 .bg-info}
-
-:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
-
-:::{.bi .bi-geo-alt-fill style="font-size: 70px"}
-
-:::
-Rochester Institute of Technology<br>
-Rochester, NY
+::: {.g-col-1 .card .card-body .text-center .bg-info .border-info}
+::: {.bi .bi-geo-alt-fill style="font-size: 70px"}
 :::
 
-
-:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
-
-:::{.bi .bi-calendar-check-fill style="font-size: 70px"}
-
-:::
-Field school dates<br>
-August 1-7, 2024
+Rochester Institute of Technology<br> Rochester, NY
 :::
 
-:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+::: {.g-col-1 .card .card-body .text-center .bg-info .border-info}
+::: {.bi .bi-calendar-check-fill style="font-size: 70px"}
+:::
 
-:::{.bi .bi-pencil-square style="font-size: 70px"}
+Field school dates<br> August 1-7, 2024
+:::
 
+::: {.g-col-1 .card .card-body .text-center .bg-info .border-info}
+::: {.bi .bi-pencil-square style="font-size: 70px"}
 :::
 
 Rolling applications accepted
 :::
-
-
 :::
 
+PEER enhances the professional growth of participants and changes career trajectories. Our comprehensive professional development covers project design, management, mentoring, communication, and understanding community values. This 'full stack' of activities builds your research abilities. No matter where you are in your education research journey, we'll take you to the next step.
 
-PEER enhances the professional growth of participants and changes career trajectories.  Our comprehensive professional development covers project design, management, mentoring, communication, and understanding community values. This 'full stack' of activities builds your research abilities.  No matter where you are in your education research journey, we'll take you to the next step. 
+[APPLY NOW](https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58){.btn .btn-primary .rounded-pill role="button"}
 
-[APPLY NOW](https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58){.btn role="button" .btn-primary .rounded-pill}
+Can't make this one? There are [more](../index.qmd).
 
-Can't make this one? There are [more](../index.qmd). 
 
 # Schedule Overview
-  
+
 ```{=HTML}
 <body>
   <iframe id="fs-schedule" src="" width="100%" height="600px" frameborder="0"></iframe>
@@ -78,107 +66,96 @@ Can't make this one? There are [more](../index.qmd).
   </script>
 </body>
 ```
-
-
-To build a supportive community, participants must actively engage during all sessions in the field school.  Partial attendance is not permitted.
+To build a supportive community, participants must actively engage during all sessions in the field school. Partial attendance is not permitted.
 
 See more schedule details on the [syllabus](syllabus.qmd)
 
 # Who Should Attend?
- 
+
 PEER targets a broad diversity of experience and interest in discipline-based education research (DBER). The workshop is appropriate for:
 
-* Faculty not currently engaged in DBER but interested in learning about theories and methodologies for possible future research
-* Current DBER researchers looking to build or broaden their network of collaborators and engage in generative discussions about existing and new projects
-* Graduate students or postdoctoral researchers who want to learn more about DBER project management and building a successful research program
-* Faculty at teaching-focused universities interested in using research methodology to improve or assess their teaching and/or publish in Scholarship of Teaching & Learning 
-
+-   Faculty not currently engaged in DBER but interested in learning about theories and methodologies for possible future research
+-   Current DBER researchers looking to build or broaden their network of collaborators and engage in generative discussions about existing and new projects
+-   Graduate students or postdoctoral researchers who want to learn more about DBER project management and building a successful research program
+-   Faculty at teaching-focused universities interested in using research methodology to improve or assess their teaching and/or publish in Scholarship of Teaching & Learning
 
 # What do we do?
 
 ### PEER builds core competencies in education research
 
- PEER enhances the professional growth of participants and changes career trajectories.  Our comprehensive professional development covers project design, management, mentoring, communication, and understanding community values. This 'full stack' of activities enhances research abilities.  We focus on the participants' interests and projects, fostering motivation and improving success chances.  
+PEER enhances the professional growth of participants and changes career trajectories. Our comprehensive professional development covers project design, management, mentoring, communication, and understanding community values. This 'full stack' of activities enhances research abilities. We focus on the participants' interests and projects, fostering motivation and improving success chances.
 
 ### Community Building and Networking
 
-PEER promotes peer feedback and community foundation, providing a sense of inclusion in the DBER field and fostering research identity. The networking opportunities at PEER kickstart collaborations and expand professional networks. PEER supports participants from all STEM disciplines, and we focus on emerging education researchers, whatever their career level.  
+PEER promotes peer feedback and community foundation, providing a sense of inclusion in the DBER field and fostering research identity. The networking opportunities at PEER kickstart collaborations and expand professional networks. PEER supports participants from all STEM disciplines, and we focus on emerging education researchers, whatever their career level.
 
 ### PEER builds academic currency
 
- Our support includes guiding participants in writing, a key element of academic research. PEER engagement leads to numerous publications, grant proposals, and successful tenure & promotion portfolios.  These publications span several years, suggesting PEER's lasting impact on participants’ professional trajectories.
-    
 
+Our support includes guiding participants in writing, a key element of academic research. PEER engagement leads to numerous publications, grant proposals, and successful tenure & promotion portfolios. These publications span several years, suggesting PEER's lasting impact on participants’ professional trajectories.
 
 # Application and Registration
 
 Applications due March 15, 2024; we hope to make notifications by April 1, 2024.
 
-[APPLY NOW](https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58){.btn role="button" .btn-primary .rounded-pill}
+[APPLY NOW](https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58){.btn .btn-primary .rounded-pill role="button"}
 
-It is expected that you will participate for the full field school; partial participation is not allowed.  
+It is expected that you will participate for the full field school; partial participation is not allowed.
 
+-   Registration includes lunch, coffee & snacks, optional breakfast, and a parking pass (if needed).\
+-   We have arranged for housing on the RIT campus (individual rooms in a shared dorm suite) for non-local participants. A small number of scholarships are available to help defray the cost of housing. You will indicate on your application whether you need housing and if you would like to apply for a scholarship.
 
-* Registration includes lunch, coffee & snacks, optional breakfast, and a parking pass (if needed).  
-* We have arranged for housing on the RIT campus (individual rooms in a shared dorm suite) for non-local participants. A small number of scholarships are available to help defray the cost of housing.  You will indicate on your application whether you need housing and if you would like to apply for a scholarship.
-
-
-Thanks to a grant from the NSF, there is no cost for registration. Housing costs at registration (for participants without scholarships who plan to stay on RIT campus) are $450.  
-
+Thanks to a grant from the NSF, there is no cost for registration. Housing costs at registration (for participants without scholarships who plan to stay on RIT campus) are \$450.
 
 ## Facilitators
-:::::: {.quarto-listing .quarto-listing-container-grid}
-::::: {.list .grid .quarto-listing-cols-5}
 
-::::{.g-col-1 .text-left}
+::: {.quarto-listing .quarto-listing-container-grid}
+::: {.list .grid .quarto-listing-cols-5}
+::: {.g-col-1 .text-left}
 ![Mary Bridget Kustusch](../../images/headshots/Kustusch-headshot.jpg){fig-alt="Mary Bridget Kustusch" width="100%"}
-::::
+:::
 
-::::{.g-col-1 .text-left}
+::: {.g-col-1 .text-left}
 ![Scott Franklin](../../images/headshots/Franklin-headshot.jpg){fig-alt="Scott Franklin" width="100%"}
+:::
 
-
-::::
-
-::::{.g-col-1 .text-left}
+::: {.g-col-1 .text-left}
 ![Eleanor Sayre](../../images/headshots/Sayre-headshot.jpg){fig-alt="Eleanor Sayre" width="100%"}
-::::
+:::
 
-::::{.g-col-1 .text-left}
+::: {.g-col-1 .text-left}
 ![Myrtle Jones](../../images/headshots/Jones-headshot.jpeg){fig-alt="Myrtle Jones" width="100%"}
-::::
+:::
 
-::::{.g-col-1 .text-left}
+::: {.g-col-1 .text-left}
 ![Jordan Gerton](../../images/headshots/Gerton-headshot.jpeg){fig-alt="Jordan Gerton" width="100%"}
-::::
+:::
 
-::::{.g-col-1 .text-left}
+::: {.g-col-1 .text-left}
 ![Emily Cilli-Turner](../../images/headshots/Cilli-Turner-headshot.jpeg){fig-alt="Emily Cilli-Turner" width="100%"}
 
 
+
 ::::
 
-::::{.g-col-1 .text-left}
-![Mary Bridget Kustusch](../../images/headshots/Kustusch-headshot-1.jpg){fig-alt="Mary Bridget Kustusch" width="100%"}
-::::
+
 :::::
 ::::::
 
 
+
 ## Sponsors
-::::::::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-3}
 
-::::{.g-col-1}
-![](../../images/foreign-logos/NSF-logo.png){fig-alt="National Science Foundation logo" width="100%" .center}
+::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-3}
+::: g-col-1
+![](../../images/foreign-logos/NSF-logo.png){.center fig-alt="National Science Foundation logo" width="100%"}
+:::
 
-::::
+::: g-col-1
+[![](../../images/foreign-logos/RIT.jpg){.center fig-alt="RIT logo" width="100%"}](https://www.rit.edu/castle/)
+:::
 
-::::{.g-col-1}
-[![](../../images/foreign-logos/RIT.jpg){fig-alt="RIT logo" width="100%" .center}](https://www.rit.edu/castle/)
-
-::::
-
-::::{.g-col-1}
+::: g-col-1
 This PEER field school is funded by the National Science Foundation [BCSER program](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025174&HistoricalAwards=false) (DRL-2025169) and sponsored by Rochester Institute of Technology [CASTLE](https://www.rit.edu/castle/).
-::::
-:::::::
+:::
+:::
