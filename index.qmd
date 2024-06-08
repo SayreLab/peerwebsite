@@ -56,7 +56,7 @@ Check out the [PEER Model](model/) to learn more.
 
 <!-- Getting Started -->
 ::: {.quarto-listing .quarto-listing-container-grid}
-::: {.list .grid .quarto-listing-cols-2 style="background-color:rgb(95,158,160,0.2); padding: 10px 10px 0px 20px; border-radius: 10px;"}
+::: {.list .grid .quarto-listing-cols-2 .bg-primary-dark style="padding: 10px 10px 0px 20px; border-radius: 10px;"}
 ::: {.g-col-1}
 
 ![](images/peer-wide.png){style="width:15rem"}

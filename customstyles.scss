@@ -19,7 +19,32 @@ $border-radius: 8px;
 $padding: 1em;
 $margin: 1em 0;
 
+// New Color Palette
+
+$dark: #000000;
+$light: #FFFFFF;
+
+$primary: #008CBA;
+$primary-dark: #195062;
+
+$secondary: #D4D4D4;
+$secondary-dark: #6A6A6A;
+
+$info: #5CC0DF;
+$info-light: #DEF2F8;
+
+$warning: #EFD576;
+$warning-light: #FFFECE;
+
+$danger: #F04124;
+
+
+
 /*-- scss:rules --*/
+
+.bg-primary-dark {
+  background-color: $primary-dark;
+}
 
 .div {
   padding: 10px 10px 0px 10px;

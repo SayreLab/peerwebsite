@@ -8,7 +8,7 @@ host: "Pennsylvania State University College of Science"
 image: "psu-cos.png"
 date: "5/20/2024"
 dates: "May 20-23, 2024" # textual date range of the field school, for display purposes.
-timing: "upcoming"
+timing: "past"
 
 # Settings for template, do not change.
 toc-location: left
