@@ -1,0 +1,104 @@
+/*-- scss:defaults --*/
+/* Variables for common colors */
+$note-bg: #e7f4fe;
+$note-border: #1e90ff;
+
+$warning-bg: #fff3cd;
+$warning-border: #ffae42;
+
+$important-bg: #ffe7e7;
+$important-border: #ff4c4c;
+
+$tip-bg: #e7ffee;
+$tip-border: #4caf50;
+
+$caution-bg: #fff5e6;
+$caution-border: #ffb400;
+
+$border-radius: 8px;
+$padding: 1em;
+$margin: 1em 0;
+
+/*-- scss:rules --*/
+
+.div {
+  padding: 10px 10px 0px 10px;
+}
+
+/* General callout styles */
+.callout {
+  border-radius: $border-radius;
+  padding: $padding;
+  margin: $margin;
+}
+
+/* Specific callout types */
+.callout-note {
+  @include callout($note-bg, $note-border);
+}
+
+.callout-warning {
+  @include callout($warning-bg, $warning-border);
+}
+
+.callout-important {
+  @include callout($important-bg, $important-border);
+}
+
+.callout-tip {
+  @include callout($tip-bg, $tip-border);
+}
+
+.callout-caution {
+  @include callout($caution-bg, $caution-border);
+}
+
+/* Simple appearance */
+.callout-simple {
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+}
+
+
+/* Remove icons from callouts */
+.callout-icon-false .callout {
+  padding-left: 1em;
+}
+
+/* Rounded corners and shadows */
+.callout-rounded {
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 1.5em;
+}
+
+/* Gradient backgrounds */
+.callout-gradient {
+  background: linear-gradient(to right, #e7f4fe, #d0e9fd);
+  border-left: 5px solid #1e90ff;
+}
+
+.card-highlight {
+  pointer-events: auto;
+  transform: scale(1);
+  transition: all 0.4s;
+}
+
+.card-highlight:hover {
+  opacity: 1;
+  transform: scale(1.02);
+}
+  
+
+/*-- scss:mixins --*/
+/* Mixin for callout styles */
+@mixin callout($bg-color, $border-color) {
+  background-color: $bg-color;
+  border-left: 4px solid $border-color;
+}
+
+/*-- scss:functions --*/
+/* Add any functions here if needed */
+
+/*-- scss:uses --*/
+/* Add any uses here if needed */
