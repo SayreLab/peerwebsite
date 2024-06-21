@@ -29,7 +29,7 @@ Check out the [PEER Model](model/) to learn more.
 :::{.alert .alert-info }
 ###  Summer field schools are accepting applications! {.alert-heading}
 
-Field schools in [San Diego](2024-socal){.alert-link} and [Rochester](2024-rochester){.alert-link} are accepting applications on a rolling basis! [Apply here](https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58){.alert-link}
+The field school [Rochester](2024-rochester){.alert-link} is accepting applications on a rolling basis! [Apply here](https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58){.alert-link}
 
 :::
 
@@ -51,7 +51,7 @@ Wherever you're at, we'll help you take your research to the next level.
 ::: {.list .grid .quarto-listing-cols-3}
 ::: {.g-col-1 .card}
 ::: {.card-body .text-center style="color:var(--bs-body-color)"}
-![](images/sayrelab.png){fig-alt="Research Handbook" width="50%"}
+![](images/handbook.png){fig-alt="Research Handbook" width="50%"}
 
 #### [Research Handbook](https://handbook.zaposa.com){.quarto-grid-link .card-title}
 
@@ -61,7 +61,7 @@ Wherever you're at, we'll help you take your research to the next level.
 
 ::: {.g-col-1 .card}
 ::: {.card-body .text-center style="color:var(--bs-body-color)"}
-![](images/peer.png){fig-alt="Eleanor Sayre" width="50%"}
+![](images/peer.png){fig-alt="PEER logo" width="50%"}
 
 #### [PEER model](model/index.qmd){.quarto-grid-link .card-title}
 
@@ -71,7 +71,7 @@ Wherever you're at, we'll help you take your research to the next level.
 
 ::: {.g-col-1 .card}
 ::: {.card-body .text-center style="color:var(--bs-body-color)"}
-![](images/table.png){fig-alt="Eleanor Sayre" width="50%"}
+![](images/table.png){fig-alt="A table with people sitting around it." width="50%"}
 
 #### [Field Schools](schools/index.qmd){.quarto-grid-link .card-title}
 
