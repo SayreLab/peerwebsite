@@ -15,7 +15,7 @@ suppress: true
 “I got great feedback on my Generative Presentation and I love having generative writing and generative presentations in my toolkit.”
 :::
 
-Generative Presentations (GPs) are an opportunity to give a focused presentation on your project and communicate what feedback you are looking to receive. Audience members play a critical role in generative presentations by playing "yes, and" with the presenter. These formative conversations can generate new ideas on how to advance the research, lead to new directions to take the research, connect the research to other projects, and so much more! Both the presenter and audience get to learn more about desigining research projects and connecting resources. They’re immensely powerful for both presenters and audience members. Interested in doing a generative presentation
+Generative Presentations (GPs) are an opportunity to give a focused presentation on your project and communicate what feedback you are looking to receive. Audience members play a critical role in generative presentations by playing "yes, and" with the presenter. These formative conversations can generate new ideas on how to advance the research, lead to new directions to take the research, connect the research to other projects, and so much more! Both the presenter and audience get to learn more about designing research projects and connecting resources. They’re immensely powerful for both presenters and audience members. Interested in doing a generative presentation
 
 Are you giving a generative presentation or interested in learning more? Read about the GP Guidelines [here](gen-pres-guidelines.qmd).
 
