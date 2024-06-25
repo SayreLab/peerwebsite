@@ -1,0 +1,103 @@
+---
+# Results of PEER field schools
+title: "Generative Presentations"
+subtitle: "Get Focused Feedback to help you advance your project"
+
+sidebar: false
+title-block-banner: "images/field-school-photos/group-learning.jpg"
+page-layout: article
+toc: false
+suppress: true
+---
+
+## A hallmark of PEER
+::: {style="font-size: 125%; color: gray;"}
+“I got great feedback on my Generative Presentation and I love having generative writing and generative presentations in my toolkit.”
+:::
+
+Generative Presentations (GPs) are an opportunity to give a focused presentation on your project and communicate what feedback you are looking to receive. Audience members play a critical role in generative presentations by playing "yes, and" with the presenter. These formative conversations can generate new ideas on how to advance the research, lead to new directions to take the research, connect the research to other projects, and so much more! Both the presenter and audience get to learn more about desigining research projects and connecting resources. They’re immensely powerful for both presenters and audience members. Interested in doing a generative presentation
+
+
+## Generative Presentations are...
+
+::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-4 .bg-info}
+
+:::{.g-col-1 .card .card-body .text-left .bg-info .border-info}
+
+:::{.bi .bi-search style="font-size: 70px"}
+
+:::
+::: {style="font-size: 150%;"}
+**Focused**
+:::
+* Give a short "elevator pitch" on your project
+* Choose what feedback you want to receive
+* Play "yes, and"
+:::
+
+:::{.g-col-1 .card .card-body .text-left .bg-info .border-info}
+
+:::{.bi .bi-chat-square-dots-fill  style="font-size: 70px"}
+
+:::
+
+::: {style="font-size: 150%;"}
+**Generative**
+:::
+* Discussion generates new ideas for the presenter
+* Presentations generate new ideas for the audience
+:::
+
+:::{.g-col-1 .card .card-body .text-left .bg-info .border-info}
+
+:::{.bi .bi-people-fill style="font-size: 70px"}
+
+:::
+
+::: {style="font-size: 150%;"}
+**Collaborative**
+:::
+* Share ideas, resources, and excitement
+* Find potential future collaborators
+::: 
+
+:::{.g-col-1 .card .card-body .text-left .bg-info .border-info}
+
+:::{.bi .bi-gear-fill style="font-size: 70px"}
+
+:::
+
+::: {style="font-size: 150%;"}
+**Skill-building**
+:::
+* Grow self-efficacy in feedback and research
+* Practice giving & receiving formative feedback
+
+:::
+:::
+
+## What Participants have to say
+
+::: {style="font-size: 125%; color: gray;"}
+"The small group Generative Presentations were the best part of the experience. Even though I wasn't a presenter, I still was able to learn and build connections with others, even on different research interests."
+:::
+
+::: {style="font-size: 125%; color: gray;"}
+"I liked how the generative presentations created community."
+:::
+
+::: {style="font-size: 125%; color: gray;"}
+"[I was excited about] doing the generative presentation to get specific feedback on the part that has stumped me the most with a project."
+:::
+
+::: {style="font-size: 125%; color: gray;"}
+"I got valuable feedback on my project. It has motivated me to pursue if more seriously."
+:::
+
+::: {style="font-size: 125%; color: gray;"}
+"I liked how the generative presentations created community."
+:::
+
+::: {style="font-size: 125%; color: gray;"}
+"I really liked how the generative presentations allowed the whole group to participate."
+:::
