@@ -32,6 +32,7 @@ $secondary-dark: #6A6A6A;
 
 $info: #5CC0DF;
 $info-light: #DEF2F8;
+$info-lighter: #def2f8ab;
 
 $warning: #EFD576;
 $warning-light: #FFFECE;
@@ -42,8 +43,50 @@ $danger: #F04124;
 
 /*-- scss:rules --*/
 
-.bg-primary-dark {
-  background-color: $primary-dark;
+.bg {
+  &-primary-dark {
+    background-color: $primary-dark;
+  }
+  &-secondary-dark {
+    background-color: $secondary-dark;
+  }
+  &-info-light {
+    background-color: $info-light;
+  }
+  &-warning-light {
+    background-color: $warning-light;
+  }
+  &-info-gradient {
+    background: linear-gradient(to bottom right, $info-light, $info);
+  }
+  &-info-light-gradient {
+    background: linear-gradient(to bottom right, $info-lighter 0%, $info-light 99%);
+  }
+  &-warning-gradient {
+    background: linear-gradient(to bottom right, $warning-light, $warning);
+  }
+}
+
+.full-width {
+  width: 100vw; /* Full viewport width */
+  position: relative; /* Ensure it respects the document flow */
+  left: 0%; /* Start from the center */
+  right: 0%; /* End at the center */
+  margin-left: 0vw; /* Move it to the left by half viewport width */
+  margin-right: 0vw; /* Move it to the right by half viewport width */
+  box-sizing: border-box; /* Include padding and border in width */
+}
+
+img.rounded {
+  border-radius: 10px;
+}
+
+.quarto-title-block {
+  display: none;
+}
+
+.quarto-title > h1.title {
+  opacity: 0 !important;
 }
 
 .div {

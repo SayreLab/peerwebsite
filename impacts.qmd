@@ -1,20 +1,39 @@
 ---
 # Results of PEER field schools
-title: "PEER results"
+title: "PEER Impacts"
 subtitle: "PEER supports participants on their education research journeys"
 
 sidebar: false
-title-block-banner: "images/rainbow.jpg"
 page-layout: article
 toc: false
 suppress: true
 ---
+
+<!-- Welcome to PEER! -->
+::: {.quarto-listing .quarto-listing-container-grid }
+::: {.list .grid .quarto-listing-cols-2 .bg-info-light style="border-radius:10px;"}
+::: {.g-col-1 style="padding-left:10px;"}
+
+# PEER Impacts and Results
+
+:::
+
+::: {.g-col-1 style="padding-right:10px;"}
 
 ## PEER is effective.
 
 Since 2016, PEER has provided professional development in STEM Education Research to hundreds of classically-trained STEM faculty from a wide variety of STEM disciplines.
 
 At PEER, we believe research is responsive, playful, communicative, and collaborative. Our field schools foster a dynamic and adaptable learning environment. Researchers at PEER play with ideas and data, building robust education research skills as they push their projects forward.
+
+:::
+
+:::
+
+:::
+
+
+## Participants love PEER.
 
 ```{=HTML}
 
@@ -42,7 +61,6 @@ At PEER, we believe research is responsive, playful, communicative, and collabor
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Responsive Carousel</title>
-    <link rel="stylesheet" href="styles.css">
 
     <style>
         @media only screen and (min-width: 1201px) {
@@ -91,12 +109,15 @@ At PEER, we believe research is responsive, playful, communicative, and collabor
 
 
 ```
+:::{.bg-info-light style="padding:10px; border-radius:10px;"}
 
 ## PEER participants come from everywhere.
 
 PEER participants are remarkably equitable across gender, racial, geographic and disciplinary boundaries.  The experience is particularly attractive to participants from emerging research institutions, predominately undergraduate institutions and other historically underserved institutions.  
 
+:::{.text-center}
 ![Self-reported Hometowns of PEER Participants](images/peer-participant-field-school-map.png)
+:::
 
 
 ## PEER changes career trajectories.
@@ -105,12 +126,33 @@ PEER is responsive to both participants’ needs for professional development as
 
 PEER participants publish dozens of peer-reviewed publications, submit multiple grant proposals, and go up for tenure (successfully!), all growing from their projects and engagement with the PEER community. As one participant said, “I learned that I can do educational research within my context as a mathematics faculty — not only that it is theoretically possible, but that a once daunting possibility now seems more than accessible to me.”
 
+::: {.list .grid .quarto-listing-cols-2 .bg-info-light}
+::: {.g-col-1}
+
 ### It's about your project.
 
 PEER prioritizes the centrality of participants’ own projects and interests; [[52](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/developmental-models-of-faculty-careers-a-critique.pdf?c=tia;idno=17063888.0006.005;format=pdf), [53](https://www.jstor.org/stable/3446263)]. as one participant stated, “[PEER helped identify] how do you go about transforming something you might be curious about into something that’s a viable research project?” Centering participants’ own projects builds on their interests and expertise in their local contexts, increasing motivation [[54](https://psycnet.apa.org/record/2000-13324-007)] and likelihood of success [[33](https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.16.020105)]. 
 
 Education research professional practice encompasses more than simply theories and methods. Faculty must develop expertise in project design and management, mentoring, communication, and cultural knowledge about community values and practices. Robust professional development must attend to this “full stack” of activities, both individually and as an integrated whole, tying everything together to build emerging researchers’ capabilities.
 
+:::
+
+::: {.g-col-1 .text-center style="margin-left:40px;margin-right:40px;"}
+
+!["I am excited about doing research again. This program has reminded me why I want to do research."](images/action-shots/action1.png){.rounded .font-weight-bold}
+
+:::
+:::
+
+::: {.list .grid .quarto-listing-cols-2 .bg-info-light}
+
+::: {.g-col-1 .text-center style="margin-left:40px;margin-right:40px;"}
+
+!["My community has grown BY A LOT since being at PEER. There are so many helpful people within my discipline and outside!"](images/action-shots/action2.png){.rounded .font-weight-bold}
+
+:::
+
+::: {.g-col-1}
 
 ### Work in community and grow your network.
 
@@ -120,7 +162,12 @@ High quality STEM education research is not a solo effort, and many emerging DBE
 
 The networking opportunities at PEER nucleate new collaborations, even years after participants join a field school.  Another participant highlighted how the experience not only developed skills but also built their professional network: “This experience was incredibly valuable not only in helping me consider next steps for my research, but also connecting me to some amazing humans who are now part of my professional network.”
 
+:::
 
+:::
+:::
+
+&nbsp;  
 
 ## PEER makes publications happen.
 
