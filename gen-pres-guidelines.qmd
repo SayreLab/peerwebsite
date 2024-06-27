@@ -1,0 +1,105 @@
+---
+# Results of PEER field schools
+title: "Generative Presentation Guidelines"
+subtitle: "Logistics and Best Practices"
+
+sidebar: false
+title-block-banner: "images/field-school-photos/group-learning.jpg"
+page-layout: article
+toc: false
+suppress: true
+---
+
+## GP Logistics
+
+Each GP is 20 minutes, including feedback. The presenter will orient the audience to one project and detail the character of feedback they would like to receive. After some time for clarifying questions, the audience will have a free-flowing conversation centered on the project and the feedback the presenter is looking for. During this time, there is a dedicated scribe who takes notes to share with the presenter after the GP. 
+
+Each GP follows the same general structure. The presenter, audience, and scribe all play critical roles in this process! 
+
+* **Presenter**: Orient us to your research (2-3 slides)
+  + You will present on your one project for 5 minutes (this is a strict limit to ensure enough     time for discussion).
+  + Start with the character of feedback you are looking for from the audience.
+    - Do you want suggestions for methods? Analysis? 
+    - Are you looking for ideas on related research?
+    - Do you need ideas to narrow or broaden the scope of your work? 
+    - Are you trying to identify a hook for your research? 
+  + Provide just enough information to orient the audience to your project so that they can provide the feedback you are seeking
+  + Don't worry about not giving enough information. After your 5 minute presentation, there is 5 minutes for the audience to ask clarifying questions. 
+  + After 10 minutes, you will shift from presenting to answering questions and listening to suggestions from the audience and asking questions of the audience to guide discussion. 
+
+* **Audience**: Play "yes, and" with the presenter's project
+  + This is not a critique --- "yes, and" is a positive, pro-social choice
+  + Some ways you can frame your "yes, and" feedback include: 
+    - "It would be really cool if..."
+    - "I wonder if..."
+    - "This part and that part seem disconnected, can you help me connect them?"
+    - "I see this relating to..."
+    - "You could try..."
+  + Try to focus your questions on getting more information so that you can provide the kind of feedback the presenter requested
+
+* **Scribe**: Take notes for the presenter
+  + Focus notes primarily on contributions from the audience
+  + Make notes of clarifying questions, suggestions, things to follow up on, resources suggest, etc. 
+  + Make sure notes are taken in a format easily shared with the presenter
+
+
+## Preparing for presentations: Presenter
+
+### Start with an Ask: Be explicit about what feedback you are seeking
+
+Different projects are at different stages. Being explicit about the kinds of feedback you're looking for helps the audience focus their attention and conversation to the things that will be most helpful in moving you forward. 
+
+There are many possible forms of feedback you could want. Some common ones are:
+
+* Is this feasible in the time I have or with the resources I have? 
+* What literature (or keywords) should I be looking at for related work?
+* Are there any elements of my project which seem superfluous or extra? 
+* Can you help me align my research interests with my research design better? 
+
+### Elevator Pitch: Orient us to your project
+
+You will have 5 minutes to share about the kinds of feedback you are looking for and to orient the audeince to your project. This means there 1-2 minutes of this will be spent outlining the feedback you are seeking and the rest will be about your project. **Your elevator pitch shouldn't take more than 2-3 minutes and you should strive for a 2-slide limit to support the pitch.** It's a good practice to end with a reminder of the feedback you are looking for. 
+
+Don't feel the need to include every detail about your project, just share the most important ones to orient the audience. Think of this elevator pitch as a conversation starter. The audience will ask questions to get the information they need to provide you feedback. Keep your responses to questions as concise as possible and provide only the information they asked for. 
+
+Include contact information (name, institution, email address) at the end of your GP so that anyone who did not get to share their thoughts with you can contact you later. 
+
+## Preparing for presentations: Scribe
+
+During the presentation, the scribe takes notes on what the group talks about so that the audience and presenter can focus on thinking and communicating. After the GP, the notes will be shared with the presenter so they can move forward with the awesome ideas the group generated. Taking notes can make it difficult to speak during discussion, so if you're feeling a little quiet this role can allow you to still contribute to the GP process. Notably, women are disproportionately asked to take notes, even though they do not enjoy it more than men do. If you identify as a man, this is a great opportunity to practice allyship while building your note-taking skills and contributing to a space that breaks down traditional gender roles. 
+
+### Template for notes
+
+It may be helpful to structure your notes as follows: 
+
+**Audience Idea:** [Put idea posed by an audience member here]
+
+* Track the follow-up discussion resulting from the idea here
+* and here
+* and here
+
+**Audience Question:** [Put a question posed by an audience member here]
+
+* Track the follow-up discussion resulting from this question here
+* and here
+* and here
+
+**Presenter Question:** [Put a question posed by the presenter here]
+
+* Track the follow-up discussion resulting from this question here
+* and here
+* and here
+
+## During the Presentation
+
+The presenter will give their elevator pitch, answer clarfying questions, and actively listen during "yes, and" with the audience. The facilitator will keep track of the timing and signal when it is time to move on from elevator pitch to clarifying questions to "yes, and". Audience members will drive the "yes, and" conversation. The scribe will take notes on the conversation that flows from the presentation.
+
+The generative feedback about the project is immensely valuable to the presenter. Participating in these discussions also helps audience members recognize their own expertise, see the expertise of their peers, and grow their expertise.
+
+As a member of the audience, please resist the temptation to dominate the conversation
+with lots of followup questions and detailed suggestions; rather try to offer concise
+suggestions and make space for others to offer their ideas. If you have lots of additional
+ideas you want to share with the speaker, make a note to connect with them after the
+presentation. 
+
+Audience members are strongly encouraged to have more discussions with the presenter about their project. Use this as an opportunity to build community! 
