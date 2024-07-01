@@ -1,0 +1,71 @@
+---
+# Results of PEER field schools
+title: "PEER Convening Meeting"
+subtitle: "Re-energize and Reconnect"
+
+sidebar: false
+title-block-banner: "images/rainbow.jpg"
+page-layout: article
+toc: false
+suppress: true
+---
+
+## Welcome back to PEER!
+Hundreds of people throughout the world have participated in PEER since its beginning in 2014. Are you ready to recharge your PEER energy?  The PEER Convening is a time to reflect, (re)connect, and re-energize. Check back here on September 1st when registration opens for this virtual event.
+
+
+::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-3 .bg-info}
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+:::{.bi .bi-calendar-heart style="font-size: 70px"}
+
+:::
+::: {style="font-size: 150%;"}
+November 21, 2024
+
+2-4 eastern time
+:::
+
+:::
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+:::{.bi .bi-pin-angle style="font-size: 70px"}
+
+:::
+
+::: {style="font-size: 150%;"}
+Registration opens September 1.
+:::
+
+:::
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+
+:::{.bi .bi-person-lock style="font-size: 70px"}
+
+:::
+
+::: {style="font-size: 150%;"}
+Returning PEER participants only.
+:::
+
+:::
+
+:::
+
+Join us November 21st from 2-4 PM EST on Zoom for check-ins with past PEER participants, updates from the PEER Directors, and community building with a large network of education researchers. This event is open to former PEER participants only.
+
+## Tentative Agenda
+
+(these details could change -- check back here before you register for more information!)
+
+* Welcome back to PEER
+* Elevator pitches with the PEER community
+* [Generative Presentations](/model/generative-presentations) (in breakout rooms)
+* Planning your project: the next six months
+* Chill with the PEER community
+
+Excited about doing a [generative presentation](/model/generative-presentations) (previously called riffs, generative riffs, etc.)? You will be able to apply for a generative presentations slot in the registration form. 
+
