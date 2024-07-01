@@ -68,7 +68,6 @@ Can't make this one? There are [more](../index.qmd).
 ```
 To build a supportive community, participants must actively engage during all sessions in the field school. Partial attendance is not permitted.
 
-See more schedule details on the [syllabus](syllabus.qmd)
 
 # Who Should Attend?
 
@@ -96,7 +95,7 @@ Our support includes guiding participants in writing, a key element of academic 
 
 # Application and Registration
 
-Applications due March 15, 2024; we hope to make notifications by April 1, 2024.
+Applications reviewed on a rolling basis.
 
 [APPLY NOW](https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58){.btn .btn-primary .rounded-pill role="button"}
 
@@ -128,12 +127,16 @@ Thanks to a grant from the NSF, there is no cost for registration. Housing costs
 :::
 
 ::: {.g-col-1 .text-left}
-![Jordan Gerton](../../images/headshots/Gerton-headshot.jpeg){fig-alt="Jordan Gerton" width="100%"}
+![Erin Scott-Stewart](../../images/headshots/Scott-Stewart-headshot.jpg){fig-alt="Erin Scott-Stewart" width="100%"}
 :::
 
 ::: {.g-col-1 .text-left}
-![Emily Cilli-Turner](../../images/headshots/Cilli-Turner-headshot.jpeg){fig-alt="Emily Cilli-Turner" width="100%"}
+![Christian Solorio](../../images/headshots/Solorio-headshot.jpg){fig-alt="Christian Solorio" width="100%"}
 
+:::
+
+::: {.g-col-1 .text-left}
+![Melinda Lanius](../../images/headshots/Lanius-headshot.jpg){fig-alt="Melinda Lanius" width="100%"}
 
 
 ::::
