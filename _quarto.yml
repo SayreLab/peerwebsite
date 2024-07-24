@@ -19,7 +19,7 @@ website:
       - text: "PEER Model"
         href: model/index.qmd
       - text: "PEER Impacts"
-        href: impacts.qmd
+        href: impacts/index.qmd
       - text: "Field Schools"
         href: schools/index.qmd
       - contact.qmd
