@@ -221,7 +221,7 @@ Since participating in PEER, many participants have gone on to publish peer-revi
 ## Resources
 
 ::: {.quarto-listing .quarto-listing-container-grid}
-::: {.list .grid .quarto-listing-cols-3}
+::: {.list .grid .quarto-listing-cols-3 style="margin-bottom:10px;"}
 ::: {.g-col-1 .card .card-highlight}
 ::: {.card-body .text-center style="color:var(--bs-body-color)"}
 ![](images/sayrelab.png){fig-alt="Research Handbook" width="50%"}

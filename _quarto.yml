@@ -51,7 +51,7 @@ format:
     page-layout: full
     grid:
       body-width: 5000px
-      gutter-width: 25px
+      gutter-width: 0px
       margin-width: 0px
 
 # Rendering choices

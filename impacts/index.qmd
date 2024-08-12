@@ -10,8 +10,8 @@ suppress: true
 ---
 
 <!-- Welcome to PEER! -->
-::: {.quarto-listing .quarto-listing-container-grid }
-::: {.list .grid .quarto-listing-cols-2 .bg-info-light style="border-radius:10px;"}
+::: {.column-screen .quarto-listing .quarto-listing-container-grid }
+::: {.list .grid .quarto-listing-cols-2 .bg-info-light}
 ::: {.g-col-1 style="padding-left:10px;"}
 
 # PEER Impacts and Results
@@ -39,21 +39,21 @@ At PEER, we believe research is responsive, playful, communicative, and collabor
 
 <!-- Needed to render the images, else avatars break -->
 
-<img src="./images/avatars/avatar01.png" hidden>
-<img src="./images/avatars/avatar02.png" hidden>
-<img src="./images/avatars/avatar03.png" hidden>
-<img src="./images/avatars/avatar04.png" hidden>
-<img src="./images/avatars/avatar05.png" hidden>
-<img src="./images/avatars/avatar06.png" hidden>
-<img src="./images/avatars/avatar07.png" hidden>
-<img src="./images/avatars/avatar08.png" hidden>
-<img src="./images/avatars/avatar09.png" hidden>
-<img src="./images/avatars/avatar10.png" hidden>
-<img src="./images/avatars/avatar11.png" hidden>
-<img src="./images/avatars/avatar12.png" hidden>
-<img src="./images/avatars/avatar13.png" hidden>
-<img src="./images/avatars/avatar14.png" hidden>
-<img src="./images/avatars/avatar15.png" hidden>
+<img src="../images/avatars/avatar01.png" hidden>
+<img src="../images/avatars/avatar02.png" hidden>
+<img src="../images/avatars/avatar03.png" hidden>
+<img src="../images/avatars/avatar04.png" hidden>
+<img src="../images/avatars/avatar05.png" hidden>
+<img src="../images/avatars/avatar06.png" hidden>
+<img src="../images/avatars/avatar07.png" hidden>
+<img src="../images/avatars/avatar08.png" hidden>
+<img src="../images/avatars/avatar09.png" hidden>
+<img src="../images/avatars/avatar10.png" hidden>
+<img src="../images/avatars/avatar11.png" hidden>
+<img src="../images/avatars/avatar12.png" hidden>
+<img src="../images/avatars/avatar13.png" hidden>
+<img src="../images/avatars/avatar14.png" hidden>
+<img src="../images/avatars/avatar15.png" hidden>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -89,17 +89,17 @@ At PEER, we believe research is responsive, playful, communicative, and collabor
             var screenWidth = window.innerWidth;
 
             if (screenWidth >= 1201) {
-            iframe.src = 'testimonial-carousel-wide.html';
+            iframe.src = '../testimonial-carousel-wide.html';
             } else {
-            iframe.src = 'testimonial-carousel-mobile.html';
+            iframe.src = '../testimonial-carousel-mobile.html';
             }
             console.log(iframe.src)
         };
         </script>
 
-        <iframe id="mobileCarouselLoader" frameborder="0" scrolling="no" src="testimonial-carousel-mobile.html" hidden></iframe>
+        <iframe id="mobileCarouselLoader" frameborder="0" scrolling="no" src="../testimonial-carousel-mobile.html" hidden></iframe>
 
-        <iframe id="wideCarouselLoader" frameborder="0" scrolling="no" src="testimonial-carousel-wide.html" hidden></iframe>
+        <iframe id="wideCarouselLoader" frameborder="0" scrolling="no" src="../testimonial-carousel-wide.html" hidden></iframe>
 
         
         <iframe id="carouselFrame" frameborder="0" scrolling="no"></iframe>
@@ -109,14 +109,14 @@ At PEER, we believe research is responsive, playful, communicative, and collabor
 
 
 ```
-:::{.bg-info-light style="padding:10px; border-radius:10px;"}
+:::{.column-screen .bg-info-light}
 
 ## PEER participants come from everywhere.
 
 PEER participants are remarkably equitable across gender, racial, geographic and disciplinary boundaries.  The experience is particularly attractive to participants from emerging research institutions, predominately undergraduate institutions and other historically underserved institutions.  
 
 :::{.text-center}
-![Self-reported Hometowns of PEER Participants](images/peer-participant-field-school-map.png)
+![Self-reported Hometowns of PEER Participants](../images/peer-participant-field-school-map.png)
 :::
 
 
@@ -139,7 +139,7 @@ Education research professional practice encompasses more than simply theories a
 
 ::: {.g-col-1 .text-center style="margin-left:40px;margin-right:40px;"}
 
-!["I am excited about doing research again. This program has reminded me why I want to do research."](images/action-shots/action1.png){.rounded .font-weight-bold}
+!["I am excited about doing research again. This program has reminded me why I want to do research."](../images/action-shots/action1.png){.rounded .font-weight-bold}
 
 :::
 :::
@@ -148,7 +148,7 @@ Education research professional practice encompasses more than simply theories a
 
 ::: {.g-col-1 .text-center style="margin-left:40px;margin-right:40px;"}
 
-!["My community has grown BY A LOT since being at PEER. There are so many helpful people within my discipline and outside!"](images/action-shots/action2.png){.rounded .font-weight-bold}
+!["My community has grown BY A LOT since being at PEER. There are so many helpful people within my discipline and outside!"](../images/action-shots/action2.png){.rounded .font-weight-bold}
 
 :::
 

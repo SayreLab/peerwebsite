@@ -43,6 +43,10 @@ $danger: #F04124;
 
 /*-- scss:rules --*/
 
+#quarto-document-content {
+  margin-top: 0px;
+  padding-top: 0px;
+}
 .bg {
   &-primary-dark {
     background-color: $primary-dark;

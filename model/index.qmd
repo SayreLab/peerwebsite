@@ -12,8 +12,8 @@ suppress: true
 {{< include /_prefix.qmd >}}
 
 <!-- Welcome to PEER! -->
-::: {.quarto-listing .quarto-listing-container-grid }
-::: {.list .grid .quarto-listing-cols-2 .bg-info-light style="border-radius:10px;"}
+::: {.column-screen .quarto-listing .quarto-listing-container-grid }
+::: {.list .grid .quarto-listing-cols-2 .bg-info-light}
 ::: {.g-col-1 style="padding-left:10px;"}
 
 # The PEER Model
@@ -36,72 +36,7 @@ PEER will boost your education research skills and push your project forward!
 <!-- END -->
 
 
-:::{.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-2 .bg-info style="border-radius:10px;padding-left:10px;"}
-
-:::{.g-col-1}
-
-# PEER Principles
-
-At PEER, you will learn fundamental and applied research skills in a supportive and participatory research environment. We believe research is: 
-
-:::
-
-:::{.g-col-1}
-
-:::{.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-2}
-
-:::{.g-col-1 .card .card-body .text-center .bg-info .border-0}
-
-:::{.bi .bi-arrow-repeat style="font-size: 70px"}
-
-:::
-::: {style="font-size: 150%;"}
-**Responsive**
-:::
-Field schools respond to participant needs
-:::
-
-:::{.g-col-1 .card .card-body .text-center .bg-info .border-0}
-
-:::{.bi .bi-balloon-fill  style="font-size: 70px"}
-
-:::
-
-::: {style="font-size: 150%;"}
-**Playful**
-:::
-Researchers play with ideas and data to generate new knowledge
-:::
-
-:::{.g-col-1 .card .card-body .text-center .bg-info .border-0}
-
-:::{.bi .bi-envelope-paper-fill style="font-size: 70px"}
-
-:::
-
-::: {style="font-size: 150%;"}
-**Communicative**
-:::
-Writing and presenting are core parts of research
-::: 
-
-:::{.g-col-1 .card .card-body .text-center .bg-info .border-0}
-
-:::{.bi .bi-person-plus-fill style="font-size: 70px"}
-
-:::
-
-::: {style="font-size: 150%;"}
-**Collaborative**
-:::
-People do research together, in communities
-
-:::
-:::
-:::
-:::
-
-:::{.bg-info style="border-radius:10px;padding:10px;padding-top:20px;margin-top:20px;"}
+:::{.column-screen .bg-info style=";padding:10px;padding-top:20px;"}
 
 ## We believe research is:
 
@@ -158,8 +93,8 @@ People do research together, in communities
 :::
 :::
 
-::: {.quarto-listing .quarto-listing-container-grid }
-::: {.list .grid .quarto-listing-cols-2 style="border-radius:10px; margin-top: 20px;height:500px;"}
+::: {.column-screen .quarto-listing .quarto-listing-container-grid }
+::: {.list .grid .quarto-listing-cols-2 style="margin-top: 20px;height:500px;"}
 ::: {.g-col-1 style="padding-left:10px;"}
 
 
@@ -177,7 +112,7 @@ PEER participants come from a wide range of science backgrounds and professions.
 
 :::
 
-::: {.g-col-1 .text-center style="margin-left:40px;margin-right:40px;background-image:url(../images/action-shots/facilitator_explaining.png);background-repeat:no-repeat;background-size: cover;position: relative;"}
+::: {.g-col-1 .text-center style="margin-left:40px;margin-right:40px;background-image:url(facilitator_explaining.png);background-repeat:no-repeat;background-size: cover;position: relative;"}
 
 :::{style="position:absolute;bottom:0;color:white;background: rgba(0, 0, 0, 0.5);"}
 
@@ -191,8 +126,8 @@ PEER participants come from a wide range of science backgrounds and professions.
 
 :::
 
-::: {.quarto-listing .quarto-listing-container-grid }
-::: {.list .grid .quarto-listing-cols-2 .bg-info-light style="border-radius:10px;padding:10px;padding-top:20px;margin-top:20px;"}
+::: {.column-screen .quarto-listing .quarto-listing-container-grid }
+::: {.list .grid .quarto-listing-cols-2 .bg-info-light style="padding:10px;padding-top:20px;margin-top:20px;"}
 ::: {.g-col-1}
 
 ## Is PEER for you?
@@ -211,7 +146,7 @@ Our collaborators and hosts at the University of Cologne made a promotional vide
 
 :::
 
-:::{.bg-info style="border-radius:10px;padding:10px;"}
+:::{.column-screen .bg-info style="padding:10px;"}
 
 ## What does PEER look like?
 
@@ -256,9 +191,9 @@ Encapsulating your project, developing an elevator pitch, reading research liter
 
 &nbsp;  
 
-::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-2 style="height:500px;"}
-
-:::{.g-col-1}
+::: {.column-screen .quarto-listing .quarto-listing-container-grid }
+::: {.list .grid .quarto-listing-cols-2 style="margin-top: 20px;height:500px;"}
+::: {.g-col-1 style="padding-left:10px;"}
 
 ## Does PEER sound like a lot?
 
@@ -266,7 +201,8 @@ It is.  PEER field schools are intense, experiential, and supportive. You don't 
 
 :::
 
-::: {.g-col-1 .text-center style="margin-left:40px;margin-right:40px;background-image:url(../images/action-shots/facilitator_explaining.png);background-repeat:no-repeat;background-size: cover;position: relative;"}
+
+::: {.g-col-1 .text-center style="margin-left:40px;margin-right:40px;background-image:url(facilitator_explaining.png);background-repeat:no-repeat;background-size: cover;position: relative;"}
 
 :::{style="position:absolute;bottom:0;color:white;background: rgba(0, 0, 0, 0.5);"}
 
@@ -275,6 +211,13 @@ It is.  PEER field schools are intense, experiential, and supportive. You don't 
 :::
 
 :::
+
 :::
 
+:::
+
+::: {.column-screen style="margin:10px;"}
+
 `r invitation.cards(c("announcements", "upcoming"))`
+
+:::
