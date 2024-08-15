@@ -202,11 +202,11 @@ It is.  PEER field schools are intense, experiential, and supportive. You don't 
 :::
 
 
-::: {.g-col-1 .text-center style="margin-left:40px;margin-right:40px;background-image:url(facilitator_explaining.png);background-repeat:no-repeat;background-size: cover;position: relative;"}
+::: {.g-col-1 .text-center style="margin-left:40px;margin-right:40px;background-image:url(chatty-group-1.png);background-repeat:no-repeat;background-size: cover;position: relative;"}
 
 :::{style="position:absolute;bottom:0;color:white;background: rgba(0, 0, 0, 0.5);"}
 
-"I cannot overstate how much I appreciated the focus on the real applications. The theory of research is important, but the focus on doing was truly empowering."
+"My community has grown BY A LOT since being at PEER. There are so many helpful people within my discipline and outside!"
 
 :::
 
@@ -224,3 +224,5 @@ It is.  PEER field schools are intense, experiential, and supportive. You don't 
 
 <!-- Image loader, keep this -->
 ![](facilitator_explaining.png){.d-none}
+![](chatty-group-1.png){.d-none}
+
