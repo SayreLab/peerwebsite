@@ -4,7 +4,7 @@ description: "Looking for a small taste of PEER? Join the virtual gateway worksh
 leadname: "Eleanor Sayre"
 location: "Virtual on zoom"
 host: "PEER Institute"
-image: "/images/peer.png"
+image: "/images/peer-wide.png"
 timing: "workshop"
 
 # Change this each time

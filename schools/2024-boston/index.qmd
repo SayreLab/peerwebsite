@@ -81,6 +81,18 @@ Can't make this one? There are [more](../index.qmd).
     // Define the school name variable
     // THIS MUST BE THE SAME AS THE GOOGLE SHEETS PAGE NAME
     var schoolName = "Boston 2024"; // Change this to the desired school name
+<<<<<<< HEAD
+=======
+
+    // Encode the school name to make it URL-safe
+    var encodedSchoolName = encodeURIComponent(schoolName);
+
+    // Set the src of the iframe with the dynamically generated school name
+    document.querySelector("#fs-schedule").src = "../../updated-schedule-pull.html?school=" + encodedSchoolName;
+  </script>
+</body>
+```
+>>>>>>> hr/feature/custom-callouts
 
     // Encode the school name to make it URL-safe
     var encodedSchoolName = encodeURIComponent(schoolName);

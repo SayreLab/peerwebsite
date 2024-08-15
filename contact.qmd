@@ -1,14 +1,11 @@
 ---
 title: "Contact"
-subtitle: "Get involved with PEER"
-
-title-block-banner: "images/rainbow.jpg"
-
 page-layout: article
 toc: false
 suppress: true
 ---
 
+# Get involved with PEER
 
 ## I'm an education researcher, and I want to get involved!
 

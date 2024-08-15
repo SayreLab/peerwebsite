@@ -1,10 +1,8 @@
 ---
-title: "PEER Model"
+title: "The PEER Model"
 image: "../images/peer.png"
 image-width: "20rem"
 #date: last-modified
-    
-title-block-banner: "../images/rainbow.jpg"
 
 page-layout: article
 toc: false
@@ -13,20 +11,39 @@ suppress: true
 
 {{< include /_prefix.qmd >}}
 
+<!-- Welcome to PEER! -->
+::: {.column-screen .quarto-listing .quarto-listing-container-grid }
+::: {.list .grid .quarto-listing-cols-2 .bg-info-light}
+::: {.g-col-1 style="padding-left:10px;"}
+
+# The PEER Model
+
+:::
+
+::: {.g-col-1 style="padding-right:10px;"}
+
 ## What is PEER?
 
 At PEER Field Schools, you'll delve into research project development and best practices, engage with like-minded professionals, and gain invaluable insights into the world of educational research. Our expert facilitators will guide you through hands-on activities and collaborative discussions, helping you shape your project and engage your passion. 
 
 PEER will boost your education research skills and push your project forward!
 
+:::
 
-## PEER Principles
+:::
 
-At PEER, you will learn fundamental and applied research skills in a supportive and participatory research environment. We believe research is: 
+:::
+<!-- END -->
 
-::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-4 .bg-info}
 
-:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+:::{.column-screen .bg-info style=";padding:10px;padding-top:20px;"}
+
+## We believe research is:
+
+
+:::{.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-4}
+
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-0}
 
 :::{.bi .bi-arrow-repeat style="font-size: 70px"}
 
@@ -37,7 +54,7 @@ At PEER, you will learn fundamental and applied research skills in a supportive 
 Field schools respond to participant needs
 :::
 
-:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-0}
 
 :::{.bi .bi-balloon-fill  style="font-size: 70px"}
 
@@ -49,7 +66,7 @@ Field schools respond to participant needs
 Researchers play with ideas and data to generate new knowledge
 :::
 
-:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-0}
 
 :::{.bi .bi-envelope-paper-fill style="font-size: 70px"}
 
@@ -61,7 +78,7 @@ Researchers play with ideas and data to generate new knowledge
 Writing and presenting are core parts of research
 ::: 
 
-:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-0}
 
 :::{.bi .bi-person-plus-fill style="font-size: 70px"}
 
@@ -74,6 +91,13 @@ People do research together, in communities
 
 :::
 :::
+:::
+
+::: {.column-screen .quarto-listing .quarto-listing-container-grid }
+::: {.list .grid .quarto-listing-cols-2 style="margin-top: 20px;height:500px;"}
+::: {.g-col-1 style="padding-left:10px;"}
+
+
 
 ## Who Benefits From the PEER program?
 
@@ -86,17 +110,51 @@ PEER participants come from a wide range of science backgrounds and professions.
 * Graduate students and postdoctorates who need mentoring and community support for their research projects
 * Undergraduate students who attend field schools with their advisors
 
-{{< video https://youtu.be/wYVePjWPDoc >}}
+:::
+
+::: {.g-col-1 .text-center style="margin-left:40px;margin-right:40px;background-image:url(facilitator_explaining.png);background-repeat:no-repeat;background-size: cover;position: relative;"}
+
+:::{style="position:absolute;bottom:0;color:white;background: rgba(0, 0, 0, 0.5);"}
+
+"I cannot overstate how much I appreciated the focus on the real applications. The theory of research is important, but the focus on doing was truly empowering."
+
+:::
+
+:::
+
+:::
+
+:::
+
+::: {.column-screen .quarto-listing .quarto-listing-container-grid }
+::: {.list .grid .quarto-listing-cols-2 .bg-info-light style="padding:10px;padding-top:20px;margin-top:20px;"}
+::: {.g-col-1}
+
+## Is PEER for you?
 
 Our collaborators and hosts at the University of Cologne made a promotional video for their [PEER field school](/schools/2024-koln).
+
+:::
+
+::: {.g-col-1 style="padding-right:10px;"}
+
+{{< video https://youtu.be/wYVePjWPDoc >}}
+
+:::
+
+:::
+
+:::
+
+:::{.column-screen .bg-info style="padding:10px;"}
 
 ## What does PEER look like?
 
 In a PEER field school, you'll work in a supportive community to build your skills and your research project along several overlapping development arcs:
 
-::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-3 .bg-info}
+:::{.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-3}
 
-:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-0}
 
 :::{.bi .bi-ladder  style="font-size: 70px"}
 
@@ -107,7 +165,7 @@ In a PEER field school, you'll work in a supportive community to build your skil
 Generative writing, having a growth mindset, playing “yes, and”, mentoring students, researching as a parallel process, and iterating
 :::
 
-:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-0}
 
 :::{.bi .bi-columns-gap style="font-size: 70px"}
 
@@ -118,7 +176,7 @@ Generative writing, having a growth mindset, playing “yes, and”, mentoring s
 Refining research questions, choosing theoretical frameworks, matching data streams to research questions and analysis methods, planning research projects, and building resilient and flexible projects.
 :::
 
-:::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
+:::{.g-col-1 .card .card-body .text-center .bg-info .border-0}
 
 :::{.bi .bi-easel style="font-size: 70px"}
 
@@ -129,7 +187,40 @@ Refining research questions, choosing theoretical frameworks, matching data stre
 Encapsulating your project, developing an elevator pitch, reading research literature, publishing peer-reviewed papers, negotiating authorship, finding collaborators, and giving robust constructive feedback on each other’s projects.
 :::
 :::
+:::
 
-Does this sound like a lot?  It is.  PEER field schools are intense, experiential, and supportive. You don't just learn these things abstractly; you actively practice them with your project. You are ready for PEER when you are enthusiastic about stretching your skills, refining your project, and getting energized about doing research. 
+&nbsp;  
+
+::: {.column-screen .quarto-listing .quarto-listing-container-grid }
+::: {.list .grid .quarto-listing-cols-2 style="margin-top: 20px;height:500px;"}
+::: {.g-col-1 style="padding-left:10px;"}
+
+## Does PEER sound like a lot?
+
+It is.  PEER field schools are intense, experiential, and supportive. You don't just learn these things abstractly; you actively practice them with your project. You are ready for PEER when you are enthusiastic about stretching your skills, refining your project, and getting energized about doing research. 
+
+:::
+
+
+::: {.g-col-1 .text-center style="margin-left:40px;margin-right:40px;background-image:url(facilitator_explaining.png);background-repeat:no-repeat;background-size: cover;position: relative;"}
+
+:::{style="position:absolute;bottom:0;color:white;background: rgba(0, 0, 0, 0.5);"}
+
+"I cannot overstate how much I appreciated the focus on the real applications. The theory of research is important, but the focus on doing was truly empowering."
+
+:::
+
+:::
+
+:::
+
+:::
+
+::: {.column-screen style="margin:10px;"}
 
 `r invitation.cards(c("announcements", "upcoming"))`
+
+:::
+
+<!-- Image loader, keep this -->
+![](facilitator_explaining.png){.d-none}

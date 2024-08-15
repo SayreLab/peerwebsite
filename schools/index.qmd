@@ -22,7 +22,7 @@ listing:
       filter-ui: true
       image-align: left
       image-placeholder: ../images/peer-wide.png
-      image-height: 100px
+      image-height: 100%
       fields: [image, location, dates, title, description]
       sort: "date asc"
     - id: gateway-workshop-listing
@@ -33,7 +33,7 @@ listing:
       filter-ui: true
       image-align: left
       image-placeholder: ../images/peer-wide.png
-      image-height: 100px
+      image-height: 100%
       fields: [image, date, title, description]
     - id: past-field-school-listing
       contents: /*/index.qmd
@@ -43,7 +43,7 @@ listing:
       filter-ui: true
       image-align: left
       image-placeholder: ../images/peer-wide.png
-      image-height: 100px
+      image-height: 100%
       fields: [image, date, title, description]
       sort: "date desc"
 ---

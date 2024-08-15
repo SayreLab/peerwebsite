@@ -21,7 +21,7 @@ card.db <- list(
     "Bring PEER to you!"  ,                                                                                                                                                                                                               
     "Would you like to host a PEER field school?" ,                                                                                                                                                                                       
     "Hosting is a great choice if you want to grow or strengthen your local community.  Regional field schools typically cover our foundational material over 4-6 days.  We’ll work with you to make sure our workshops meet your needs.",
-    "/model/localhost"     
+    "/model/localhost.qmd"     
   ),
   
   announcements = c(

@@ -1,7 +1,6 @@
 ---
 # top level index page for site.
-title: "PEER Institute"
-subtitle: "Professional development for Emerging Education Researchers"
+title: ""
 
 sidebar: false
 title-block-banner: "images/rainbow.jpg"
@@ -11,9 +10,39 @@ suppress: true
 ---
 
 {{< include ./_prefix.qmd >}}
+:::{style="width=100%"}
 
+<!-- Welcome to PEER! -->
+::: {.column-screen .quarto-listing .quarto-listing-container-grid }
+::: {.list .grid .quarto-listing-cols-2 style="background-image:url(images/rainbow.jpg);background-repeat:no-repeat;background-size: cover;padding:10px 10px 10px 10px;padding-left: 4.5%; padding-right: 2%;"}
+::: {.g-col-1 style="display:flex;"}
+:::{style="display:inline-block; align-self:flex-end; background-color:rgb(240,248,255,0.6); border-radius:10px; padding:10px 10px 0px 20px;"}
+
+
+**UPDATE**: Field schools in [San Diego](schools/2024-socal) and [Rochester](schools/2024-rochester) are accepting applications on a rolling basis!
+
+:::{.text-center}
+
+[Apply Now!](https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58){.btn role="button" .btn-primary .rounded-lg .text-center}
+
+:::
+
+**UPDATE**: Refresh your research with PEER! Former PEER participants are invited to an [online Convening](convening-meeting.qmd) for generative presentations, community, and project planning. November 21, 2024.
+
+:::{.text-center}
+
+[PEER Convening, November 21, 2024](404.qmd){.btn role="button" .btn-primary .rounded-lg .text-center}
+
+:::
+
+:::
+
+:::
+
+::: {.g-col-1 .bg-white style="--bs-bg-opacity: .5;padding:10px 10px 10px 10px; border-radius: 10px;"}
 
 ## Welcome to PEER!
+
 The Professional development for Emerging Education Researchers (PEER) Institute supports scholars as they become education researchers and expand their research expertise. PEER focuses on Discipline-based Education Research, advancing both scholarship and teaching goals that are valued at all types of academic institutions.
 
 At PEER, you will learn fundamental and applied research skills in a supportive and participatory research environment.
@@ -24,22 +53,110 @@ You will delve into research project development and best practices, engage with
 Check out the [PEER Model](model/) to learn more.
 :::
 
-## Getting started in education research? PEER is for you.
-
-:::{.alert .alert-info }
-###  Summer field schools are accepting applications! {.alert-heading}
-
-The field school [Rochester](2024-rochester){.alert-link} is accepting applications on a rolling basis! [Apply here](https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58){.alert-link}
+:::
 
 :::
+
+:::
+
+<!-- Getting Started -->
+::: {.column-screen .quarto-listing .quarto-listing-container-grid}
+::: {.list .grid .quarto-listing-cols-2 .bg-info-light style="padding: 10px 10px 0px 20px;padding-left: 4.5%; padding-right: 2%;"}
+::: {.g-col-1}
+
+![](images/peer-wide.png){style="width:15rem"}
+
+## Getting started in education research? PEER is for you.
 
 PEER helps faculty, postdocs, graduate students, and independent scholars get started in eduation research. For many participants, PEER is their first research project in education. Other participants are stretching into a new theory or methodology, or re-engaging with research after a hiatus. Everyone has expertise to contribute, and everyone has skills to learn and refine.
 
 PEER participants love the collaborative community in PEER field schools. Many continue on after taking the program, doing research together, submitting papers for peer reviewed publication, or supporting each other through accountability groups.
 
+:::
 
+::: {.g-col-1 .text-center .d-flex .align-items-center .justify-content-center}
 
-## Boost your education research skills and push your project forward.
+![](images/table.png){style="width:50%;"}
+
+:::
+
+:::
+
+:::
+
+<!-- Facts 1 -->
+::: {.column-screen .quarto-listing .quarto-listing-container-grid}
+::: {.list .grid .quarto-listing-cols-12 style="padding: 10px 10px 0px 20px;padding-left: 4.5%; padding-right: 2%;"}
+::: {.g-col-12 .g-col-md-12 .g-col-xl-12 .g-col-xxl-4}
+
+&nbsp;
+
+## PEER Partners with...
+
+:::
+
+:::{.g-col-12 .g-col-md-6  .g-col-xl-3 .g-col-xxl-2 .d-flex .justify-content-center}
+::: { .text-center .text-black .bg-info .border .border-2 .border-info .rounded-circle .d-flex .align-items-center .justify-content-center .text-wrap style="height:200px; width:150px; min-height:150px; min-width:200px; --bs-bg-opacity: .5;"}
+
+[300+]{.fw-bold .fs-3}\
+Participants\
+from Field Schools\
+
+:::
+
+:::
+
+:::{.g-col-12 .g-col-md-6 .g-col-xl-3 .g-col-xxl-2 .d-flex .justify-content-center}
+::: { .text-center .text-black .bg-info .border .border-2 .border-info .rounded-circle .d-flex .align-items-center .justify-content-center .text-wrap style="height:200px; width:200px; min-height:150px; min-width:200px; --bs-bg-opacity: .5;"}
+
+[$16M+]{.fw-bold .fs-3}\
+Awarded in grants\
+to participants\
+
+:::
+
+:::
+
+:::{.g-col-12 .g-col-md-6 .g-col-xl-3 .g-col-xxl-2 .d-flex .justify-content-center}
+::: { .text-center .text-black .bg-info .border .border-2 .border-info .rounded-circle .d-flex .align-items-center .justify-content-center .text-wrap style="height:200px; width:200px; min-height:150px; min-width:200px; --bs-bg-opacity: .5;"}
+
+[14+]{.fw-bold .fs-3}\
+Locations\
+across the globe\
+
+:::
+
+:::
+
+:::{.g-col-12 .g-col-md-6 .g-col-xl-3 .g-col-xxl-2 .d-flex .justify-content-center}
+::: { .text-center .text-black .bg-info .border .border-2 .border-info .rounded-circle .d-flex .align-items-center .justify-content-center .text-wrap style="height:200px; width:200px; min-height:150px; min-width:200px; --bs-bg-opacity: .5;"}
+
+[13+]{.fw-bold .fs-3}\
+Facilitators helping us\
+reach our goals\  
+
+:::
+
+:::
+
+:::
+
+:::
+
+&nbsp;
+
+<!-- Our Goal -->
+::: {.column-screen .quarto-listing .quarto-listing-container-grid}
+::: {.list .grid .quarto-listing-cols-2 style="padding: 10px 10px 0px 20px;padding-left: 4.5%; padding-right: 2%;"}
+::: {.g-col-1 .text-center .d-flex .align-items-center .justify-content-center}
+
+{{< video https://youtu.be/wYVePjWPDoc >}}
+
+:::
+
+::: {.g-col-1}
+
+## Our Goal: Boost your education research skills and push your project forward.
 
 PEER centers participants' research projects to grow their skills. If you've got a project in mind, we will help you develop it. From ideation to peer-reviewed publication, PEER helps move your project forward from any point.
 
@@ -47,9 +164,65 @@ In our intensive, experiential field schools, we cover fundamental skills like g
 
 Wherever you're at, we'll help you take your research to the next level.
 
+:::
+
+:::
+
+:::
+
+<!-- Facts 2 -->
+:::{.column-screen style="padding-left: 4.5%; padding-right: 2%;"}
+
+## PEER has Results
+
+:::{}
+
 ::: {.quarto-listing .quarto-listing-container-grid}
-::: {.list .grid .quarto-listing-cols-3}
-::: {.g-col-1 .card}
+::: {.list .grid .quarto-listing-cols-3 style="padding: 10px 10px 0px 20px;"}
+::: {.g-col-1 .bg-info-light-gradient .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 10px 10px 30px; --bs-bg-opacity: .5;"}
+
+[{{< iconify mdi:graph-line >}} 300+ Participants]{style="font-size: 24pt; font-weight: bold;"}
+
+Hundreds of faculty, instructors, graduate students, and independent scholars from all over the world have participated in PEER Field Schools.
+
+:::
+
+::: {.g-col-1 .bg-info-light-gradient .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 10px 10px 30px; --bs-bg-opacity: .5;"}
+
+[{{< iconify mdi:graph-line >}} 130+ Papers Published]{style="font-size: 24pt; font-weight: bold;"}
+
+Since participating in PEER, many participants have gone on to publish peer-reviewed papers amounting to over 130 since PEER started
+
+:::
+
+::: {.g-col-1 .bg-info-light-gradient .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 10px 10px 30px; --bs-bg-opacity: .5;"}
+
+[{{< iconify mdi:graph-line >}} Over $16M in Grants]{style="font-size: 24pt; font-weight: bold;"}
+
+24 NSF grants with a PEER participant as a PI or Co-PI have been awarded, amounting to over $16M
+
+:::
+
+:::
+
+:::
+
+
+
+:::
+
+
+:::
+:::
+
+<!-- Resources -->
+:::{.column-screen style="padding-left: 4.5%; padding-right: 2%;"}
+
+## Resources
+
+::: {.quarto-listing .quarto-listing-container-grid}
+::: {.list .grid .quarto-listing-cols-3 style="margin-bottom:10px;"}
+::: {.g-col-1 .card .card-highlight}
 ::: {.card-body .text-center style="color:var(--bs-body-color)"}
 ![](images/handbook.png){fig-alt="Research Handbook" width="50%"}
 
@@ -59,7 +232,7 @@ Wherever you're at, we'll help you take your research to the next level.
 :::
 :::
 
-::: {.g-col-1 .card}
+::: {.g-col-1 .card .card-highlight}
 ::: {.card-body .text-center style="color:var(--bs-body-color)"}
 ![](images/peer.png){fig-alt="PEER logo" width="50%"}
 
@@ -69,7 +242,7 @@ Wherever you're at, we'll help you take your research to the next level.
 :::
 :::
 
-::: {.g-col-1 .card}
+::: {.g-col-1 .card .card-highlight}
 ::: {.card-body .text-center style="color:var(--bs-body-color)"}
 ![](images/table.png){fig-alt="A table with people sitting around it." width="50%"}
 
@@ -80,6 +253,79 @@ Wherever you're at, we'll help you take your research to the next level.
 :::
 :::
 :::
+:::
+
+<!-- Is PEER right for me? -->
+::: {.column-screen .quarto-listing .quarto-listing-container-grid}
+::: {.list .grid .quarto-listing-cols-2 .bg-info-light style="padding: 10px 10px 0px 20px;padding-left: 4.5%; padding-right: 2%;"}
+::: {.g-col-1}
+
+## Is PEER right for me?
+
+Who is the ideal candidate for PEER?
+
+* Experience
+* Knowledge
+* Passion
+* etc.
+
+Who is PEER looking for?
+
+If this is who you are...
+
+[Apply Now!](https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58){.btn role="button" .btn-primary .rounded-lg .text-center}
+
+:::
+
+::: {.g-col-1 .text-center}
+
+![](images/table.png){style="width:50%;"}
+
+:::
+
+:::
+
+:::
+
+
+<!-- The PEER Model -->
+::: {.column-screen .quarto-listing .quarto-listing-container-grid}
+::: {.list .grid .quarto-listing-cols-2 style="padding: 10px 10px 0px 20px;padding-left: 4.5%; padding-right: 2%;"}
+::: {.g-col-1 .text-center}
+
+![](images/table.png){style="width:50%;"}
+
+:::
+
+::: {.g-col-1}
+
+## The PEER Model
+
+PEER will boost your education research skills and push your project forward! We focus on making research...
+
+
+&ensp; &ensp; [{{< iconify pepicons-pencil:arrows-spin-circle >}}]{style="font-size:18pt;"} ...Responsive
+
+&ensp; &ensp; [{{< iconify bi:balloon-fill >}}]{style="font-size:18pt;"} ...Playful
+
+&ensp; &ensp; [{{< iconify pepicons-pencil:letter-open >}}]{style="font-size:18pt;"} ...Communicative
+
+&ensp; &ensp; [{{< iconify material-symbols:person-add >}}]{style="font-size:18pt;"} ...Collaborative
+
+:::{.text-center}
+[Click here to view the full PEER Model](model/index.qmd){.btn role="button" .btn-primary .rounded-lg .text-center}
+:::
+
+
+:::
+
+:::
+
+:::
+
+
+<!-- Other opportunities -->
+:::{.column-screen style="padding-left: 4.5%; padding-right: 2%;"}
 
 ## Opportunities to participate in PEER!
 
@@ -87,6 +333,72 @@ Whether you're just getting started, looking to stretch into new projects or met
 
 `r invitation.cards(c("announcements", "upcoming"))`
 
+&nbsp;  
+
+***
+
+&nbsp;  
+
+:::
+
+<!-- FAQ -->
+
+<!-- Commented out temporarily, need content
+:::{.bg-primary-dark .column-screen style="padding-left: 4.5%; padding-right: 2%;"}
+:::{}
+
+## [FAQ]{.mt-0}
+
+:::{.callout-note collapse="true" icon="false"}
+## {{< iconify ri:question-line >}} Question
+
+Answer
+:::
+
+:::{.callout-note collapse="true" icon="false"}
+## {{< iconify ri:question-line >}} Question
+
+Answer
+:::
+
+:::{.callout-note collapse="true" icon="false"}
+## {{< iconify ri:question-line >}} Question
+
+Answer
+:::
+
+:::{.callout-note collapse="true" icon="false"}
+## {{< iconify ri:question-line >}} Question
+
+Answer
+:::
+
+:::{.callout-note collapse="true" icon="false"}
+## {{< iconify ri:question-line >}} Question
+
+Answer
+:::
+
+:::{.callout-note collapse="true" icon="false"}
+## {{< iconify ri:question-line >}} Question
+
+Answer
+:::
+
+:::{.callout-note collapse="true" icon="false"}
+## {{< iconify ri:question-line >}} Question
+
+Answer
+:::
+
+:::{.callout-note collapse="true" icon="false"}
+## {{< iconify ri:question-line >}} Question
+
+Answer
+:::
+
+:::
+::: -->
 
 <!-- Loaders -->
 ```{=HTML}
@@ -94,3 +406,7 @@ Whether you're just getting started, looking to stretch into new projects or met
   <iframe name="fs-calendar-loader" src="updated-schedule-pull.html" hidden></iframe>
 </body>
 ```
+
+<!-- Keep this, it's needed so that the background image for the section below loads -->
+![](images/stock.jpg){.d-none}
+
