@@ -63,7 +63,7 @@ page-layout: article
 
 ## Future Field Schools
 
-[Check the schedule for upcoming field schools! In a PEER Field school, you will work intensively on your research project with your co-participants and our expert facilitators.](schools/#upcoming-field-schools){.stretched-link style="color: inherit; text-decoration: inherit;"}
+[Check the schedule for upcoming field schools! In a PEER Field school, you will work intensively on your research project with your co-participants and our expert facilitators.](events/#upcoming-field-schools){.stretched-link style="color: inherit; text-decoration: inherit;"}
 
 :::
 
@@ -95,7 +95,7 @@ page-layout: article
 
 ## PEER Impacts
 
-[PEER is effective and changes career trajectories. View the benefits of participating!](impacts.qmd){.stretched-link style="color: inherit; text-decoration: inherit;"}
+[PEER is effective and changes career trajectories. View the benefits of participating!](impacts/index.qmd){.stretched-link style="color: inherit; text-decoration: inherit;"}
 
 :::
 

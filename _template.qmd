@@ -39,11 +39,11 @@ suppress: true
 
 :::{.g-col-1 .card .card-body .text-center}
 
-[![](images/pants.png)](schools/index.qmd)
+[![](images/pants.png)](events/index.qmd)
 
-#### [Field Schools](schools/index.qmd){.quarto-grid-link .card-title}
+#### [Field Schools](events/index.qmd){.quarto-grid-link .card-title}
 
-[PEER events: upcoming, current, and past](schools/index.qmd){ .quarto-grid-link}
+[PEER events: upcoming, current, and past](events/index.qmd){ .quarto-grid-link}
 
 :::
 

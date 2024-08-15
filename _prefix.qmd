@@ -35,14 +35,14 @@ card.db <- list(
     "Upcoming events",
     "Ready to grow your research skills?",
     "PEER offers in-person and virtual events for emerging education researchers.  Just getting started in education research, or curious about what PEER is like? Join us for a 90-minute virtual gateway workshop.  Ready for a longer experience?  Apply for an upcoming field school.",
-    "/schools/#upcoming-field-schools"
+    "/events/#upcoming-field-schools"
   ),
   
   virtual = c(
     "Virtual Gateway Workshop",
     "Free and online",
     "Just getting started in education research, or curious about what PEER is like? Join us for a 90-minute virtual gateway workshop.",
-    "/schools/virtual-gateway"
+    "/events/virtual-gateway"
   )
   
 )

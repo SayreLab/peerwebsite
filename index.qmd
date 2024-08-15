@@ -18,16 +18,7 @@ suppress: true
 ::: {.g-col-1 style="display:flex;"}
 :::{style="display:inline-block; align-self:flex-end; background-color:rgb(240,248,255,0.6); border-radius:10px; padding:10px 10px 0px 20px;"}
 
-
-**UPDATE**: Field schools in [San Diego](schools/2024-socal) and [Rochester](schools/2024-rochester) are accepting applications on a rolling basis!
-
-:::{.text-center}
-
-[Apply Now!](https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58){.btn role="button" .btn-primary .rounded-lg .text-center}
-
-:::
-
-**UPDATE**: Refresh your research with PEER! Former PEER participants are invited to an [online Convening](convening-meeting.qmd) for generative presentations, community, and project planning. November 21, 2024.
+**UPDATE**: Refresh your research with PEER! Former PEER participants are invited to an [online Convening](events/convening-meeting/index.qmd) for generative presentations, community, and project planning. November 21, 2024.
 
 :::{.text-center}
 
@@ -246,9 +237,9 @@ Since participating in PEER, many participants have gone on to publish peer-revi
 ::: {.card-body .text-center style="color:var(--bs-body-color)"}
 ![](images/table.png){fig-alt="A table with people sitting around it." width="50%"}
 
-#### [Field Schools](schools/index.qmd){.quarto-grid-link .card-title}
+#### [Field Schools](events/index.qmd){.quarto-grid-link .card-title}
 
-[PEER events: upcoming, current, and past](schools/index.qmd){.quarto-grid-link}
+[PEER events: upcoming, current, and past](events/index.qmd){.quarto-grid-link}
 :::
 :::
 :::

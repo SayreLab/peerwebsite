@@ -21,7 +21,7 @@ website:
       - text: "PEER Impacts"
         href: impacts/index.qmd
       - text: "Field Schools"
-        href: schools/index.qmd
+        href: events/index.qmd
       - contact.qmd
     tools:
       - icon: journal-text
