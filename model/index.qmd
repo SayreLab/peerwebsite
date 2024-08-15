@@ -221,3 +221,6 @@ It is.  PEER field schools are intense, experiential, and supportive. You don't 
 `r invitation.cards(c("announcements", "upcoming"))`
 
 :::
+
+<!-- Image loader, keep this -->
+![](facilitator_explaining.png){.d-none}

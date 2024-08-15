@@ -343,6 +343,7 @@ Whether you're just getting started, looking to stretch into new projects or met
 
 <!-- FAQ -->
 
+<!-- Commented out temporarily, need content
 :::{.bg-primary-dark .column-screen style="padding-left: 4.5%; padding-right: 2%;"}
 :::{}
 
@@ -397,7 +398,7 @@ Answer
 :::
 
 :::
-:::
+::: -->
 
 <!-- Loaders -->
 ```{=HTML}
