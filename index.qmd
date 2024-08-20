@@ -22,7 +22,7 @@ suppress: true
 
 :::{.text-center}
 
-[PEER Convening, November 21, 2024](404.qmd){.btn role="button" .btn-primary .rounded-lg .text-center}
+[PEER Convening, November 21, 2024](events/convening-meeting/index.qmd){.btn role="button" .btn-primary .rounded-lg .text-center}
 
 :::
 
