@@ -142,7 +142,7 @@ Education research professional practice encompasses more than simply theories a
 
 ::: {.g-col-1 .text-center style="margin-left:40px;margin-right:40px;"}
 
-![PEER was really impactful for me and gave me a kick start to begin the process which seemed overwhelming.  It gave me confidence and experience thinking about educational research. I came up with an entirely new project and ran with it. I was able to come up with a better research question, get IRB approval, and draft a conference paper (submitted last week!).](../images/action-shots/action1.png){.rounded .font-weight-bold}
+!["PEER was really impactful for me and gave me a kick start to begin the process which seemed overwhelming.  It gave me confidence and experience thinking about educational research. I came up with an entirely new project and ran with it. I was able to come up with a better research question, get IRB approval, and draft a conference paper (submitted last week!)."](../images/action-shots/action1.png){.rounded .font-weight-bold}
 
 
 :::
