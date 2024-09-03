@@ -68,9 +68,9 @@ Curious about what a Field School looks like? Check our [Field School Sample](sa
 ## Upcoming Field Schools 
 
 :::{.alert .alert-info }
-###  Rolling applications accepted! {.alert-heading}
+###  PEER Convening {.alert-heading}
 
-Field schools in [San Diego](2024-socal){.alert-link} and [Rochester](2024-rochester){.alert-link} are accepting applications on a rolling basis! [Apply here](https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58){.alert-link}
+The PEER Convening will be November 21, 2-4 EST over zoom.  All previous PEER participants are welcome!  [More information](convening-meeting/index.qmd){.alert-link}
 
 :::
 
