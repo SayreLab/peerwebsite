@@ -11,7 +11,7 @@ suppress: true
 ---
 
 ## Welcome back to PEER!
-Hundreds of people throughout the world have participated in PEER since its beginning in 2014. Are you ready to recharge your PEER energy?  The PEER Convening is a time to reflect, (re)connect, and re-energize. Check back here on September 1st when registration opens for this virtual event.
+Hundreds of people throughout the world have participated in PEER since its beginning in 2014. Are you ready to recharge your PEER energy?  The PEER Convening is a time to reflect, (re)connect, and re-energize. Registration is open!
 
 
 ::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-3 .bg-info}
@@ -36,7 +36,7 @@ November 21, 2024
 :::
 
 ::: {style="font-size: 150%;"}
-Registration opens October 1.
+[Register here](https://docs.google.com/forms/d/e/1FAIpQLSfBWMQjHIy2CUGFwy1pBEj8OTj8PQzezIPSDTfWlFTGhGVZtA/viewform?usp=sf_link)
 :::
 
 :::
