@@ -21,7 +21,7 @@ image:  "hu-mit.png" # this should be roughly 8x3 aspect ratio, host logo is a g
 date: "7/15/2024"  # start date of field school, for sorting purposes
 dates: "July 15-18, 2024" # textual date range of the field school, for display purposes.
 applications: "March 15, 2024" # when are applications due?
-timing: "upcoming" # can also choose "past" or "gateway"
+timing: "past" # can also choose "past" or "gateway"
 
 # Settings for template, do not change.
 toc-location: left

@@ -2,10 +2,12 @@
   {
     "listing": "/events/index.html",
     "items": [
-      "/events/2024-boston/index.html",
-      "/events/2024-socal/index.html",
-      "/events/2024-rochester/index.html",
+      "/events/2025-socal/index.html",
+      "/events/2025-rochester/index.html",
       "/events/virtual-gateway/index.html",
+      "/events/2024-rochester/index.html",
+      "/events/2024-socal/index.html",
+      "/events/2024-boston/index.html",
       "/events/2024-psu/index.html",
       "/events/2024-koln/index.html",
       "/events/2023-chicago/index.html"

@@ -14,15 +14,15 @@ suppress: true
 
 <!-- Welcome to PEER! -->
 ::: {.column-screen .quarto-listing .quarto-listing-container-grid }
-::: {.list .grid .quarto-listing-cols-2 style="background-image:url(images/rainbow.jpg);background-repeat:no-repeat;background-size: cover;padding:10px 10px 10px 10px;padding-left: 4.5%; padding-right: 2%;"}
+::: {.list .grid .quarto-listing-cols-1 style="background-image:url(images/rainbow.jpg);background-repeat:no-repeat;background-size: cover;padding:10px 10px 10px 10px;padding-left: 2%; padding-right: 2%;"}
 ::: {.g-col-1 style="display:flex;"}
-:::{style="display:inline-block; align-self:flex-end; background-color:rgb(240,248,255,0.6); border-radius:10px; padding:10px 10px 0px 20px;"}
-
-**UPDATE**: Refresh your research with PEER! Former PEER participants are invited to an [online Convening](events/convening-meeting/index.qmd) for generative presentations, community, and project planning. November 21, 2024.
+:::{style="display:inline-block; width:100%; background-color:rgb(240,248,255,0.6); border-radius:10px; padding:10px 10px 10px 10px;"}
+## Save the Date! 
+Join us at PEER Rochester (July 7-11, 2025) or PEER SoCal (June 16-18, 2025). Check back soon for more details about applications and registration!
 
 :::{.text-center}
 
-[PEER Convening, November 21, 2024](events/convening-meeting/index.qmd){.btn role="button" .btn-primary .rounded-lg .text-center}
+[Upcoming Field Schools](events/index.qmd){.btn role="button" .btn-primary .rounded-lg .text-center}
 
 :::
 
@@ -30,7 +30,7 @@ suppress: true
 
 :::
 
-::: {.g-col-1 .bg-white style="--bs-bg-opacity: .5;padding:10px 10px 10px 10px; border-radius: 10px;"}
+::: {.g-col-1 .bg-white style="--bs-bg-opacity: .6;padding:2px 10px 10px 10px; border-radius: 10px;"}
 
 ## Welcome to PEER!
 
