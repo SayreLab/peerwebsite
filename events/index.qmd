@@ -67,12 +67,6 @@ Curious about what a Field School looks like? Check our [Field School Sample](sa
 
 ## Upcoming Field Schools 
 
-:::{.alert .alert-info }
-###  PEER Convening {.alert-heading}
-
-The PEER Convening will be November 21, 2-4 EST over zoom.  All previous PEER participants are welcome!  [More information and registration link](convening-meeting/index.qmd){.alert-link}
-
-:::
 
 :::{#upcoming-field-school-listing}
 :::

@@ -1,0 +1,104 @@
+---
+title: "PEER-Rochester (Summer 2024) Syllabus"
+description: "Welcome to PEER!"
+leadname: "Mary Bridget Kustusch"
+
+---
+
+## Learning outcomes
+
+Participants in the field school will... 
+
+* ... develop and practice fundamental underlying skills and competencies in doing research, including “yes, and”, generative writing, collaboration skills, and other topics as related to specific workshops
+* ... develop and make significant progress in planning their own research projects
+* ... increase their self-efficacy in doing education research
+* ... build a community for supporting their education research
+
+## Schedule
+
+Workshop materials, including slides, workbooks, and virtual kickoff link are shared with participants directly.  If you are a registered participant and need access, contact the lead facilitator, {{< meta leadname >}}.
+
+{{< include ../_calendar.qmd >}}
+
+To build a supportive community, participants must actively engage during all sessions in the field school.  Partial attendance is not permitted.
+
+## Homework
+
+Before the virtual kickoff, you must
+
+* Read 
+* Survey
+
+Your participant packet, shared with each participant individually, contains detailed information about what homework is due and when. 
+
+:::{.callout-tip collapse="true" title="Virtual Kickoff: Friday, July 19 Time: 2:30-4:00pm (Eastern Time)"}
+The virtual kickoff will be held over zoom.  Participants have received a calendar link with zoom information; this information is also in your participant packet. 
+:::
+
+## Links
+
+::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-4 .bg-info}
+
+:::{.g-col-1 .card .card-body .text-center .border-info .bg-info}
+
+:::::{zoom-button}
+[Field school materials](https://drive.google.com/drive/folders/1SJBNWn_897_ze){.btn role="button" .btn-primary .rounded-pill}
+:::::
+:::
+
+:::{.g-col-1 .card .card-body .text-center .border-info .bg-info}
+:::::{slack-button}
+[Slack Link](https://join.slack.com/t/peer-pbe2329/shared_invite/zt-25p9wvity-kIugoURsaSxRvPnFUQsUwQ){.btn role="button" .btn-primary .rounded-pill}
+:::::
+:::
+
+:::{.g-col-1 .card .card-body .text-center .border-info .bg-info}
+
+:::::{contact-facilitator-button}
+[Contact Lead Facilitator](mailto:mkustus1@depaul.edu){.btn role="button" .btn-primary .rounded-pill}
+:::::
+:::
+
+:::{.g-col-1 .card .card-body .text-center .border-info .bg-info}
+
+:::::{contact-host-button}
+[Contact Local Host](mailto:esayre@gmail.com){.btn role="button" .btn-primary .rounded-pill}
+::::: 
+:::
+:::
+
+
+
+## Logistics: Getting here, staying here, eating here.
+
+
+:::{.callout-tip collapse="true" title="Getting to campus"}
+The Rochester airport (code: ROC) is about 20 minutes from RIT.  There is uber/lyft available as well as taxis.  If you are bringing or renting a car, you should coordinate with Matt Sayre before you arrive to arrange for a parking pass to the RIT campus.  You can tell your phone to direct you to "405 Global Way"; don't just drive/uber/lyft to "RIT" because that will take you to the wrong part of campus.
+:::
+
+:::{.callout-tip collapse="true" title="On-campus housing"}
+RIT housing will be in Global Village, dorm E (also known as Global Village 405).  (campus map).  These are suites of single rooms with shared bathrooms, living areas, and micro-kitchens in each suite.  Each room comes with a packet of bedding & towel.   You should bring your own toiletries.   
+:::
+
+:::{.callout-tip collapse="true" title="Parking"}
+If you park on campus, you should park in "General parking" (NOT RESERVED PARKING). The Global village Lot is directly behind the dorms; Lot S is close to Global Village and Gosnell Hall where we will be meeting; Lot F is also close to Gosnell.  Campus map: GOS/008.
+:::
+
+:::{.callout-tip collapse="true" title="Session locations & campus map"}
+Specific session rooms: TBD. Campus map: GOS/008.
+:::
+
+:::{.callout-tip collapse="true" title="Food"}
+Breakfast and lunch is provided every day of the field school.  Breakfast is typically fruit, granola, yogurt, and pastries; coffee and tea are available.  The joint grocery list is in the participant materials.  Lunch is available via RIT dining card; there are a number of different fast-casual options near Global Village.  
+
+There is an optional pre-dinner at Dogtown on Wednesday at 6:30pm.
+:::
+
+:::{.callout-tip collapse="true" title="Wifi access"}
+RIT has both eduroam (if your institution participates) and a guest network. Select "RIT guest" and follow the prompts.
+:::
+
+:::{.callout-tip collapse="true" title="Travel panic"}
+If you are experiencing travel panic on the day of travel, you can text Matt Sayre (785-313-5038) or Eleanor Sayre (785-313-5039).
+:::
+

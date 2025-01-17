@@ -1,14 +1,14 @@
 ---
 # Field school information
-title: "PEER-SoCal (Summer, 2024)"
+title: "PEER-SoCal (Summer, 2025)"
 description: "Regional Field School focusing on building community and capacity in the Southern California region."
-leadname: "Scott Franklin"
+leadname: ""
 location: "San Diego, CA"
 host: "University of San Diego"
 image: "usd-logo.png"
-date: "7/22/2024"
-dates: "July 22-25, 2024"
-timing: "past"
+date: "06/16/2025"
+dates: "June 16-18, 2025"
+timing: "upcoming"
 
 # Settings for template, do not change.
 toc-location: left
@@ -16,7 +16,7 @@ date-format: "MMM D, YYYY"
 
 ---
 
-## Join PEER for a 4-day, intensive, in-person PEER Field School!
+## Save the date for a 3-day, intensive, in-person PEER Field School! Stay tuned for registration details.  
 
 
 ::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-3 .bg-info}
@@ -37,7 +37,7 @@ San Diego, CA
 
 :::
 Field school dates<br>
-July 22-25, 2024
+June 16-18, 2025
 :::
 
 :::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
@@ -46,7 +46,7 @@ July 22-25, 2024
 
 :::
 
-Rolling applications accepted!
+Stay tuned for application and registration details
 :::
 
 

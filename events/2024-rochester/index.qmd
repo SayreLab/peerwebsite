@@ -8,7 +8,7 @@ host: "Rochester Institute of Technology"
 image: "RIT.jpg"
 date: "8/1/2024"
 dates: "August 1-7, 2024" # textual date range of the field school, for display purposes.
-timing: "upcoming"
+timing: "past"
 
 # Settings for template, do not change.
 toc-location: left
