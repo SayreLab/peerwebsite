@@ -55,22 +55,7 @@ Stay tuned for application and registration details
 
 PEER enhances the professional growth of participants and changes career trajectories.  Our comprehensive professional development covers project design, management, mentoring, communication, and understanding community values. This 'full stack' of activities builds your research abilities.  No matter where you are in your education research journey, we'll take you to the next step. 
 
-[APPLY NOW](https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58){.btn role="button" .btn-primary .rounded-pill}
-
 Can't make this one? There are [more](../index.qmd). 
-
-# Schedule Overview
-  
-Date (all times PST)| Activity
----|-------
-Thursday, July 18th, 2:00-3:30pm | Virtual Kickoff [zoom link](https://rit.zoom.us/j/9197885421?pwd=Z1lMbHFnM05HdDlGSGFSQlp6QlpmZz09&omn=96964263503)
-Monday, July 22, 1:00-4:30pm | Opening session, Research design, communication and ethics with optional group dinner outing afterward
-Tuesday, July 23: 9:00am-4:30pm | Data and Access, IRB, Ethics and Doing Interviews
-Wednesday, July 24: 9:00am-4:30pm | Theories, Iterative Design and Generative Presentations
-Thursday, July 25: 9:00am-12:00pm | Project planning for the future
-
-
-To build a supportive community, participants must actively engage during all sessions in the field school.  Partial attendance is not permitted. 
 
 # Who Should Attend?
  
@@ -97,66 +82,7 @@ PEER promotes peer feedback and community foundation, providing a sense of inclu
 ### PEER builds academic currency
 
  Our support includes guiding participants in writing, a key element of academic research. PEER engagement leads to numerous publications, grant proposals, and successful tenure & promotion portfolios.  These publications span several years, suggesting PEER's lasting impact on participants’ professional trajectories.
-    
-
 
 # Application and Registration
 
-The application deadline is passed. If you would like late consideration, please reach out directly to Scott Franklin (svfsps@rit.edu).
-
-
-It is expected that you will participate for the full field school; partial participation is not allowed.
-
-* Registration includes lunch, coffee & snacks, optional breakfast, and a parking pass (if needed).
-* We have arranged for housing on the USD campus (individual rooms in a shared dorm suite) for non-local participants. A small number of scholarships are available to help defray the cost of housing. You will indicate on your application whether you need housing and if you would like to apply for a scholarship.
-
-Thanks to a grant from the NSF, there is no cost for registration. Housing costs at registration (for participants without scholarships who plan to stay on USD campus) are $250.
- 
-## Facilitators
-:::::: {.quarto-listing .quarto-listing-container-grid}
-::::: {.list .grid .quarto-listing-cols-5}
-
-::::{.g-col-1 .text-left}
-![Scott Franklin](../../images/headshots/Franklin-headshot.jpg){fig-alt="Scott Franklin" width="100%"}
-::::
-
-::::{.g-col-1 .text-left}
-![Emily Cilli-Turner](../../images/headshots/Cilli-Turner-headshot.jpeg){fig-alt="Emily Cilli-Turner" width="100%"}
-::::
-
-
-::::{.g-col-1 .text-left}
-![Chris Rasmussen](../../images/headshots/Rasmussen-headshot.jpg){fig-alt="Chris Rasmussen" width="100%"}
-::::
-
-
-
-:::::
-::::::
-
-
-## Sponsors
-::::::::: {.quarto-listing .quarto-listing-container-grid}
-:::::::: {.list .grid .quarto-listing-cols-2}
-
-::::::: {.g-col-1}
-:::::: {.quarto-listing .quarto-listing-container-grid}
-::::: {.list .grid .quarto-listing-cols-2}
-::::{.g-col-1 .middle}
-![](../../images/foreign-logos/NSF-logo.png){fig-alt="National Science Foundation logo" width="100%" .center}
-
-::::
-
-::::{.g-col-1}
-![](../../images/foreign-logos/usd-logo-medallion-thumb.png){fig-alt="University of San Diego logo" width="100%" .center}
-
-::::
-:::::
-::::::
-:::::::
-
-:::::::{.g-col-1 .text-left}
-This PEER field school is partially supported by the National Science Foundation [BCSER program](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025174&HistoricalAwards=false) (DRL-2025169).
-:::::::
-::::::::
-:::::::::
+Stay tuned for more details on application and registration.
