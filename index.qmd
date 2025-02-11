@@ -17,8 +17,8 @@ suppress: true
 ::: {.list .grid .quarto-listing-cols-1 style="background-image:url(images/rainbow.jpg);background-repeat:no-repeat;background-size: cover;padding:10px 10px 10px 10px;padding-left: 2%; padding-right: 2%;"}
 ::: {.g-col-1 style="display:flex;"}
 :::{style="display:inline-block; width:100%; background-color:rgb(240,248,255,0.6); border-radius:10px; padding:10px 10px 10px 10px;"}
-## Save the Date! 
-Join us at PEER Rochester (July 7-11, 2025) or PEER SoCal (June 16-18, 2025). Check back soon for more details about applications and registration!
+## Apply now! 
+Join us at PEER Rochester (July 7-11, 2025) or PEER SoCal (June 16-18, 2025).
 
 :::{.text-center}
 
