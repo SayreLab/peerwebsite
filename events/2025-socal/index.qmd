@@ -16,8 +16,7 @@ date-format: "MMM D, YYYY"
 
 ---
 
-## Save the date for a 3-day, intensive, in-person PEER Field School! Stay tuned for registration details.  
-
+## Join PEER for a 3-day, intensive, in-person PEER Field School!
 
 ::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-3 .bg-info}
 
@@ -46,7 +45,7 @@ June 16-18, 2025
 
 :::
 
-Stay tuned for application and registration details
+Apply by April 1st for discounted registration cost!
 :::
 
 
@@ -55,7 +54,22 @@ Stay tuned for application and registration details
 
 PEER enhances the professional growth of participants and changes career trajectories.  Our comprehensive professional development covers project design, management, mentoring, communication, and understanding community values. This 'full stack' of activities builds your research abilities.  No matter where you are in your education research journey, we'll take you to the next step. 
 
+[APPLY NOW](https://rit.az1.qualtrics.com/jfe/form/SV_82NAZXCr9NPiOii){.btn role="button" .btn-primary .rounded-pill}
+
 Can't make this one? There are [more](../index.qmd). 
+
+<!--  
+# Schedule Overview
+
+Date (all times PST)| Activity
+---|-------
+Thursday, June 16th, 2:00-3:30pm | Virtual Kickoff [zoom link](https://rit.zoom.us/j/9197885421?pwd=Z1lMbHFnM05HdDlGSGFSQlp6QlpmZz09&omn=96964263503)
+Monday, June 16: 1:00-4:30pm | Opening session, Research design, communication and ethics with optional group dinner outing afterward
+Tuesday, June 17: 9:00am-4:30pm | Data and Access, IRB, Ethics and Doing Interviews
+Wednesday, June 18: 9:00am-4:30pm | Theories, Iterative Design and Generative Presentations
+
+To build a supportive community, participants must actively engage during all sessions in the field school.  Partial attendance is not permitted. 
+-->
 
 # Who Should Attend?
  
@@ -85,4 +99,13 @@ PEER promotes peer feedback and community foundation, providing a sense of inclu
 
 # Application and Registration
 
-Stay tuned for more details on application and registration.
+Applying to a field school is free; accepted applicants will pay to register upon confirming their participation in a field school. For applications received before April 1, registration costs will be \$275. For applications received after April 1 and before May 15, registration costs will be \$325. To apply after May 15, please contact Eleanor Sayre (esayre@gmail.com) for options. It is expected that you will participate for the full field school; partial participation is not allowed.
+
+* Registration includes lunch, coffee & snacks, optional breakfast, and a parking pass (if needed).
+* For those attending from outside of San Diego, we have negotiated housing in USD dorm suites for $250 for the duration of the field school, although participants are free to choose other local accommodations.
+* Significant scholarship opportunities exist for a variety of separate populations, including (but not limited to):
+  + Biology/environmental science educators or those looking to do interdisciplinary education research in biology or biology-adjacent disciplines
+  + 2-year faculty and/or 4-year faculty looking to build collaboration with 2-year institutions
+  + Faculty at San Diego local institutions
+
+[APPLY NOW](https://rit.az1.qualtrics.com/jfe/form/SV_82NAZXCr9NPiOii){.btn role="button" .btn-primary .rounded-pill}
