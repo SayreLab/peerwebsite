@@ -3,7 +3,7 @@ title: "Virtual Gateway Workshop Registration"
 
 description: "Looking for a small taste of PEER? Join the virtual gateway workshop."
 
-date: "3/11/2024"
+date: "4/10/2025"
 date-format: "MMM D, YYYY"
 
 toc-location: left

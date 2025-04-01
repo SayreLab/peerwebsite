@@ -8,12 +8,13 @@ image: "/images/peer-wide.png"
 timing: "workshop"
 
 # Change this each time
-date: "3/11/2024"
-dates: "March 11, 2024" # textual date range of the field school, for display purposes.
-hours: "1:00 - 2:30pm EST" #textual timing for the workshop
+date: "4/10/2025"
+dates: "April 10, 2025" # textual date range of the field school, for display purposes.
+hours: "4:00 - 5:30pm EST" #textual timing for the workshop
 
 # Prior virtual gateways
 priordates: 
+  - "March 11, 2024"
   - "December 5, 2023"
   - "March 23, 2023"
   - "March 22, 2022"
@@ -106,30 +107,21 @@ This virtual workshop is free to attend, but space is limited and a recording wi
 
 ## Facilitators
 :::::: {.quarto-listing .quarto-listing-container-grid}
-::::: {.list .grid .quarto-listing-cols-3}
+::::: {.list .grid .quarto-listing-cols-2}
 
 ::::{.g-col-1 .text-left}
 
 :::{.text-center}
 
-![](../../images/headshots/Jones-headshot.jpeg){fig-alt="Myrtle Jones" width="100%"}
+![](../../images/headshots/Kustusch-headshot.jpg){fig-alt="Mary Bridget Kustusch" width="100%"}
 
-### Myrtle Jones
+### Mary Bridget Kustusch
 :::
 
-Myrtle Jones is an anthropologist with expertise in autoethnography.
+Mary Bridget Kustusch is a physics professor and education researcher. 
 ::::
 
-::::{.g-col-1 .text-left}
-:::{.text-center}
 
-![](../../images/headshots/Gerton-headshot.jpeg){fig-alt="Jordan Gerton" width="100%"}
-
-### Jordan Gerton
-:::
-
-Jordan Gerton is a physics professor and former PEER participant.
-::::
 
 ::::{.g-col-1 .text-left}
 :::{.text-center}
@@ -139,7 +131,7 @@ Jordan Gerton is a physics professor and former PEER participant.
 ### Eleanor Sayre
 :::
 
-Eleanor Sayre is a physics professor with expertise in education research.
+Eleanor Sayre is an assistant dean with expertise in education research.
 ::::
 :::::
 ::::::
@@ -147,6 +139,7 @@ Eleanor Sayre is a physics professor with expertise in education research.
 
 ## Past Virtual Gateways
 
+* March 11, 2024, 1:00 - 2:30pm EST
 * December 5, 2023, 4:00 - 5:30pm EST.
 * March 23, 2023, 4:30 - 6:00pm EST.
 * March 22, 2022, 4:30 - 6:00pm EST.
