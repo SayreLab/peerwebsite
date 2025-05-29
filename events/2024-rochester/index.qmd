@@ -36,13 +36,12 @@ Field school dates<br> August 1-7, 2024
 ::: {.bi .bi-pencil-square style="font-size: 70px"}
 :::
 
-Rolling applications accepted
+Applications closed.
 :::
 :::
 
 PEER enhances the professional growth of participants and changes career trajectories. Our comprehensive professional development covers project design, management, mentoring, communication, and understanding community values. This 'full stack' of activities builds your research abilities. No matter where you are in your education research journey, we'll take you to the next step.
 
-[APPLY NOW](https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58){.btn .btn-primary .rounded-pill role="button"}
 
 Can't make this one? There are [more](../index.qmd).
 
@@ -94,10 +93,6 @@ PEER promotes peer feedback and community foundation, providing a sense of inclu
 Our support includes guiding participants in writing, a key element of academic research. PEER engagement leads to numerous publications, grant proposals, and successful tenure & promotion portfolios. These publications span several years, suggesting PEER's lasting impact on participants’ professional trajectories.
 
 # Application and Registration
-
-Applications reviewed on a rolling basis.
-
-[APPLY NOW](https://rit.az1.qualtrics.com/jfe/form/SV_eyXtv1XEexuMm58){.btn .btn-primary .rounded-pill role="button"}
 
 It is expected that you will participate for the full field school; partial participation is not allowed.
 

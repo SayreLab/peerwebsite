@@ -1,13 +1,13 @@
 ---
 # Field school information
-title: "PEER-SoCal (Summer, 2025)"
-description: "National field school with emphasis on the Southern California region"
+title: "PEER-Auburn (Summer, 2025)"
+description: "PEER-Auburn: Building community and capacity in the Southeast"
 leadname: "Eleanor Sayre"
-location: "San Diego, CA"
-host: "University of San Diego"
-image: "usd-logo.png"
-date: "06/16/2025"
-dates: "June 16-18, 2025"
+location: "Auburn, AL"
+host: "Auburn University"
+image: "auburn.png"
+date: "07/20/2025"
+dates: "July 20-24, 2025"
 timing: "upcoming"
 
 # Settings for template, do not change.
@@ -16,7 +16,7 @@ date-format: "MMM D, YYYY"
 
 ---
 
-## Join PEER for a 3-day, intensive, in-person PEER Field School!
+## Join PEER for a 5-day, intensive, in-person PEER Field School!
 
 ::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-3 .bg-info}
 
@@ -25,8 +25,8 @@ date-format: "MMM D, YYYY"
 :::{.bi .bi-geo-alt-fill style="font-size: 70px"}
 
 :::
-University of San Diego<br>
-San Diego, CA
+Auburn University<br>
+Auburn, AL
 :::
 
 
@@ -36,7 +36,7 @@ San Diego, CA
 
 :::
 Field school dates<br>
-June 16-18, 2025
+July 20-24, 2025
 :::
 
 :::{.g-col-1 .card .card-body .text-center .bg-info .border-info}
@@ -45,7 +45,7 @@ June 16-18, 2025
 
 :::
 
-Applications are closed.
+Applications due June 27.
 :::
 
 
@@ -54,9 +54,11 @@ Applications are closed.
 
 PEER enhances the professional growth of participants and changes career trajectories.  Our comprehensive professional development covers project design, management, mentoring, communication, and understanding community values. This 'full stack' of activities builds your research abilities.  No matter where you are in your education research journey, we'll take you to the next step. 
 
+[APPLY NOW](https://auburn.qualtrics.com/jfe/form/SV_4SLmTwZ8iaXXRHM){.btn .btn-primary .rounded-pill role="button"}
+
 Can't make this one? There are [more](../index.qmd). 
 
-# Schedule overview
+## Schedule overview
 
 ```{=HTML}
 <body>
@@ -65,7 +67,7 @@ Can't make this one? There are [more](../index.qmd).
   <script>
     // Define the school name variable
     // THIS MUST BE THE SAME AS THE GOOGLE SHEETS PAGE NAME
-    var schoolName = "SoCal 2025"; // Change this to the desired school name
+    var schoolName = "Auburn 2025"; // Change this to the desired school name
 
     // Encode the school name to make it URL-safe
     var encodedSchoolName = encodeURIComponent(schoolName);
@@ -76,7 +78,7 @@ Can't make this one? There are [more](../index.qmd).
 </body>
 ```
 
-# Who Should Attend?
+## Who Should Attend?
  
 PEER targets a broad diversity of experience and interest in discipline-based education research (DBER). The workshop is appropriate for:
 
@@ -85,10 +87,10 @@ PEER targets a broad diversity of experience and interest in discipline-based ed
 * Graduate students or postdoctoral researchers who want to learn more about DBER project management and building a successful research program
 * Faculty at teaching-focused universities interested in using research methodology to improve or assess their teaching and/or publish in Scholarship of Teaching & Learning
 
-This field school is centered on building regional capacity and community.  We welcome all applicants who work or reside within a three-hour radius of San Diego; applicants outside of this radius should make a strong case for their current or future ties to the DBER community in this geographic area. 
+This field school is centered on building regional capacity and community. Applicants from Alabama, Georgia, Florida, Missisippi, and the rest of the southeast are strongly encouraged.
 
 
-# What do we do?
+## What do we do?
 
 ### PEER builds core competencies in education research
 
@@ -102,13 +104,33 @@ PEER promotes peer feedback and community foundation, providing a sense of inclu
 
  Our support includes guiding participants in writing, a key element of academic research. PEER engagement leads to numerous publications, grant proposals, and successful tenure & promotion portfolios.  These publications span several years, suggesting PEER's lasting impact on participants’ professional trajectories.
 
-# Application and Registration
+## Application and Registration
 
-Applying to a field school is free; accepted applicants will pay to register upon confirming their participation in a field school. For applications received before April 15, registration costs will be \$275. For applications received after April 15 and before May 15, registration costs will be \$325. It is expected that you will participate for the full field school; partial participation is not allowed.
+Is expected that you will participate for the full field school; partial participation is not allowed.
 
 * Registration includes lunch, coffee & snacks, optional breakfast, and a parking pass (if needed).
-* For those attending from outside of San Diego, we have negotiated housing in USD dorm suites for $250 for the duration of the field school, although participants are free to choose other local accommodations.
-* Significant scholarship opportunities exist for a variety of separate populations, including (but not limited to):
-  + Biology/environmental science educators or those looking to do interdisciplinary education research in biology or biology-adjacent disciplines
-  + 2-year faculty and/or 4-year faculty looking to build collaboration with 2-year institutions
-  + Faculty at San Diego local institutions
+* For those attending from outside of commuting distance, we have negotiated housing in a local hotel for the duration of the field school, although participants are free to choose other local accommodations.
+
+[APPLY NOW](https://auburn.qualtrics.com/jfe/form/SV_4SLmTwZ8iaXXRHM){.btn .btn-primary .rounded-pill role="button"}  
+  
+## Facilitators
+
+::: {.quarto-listing .quarto-listing-container-grid}
+::: {.list .grid .quarto-listing-cols-5}  
+  
+::: {.g-col-1 .text-left}
+![Eleanor Sayre](../../images/headshots/Sayre-headshot.jpg){fig-alt="Eleanor Sayre" width="100%"}
+:::
+  
+::::{.g-col-1 .text-left}
+![Jordan Gerton](../../images/headshots/Gerton-headshot.jpeg){fig-alt="Jordan Gerton" width="100%"}
+::::
+
+:::: {.g-col-1 .text-left}
+![Melinda Lanius](../../images/headshots/Lanius-headshot.jpg){fig-alt="Melinda Lanius" width="100%"}
+
+
+::::
+
+:::::
+::::::

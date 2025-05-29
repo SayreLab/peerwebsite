@@ -2,7 +2,7 @@
 # Field school information
 title: "PEER-Rochester (Summer, 2025)"
 description: "Extended Field School for Emerging Education Researchers. Welcomes new and returning PEER participants from anywhere in the world."
-leadname: "Mary Bridget Kustusch"
+leadname: "Eleanor Sayre"
 location: "Rochester, NY"
 host: "Rochester Institute of Technology" 
 image: "RIT.jpg"
@@ -36,15 +36,33 @@ Field school dates<br> July 7-11, 2025
 ::: {.bi .bi-pencil-square style="font-size: 70px"}
 :::
 
-Applications due May 15!
+Application are closed.
 :::
 :::
 <br>
 PEER enhances the professional growth of participants and changes career trajectories. Our comprehensive professional development covers project design, management, mentoring, communication, and understanding community values. This 'full stack' of activities builds your research abilities. No matter where you are in your education research journey, we'll take you to the next step.
 
-[APPLY NOW](https://rit.az1.qualtrics.com/jfe/form/SV_9FenvpjGzEOIVtc){.btn role="button" .btn-primary .rounded-pill}
-
 Can't make this one? There are [more](../index.qmd).
+
+# Schedule overview
+
+```{=HTML}
+<body>
+  <iframe id="fs-schedule" src="" width="100%" height="600px" frameborder="0"></iframe>
+  <!-- Dynamically set the school name variable -->
+  <script>
+    // Define the school name variable
+    // THIS MUST BE THE SAME AS THE GOOGLE SHEETS PAGE NAME
+    var schoolName = "Rochester 2025"; // Change this to the desired school name
+
+    // Encode the school name to make it URL-safe
+    var encodedSchoolName = encodeURIComponent(schoolName);
+
+    // Set the src of the iframe with the dynamically generated school name
+    document.querySelector("#fs-schedule").src = "../../updated-schedule-pull.html?school=" + encodedSchoolName;
+  </script>
+</body>
+```
 
 # Who Should Attend?
 
@@ -71,11 +89,8 @@ Our support includes guiding participants in writing, a key element of academic 
 
 ### Application and Registration
 
-Applying to a field school is free; accepted applicants will pay to register upon confirming their participation in a field school. For applications received before April 15, registration costs will be \$600. For applications received after April 15 and before May 15, registration costs will be \$750. To apply after May 15, please contact Eleanor Sayre (esayre@gmail.com) for options. It is expected that you will participate for the full field school; partial participation is not allowed.
+Applying to a field school is free; accepted applicants will pay to register upon confirming their participation in a field school. For applications received before April 15, registration costs will be \$600. For applications received after April 15 and before May 15, registration costs will be \$750. It is expected that you will participate for the full field school; partial participation is not allowed.
 
 * Registration includes lunch, coffee & snacks, optional breakfast, and a parking pass (if needed).
 * For those attending from outside of Rochester, we are negotiating housing in RIT dorm suites (typically $450-500 for the duration of the field school), although participants are free to choose other local accommodations.
 * Scholarships are available and can be requested through this application.
-
-[APPLY NOW](https://rit.az1.qualtrics.com/jfe/form/SV_9FenvpjGzEOIVtc){.btn role="button" .btn-primary .rounded-pill}
-
