@@ -8,7 +8,7 @@ host: "University of San Diego"
 image: "usd-logo.png"
 date: "06/16/2025"
 dates: "June 16-18, 2025"
-timing: "upcoming"
+timing: "past"
 
 # Settings for template, do not change.
 toc-location: left
