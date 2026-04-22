@@ -54,7 +54,7 @@ May 11-14, 2026
 
 PEER enhances the professional growth of participants and changes career trajectories.  Our comprehensive professional development covers project design, management, mentoring, communication, and understanding community values. This 'full stack' of activities builds your research abilities.  No matter where you are in your education research journey, we'll take you to the next step. 
 
-# Schedule Overview
+## Schedule Overview
   
 ```{=HTML}
 <body>
@@ -77,9 +77,9 @@ PEER enhances the professional growth of participants and changes career traject
 
 To build a supportive community, participants must actively engage during all sessions in the field school.  Partial attendance is not permitted. 
 
-See more schedule details on the [syllabus](syllabus.qmd)
+<!-- See more schedule details on the [syllabus](syllabus.qmd) -->
 
-# Who Should Attend?
+## Who Should Attend?
  
 PEER targets a broad diversity of experience and interest in discipline-based education research (DBER). The workshop is appropriate for:
 
@@ -91,7 +91,7 @@ PEER targets a broad diversity of experience and interest in discipline-based ed
 This field school is centered on building regional capacity and community.  We welcome all applicants who work or reside within a three-hour radius of State College; applicants outside of this radius should make a strong case for their current or future ties to the DBER community in this geographic area. 
 
 
-# What do we do?
+## What do we do?
 
 ### PEER builds core competencies in education research
 
@@ -107,11 +107,11 @@ PEER promotes peer feedback and community foundation, providing a sense of inclu
     
 
 
-# Application and Registration
+<!-- # Application and Registration -->
 
 
 
-## Facilitators
+## Facilitator
 :::::: {.quarto-listing .quarto-listing-container-grid}
 ::::: {.list .grid .quarto-listing-cols-5}
 
@@ -124,7 +124,7 @@ PEER promotes peer feedback and community foundation, providing a sense of inclu
 
 
 ## Sponsors
-:::::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-2}
+::::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-2}
 
 
 ::::{.g-col-1}

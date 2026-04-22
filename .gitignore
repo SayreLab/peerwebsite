@@ -57,3 +57,5 @@ notes.txt
 
 /_freeze
 /.luarc.json
+
+**/*.quarto_ipynb
