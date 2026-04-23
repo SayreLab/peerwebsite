@@ -1,13 +1,13 @@
 ---
 # Field school information
-title: "PEER-Fort Collins (Spring, 2026)"
-description: "Local field school for Colorado State University - Fort Collins"
+title: "PEER-Rutgers (Summer, 2026)"
+description: "Local field school for Rutgers University"
 leadname: "Eleanor Sayre"
-location: "Fort Collins, CO"
-host: "CSU-Fort Collins"
-image: "csu-fc.png"
-date: "5/17/2026"
-dates: "May 17-20, 2026"
+location: "New Brunswick, NJ"
+host: "Rutgers University"
+image: "rutgers.png"
+date: "6/1/2026"
+dates: "June 1-4, 2026"
 timing: "upcoming"
 
 # Settings for template, do not change.
@@ -25,8 +25,8 @@ date-format: "MMM D, YYYY"
 :::{.bi .bi-geo-alt-fill style="font-size: 70px"}
 
 :::
-Colorado State University<br>
-Fort Collins, CO
+Rutgers University<br>
+New Brunswick, NJ
 :::
 
 
@@ -36,7 +36,7 @@ Fort Collins, CO
 
 :::
 Field school dates<br>
-May 17-20, 2026
+June 1-4, 2026
 :::
 
 
@@ -56,7 +56,7 @@ Can't make this one? There are [more](../index.qmd).
   <script>
     // Define the school name variable
     // THIS MUST BE THE SAME AS THE GOOGLE SHEETS PAGE NAME
-    var schoolName = "Fort Collins 2026"; // Change this to the desired school name
+    var schoolName = "Rutgers 2026"; // Change this to the desired school name
 
     // Encode the school name to make it URL-safe
     var encodedSchoolName = encodeURIComponent(schoolName);
@@ -110,6 +110,6 @@ PEER promotes peer feedback and community foundation, providing a sense of inclu
 
 ![Eleanor Sayre, Lead Facilitator](/images/headshots/Sayre-headshot.jpg){fig-alt="" .rounded-pill width=80%}
 
-![Emily Cilli-Turner](/images/headshots/Cilli-Turner-headshot.jpeg){fig-alt="" .rounded-pill width=80%}
+![Myrtle Jones](/images/headshots/Jones-headshot.jpeg){fig-alt="" .rounded-pill width=80%}
 
 :::
