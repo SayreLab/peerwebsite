@@ -11,34 +11,28 @@ suppress: true
 
 {{< include /_prefix.qmd >}}
 
-<!-- Welcome to PEER! -->
-::: {.column-screen .quarto-listing .quarto-listing-container-grid }
-::: {.list .grid .quarto-listing-cols-2 .bg-info-light}
-::: {.g-col-1 style="padding-left:10px;"}
+:::{.column-page  layout="[2,5,2]" style="padding-bottom:20px"}
 
-# The PEER Model
-
+:::{.first-column}
 :::
 
-::: {.g-col-1 style="padding-right:10px;"}
+:::{.second-column}
 
-## What is PEER?
+## The PEER Model
 
 At PEER Field Schools, you'll delve into research project development and best practices, engage with like-minded professionals, and gain invaluable insights into the world of educational research. Our expert facilitators will guide you through hands-on activities and collaborative discussions, helping you shape your project and engage your passion. 
 
-PEER will boost your education research skills and push your project forward!
-
+**PEER will boost your education research skills and push your project forward!**
 :::
 
+:::{.third-column}
 :::
 
+
 :::
-<!-- END -->
-
-
 :::{.column-screen .bg-info style=";padding:10px;padding-top:20px;"}
 
-## We believe research is:
+## At PEER, research is:
 
 
 :::{.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-4}
@@ -93,7 +87,7 @@ People do research together, in communities
 :::
 :::
 
-::: {.column-screen .quarto-listing .quarto-listing-container-grid }
+::: {.column-page .quarto-listing .quarto-listing-container-grid }
 ::: {.list .grid .quarto-listing-cols-2 style="margin-top: 20px;height:500px;"}
 ::: {.g-col-1 style="padding-left:10px;"}
 
@@ -119,34 +113,12 @@ PEER participants come from a wide range of science backgrounds and professions.
 "I cannot overstate how much I appreciated the focus on the real applications. The theory of research is important, but the focus on doing was truly empowering."
 
 :::
-
+:::
+:::
 :::
 
-:::
 
-:::
-
-::: {.column-screen .quarto-listing .quarto-listing-container-grid }
-::: {.list .grid .quarto-listing-cols-2 .bg-info-light style="padding:10px;padding-top:20px;margin-top:20px;"}
-::: {.g-col-1}
-
-## Is PEER for you?
-
-Our collaborators and hosts at the University of Cologne made a promotional video for their [PEER field school](/events/2024-koln).
-
-:::
-
-::: {.g-col-1 style="padding-right:10px;"}
-
-{{< video https://youtu.be/wYVePjWPDoc >}}
-
-:::
-
-:::
-
-:::
-
-:::{.column-screen .bg-info style="padding:10px;"}
+:::{.column-page .bg-info style="padding:10px;"}
 
 ## What does PEER look like?
 
@@ -189,9 +161,30 @@ Encapsulating your project, developing an elevator pitch, reading research liter
 :::
 :::
 
-&nbsp;  
 
-::: {.column-screen .quarto-listing .quarto-listing-container-grid }
+::: {.column-page .quarto-listing .quarto-listing-container-grid }
+::: {.list .grid .quarto-listing-cols-2 .bg-info-light style="padding:10px;padding-top:20px;margin-top:20px;"}
+::: {.g-col-1}
+
+## Is PEER for you?
+
+Our collaborators and hosts at the University of Cologne made a promotional video for their [PEER field school](/events/2024-koln).
+
+:::
+
+::: {.g-col-1 style="padding-right:10px;"}
+
+{{< video https://youtu.be/wYVePjWPDoc >}}
+
+:::
+
+:::
+
+:::
+
+ 
+
+::: {.column-page .quarto-listing .quarto-listing-container-grid }
 ::: {.list .grid .quarto-listing-cols-2 style="margin-top: 20px;height:500px;"}
 ::: {.g-col-1 style="padding-left:10px;"}
 
