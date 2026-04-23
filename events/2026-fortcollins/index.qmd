@@ -8,7 +8,7 @@ host: "CSU-Fort Collins"
 image: "csu-fc.png"
 date: "5/17/2026"
 dates: "May 17-20, 2026"
-timing: "future"
+timing: "upcoming"
 
 # Settings for template, do not change.
 toc-location: left
@@ -47,7 +47,7 @@ PEER enhances the professional growth of participants and changes career traject
 
 Can't make this one? There are [more](../index.qmd). 
 
-# Schedule overview
+## Schedule overview
 
 ```{=HTML}
 <body>
@@ -67,7 +67,7 @@ Can't make this one? There are [more](../index.qmd).
 </body>
 ```
 
-# Who Should Attend?
+## Who Should Attend?
  
 PEER targets a broad diversity of experience and interest in discipline-based education research (DBER). The workshop is appropriate for:
 
@@ -79,7 +79,7 @@ PEER targets a broad diversity of experience and interest in discipline-based ed
 <!-- This field school is centered on building regional capacity and community.  We welcome all applicants who work or reside within a three-hour radius of San Diego; applicants outside of this radius should make a strong case for their current or future ties to the DBER community in this geographic area.  -->
 
 
-# What do we do?
+## What do we do?
 
 ### PEER builds core competencies in education research
 
@@ -103,3 +103,13 @@ PEER promotes peer feedback and community foundation, providing a sense of inclu
 <!--   + Biology/environmental science educators or those looking to do interdisciplinary education research in biology or biology-adjacent disciplines -->
 <!--   + 2-year faculty and/or 4-year faculty looking to build collaboration with 2-year institutions -->
 <!--   + Faculty at San Diego local institutions -->
+
+## Facilitators
+
+:::{layout-ncol=3 .text-center}
+
+![Eleanor Sayre, Lead Facilitator](/images/headshots/Sayre-headshot.jpg){fig-alt="" .rounded-pill width=80%}
+
+![Myrtle Jones](/images/headshots/Jones-headshot.jpeg){fig-alt="" .rounded-pill width=80%}
+
+:::

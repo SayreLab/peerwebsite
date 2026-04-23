@@ -5,50 +5,61 @@ toc: false
 suppress: true
 ---
 
-# Get involved with PEER
+## Get involved with PEER
 
-## I'm an education researcher, and I want to get involved!
+::::{layout="[1,1,1,1]" .text-center}
+
+::::{.first-column}
+:::{.bi-mortarboard-fill style="font-size: 85px" .text-primary}
+:::
+
+:::{participate-button}
+[Join a Field School](events/index.qmd){.btn role="button" .btn-primary .rounded-pill .text-center}
+:::
+
+The best way to experience PEER is to [join](events/index.qmd) an existing Field School or workshop.
+::::
 
 
-:::::: {.quarto-listing .quarto-listing-container-grid}
-::::: {.list .grid .quarto-listing-cols-3}
-
-::::{.g-col-1 .text-center}
-:::{.bi .bi-people-fill style="font-size: 85px"}
-
+::::{.second-column}
+:::{.bi-people-fill style="font-size: 85px" .text-primary}
 :::
 
 :::{hosting-button}
-[BRING PEER TO YOU](model/localhost.qmd){.btn role="button" .btn-primary .rounded-pill .text-center}
+[Bring PEER to you](model/localhost.qmd){.btn role="button" .btn-primary .rounded-pill .text-center}
 :::
+
+[Hosting](model/localhost.qmd) a workshop or field school is a great way to build your local community and capacity for education research.
+
 ::::
 
-::::{.g-col-1 .text-center}
-:::{.bi .bi-globe style="font-size: 85px"}
-
+::::{.third-column}
+:::{.bi-globe style="font-size: 85px" .text-primary}
 :::
 
 :::{become-facilitator-button}
-[BECOME A FACILITATOR](https://www.zaposa.com/contact){.btn role="button" .btn-primary .rounded-pill .text-center}
+[Become a facilitator](https://www.zaposa.com/contact){.btn role="button" .btn-primary .rounded-pill .text-center}
 :::
 
-Contact [Eleanor Sayre](https://www.zaposa.com/contact) for more details
-
+Former participants can ask to become trained as facilitators.  Contact [Eleanor Sayre](https://www.zaposa.com/contact) for details.
 ::::
 
-::::{.g-col-1 .text-center}
-:::{.bi .bi-graph-up style="font-size: 85px"}
+::::{.fourth-column}
+:::{.bi-graph-up style="font-size: 85px" .text-primary}
 
 :::
 
 :::{research-button}
-[DO RESEARCH WITH US](https://www.zaposa.com/research/){.btn role="button" .btn-primary .rounded-pill .text-center}
+[Do research with us](https://zaposa.com/projects/archive/peer-research){.btn role="button" .btn-primary .rounded-pill .text-center}
 :::
+
+Perhaps we could collaborate to research the [PEER model and impacts](https://zaposa.com/projects/archive/peer-research).
+
 ::::
 :::::
-::::::
 
-## I want to join the mailing list!
+
+### I want to join the mailing list!
 
 ```{=HTML}
 <div id="iframeContainer">
@@ -92,57 +103,65 @@ Contact [Eleanor Sayre](https://www.zaposa.com/contact) for more details
 
 ```
 
-## Can I host a field school?
+## PEER team
 
-Yes! Check out the [opportunities for hosting](model/localhost.qmd)!
+### Leadership
 
-## Who runs PEER?
+::::{layout-ncol=3 .text-center}
 
-:::::: {.quarto-listing .quarto-listing-container-grid}
-::::: {.list .grid .quarto-listing-cols-3}
-
-::::{.g-col-1 .text-left style="max-width:300px"}
-
-:::{.text-center}
-
-[![](/images/headshots/Franklin-headshot.jpg)]{fig-alt="Scott V Franklin"}
+:::{.first-column}
+[![](/images/headshots/Franklin-headshot.jpg){fig-alt="Scott V Franklin" style="border-radius:50%;width:70%" fig-align="center"}](mailto:svfsps@rit.edu)
 
 ### [Scott V Franklin](mailto:svfsps@rit.edu)
+  
+  Professor, School of Physics and Astronomy, Rochester Institute of Technology
 :::
 
-* Rochester Institute of Technology
-* Director, CASTLE
-* Professor, School of Physics and Astronomy
-
-::::
-
-::::{.g-col-1 .text-left style="max-width:300px"}
-
-:::{.text-center}
-
-[![](/images/headshots/Kustusch-headshot.jpg)]{fig-alt="Mary Bridget Kustusch" width="100%"}
+:::{.second-column}
+[![](/images/headshots/Kustusch-headshot.jpg){fig-alt="Mary Bridget Kustusch" style="border-radius:50%;width:70%" fig-align="center"}](mailto:mkustus1@depaul.edu)
 
 ### [Mary Bridget Kustusch](mailto:mkustus1@depaul.edu)
+
+Associate Professor, Department of Physics and Astrophysics, DePaul University
+
 :::
 
-* DePaul University
-* Associate Professor
-* Department of Physics and Astrophysics
-
-::::
-
-::::{.g-col-1 .text-left style="max-width:300px"}
-
-:::{.text-center}
-
-[![](/images/headshots/Sayre-headshot.jpg)]{fig-alt="Eleanor C Sayre" width="100%"}
+:::{.third-column}
+[![](/images/headshots/Sayre-headshot.jpg){fig-alt="Eleanor C Sayre" style="border-radius:50%;width:70%" fig-align="center"}](https://zaposa.com/contact)
 
 ### [Eleanor C Sayre](https://zaposa.com/contact)
+
+Zaposa, LLC
+
 :::
-
-* Kansas State University
-* Professor, Department of Physics
-
 ::::
-:::::
-::::::
+
+
+### Facilitators
+
+:::{layout-ncol=5 .text-center}
+
+
+![Eric Brewe](/images/headshots/brewe-headshot.jpg){fig-alt="" .rounded-pill width=80%}
+
+![Emily Cilli-Turner](/images/headshots/Cilli-Turner-headshot.jpeg){fig-alt="" .rounded-pill width=80%}
+
+![Jordan Gerton](/images/headshots/Gerton-headshot.jpeg){fig-alt="" .rounded-pill width=80%}
+
+![Chris Hass](/images/headshots/Hass-headshot.jpg){fig-alt="" .rounded-pill width=80%}
+
+![Myrtle Jones](/images/headshots/Jones-headshot.jpeg){fig-alt="" .rounded-pill width=80%}
+
+![Melinda Lanius](/images/headshots/Lanius-headshot.jpg){fig-alt="" .rounded-pill width=80%}
+
+![Stanley Lo](/images/headshots/Lo-headshot.jpg){fig-alt="" .rounded-pill width=80%}
+
+![Chris Rasmussen](/images/headshots/Rasmussen-headshot.jpg){fig-alt="" .rounded-pill width=80%}
+
+![Rachel Scherr](/images/headshots/Scherr-headshot.jpg){fig-alt="" .rounded-pill width=80%}
+
+![Erin Scott-Stewart](/images/headshots/Scott-Stewart-headshot.jpg){fig-alt="" .rounded-pill width=80%}
+
+![Christian Solorio](/images/headshots/Solorio-headshot.jpg){fig-alt="" .rounded-pill width=80%}
+
+:::

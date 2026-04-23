@@ -8,7 +8,7 @@ host: "North Carolina State University"
 image: "ncsu.png"
 date: "5/11/2026"
 dates: "May 11-14, 2026" # textual date range of the field school, for display purposes.
-timing: "future"
+timing: "upcoming"
 
 # Settings for template, do not change.
 toc-location: left
