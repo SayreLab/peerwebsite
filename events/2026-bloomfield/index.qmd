@@ -56,7 +56,7 @@ Can't make this one? There are [more](../index.qmd).
   <script>
     // Define the school name variable
     // THIS MUST BE THE SAME AS THE GOOGLE SHEETS PAGE NAME
-    var schoolName = "Blooomfield 2026"; // Change this to the desired school name
+    var schoolName = "Bloomfield 2026"; // Change this to the desired school name
 
     // Encode the school name to make it URL-safe
     var encodedSchoolName = encodeURIComponent(schoolName);
