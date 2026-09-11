@@ -13,21 +13,21 @@ timing: "workshop"
 ---
 
 <!--# Uncomment the one you want to see -->
-{{< include _form.qmd >}}
-<!--# {{< include _closed.qmd >}} -->
+<!-- {{< include _form.qmd >}} -->
+ {{< include _closed.qmd >}}
 
 
-## Sponsors
-::::: {.quarto-listing .quarto-listing-container-grid}
-:::: {.list .grid .quarto-listing-cols-2}
+<!-- ## Sponsors -->
+<!-- ::::: {.quarto-listing .quarto-listing-container-grid} -->
+<!-- :::: {.list .grid .quarto-listing-cols-2} -->
 
 
-:::{.g-col-1 .text-center}
-![](../../images/foreign-logos/NSF-logo.png){fig-alt="National Science Foundation" width="200px"}
-:::
+<!-- :::{.g-col-1 .text-center} -->
+<!-- ![](../../images/foreign-logos/NSF-logo.png){fig-alt="National Science Foundation" width="200px"} -->
+<!-- ::: -->
 
-:::{.g-col-1 .text-left}
-This virtual gateway workshop is made possible by the National Science Foundation. Views expressed in the workshop do not reflect the opinions of the NSF.
-:::
-::::
-:::::
+<!-- :::{.g-col-1 .text-left} -->
+<!-- This virtual gateway workshop is made possible by the National Science Foundation. Views expressed in the workshop do not reflect the opinions of the NSF. -->
+<!-- ::: -->
+<!-- :::: -->
+<!-- ::::: -->

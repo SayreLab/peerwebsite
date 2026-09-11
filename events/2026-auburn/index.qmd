@@ -8,7 +8,7 @@ host: "Auburn University"
 image: "auburn.png"
 date: "6/15/2026"
 dates: "June 15-18, 2026"
-timing: "upcoming"
+timing: "past"
 
 # Settings for template, do not change.
 toc-location: left

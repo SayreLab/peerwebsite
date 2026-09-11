@@ -5,7 +5,9 @@ leadname: "Eleanor Sayre"
 location: "Virtual on zoom"
 host: "PEER Institute"
 image: "/images/peer-wide.png"
-timing: "workshop"
+#timing: "workshop"
+
+
 
 # Change this each time
 date: "4/10/2025"
@@ -14,6 +16,7 @@ hours: "4:00 - 5:30pm EST" #textual timing for the workshop
 
 # Prior virtual gateways
 priordates: 
+  - "April 10, 2025"
   - "March 11, 2024"
   - "December 5, 2023"
   - "March 23, 2023"

@@ -8,6 +8,7 @@ title-block-banner: "images/rainbow.jpg"
 page-layout: article
 toc: false
 suppress: true
+timing: "workshop"
 ---
 
 ## Welcome back to PEER!
@@ -22,7 +23,7 @@ Hundreds of people throughout the world have participated in PEER since its begi
 
 :::
 ::: {style="font-size: 150%;"}
-November 21, 2024
+November 12, 2026
 
 2-4 eastern time
 :::
@@ -55,7 +56,7 @@ Returning PEER participants only.
 
 :::
 
-Join us November 21st from 2-4 PM EST on Zoom for check-ins with past PEER participants, updates from the PEER Directors, and community building with a large network of education researchers. This event is open to former PEER participants only.
+Join us November 12th from 2-4 PM EST on Zoom for check-ins with past PEER participants, updates from the PEER Directors, and community building with a large network of education researchers. This event is open to former PEER participants only.
 
 ## Tentative Agenda
 

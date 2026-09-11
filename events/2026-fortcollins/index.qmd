@@ -8,7 +8,7 @@ host: "CSU-Fort Collins"
 image: "csu-fc.png"
 date: "5/17/2026"
 dates: "May 17-20, 2026"
-timing: "upcoming"
+timing: "past"
 
 # Settings for template, do not change.
 toc-location: left

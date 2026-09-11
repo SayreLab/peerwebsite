@@ -1,4 +1,4 @@
-# Registration is closed. 
+## Registration is closed. 
 
 {{< include /_prefix.qmd >}}
 

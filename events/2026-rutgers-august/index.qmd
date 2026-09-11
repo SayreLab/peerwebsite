@@ -1,13 +1,13 @@
 ---
 # Field school information
-title: "PEER-Rutgers (Summer, 2026)"
+title: "PEER-Rutgers (August, 2026)"
 description: "Local field school for Rutgers University"
 leadname: "Eleanor Sayre"
 location: "New Brunswick, NJ"
 host: "Rutgers University"
 image: "rutgers.png"
-date: "6/1/2026"
-dates: "June 1-4, 2026"
+date: "8/1/2026"
+dates: "August 19-21, 2026"
 timing: "past"
 
 # Settings for template, do not change.
@@ -16,7 +16,7 @@ date-format: "MMM D, YYYY"
 
 ---
 
-## Join PEER for a 4-day, intensive, in-person PEER Field School!
+## Join PEER for a 3-day, intensive, in-person PEER Field School!
 
 ::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-2 .bg-info}
 
@@ -56,7 +56,7 @@ Can't make this one? There are [more](../index.qmd).
   <script>
     // Define the school name variable
     // THIS MUST BE THE SAME AS THE GOOGLE SHEETS PAGE NAME
-    var schoolName = "Rutgers 2026"; // Change this to the desired school name
+    var schoolName = "RutgersAugust 2026"; // Change this to the desired school name
 
     // Encode the school name to make it URL-safe
     var encodedSchoolName = encodeURIComponent(schoolName);
@@ -109,7 +109,5 @@ PEER promotes peer feedback and community foundation, providing a sense of inclu
 :::{layout-ncol=3 .text-center}
 
 ![Eleanor Sayre, Lead Facilitator](/images/headshots/Sayre-headshot.jpg){fig-alt="" .rounded-pill width=80%}
-
-![Myrtle Jones](/images/headshots/Jones-headshot.jpeg){fig-alt="" .rounded-pill width=80%}
 
 :::
