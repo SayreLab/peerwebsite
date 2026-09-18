@@ -1,7 +1,7 @@
 ---
 # Field school information
 title: "PEER-CSU-San Marcos (Winter, 2027)"
-description: "Regional field school for the California State University System in San Marcos, CA"
+description: "Regional field school for the southern California region in San Marcos, CA"
 leadname: "Eleanor Sayre"
 location: "San Marcos, CA"
 host: "CSU-San Marcos"
@@ -17,6 +17,14 @@ date-format: "MMM D, YYYY"
 ---
 
 ## Join PEER for a 4-day, intensive, in-person PEER Field School!
+
+The Professional development for Emerging Education Researchers (PEER) Institute supports scholars as they become education researchers and expand their research expertise. PEER focuses on Discipline-based Education Research, advancing both scholarship and teaching goals that are valued at all types of academic institutions.
+
+At PEER, you will learn fundamental and applied research skills in a supportive and participatory research environment.
+
+You will delve into research project development and best practices, engage with like-minded professionals, and gain invaluable insights into the world of educational research. Our expert facilitators will guide you through hands-on activities and collaborative discussions, helping you shape your project and engage your passion.
+
+
 
 ::: {.quarto-listing .quarto-listing-container-grid .list .grid .quarto-listing-cols-2 .bg-info}
 
@@ -78,9 +86,6 @@ PEER targets a broad diversity of experience and interest in discipline-based ed
 
 This field school is centered on building regional capacity and community.  We especially welcome all applicants who work for the CSU system or reside within a three-hour radius of San Marcos, CA.
 
-<--! ; applicants outside of this radius should make a strong case for their current or future ties to the DBER community in this geographic area.  -->
-
-
 ## What do we do?
 
 ### PEER builds core competencies in education research
@@ -95,6 +100,45 @@ PEER promotes peer feedback and community foundation, providing a sense of inclu
 
  Our support includes guiding participants in writing, a key element of academic research. PEER engagement leads to numerous publications, grant proposals, and successful tenure & promotion portfolios.  These publications span several years, suggesting PEER's lasting impact on participants’ professional trajectories.
 
+### PEER has Results
+
+:::{}
+
+::: {.quarto-listing .quarto-listing-container-grid}
+::: {.list .grid .quarto-listing-cols-3 style="padding: 10px 10px 0px 20px;"}
+::: {.g-col-1 .bg-info-light-gradient .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 10px 10px 30px; --bs-bg-opacity: .5;"}
+
+[{{< iconify mdi:graph-line >}} 500+ Participants]{style="font-size: 24pt; font-weight: bold;"}
+
+Hundreds of faculty, instructors, graduate students, and independent scholars from all over the world have participated in PEER Field Schools.
+
+:::
+
+::: {.g-col-1 .bg-info-light-gradient .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 10px 10px 30px; --bs-bg-opacity: .5;"}
+
+[{{< iconify mdi:graph-line >}} 130+ Papers Published]{style="font-size: 24pt; font-weight: bold;"}
+
+Since participating in PEER, many participants have gone on to publish peer-reviewed papers amounting to over 130 since PEER started
+
+:::
+
+::: {.g-col-1 .bg-info-light-gradient .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 10px 10px 30px; --bs-bg-opacity: .5;"}
+
+[{{< iconify mdi:graph-line >}} Over $16M in Grants]{style="font-size: 24pt; font-weight: bold;"}
+
+24 NSF grants with a PEER participant as a PI or Co-PI have been awarded, amounting to over $16M
+
+:::
+
+:::
+
+:::
+
+
+
+:::
+
+
 <!-- # Application and Registration -->
 
 <!-- Applying to a field school is free; accepted applicants will pay to register upon confirming their participation in a field school. For applications received before April 15, registration costs will be \$275. For applications received after April 15 and before May 15, registration costs will be \$325. It is expected that you will participate for the full field school; partial participation is not allowed. -->
@@ -106,10 +150,18 @@ PEER promotes peer feedback and community foundation, providing a sense of inclu
 <!--   + 2-year faculty and/or 4-year faculty looking to build collaboration with 2-year institutions -->
 <!--   + Faculty at San Diego local institutions -->
 
-<!-- ## Facilitators -->
+## Facilitators
 
-<!-- :::{layout-ncol=3 .text-center} -->
+:::{layout-ncol=3 .text-center}
 
-<!-- ![Eleanor Sayre, Lead Facilitator](/images/headshots/Sayre-headshot.jpg){fig-alt="" .rounded-pill width=80%} -->
+![Eleanor Sayre, Lead Facilitator](/images/headshots/Sayre-headshot.jpg){fig-alt="" .rounded-pill width=80%}
 
-<!-- ::: -->
+Dr. Sayre co-directs the [Professional development for Emerging Education Researchers (PEER) Institute](https://peerinstitute.org/).  She as over 100 peer-reviewed publications in discipline-based education [research](/projects/index.qmd).  She is a [Fellow](https://www.aps.org/funding-recognition/aps-fellowship?q=sayre&t=Topical%20Group%20on%20Physics%20Education%20Research%20Fellowship&y=2025&af=true) of the [American Physical Society](https://www.aps.org/). She wrote [Research: A Practical Handbook](https://handbook.zaposa.com/) to support emerging researchers and their advisors with practical, friendly advice and exercises.  Dr. Sayre is passionate about increasing access to the research enterprise to members of historically excluded groups, and building more just and equitable university communities.  Recently, she was a Program Director for the [Division of Undergraduate Education](https://www.nsf.gov/div/index.jsp?div=DUE) at the National Science Foundation [(NSF)](https://www.nsf.gov/).  
+
+:::
+
+
+
+## Hosts
+
+Co-sponsored by the CSU-San Marcos [Center for Research and Engagement in STEM Education](https://www.csusm.edu/crese/index.html) and the CSU-San Marcos [Office of Graduate Studies and Research](https://www.csusm.edu/gsr/index.html)

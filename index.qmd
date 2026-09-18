@@ -62,7 +62,7 @@ Check out the [PEER Model](model/) to learn more.
 
 PEER helps faculty, postdocs, graduate students, and independent scholars get started in eduation research. For many participants, PEER is their first research project in education. Other participants are stretching into a new theory or methodology, or re-engaging with research after a hiatus. Everyone has expertise to contribute, and everyone has skills to learn and refine.
 
-PEER participants love the collaborative community in PEER field schools. Many continue on after taking the program, doing research together, submitting papers for peer reviewed publication, or supporting each other through accountability groups.
+PEER participants love the collaborative community in PEER field schools. Many continue on after taking the program, doing research together, submitting papers for peer reviewed publication, or supporting each other through accountability groups.  
 
 :::
 
@@ -173,7 +173,7 @@ Wherever you're at, we'll help you take your research to the next level.
 ::: {.list .grid .quarto-listing-cols-3 style="padding: 10px 10px 0px 20px;"}
 ::: {.g-col-1 .bg-info-light-gradient .text-black style="border-radius: 40px 5px 5px 5px; padding:10px 10px 10px 30px; --bs-bg-opacity: .5;"}
 
-[{{< iconify mdi:graph-line >}} 300+ Participants]{style="font-size: 24pt; font-weight: bold;"}
+[{{< iconify mdi:graph-line >}} 500+ Participants]{style="font-size: 24pt; font-weight: bold;"}
 
 Hundreds of faculty, instructors, graduate students, and independent scholars from all over the world have participated in PEER Field Schools.
 
