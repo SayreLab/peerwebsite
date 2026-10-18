@@ -2,6 +2,14 @@ project:
   type: website
 
 website:
+  announcement: 
+    icon: mortarboard-fill
+    dismissable: true
+    content: "**Welcome back!** Registrations for the [2026 PEER Convening](/events/convening-meeting) are now open to returning participants!"
+    type: success
+    position: below-navbar
+
+
   page-navigation: true
   back-to-top-navigation: true
   title: "PEER Institute"
